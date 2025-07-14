@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kakao Map Test</title>
+</head>
+<body>
+    <div id="map" style="width:500px;height:400px;"></div>
+    
+    <script type="text/javascript" src="https://dapi.kakao.com/v2/maps/sdk.js?appkey=aaa8e2d31d0492266d2ff2e09b6ab804"></script>
+    <script>
+        console.log('Script loaded');
+        console.log('window.kakao:', window.kakao);
+        
+        if (window.kakao && window.kakao.maps) {
+            console.log('Kakao maps available');
+            
+            var container = document.getElementById('map');
+            var options = {
+                center: new kakao.maps.LatLng(37.5665, 126.9780),
+                level: 3
+            };
+            var map = new kakao.maps.Map(container, options);
+            console.log('Map created successfully');
+        } else {
+            console.error('Kakao maps not available');
+        }
+    </script>
+</body>
+</html>

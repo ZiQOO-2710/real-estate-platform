@@ -1,0 +1,1002 @@
+[
+  {
+    "name": "라온빌(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.490438,
+    "longitude": 127.036289,
+    "price": null,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "다사랑빌(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.493865,
+    "longitude": 127.034071,
+    "price": null,
+    "construction_year": 2012,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "광평하우스빌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.491566,
+    "longitude": 127.035787,
+    "price": null,
+    "construction_year": 1997,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "토미하우스(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.511675,
+    "longitude": 127.026371,
+    "price": null,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "더케이(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.518058,
+    "longitude": 127.039142,
+    "price": null,
+    "construction_year": 2012,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "꿈꾸지오(697-23)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.506274,
+    "longitude": 127.044981,
+    "price": null,
+    "construction_year": 2016,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "진흥펠리체(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.508478,
+    "longitude": 127.031283,
+    "price": null,
+    "construction_year": 2015,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "청담대우멤버스카운티XII",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.52656,
+    "longitude": 127.050995,
+    "price": null,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "신성빌리지",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.487213,
+    "longitude": 127.044538,
+    "price": null,
+    "construction_year": 1995,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "비스킷(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.487463,
+    "longitude": 127.03503,
+    "price": null,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "로덴하우스이스트빌리지",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485699,
+    "longitude": 127.046774,
+    "price": null,
+    "construction_year": 2009,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "양재테크노2차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.482434,
+    "longitude": 127.041874,
+    "price": null,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동연빌(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.489016,
+    "longitude": 127.040218,
+    "price": null,
+    "construction_year": 2001,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "S-타워(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.503447,
+    "longitude": 127.065572,
+    "price": null,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "신동아",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.51024,
+    "longitude": 127.034088,
+    "price": 350000,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "도곡상지카일룸",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.487887,
+    "longitude": 127.043927,
+    "price": null,
+    "construction_year": 2018,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "노블스위트",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.496174,
+    "longitude": 127.037311,
+    "price": null,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "한영그린빌(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.52948,
+    "longitude": 127.07617,
+    "price": null,
+    "construction_year": 2015,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "스위트캐슬",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.516456,
+    "longitude": 127.028498,
+    "price": null,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "도곡스타빌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.484133,
+    "longitude": 127.042565,
+    "price": null,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "우성",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.507577,
+    "longitude": 127.028082,
+    "price": null,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "아미헌(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.506289,
+    "longitude": 127.041575,
+    "price": null,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "네스빌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.498271,
+    "longitude": 127.040064,
+    "price": null,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "플래티늄",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.498557,
+    "longitude": 127.042336,
+    "price": null,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "역삼르비앙",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.49185,
+    "longitude": 127.035286,
+    "price": 152000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "더헤리움(B동)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.523647,
+    "longitude": 127.052529,
+    "price": 77500,
+    "construction_year": 2017,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "서초가람",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485093,
+    "longitude": 127.024501,
+    "price": null,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "역삼골든베리힐",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.504756,
+    "longitude": 127.035617,
+    "price": null,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "상지리츠빌역삼2차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.496752,
+    "longitude": 127.04643,
+    "price": null,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "베르사이유",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.499391,
+    "longitude": 127.039588,
+    "price": 186000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "LH삼성(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.515499,
+    "longitude": 127.064002,
+    "price": null,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "현대빌라트",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.511985,
+    "longitude": 127.051564,
+    "price": 250000,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성팰리스(71-16)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.514396,
+    "longitude": 127.053343,
+    "price": null,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "서초에지앙",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.494931,
+    "longitude": 127.020929,
+    "price": null,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "도곡월드메르디앙(973)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.488616,
+    "longitude": 127.039762,
+    "price": null,
+    "construction_year": 2023,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "현대넥서스(261-7)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.511845,
+    "longitude": 127.036533,
+    "price": 360000,
+    "construction_year": 2000,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "현대타운",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.480568,
+    "longitude": 127.039592,
+    "price": null,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성벽산블루밍",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.517343,
+    "longitude": 127.052299,
+    "price": 190000,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "강변삼부",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.517125,
+    "longitude": 127.06565,
+    "price": 255000,
+    "construction_year": 2000,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "파로스타워(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.505352,
+    "longitude": 127.078853,
+    "price": null,
+    "construction_year": 2020,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "이움",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50924,
+    "longitude": 127.034123,
+    "price": null,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "에버그린(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.482932,
+    "longitude": 127.061271,
+    "price": null,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "울트라멤버스",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.487689,
+    "longitude": 127.046658,
+    "price": 220000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동화(민간임대,도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.510668,
+    "longitude": 127.023389,
+    "price": null,
+    "construction_year": 2012,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "헤스티아",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.523364,
+    "longitude": 127.052335,
+    "price": null,
+    "construction_year": 2012,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동광팰리스(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.519331,
+    "longitude": 127.038519,
+    "price": 47500,
+    "construction_year": 2016,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성대성유니드",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50865,
+    "longitude": 127.05402,
+    "price": 174500,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성지웰팰리스(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.511477,
+    "longitude": 127.048867,
+    "price": 170000,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "세방",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.517465,
+    "longitude": 127.052863,
+    "price": null,
+    "construction_year": 1998,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "세호시티라이프(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.510475,
+    "longitude": 127.024334,
+    "price": 49500,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "새티스(1435-2)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.484694,
+    "longitude": 127.024082,
+    "price": 129500,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "아나하(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.514213,
+    "longitude": 127.036847,
+    "price": 287000,
+    "construction_year": 2020,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "세영팔레스",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50085,
+    "longitude": 127.06214,
+    "price": 240000,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성웰피아",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50847,
+    "longitude": 127.053655,
+    "price": null,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "청담대우유로카운티",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.523597,
+    "longitude": 127.050059,
+    "price": 345000,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "논현e-편한세상",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.506748,
+    "longitude": 127.029156,
+    "price": 157500,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "서초벽산블루밍",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.48587,
+    "longitude": 127.02574,
+    "price": 190000,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "논현한화꿈에그린",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50705,
+    "longitude": 127.030837,
+    "price": 129500,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "명인갤러리1차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.498613,
+    "longitude": 127.042584,
+    "price": 642500,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성현대1차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.519085,
+    "longitude": 127.054935,
+    "price": null,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "상지리츠빌6차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.527753,
+    "longitude": 127.050368,
+    "price": 330000,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동구싼타빌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.515189,
+    "longitude": 127.062326,
+    "price": 150000,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "도곡조이너스",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.487154,
+    "longitude": 127.035075,
+    "price": null,
+    "construction_year": 2008,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "토미빌(228-9)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.508967,
+    "longitude": 127.033855,
+    "price": 197500,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "도곡스테이77(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485157,
+    "longitude": 127.034931,
+    "price": null,
+    "construction_year": 2020,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "논현한가람",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.51872,
+    "longitude": 127.03742,
+    "price": 180000,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "아카데미스위트(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.488828,
+    "longitude": 127.051585,
+    "price": 259750,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼환SOGOOD(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.497556,
+    "longitude": 127.055682,
+    "price": null,
+    "construction_year": 2006,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "리더스빌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.508253,
+    "longitude": 127.032484,
+    "price": null,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성라테라스",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.515549,
+    "longitude": 127.065772,
+    "price": 690000,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동원스위트뷰역삼",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.496877,
+    "longitude": 127.037138,
+    "price": 135000,
+    "construction_year": 2017,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "동원베네스트",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485282,
+    "longitude": 127.026641,
+    "price": null,
+    "construction_year": 2002,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "쌍용플래티넘(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.512403,
+    "longitude": 127.051932,
+    "price": 300000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "노블테라스",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.511859,
+    "longitude": 127.044812,
+    "price": 360000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "한라비발디스튜디오193(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485768,
+    "longitude": 127.032051,
+    "price": 36900,
+    "construction_year": 2013,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성미켈란107(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.514726,
+    "longitude": 127.060793,
+    "price": 210000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "아시아선수촌",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.507849,
+    "longitude": 127.076641,
+    "price": 625000,
+    "construction_year": 1986,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "N168(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.513061,
+    "longitude": 127.029552,
+    "price": null,
+    "construction_year": 2021,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "쌍용",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.519716,
+    "longitude": 127.038185,
+    "price": 139500,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "푸른솔",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.517843,
+    "longitude": 127.046105,
+    "price": 146500,
+    "construction_year": 1996,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.488551,
+    "longitude": 127.046667,
+    "price": 325000,
+    "construction_year": 1994,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "역삼자이",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.500719,
+    "longitude": 127.04443,
+    "price": 390000,
+    "construction_year": 2016,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "래미안삼성2차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.515991,
+    "longitude": 127.043301,
+    "price": 492000,
+    "construction_year": 2007,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성대우멤버스카운티5차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.512844,
+    "longitude": 127.044042,
+    "price": 320000,
+    "construction_year": 2005,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "브라운스톤레전드(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.515451,
+    "longitude": 127.042289,
+    "price": 650000,
+    "construction_year": 2009,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "진흥",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.519107,
+    "longitude": 127.053193,
+    "price": 584500,
+    "construction_year": 1984,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "라디안",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.513091,
+    "longitude": 127.02252,
+    "price": 130000,
+    "construction_year": 2004,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "현대",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485942,
+    "longitude": 127.023523,
+    "price": 245000,
+    "construction_year": 1989,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "대치풍림아이원1차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.501695,
+    "longitude": 127.054872,
+    "price": 210000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "브라이튼N40",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.514362,
+    "longitude": 127.026587,
+    "price": 739800,
+    "construction_year": 2022,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "역삼예명",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.50499,
+    "longitude": 127.03842,
+    "price": 83000,
+    "construction_year": 2001,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "루시아도산208(도시형)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.519658,
+    "longitude": 127.029458,
+    "price": 135000,
+    "construction_year": 2023,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "대치쌍용2차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.499721,
+    "longitude": 127.070685,
+    "price": 430000,
+    "construction_year": 1983,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "현대3차",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.488014,
+    "longitude": 127.061354,
+    "price": 390000,
+    "construction_year": 1986,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성월드타워",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.517457,
+    "longitude": 127.044062,
+    "price": 168500,
+    "construction_year": 1997,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "극동스타클래스(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.485197,
+    "longitude": 127.036016,
+    "price": 192500,
+    "construction_year": 2007,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "삼성포스코더샵(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.513084,
+    "longitude": 127.054932,
+    "price": 450000,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "진넥스빌2(주상복합)",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.501779,
+    "longitude": 127.044005,
+    "price": 20250,
+    "construction_year": 2003,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "개포주공7단지",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.489561,
+    "longitude": 127.072416,
+    "price": 358500,
+    "construction_year": 1983,
+    "address": "서울 강남구"
+  },
+  {
+    "name": "대림역삼",
+    "city": "서울",
+    "gu": "강남구",
+    "latitude": 37.49632,
+    "longitude": 127.04647,
+    "price": 219500,
+    "construction_year": 1997,
+    "address": "서울 강남구"
+  }
+]
