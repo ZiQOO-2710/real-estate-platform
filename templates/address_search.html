@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>소재지번 기반 아파트 실거래가 검색</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        
+        .container {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 15px 35px rgba(0, 0, 0, 0.1);
+            width: 100%;
+            max-width: 600px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+        
+        .header h1 {
+            color: #333;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        
+        .header p {
+            color: #666;
+            font-size: 16px;
+        }
+        
+        .form-group {
+            margin-bottom: 25px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 600;
+            color: #333;
+            font-size: 16px;
+        }
+        
+        .form-group input,
+        .form-group select {
+            width: 100%;
+            padding: 15px;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            font-size: 16px;
+            transition: border-color 0.3s ease;
+        }
+        
+        .form-group input:focus,
+        .form-group select:focus {
+            outline: none;
+            border-color: #667eea;
+        }
+        
+        .radius-options {
+            display: flex;
+            gap: 15px;
+            margin-top: 10px;
+        }
+        
+        .radius-option {
+            flex: 1;
+            text-align: center;
+        }
+        
+        .radius-option input[type="radio"] {
+            display: none;
+        }
+        
+        .radius-option label {
+            display: block;
+            padding: 12px;
+            background: #f8f9fa;
+            border: 2px solid #e1e5e9;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-weight: 500;
+        }
+        
+        .radius-option input[type="radio"]:checked + label {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        
+        .radius-option label:hover {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+        
+        .search-btn {
+            width: 100%;
+            padding: 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            border-radius: 10px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: transform 0.2s ease;
+        }
+        
+        .search-btn:hover {
+            transform: translateY(-2px);
+        }
+        
+        .search-btn:active {
+            transform: translateY(0);
+        }
+        
+        .example {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .example h3 {
+            color: #333;
+            margin-bottom: 10px;
+            font-size: 16px;
+        }
+        
+        .example-list {
+            color: #666;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+        
+        .flash-messages {
+            margin-bottom: 20px;
+        }
+        
+        .flash-message {
+            padding: 12px 16px;
+            border-radius: 8px;
+            margin-bottom: 10px;
+        }
+        
+        .flash-message.error {
+            background: #ffe6e6;
+            color: #d63384;
+            border: 1px solid #f8a2aa;
+        }
+        
+        .flash-message.warning {
+            background: #fff3cd;
+            color: #856404;
+            border: 1px solid #ffeaa7;
+        }
+        
+        .stats-preview {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 10px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        
+        .stats-preview h3 {
+            color: #333;
+            margin-bottom: 15px;
+        }
+        
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+        }
+        
+        .stat-item {
+            background: white;
+            padding: 15px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        
+        .stat-value {
+            font-size: 24px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            color: #666;
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏠 아파트 실거래가 검색</h1>
+            <p>소재지번을 입력하여 반경 내 아파트 단지 실거래가를 확인하세요</p>
+        </div>
+        
+        <!-- 플래시 메시지 -->
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message {{ category }}">
+                            {{ message }}
+                        </div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+        
+        <form method="POST" action="/search">
+            <div class="form-group">
+                <label for="address">📍 소재지번</label>
+                <input type="text" 
+                       id="address" 
+                       name="address" 
+                       placeholder="예: 서울특별시 강남구 삼성동, 부산광역시 해운대구 우동"
+                       required>
+            </div>
+            
+            <div class="form-group">
+                <label>🔍 검색 반경</label>
+                <div class="radius-options">
+                    <div class="radius-option">
+                        <input type="radio" id="radius1" name="radius" value="1" checked>
+                        <label for="radius1">1km</label>
+                    </div>
+                    <div class="radius-option">
+                        <input type="radio" id="radius3" name="radius" value="3">
+                        <label for="radius3">3km</label>
+                    </div>
+                    <div class="radius-option">
+                        <input type="radio" id="radius5" name="radius" value="5">
+                        <label for="radius5">5km</label>
+                    </div>
+                </div>
+            </div>
+            
+            <button type="submit" class="search-btn">
+                🔍 아파트 검색하기
+            </button>
+        </form>
+        
+        <div class="example">
+            <h3>💡 검색 예시</h3>
+            <div class="example-list">
+                • 도로명주소: 서울특별시 강남구 테헤란로 152<br>
+                • 지번주소: 서울특별시 강남구 삼성동 159-1<br>
+                • 동 단위: 부산광역시 해운대구 우동<br>
+                • 건물명: 롯데월드타워
+            </div>
+        </div>
+        
+        <div class="stats-preview">
+            <h3>📊 현재 수집된 데이터</h3>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value" id="total-apartments">-</div>
+                    <div class="stat-label">수집된 아파트 단지</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="total-regions">-</div>
+                    <div class="stat-label">수집된 지역</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="last-update">실시간</div>
+                    <div class="stat-label">데이터 업데이트</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // 페이지 로드 시 데이터베이스 통계 조회
+        window.addEventListener('DOMContentLoaded', function() {
+            // 실제 구현에서는 API 호출로 통계 데이터를 가져올 수 있습니다
+            updateStats();
+        });
+        
+        function updateStats() {
+            // 예시 통계 (실제로는 서버에서 가져와야 함)
+            document.getElementById('total-apartments').textContent = '600+';
+            document.getElementById('total-regions').textContent = '15+';
+        }
+        
+        // 폼 검증
+        document.querySelector('form').addEventListener('submit', function(e) {
+            const address = document.getElementById('address').value.trim();
+            if (!address) {
+                e.preventDefault();
+                alert('소재지번을 입력해주세요.');
+                return false;
+            }
+        });
+    </script>
+</body>
+</html>

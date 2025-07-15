@@ -1,0 +1,41 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tasklist:*)",
+      "Bash(wmic process where \"name='code.exe'\" get ProcessId,Name,CommandLine:*)",
+      "Bash(code:*)",
+      "Bash(claude --version)",
+      "Bash(where claude)",
+      "Bash(echo $PATH)",
+      "Bash(powershell:*)",
+      "Bash(cat:*)",
+      "Bash(cmd /c:*)",
+      "Bash(node:*)",
+      "Bash(ls:*)",
+      "Bash(export CLAUDE_CODE_GIT_BASH_PATH=\"/c/Program Files/Git/bin/bash.exe\")",
+      "Bash(winpty cmd.exe:*)",
+      "Bash(where code)",
+      "Bash(where cursor)",
+      "Bash(where windsurf)",
+      "Bash(claude /ide)",
+      "Bash(dir:*)",
+      "Bash(sqlite3:*)",
+      "Bash(python:*)",
+      "Bash(start /B python:*)",
+      "Bash(timeout 30 python nationwide_dong_crawler.py)",
+      "Bash(pip install:*)",
+      "Bash(timeout 30 python apartment_search_by_address.py)",
+      "Bash(set KAKAO_REST_API_KEY=4d78bb8b1fb1d5946de3db02cff0b4cc)",
+      "Bash(timeout 10 python apartment_search_by_address.py)",
+      "Bash(curl:*)",
+      "Bash(find:*)",
+      "Bash(grep:*)",
+      "Bash(timeout 60 python ultimate_crawler.py)",
+      "Bash(timeout:*)",
+      "Bash(git add:*)",
+      "Bash(del nul)",
+      "Bash(rm:*)"
+    ],
+    "deny": []
+  }
+}

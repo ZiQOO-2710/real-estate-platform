@@ -18,8 +18,10 @@ from datetime import datetime
 from typing import List, Dict, Optional, Tuple
 from urllib.parse import urlencode
 import logging
+import sys
+import os
 
-# 로깅 설정
+# 로깅 설정 (먼저 설정)
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(levelname)s - %(message)s',
@@ -30,11 +32,26 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
+# VPN 매니저 import를 위한 경로 추가
+sys.path.append(os.path.join(os.path.dirname(__file__), 'modules', 'naver-crawler'))
+
+try:
+    from utils.vpn_manager import VPNManager, ensure_safe_connection, handle_ip_blocked
+    VPN_AVAILABLE = True
+    logger.info("✅ VPN 백업 시스템 사용 가능")
+except ImportError as e:
+    VPN_AVAILABLE = False
+    logger.warning(f"⚠️ VPN 매니저 import 실패: {e}")
+    logger.warning("⚠️ VPN 없이 진행합니다")
+
 class NationwideDongCrawler:
     def __init__(self, db_path="real_estate_crawling.db"):
         self.db_path = db_path
         self.base_url = "https://new.land.naver.com/api/complexes/single-markers/2.0"
         self.session = None
+        self.vpn_manager = VPNManager() if VPN_AVAILABLE else None
+        self.blocked_count = 0  # 차단 횟수 추적
+        self.max_blocked_attempts = 3  # 최대 차단 허용 횟수
         self.init_database()
         
     def init_database(self):
@@ -123,7 +140,31 @@ class NationwideDongCrawler:
         logger.info("✅ 새로운 상세 데이터베이스 구조 초기화 완료")
 
     async def init_session(self):
-        """HTTP 세션 초기화"""
+        """HTTP 세션 초기화 + VPN 연결 확인"""
+        # VPN 백업 시스템으로 안전한 연결 보장
+        if VPN_AVAILABLE and self.vpn_manager:
+            try:
+                logger.info("🔍 VPN 백업 시스템으로 안전한 연결 확인 중...")
+                success, ip, vpn_type = await ensure_safe_connection()
+                
+                if success:
+                    logger.info(f"✅ {vpn_type} 연결 성공 - IP: {ip}")
+                    self.current_vpn = vpn_type
+                    self.current_ip = ip
+                else:
+                    logger.warning("⚠️ VPN 연결 실패, 일반 연결로 진행")
+                    self.current_vpn = "None"
+                    self.current_ip = "Unknown"
+            except Exception as e:
+                logger.error(f"❌ VPN 시스템 오류: {e}")
+                logger.warning("⚠️ VPN 없이 진행합니다")
+                self.current_vpn = "None"
+                self.current_ip = "Unknown"
+        else:
+            logger.info("ℹ️ VPN 시스템 없이 진행")
+            self.current_vpn = "None"
+            self.current_ip = "Unknown"
+        
         headers = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
             'Accept': 'application/json, text/plain, */*',
@@ -381,7 +422,7 @@ class NationwideDongCrawler:
             url = f"{self.base_url}?{urlencode(params)}"
             logger.info(f"🔍 API 호출: {city} {gu} {dong} {trade_type}")
             
-            # API 호출
+            # API 호출 + 차단 감지 및 VPN 전환
             async with self.session.get(url) as response:
                 if response.status == 200:
                     data = await response.json()
@@ -400,16 +441,55 @@ class NationwideDongCrawler:
                         conn.commit()
                         conn.close()
                         
+                        # 성공 시 차단 카운트 리셋
+                        self.blocked_count = 0
                         logger.info(f"✅ {city} {gu} {dong} {trade_type}: {count}개 수집")
                         return count
                     else:
                         logger.warning(f"⚠️ {city} {gu} {dong} {trade_type}: 예상과 다른 응답")
                         return 0
+                        
+                elif response.status in [403, 429, 503]:  # 차단 의심 상태 코드
+                    logger.warning(f"🚨 {city} {gu} {dong} {trade_type}: 차단 의심 HTTP {response.status}")
+                    
+                    # VPN 전환 시도
+                    if VPN_AVAILABLE and self.vpn_manager:
+                        success = await self.handle_blocking_detection(f"HTTP {response.status}")
+                        if success:
+                            logger.info("🔄 VPN 전환 후 재시도")
+                            # 재시도 로직은 상위 함수에서 처리하도록 Exception 발생
+                            raise Exception(f"VPN_SWITCH_RETRY_{response.status}")
+                    
+                    return 0
                 else:
                     logger.warning(f"⚠️ {city} {gu} {dong} {trade_type}: HTTP {response.status}")
                     return 0
                     
         except Exception as e:
+            error_message = str(e)
+            
+            # VPN 전환 재시도인 경우
+            if "VPN_SWITCH_RETRY" in error_message:
+                logger.info(f"🔄 VPN 전환 후 {city} {gu} {dong} {trade_type} 재시도")
+                
+                # 재시도 딜레이
+                await asyncio.sleep(random.uniform(5, 10))
+                
+                # 재귀 호출로 재시도 (최대 3회)
+                if hasattr(self, '_retry_count'):
+                    self._retry_count += 1
+                else:
+                    self._retry_count = 1
+                    
+                if self._retry_count <= 3:
+                    logger.info(f"📡 재시도 {self._retry_count}/3: {city} {gu} {dong} {trade_type}")
+                    result = await self.crawl_dong_trade_type(city, gu, dong, region_code, trade_type)
+                    self._retry_count = 0  # 성공 시 카운트 리셋
+                    return result
+                else:
+                    logger.error(f"❌ 최대 재시도 횟수 초과: {city} {gu} {dong} {trade_type}")
+                    self._retry_count = 0
+            
             # 실패 기록
             conn = sqlite3.connect(self.db_path)
             cursor = conn.cursor()
@@ -417,11 +497,11 @@ class NationwideDongCrawler:
                 UPDATE crawling_progress
                 SET status = ?, error_message = ?, crawl_end_time = ?
                 WHERE id = ?
-            """, ('failed', str(e), datetime.now(), progress_id))
+            """, ('failed', error_message, datetime.now(), progress_id))
             conn.commit()
             conn.close()
             
-            logger.error(f"❌ {city} {gu} {dong} {trade_type}: {e}")
+            logger.error(f"❌ {city} {gu} {dong} {trade_type}: {error_message}")
             return 0
 
     def save_apartments(self, apartments_data: List[Dict], city: str, gu: str, dong: str, trade_type: str) -> int:
@@ -553,6 +633,64 @@ class NationwideDongCrawler:
         
         return saved_count
 
+    async def handle_blocking_detection(self, content: str = "") -> bool:
+        """차단 감지 시 VPN 전환 처리"""
+        if not VPN_AVAILABLE or not self.vpn_manager:
+            logger.warning("⚠️ VPN 시스템을 사용할 수 없어 차단 대응 불가")
+            return False
+            
+        try:
+            self.blocked_count += 1
+            logger.warning(f"🚨 차단 감지 ({self.blocked_count}/{self.max_blocked_attempts}): {content}")
+            
+            # 최대 차단 횟수 초과 시 중단
+            if self.blocked_count >= self.max_blocked_attempts:
+                logger.error(f"❌ 최대 차단 횟수 초과. 크롤링 중단")
+                return False
+                
+            # VPN 전환 시도
+            logger.info("🔄 VPN 전환 시도 중...")
+            success, new_ip, new_vpn_type = await handle_ip_blocked(content)
+            
+            if success:
+                logger.info(f"✅ VPN 전환 성공: {self.current_vpn} → {new_vpn_type} (IP: {new_ip})")
+                self.current_vpn = new_vpn_type
+                self.current_ip = new_ip
+                
+                # 세션 재생성
+                if self.session:
+                    await self.session.close()
+                    await asyncio.sleep(2)
+                
+                # 새 세션 초기화 (헤더 만 새로 설정)
+                headers = {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+                    'Accept': 'application/json, text/plain, */*',
+                    'Accept-Language': 'ko-KR,ko;q=0.9,en;q=0.8',
+                    'Referer': 'https://new.land.naver.com/',
+                    'Origin': 'https://new.land.naver.com',
+                    'Accept-Encoding': 'gzip, deflate, br',
+                    'Connection': 'keep-alive',
+                    'Sec-Fetch-Dest': 'empty',
+                    'Sec-Fetch-Mode': 'cors',
+                    'Sec-Fetch-Site': 'same-origin',
+                    'Cache-Control': 'no-cache',
+                    'Pragma': 'no-cache'
+                }
+                
+                timeout = aiohttp.ClientTimeout(total=60)
+                self.session = aiohttp.ClientSession(headers=headers, timeout=timeout)
+                
+                logger.info("✅ 새 세션으로 준비 완료")
+                return True
+            else:
+                logger.error(f"❌ VPN 전환 실패: {new_ip}")
+                return False
+                
+        except Exception as e:
+            logger.error(f"❌ VPN 전환 오류: {e}")
+            return False
+
     def extract_construction_year(self, year_month: str) -> Optional[int]:
         """건축년월에서 년도 추출"""
         if not year_month:
@@ -569,6 +707,12 @@ class NationwideDongCrawler:
         logger.info("🚀 전국 동단위 크롤링 시작!")
         
         await self.init_session()
+        
+        # 현재 VPN 상태 로깅
+        if hasattr(self, 'current_vpn') and hasattr(self, 'current_ip'):
+            logger.info(f"🔍 현재 연결 상태: {self.current_vpn} (IP: {self.current_ip})")
+        else:
+            logger.info("🔍 연결 상태: 일반 인터넷 연결")
         
         try:
             regions = self.get_nationwide_regions()
@@ -589,17 +733,19 @@ class NationwideDongCrawler:
                             count = await self.crawl_dong_trade_type(city, gu, dong, region_code, trade_type)
                             dong_count += count
                             
-                            # 거래 타입 간 딜레이
+                            # 거래 타입 간 딜레이 + VPN 상태 표시
                             delay = random.uniform(8, 12)
-                            logger.info(f"⏳ 다음 거래 타입까지 {delay:.1f}초 대기...")
+                            vpn_status = f"[{self.current_vpn}]" if hasattr(self, 'current_vpn') and self.current_vpn != "None" else ""
+                            logger.info(f"⏳ {vpn_status} 다음 거래 타입까지 {delay:.1f}초 대기...")
                             await asyncio.sleep(delay)
                         
                         total_count += dong_count
                         logger.info(f"🎯 {city} {gu} {dong} 완료: {dong_count}개 아파트")
                         
-                        # 동 간 딜레이
+                        # 동 간 딜레이 + VPN 상태 표시
                         delay = random.uniform(15, 25)
-                        logger.info(f"⏳ 다음 동까지 {delay:.1f}초 대기...")
+                        vpn_status = f"[{self.current_vpn}]" if hasattr(self, 'current_vpn') and self.current_vpn != "None" else ""
+                        logger.info(f"⏳ {vpn_status} 다음 동까지 {delay:.1f}초 대기...")
                         await asyncio.sleep(delay)
                     
                     logger.info(f"✅ {city} {gu} 완료")

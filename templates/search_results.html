@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>아파트 검색 결과 - {{ address }}</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #f8f9fa;
+            color: #333;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 20px 0;
+        }
+        
+        .header-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header h1 {
+            font-size: 24px;
+        }
+        
+        .search-info {
+            text-align: right;
+            font-size: 14px;
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .summary-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .summary-card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        
+        .summary-card h3 {
+            font-size: 16px;
+            color: #666;
+            margin-bottom: 10px;
+        }
+        
+        .summary-card .value {
+            font-size: 28px;
+            font-weight: bold;
+            color: #667eea;
+        }
+        
+        .summary-card .unit {
+            font-size: 14px;
+            color: #888;
+        }
+        
+        .controls {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        
+        .controls-left {
+            display: flex;
+            gap: 15px;
+            align-items: center;
+        }
+        
+        .controls-right {
+            display: flex;
+            gap: 10px;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            text-decoration: none;
+            display: inline-block;
+            transition: all 0.2s ease;
+        }
+        
+        .btn-primary {
+            background: #667eea;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #5a67d8;
+        }
+        
+        .btn-secondary {
+            background: #f8f9fa;
+            color: #333;
+            border: 1px solid #e1e5e9;
+        }
+        
+        .btn-secondary:hover {
+            background: #e9ecef;
+        }
+        
+        .table-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+        
+        .table-header {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            border-bottom: 1px solid #e1e5e9;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .table-wrapper {
+            overflow-x: auto;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #f1f3f4;
+        }
+        
+        th {
+            background: #f8f9fa;
+            font-weight: 600;
+            color: #333;
+            font-size: 14px;
+            position: sticky;
+            top: 0;
+            z-index: 10;
+        }
+        
+        td {
+            font-size: 13px;
+        }
+        
+        .numeric {
+            text-align: right;
+        }
+        
+        .apt-name {
+            font-weight: 600;
+            color: #667eea;
+        }
+        
+        .address {
+            color: #666;
+            font-size: 12px;
+        }
+        
+        .price-high {
+            color: #e74c3c;
+            font-weight: 600;
+        }
+        
+        .price-medium {
+            color: #f39c12;
+            font-weight: 600;
+        }
+        
+        .price-low {
+            color: #27ae60;
+            font-weight: 600;
+        }
+        
+        .distance {
+            background: #667eea;
+            color: white;
+            padding: 4px 8px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: 600;
+        }
+        
+        .trade-types {
+            display: flex;
+            gap: 4px;
+            flex-wrap: wrap;
+        }
+        
+        .trade-type {
+            background: #e9ecef;
+            color: #495057;
+            padding: 2px 6px;
+            border-radius: 8px;
+            font-size: 10px;
+            font-weight: 500;
+        }
+        
+        .no-data {
+            color: #999;
+            font-style: italic;
+        }
+        
+        .row-hover:hover {
+            background: #f8f9fa;
+            cursor: pointer;
+        }
+        
+        .map-container {
+            background: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            margin-top: 30px;
+            overflow: hidden;
+        }
+        
+        .map-header {
+            background: #f8f9fa;
+            padding: 15px 20px;
+            border-bottom: 1px solid #e1e5e9;
+        }
+        
+        #map {
+            width: 100%;
+            height: 400px;
+        }
+        
+        @media (max-width: 768px) {
+            .controls {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            
+            .controls-left,
+            .controls-right {
+                justify-content: center;
+            }
+            
+            .summary-cards {
+                grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            }
+            
+            th, td {
+                padding: 8px 10px;
+                font-size: 12px;
+            }
+        }
+        
+        .sort-btn {
+            background: none;
+            border: none;
+            color: #667eea;
+            cursor: pointer;
+            font-size: 12px;
+            margin-left: 5px;
+        }
+        
+        .sort-btn:hover {
+            color: #5a67d8;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>🏠 아파트 검색 결과</h1>
+            <div class="search-info">
+                <div>📍 {{ address }}</div>
+                <div>🔍 반경 {{ radius }}km</div>
+                <div>📊 {{ total_count }}개 단지</div>
+            </div>
+        </div>
+    </div>
+    
+    <div class="container">
+        <!-- 요약 통계 -->
+        <div class="summary-cards">
+            <div class="summary-card">
+                <h3>총 아파트 단지</h3>
+                <div class="value">{{ total_count }}</div>
+                <div class="unit">개</div>
+            </div>
+            
+            {% if stats.price_stats %}
+            <div class="summary-card">
+                <h3>매매 평균 가격</h3>
+                <div class="value">{{ "%.1f"|format(stats.price_stats.deal_avg / 10000) }}</div>
+                <div class="unit">억원</div>
+            </div>
+            {% endif %}
+            
+            {% if stats.area_stats %}
+            <div class="summary-card">
+                <h3>평균 면적</h3>
+                <div class="value">{{ "%.0f"|format(stats.area_stats.avg_area) }}</div>
+                <div class="unit">㎡</div>
+            </div>
+            {% endif %}
+            
+            <div class="summary-card">
+                <h3>평균 거리</h3>
+                <div class="value">{{ "%.0f"|format(stats.avg_distance) }}</div>
+                <div class="unit">m</div>
+            </div>
+        </div>
+        
+        <!-- 컨트롤 패널 -->
+        <div class="controls">
+            <div class="controls-left">
+                <a href="/" class="btn btn-secondary">🔍 새로운 검색</a>
+                <span>총 {{ total_count }}개 아파트 단지</span>
+            </div>
+            <div class="controls-right">
+                <a href="/download" class="btn btn-primary" onclick="showDownloadIndicator()">📥 CSV 다운로드</a>
+                <span id="download-indicator" style="display: none; margin-left: 10px; color: #667eea; font-size: 14px;">
+                    다운로드 중... ⏳
+                </span>
+            </div>
+        </div>
+        
+        <!-- 검색 결과 테이블 -->
+        <div class="table-container">
+            <div class="table-header">
+                <h3>📋 검색 결과</h3>
+                <span>거리순 정렬</span>
+            </div>
+            <div class="table-wrapper">
+                <table id="results-table">
+                    <thead>
+                        <tr>
+                            <th>아파트명</th>
+                            <th>위치</th>
+                            <th class="numeric">건축년도</th>
+                            <th class="numeric">세대수</th>
+                            <th>거래유형</th>
+                            <th class="numeric">매매가격(만원)
+                                <button class="sort-btn" onclick="sortTable(5, 'desc')">▼</button>
+                                <button class="sort-btn" onclick="sortTable(5, 'asc')">▲</button>
+                            </th>
+                            <th class="numeric">전세가격(만원)</th>
+                            <th class="numeric">면적(㎡)</th>
+                            <th class="numeric">거리(m)
+                                <button class="sort-btn" onclick="sortTable(8, 'asc')">▲</button>
+                                <button class="sort-btn" onclick="sortTable(8, 'desc')">▼</button>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for apt in apartments %}
+                        <tr class="row-hover" onclick="highlightMarker({{ apt.위도 }}, {{ apt.경도 }}, '{{ apt.아파트명 }}')">
+                            <td class="apt-name">{{ apt.아파트명 }}</td>
+                            <td>
+                                <div>{{ apt.구 }} {{ apt.동 }}</div>
+                                <div class="address">{{ apt.도로명주소 or '-' }}</div>
+                            </td>
+                            <td class="numeric">{{ apt.건축년도 or '-' }}</td>
+                            <td class="numeric">{{ apt.세대수 or '-' }}</td>
+                            <td>
+                                <div class="trade-types">
+                                    {% if apt.거래유형 %}
+                                        {% set types = apt.거래유형.split(',') %}
+                                        {% for type in types %}
+                                            <span class="trade-type">{{ type.strip() }}</span>
+                                        {% endfor %}
+                                    {% endif %}
+                                </div>
+                            </td>
+                            <td class="numeric">
+                                {% if apt['매매최저가(만원)'] and apt['매매건수'] > 0 %}
+                                    <div class="price-high">{{ "{:,}".format(apt['매매최저가(만원)']) }}</div>
+                                    {% if apt['매매최고가(만원)'] != apt['매매최저가(만원)'] %}
+                                        <div class="price-medium">~ {{ "{:,}".format(apt['매매최고가(만원)']) }}</div>
+                                    {% endif %}
+                                    <div style="font-size: 11px; color: #999;">({{ apt['매매건수'] }}건)</div>
+                                {% else %}
+                                    <span class="no-data">-</span>
+                                {% endif %}
+                            </td>
+                            <td class="numeric">
+                                {% if apt['전세최저가(만원)'] and apt['전세건수'] > 0 %}
+                                    <div class="price-medium">{{ "{:,}".format(apt['전세최저가(만원)']) }}</div>
+                                    {% if apt['전세최고가(만원)'] != apt['전세최저가(만원)'] %}
+                                        <div class="price-low">~ {{ "{:,}".format(apt['전세최고가(만원)']) }}</div>
+                                    {% endif %}
+                                    <div style="font-size: 11px; color: #999;">({{ apt['전세건수'] }}건)</div>
+                                {% else %}
+                                    <span class="no-data">-</span>
+                                {% endif %}
+                            </td>
+                            <td class="numeric">
+                                {% if apt['최소면적(㎡)'] %}
+                                    {{ "%.1f"|format(apt['최소면적(㎡)']) }}
+                                    {% if apt['최대면적(㎡)'] and apt['최대면적(㎡)'] != apt['최소면적(㎡)'] %}
+                                        ~ {{ "%.1f"|format(apt['최대면적(㎡)']) }}
+                                    {% endif %}
+                                {% else %}
+                                    <span class="no-data">-</span>
+                                {% endif %}
+                            </td>
+                            <td class="numeric">
+                                <span class="distance">{{ "{:,}".format(apt['거리(m)']|int) }}m</span>
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        
+        <!-- 지도 -->
+        <div class="map-container">
+            <div class="map-header">
+                <h3>🗺️ 위치 지도</h3>
+            </div>
+            <div id="map"></div>
+        </div>
+    </div>
+    
+    <script type="text/javascript" src="//dapi.kakao.com/v2/maps/sdk.js?appkey=4d78bb8b1fb1d5946de3db02cff0b4cc"></script>
+    <script>
+        // 지도 관련 변수
+        let map;
+        let markers = [];
+        let centerMarker;
+        
+        // 페이지 로드 시 지도 초기화
+        window.addEventListener('DOMContentLoaded', function() {
+            initMap();
+        });
+        
+        function initMap() {
+            const centerLat = {{ center_lat }};
+            const centerLon = {{ center_lon }};
+            
+            // 지도 생성
+            const container = document.getElementById('map');
+            const options = {
+                center: new kakao.maps.LatLng(centerLat, centerLon),
+                level: 5
+            };
+            
+            map = new kakao.maps.Map(container, options);
+            
+            // 중심점 마커 (검색 위치)
+            const centerPosition = new kakao.maps.LatLng(centerLat, centerLon);
+            centerMarker = new kakao.maps.Marker({
+                position: centerPosition,
+                map: map
+            });
+            
+            // 중심점 정보창
+            const centerInfoWindow = new kakao.maps.InfoWindow({
+                content: `<div style="padding:5px;font-size:12px;"><b>🎯 검색 위치</b><br>{{ address }}</div>`
+            });
+            centerInfoWindow.open(map, centerMarker);
+            
+            // 아파트 마커들 추가
+            const apartments = {{ apartments | tojson }};
+            apartments.forEach(function(apt, index) {
+                if (apt.위도 && apt.경도) {
+                    const position = new kakao.maps.LatLng(apt.위도, apt.경도);
+                    const marker = new kakao.maps.Marker({
+                        position: position,
+                        map: map
+                    });
+                    
+                    const infoWindow = new kakao.maps.InfoWindow({
+                        content: `
+                            <div style="padding:10px;font-size:12px;width:200px;">
+                                <b>${apt.아파트명}</b><br>
+                                <span style="color:#666;">${apt.구} ${apt.동}</span><br>
+                                ${apt['매매최저가(만원)'] ? `매매: ${apt['매매최저가(만원)'].toLocaleString()}만원` : ''}<br>
+                                ${apt['전세최저가(만원)'] ? `전세: ${apt['전세최저가(만원)'].toLocaleString()}만원` : ''}<br>
+                                <span style="color:#999;">거리: ${apt['거리(m)']}m</span>
+                            </div>
+                        `
+                    });
+                    
+                    kakao.maps.event.addListener(marker, 'click', function() {
+                        infoWindow.open(map, marker);
+                    });
+                    
+                    markers.push({
+                        marker: marker,
+                        infoWindow: infoWindow,
+                        lat: apt.위도,
+                        lon: apt.경도,
+                        name: apt.아파트명
+                    });
+                }
+            });
+        }
+        
+        function highlightMarker(lat, lon, name) {
+            // 해당 마커 찾기
+            const targetMarker = markers.find(m => m.lat === lat && m.lon === lon && m.name === name);
+            if (targetMarker) {
+                // 지도 중심 이동
+                const position = new kakao.maps.LatLng(lat, lon);
+                map.setCenter(position);
+                
+                // 정보창 열기
+                targetMarker.infoWindow.open(map, targetMarker.marker);
+            }
+        }
+        
+        function sortTable(columnIndex, direction) {
+            const table = document.getElementById('results-table');
+            const tbody = table.getElementsByTagName('tbody')[0];
+            const rows = Array.from(tbody.getElementsByTagName('tr'));
+            
+            rows.sort(function(a, b) {
+                let aVal = a.getElementsByTagName('td')[columnIndex].textContent.trim();
+                let bVal = b.getElementsByTagName('td')[columnIndex].textContent.trim();
+                
+                // 숫자 컬럼 처리
+                if (columnIndex === 5 || columnIndex === 8) {
+                    aVal = parseFloat(aVal.replace(/[^0-9.-]/g, '')) || 0;
+                    bVal = parseFloat(bVal.replace(/[^0-9.-]/g, '')) || 0;
+                    
+                    return direction === 'asc' ? aVal - bVal : bVal - aVal;
+                } else {
+                    return direction === 'asc' ? 
+                        aVal.localeCompare(bVal) : 
+                        bVal.localeCompare(aVal);
+                }
+            });
+            
+            // 정렬된 행들을 다시 tbody에 추가
+            rows.forEach(row => tbody.appendChild(row));
+        }
+        
+        function showDownloadIndicator() {
+            const indicator = document.getElementById('download-indicator');
+            const button = document.querySelector('a[href="/download"]');
+            
+            // 다운로드 인디케이터 표시
+            indicator.style.display = 'inline';
+            button.style.opacity = '0.6';
+            button.style.pointerEvents = 'none';
+            
+            // 3초 후 원래 상태로 복원
+            setTimeout(function() {
+                indicator.style.display = 'none';
+                button.style.opacity = '1';
+                button.style.pointerEvents = 'auto';
+            }, 3000);
+        }
+    </script>
+</body>
+</html>
