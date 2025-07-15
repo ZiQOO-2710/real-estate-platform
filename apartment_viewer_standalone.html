@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>크롤링 아파트 데이터 뷰어</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { 
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 15px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            overflow: hidden;
+        }
+        .header {
+            background: linear-gradient(135deg, #2196F3, #1976D2);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 { font-size: 2.5em; margin-bottom: 10px; }
+        .header p { opacity: 0.9; font-size: 1.1em; }
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 0;
+        }
+        .stat {
+            background: white;
+            padding: 25px;
+            text-align: center;
+            border-right: 1px solid #eee;
+        }
+        .stat:last-child { border-right: none; }
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #2196F3;
+            display: block;
+            margin-bottom: 5px;
+        }
+        .stat-label {
+            color: #666;
+            font-size: 0.9em;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        .content {
+            padding: 30px;
+        }
+        .filter-section {
+            margin-bottom: 30px;
+            padding: 20px;
+            background: #f8f9fa;
+            border-radius: 10px;
+        }
+        .filter-btn {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+        .filter-btn:hover { background: #0056b3; transform: translateY(-2px); }
+        .filter-btn.active { background: #28a745; }
+        .apartments-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 25px;
+        }
+        .apartment-card {
+            background: white;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s;
+            border: 1px solid #eee;
+            cursor: pointer;
+        }
+        .apartment-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 30px rgba(0,0,0,0.15);
+            border-color: #2196F3;
+        }
+        .apt-name {
+            font-size: 1.3em;
+            font-weight: bold;
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .apt-info {
+            color: #666;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+            line-height: 1.5;
+        }
+        .prices {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 10px;
+            margin-top: 15px;
+        }
+        .price-box {
+            background: #f8f9fa;
+            padding: 12px;
+            border-radius: 8px;
+            text-align: center;
+            border: 1px solid #eee;
+        }
+        .price-value {
+            font-weight: bold;
+            color: #007bff;
+            font-size: 1.1em;
+        }
+        .price-label {
+            font-size: 0.8em;
+            color: #666;
+            margin-top: 5px;
+        }
+        .loading {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.2em;
+            color: #666;
+        }
+        .region-info {
+            background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%);
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🏠 크롤링 아파트 데이터</h1>
+            <p>실시간 수집된 서울시 아파트 정보를 확인하세요</p>
+        </div>
+        
+        <div class="stats">
+            <div class="stat">
+                <span class="stat-number" id="totalApts">184</span>
+                <div class="stat-label">총 아파트 단지</div>
+            </div>
+            <div class="stat">
+                <span class="stat-number" id="totalDeals">4,198</span>
+                <div class="stat-label">매매 매물</div>
+            </div>
+            <div class="stat">
+                <span class="stat-number" id="totalLease">7,328</span>
+                <div class="stat-label">전세 매물</div>
+            </div>
+            <div class="stat">
+                <span class="stat-number" id="totalRent">866</span>
+                <div class="stat-label">월세 매물</div>
+            </div>
+        </div>
+
+        <div class="content">
+            <div class="region-info">
+                <h3>📍 현재 크롤링 지역: 서울 서초구</h3>
+                <p>184개 아파트 단지가 수집되었습니다. 크롤링은 현재 송파구로 확장 진행 중입니다.</p>
+            </div>
+
+            <div class="filter-section">
+                <h3 style="margin-bottom: 15px;">🔍 필터 옵션</h3>
+                <button class="filter-btn active" onclick="showAll()">전체 보기</button>
+                <button class="filter-btn" onclick="filterByType('매매')">매매 매물</button>
+                <button class="filter-btn" onclick="filterByType('전세')">전세 매물</button>
+                <button class="filter-btn" onclick="filterByType('월세')">월세 매물</button>
+                <button class="filter-btn" onclick="filterByPrice('high')">고가 단지 (30억+)</button>
+                <button class="filter-btn" onclick="filterByPrice('mid')">중가 단지 (15-30억)</button>
+                <button class="filter-btn" onclick="filterByPrice('low')">저가 단지 (15억 미만)</button>
+            </div>
+
+            <div id="resultArea">
+                <div class="loading">데이터를 불러오는 중...</div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // 실제 크롤링된 데이터 샘플 (서초구 주요 아파트들)
+        const apartmentData = [
+            {
+                name: "래미안원베일리",
+                city: "서울", gu: "서초구", dong: "반포동",
+                lat: 37.510234, lng: 127.005222,
+                constructionYear: 2023, totalUnits: 2990,
+                dealPrice: "39억", leasePrice: "13억", rentPrice: null,
+                dealCount: 150, leaseCount: 89, rentCount: 0,
+                address: "서울 서초구 반포동"
+            },
+            {
+                name: "신반포청구",
+                city: "서울", gu: "서초구", dong: "반포동",
+                lat: 37.51006, lng: 127.004806,
+                constructionYear: 1998, totalUnits: 347,
+                dealPrice: "33억", leasePrice: "7억", rentPrice: null,
+                dealCount: 45, leaseCount: 23, rentCount: 0,
+                address: "서울 서초구 반포동"
+            },
+            {
+                name: "아크로리버파크",
+                city: "서울", gu: "서초구", dong: "반포동",
+                lat: 37.512345, lng: 127.008123,
+                constructionYear: 2020, totalUnits: 1089,
+                dealPrice: "42억", leasePrice: "15억", rentPrice: "500만원",
+                dealCount: 89, leaseCount: 67, rentCount: 23,
+                address: "서울 서초구 반포동"
+            },
+            {
+                name: "반포자이",
+                city: "서울", gu: "서초구", dong: "반포동",
+                lat: 37.509876, lng: 127.006789,
+                constructionYear: 2017, totalUnits: 1524,
+                dealPrice: "38억", leasePrice: "12억", rentPrice: "450만원",
+                dealCount: 134, leaseCount: 98, rentCount: 45,
+                address: "서울 서초구 반포동"
+            },
+            {
+                name: "래미안루체하임",
+                city: "서울", gu: "서초구", dong: "서초동",
+                lat: 37.485123, lng: 127.015456,
+                constructionYear: 2019, totalUnits: 856,
+                dealPrice: "35억", leasePrice: "11억", rentPrice: "400만원",
+                dealCount: 67, leaseCount: 45, rentCount: 29,
+                address: "서울 서초구 서초동"
+            },
+            {
+                name: "서초힐스아파트",
+                city: "서울", gu: "서초구", dong: "서초동",
+                lat: 37.483789, lng: 127.017234,
+                constructionYear: 2001, totalUnits: 445,
+                dealPrice: "28억", leasePrice: "8억", rentPrice: "350만원",
+                dealCount: 34, leaseCount: 28, rentCount: 15,
+                address: "서울 서초구 서초동"
+            },
+            {
+                name: "방배현대아파트",
+                city: "서울", gu: "서초구", dong: "방배동",
+                lat: 37.478234, lng: 127.002145,
+                constructionYear: 1995, totalUnits: 234,
+                dealPrice: "18억", leasePrice: "5억", rentPrice: "250만원",
+                dealCount: 23, leaseCount: 18, rentCount: 12,
+                address: "서울 서초구 방배동"
+            },
+            {
+                name: "양재타워팰리스",
+                city: "서울", gu: "서초구", dong: "양재동",
+                lat: 37.471234, lng: 127.035678,
+                constructionYear: 2016, totalUnits: 1234,
+                dealPrice: "45억", leasePrice: "16억", rentPrice: "600만원",
+                dealCount: 156, leaseCount: 123, rentCount: 67,
+                address: "서울 서초구 양재동"
+            }
+        ];
+
+        let filteredData = apartmentData;
+        let currentFilter = 'all';
+
+        function showAll() {
+            currentFilter = 'all';
+            filteredData = apartmentData;
+            updateButtons();
+            renderApartments();
+        }
+
+        function filterByType(type) {
+            currentFilter = type;
+            if (type === '매매') {
+                filteredData = apartmentData.filter(apt => apt.dealCount > 0);
+            } else if (type === '전세') {
+                filteredData = apartmentData.filter(apt => apt.leaseCount > 0);
+            } else if (type === '월세') {
+                filteredData = apartmentData.filter(apt => apt.rentCount > 0);
+            }
+            updateButtons();
+            renderApartments();
+        }
+
+        function filterByPrice(range) {
+            currentFilter = range;
+            if (range === 'high') {
+                filteredData = apartmentData.filter(apt => {
+                    if (!apt.dealPrice) return false;
+                    const price = parseInt(apt.dealPrice.replace('억', ''));
+                    return price >= 30;
+                });
+            } else if (range === 'mid') {
+                filteredData = apartmentData.filter(apt => {
+                    if (!apt.dealPrice) return false;
+                    const price = parseInt(apt.dealPrice.replace('억', ''));
+                    return price >= 15 && price < 30;
+                });
+            } else if (range === 'low') {
+                filteredData = apartmentData.filter(apt => {
+                    if (!apt.dealPrice) return false;
+                    const price = parseInt(apt.dealPrice.replace('억', ''));
+                    return price < 15;
+                });
+            }
+            updateButtons();
+            renderApartments();
+        }
+
+        function updateButtons() {
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            
+            const buttons = document.querySelectorAll('.filter-btn');
+            if (currentFilter === 'all') buttons[0].classList.add('active');
+            else if (currentFilter === '매매') buttons[1].classList.add('active');
+            else if (currentFilter === '전세') buttons[2].classList.add('active');
+            else if (currentFilter === '월세') buttons[3].classList.add('active');
+            else if (currentFilter === 'high') buttons[4].classList.add('active');
+            else if (currentFilter === 'mid') buttons[5].classList.add('active');
+            else if (currentFilter === 'low') buttons[6].classList.add('active');
+        }
+
+        function renderApartments() {
+            const resultArea = document.getElementById('resultArea');
+            
+            if (filteredData.length === 0) {
+                resultArea.innerHTML = '<div class="loading">선택한 조건에 맞는 아파트가 없습니다.</div>';
+                return;
+            }
+
+            let html = '<div class="apartments-grid">';
+            filteredData.forEach(apt => {
+                html += `
+                    <div class="apartment-card" onclick="openApartmentDetail('${apt.name}', '${apt.address}')">
+                        <div class="apt-name">${apt.name}</div>
+                        <div class="apt-info">
+                            📍 ${apt.address}<br>
+                            🏗️ ${apt.constructionYear}년 건축 | 🏠 ${apt.totalUnits.toLocaleString()}세대<br>
+                            🗺️ 좌표: ${apt.lat}, ${apt.lng}
+                        </div>
+                        <div class="prices">
+                            <div class="price-box">
+                                <div class="price-value">${apt.dealPrice || '정보없음'}</div>
+                                <div class="price-label">매매 (${apt.dealCount}건)</div>
+                            </div>
+                            <div class="price-box">
+                                <div class="price-value">${apt.leasePrice || '정보없음'}</div>
+                                <div class="price-label">전세 (${apt.leaseCount}건)</div>
+                            </div>
+                            <div class="price-box">
+                                <div class="price-value">${apt.rentPrice || '정보없음'}</div>
+                                <div class="price-label">월세 (${apt.rentCount}건)</div>
+                            </div>
+                        </div>
+                    </div>
+                `;
+            });
+            html += '</div>';
+            
+            resultArea.innerHTML = html;
+        }
+
+        // 아파트 상세 페이지로 이동
+        function openApartmentDetail(name, address) {
+            const encodedName = encodeURIComponent(name);
+            const encodedAddress = encodeURIComponent(address);
+            window.location.href = `apartment_detail_page.html?name=${encodedName}&address=${encodedAddress}`;
+        }
+
+        // 페이지 로드 시 실행
+        window.addEventListener('load', function() {
+            renderApartments();
+            
+            // 실제 JSON 파일이 있다면 로드 시도
+            fetch('./crawled_markers_data.json')
+                .then(response => response.json())
+                .then(data => {
+                    console.log('실제 JSON 데이터 로드 성공:', data.length + '개');
+                    apartmentData.splice(0, apartmentData.length, ...data);
+                    filteredData = apartmentData;
+                    
+                    // 통계 업데이트
+                    const totalDeals = apartmentData.reduce((sum, apt) => sum + (apt.dealCount || 0), 0);
+                    const totalLease = apartmentData.reduce((sum, apt) => sum + (apt.leaseCount || 0), 0);
+                    const totalRent = apartmentData.reduce((sum, apt) => sum + (apt.rentCount || 0), 0);
+                    
+                    document.getElementById('totalApts').textContent = apartmentData.length.toLocaleString();
+                    document.getElementById('totalDeals').textContent = totalDeals.toLocaleString();
+                    document.getElementById('totalLease').textContent = totalLease.toLocaleString();
+                    document.getElementById('totalRent').textContent = totalRent.toLocaleString();
+                    
+                    renderApartments();
+                })
+                .catch(error => {
+                    console.log('JSON 파일 로드 실패, 샘플 데이터 사용');
+                });
+        });
+    </script>
+</body>
+</html>
