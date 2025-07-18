@@ -39,7 +39,10 @@
       "Bash(git push:*)",
       "WebFetch(domain:www.data.go.kr)",
       "Bash(taskkill:*)",
-      "Bash(playwright install:*)"
+      "Bash(playwright install:*)",
+      "Bash(watch:*)",
+      "Bash(rg:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }
