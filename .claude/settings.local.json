@@ -42,7 +42,9 @@
       "Bash(playwright install:*)",
       "Bash(watch:*)",
       "Bash(rg:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(mkdir:*)",
+      "Bash(cp:*)"
     ],
     "deny": []
   }
