@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:44:45.416015",
+    "complex_id": "1134"
+  },
+  "basic_info": {
+    "complex_id": "1134",
+    "source_url": "https://new.land.naver.com/complexes/1134",
+    "extracted_at": "2025-07-17T22:44:40.715046",
+    "url": "https://new.land.naver.com/complexes/1134?ms=37.558601,127.161724,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:44:39.426Z",
+    "complexId": "1134"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:40.729Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "엘아트빌(도시형)면적 - ㎡40.08㎡ ~ 58.33㎡단지정보",
+      "price": null,
+      "area": "40.08㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:40.730Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,510만고덕아이파크매매19억15.5억~30억전세-7.5억~14.5억월세-1.2백~2.4백면적114㎡85.07㎡ ~ 215.88㎡매매매물만 보기74개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "19억15",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:40.730Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "7,257만고덕그라시움매매18억16억~60억전세8억6.5억~18억월세1.67백60만~5.5백면적82㎡82.36㎡ ~ 243.52㎡매매매물만 보기910개 매물이 있습니다.전세매물만 보기187개 매물이 있습니다.월세매물만 보기241개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "18억16",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:40.730Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "고덕힐하우스(도시형)면적48.18㎡34.67㎡ ~ 65.33㎡단지정보",
+      "price": null,
+      "area": "48.18㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:40.730Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1134_20250717_224445.png"
+  }
+}

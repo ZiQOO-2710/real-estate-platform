@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:45:46.850415",
+    "complex_id": "1136"
+  },
+  "basic_info": {
+    "complex_id": "1136",
+    "source_url": "https://new.land.naver.com/complexes/1136",
+    "extracted_at": "2025-07-17T22:45:42.372494",
+    "url": "https://new.land.naver.com/complexes/1136?ms=37.488266,126.969396,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:45:41.127Z",
+    "complexId": "1136"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동매매10억아파트107/84m², 15/15층, 남서향탑층 수리됨 조망 최고 입주일 협의 가능",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.385Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동전세5억아파트107/84m², 3/15층, 남서향32  급전세 올수리  빠른이사가능 무융자",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:45:42.385Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동매매11억아파트107/84m², 14/15층, 남서향",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.385Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동매매10억 5,000아파트107/84m², 중/15층, 남서향샤시포함 올수리. 거실확장. 뷰좋음.",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.386Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동전세5억 3,000아파트107/84m², 중/15층, 남서향수리되어깔끔한집 조망최고",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:45:42.386Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인현대(103동) 3동매매10억아파트107/84m², 6/15층, 남서향올수리,전망최고.",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.386Z"
+    },
+    {
+      "index": 63,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인현대(103동) 3동매매10억아파트107/84m², 3/15층, 남서향수리됨 입주일 협의 가능매경부동산 제공윤지공인중개사사무소확인매물 25.07.12.",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.386Z"
+    },
+    {
+      "index": 107,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인현대(103동) 3동매매10억아파트107/84m², 13/15층, 남서향전세안고,부동산써브 제공승지공인중개사사무소확인매물 25.06.25.",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:45:42.387Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1136_20250717_224546.png"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:33:09.541015",
+    "complex_id": "1637"
+  },
+  "basic_info": {
+    "complex_id": "1637",
+    "source_url": "https://new.land.naver.com/complexes/1637",
+    "extracted_at": "2025-07-18T01:33:05.833092",
+    "url": "https://new.land.naver.com/complexes/1637?ms=37.467475,126.863838,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:33:04.724Z",
+    "complexId": "1637"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:05.847Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,491만도덕파크타운매매5.42억3.8억~8.6억전세3.4억2.43억~6억월세1.05백20만~1.3백면적72㎡57.32㎡ ~ 150.27㎡매매매물만 보기308개 매물이 있습니다.전세매물만 보기72개 매물이 있습니다.월세매물만 보기54개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "42억3",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:05.847Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,033만e편한세상센트레빌매매10억8.3억~16억전세6억4.5억~8억월세1.45백40만~2.6백면적109㎡84.65㎡ ~ 176.91㎡매매매물만 보기343개 매물이 있습니다.전세매물만 보기133개 매물이 있습니다.월세매물만 보기49개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "10억8",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:05.847Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,752만광명하안현대1,2단지매매5.3억3.5억~6억전세-2.2억월세-70만면적100㎡69.36㎡ ~ 103.62㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억3",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:05.847Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,895만주공5단지매매4.7억3.5억~7.5억전세2.1억1.7억~4억월세77만50만~1.1백면적82㎡63.6㎡ ~ 105.49㎡매매매물만 보기83개 매물이 있습니다.전세매물만 보기58개 매물이 있습니다.월세매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:05.847Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1637_20250718_013309.png"
+  }
+}

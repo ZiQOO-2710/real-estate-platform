@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:03:20.350129",
+    "complex_id": "1196"
+  },
+  "basic_info": {
+    "complex_id": "1196",
+    "source_url": "https://new.land.naver.com/complexes/1196",
+    "extracted_at": "2025-07-17T23:03:17.765052",
+    "url": "https://new.land.naver.com/complexes/1196?ms=37.501756,127.122425,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:03:16.457Z",
+    "complexId": "1196"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 103동매매14억 8,000아파트108/84m², 저/26층, 남동향부분수리되어 깔끔하고 관리 잘됨 입주 조율가능",
+      "price": "14억 8",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 104동매매16억아파트108/84m², 고/26층, 남서향특올수리   컨디션최상  채광 전망 최고 입주가능",
+      "price": "16억",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 105동매매13억 5,000아파트81/59m², 중/26층, 남동향최고의 조망권과 계단식구조의 로얄동 로얄층.",
+      "price": "13억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 103동매매13억 3,000아파트81/59m², 중/26층, 남동향늦은잔금, 채광좋음, 늦은입주협의. 깔끔함.",
+      "price": "13억 3",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 104동전세6억 5,000아파트108/84m², 고/26층, 남서향전망 채광 좋음 거실 비확장 작은방 확장  반전세가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 104동월세4억 5,000/75아파트108/84m², 고/26층, 남서향전망 채광 좋음 거실비확장 작은방 확장",
+      "price": "4억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "가락쌍용2차 103동매매14억 7,000아파트108/84m², 저/26층, 남동향내부관리잘되어 컨디션우수 채광좋은남향집",
+      "price": "14억 7",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인가락쌍용2차 102동매매13억 5,000아파트81/59m², 저/23층, 남서향주인거주 입주조율가능 채광전망좋음",
+      "price": "13억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:03:17.777Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1196_20250717_230320.png"
+  }
+}

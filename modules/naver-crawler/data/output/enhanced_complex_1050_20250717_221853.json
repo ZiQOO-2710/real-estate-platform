@@ -1,0 +1,68 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:18:53.198294",
+    "complex_id": "1050"
+  },
+  "basic_info": {
+    "complex_id": "1050",
+    "source_url": "https://new.land.naver.com/complexes/1050",
+    "extracted_at": "2025-07-17T22:18:48.344598",
+    "url": "https://new.land.naver.com/complexes/1050?ms=37.485636,126.929936,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:18:46.320Z",
+    "complexId": "1050"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현장태영(주상복합) 1동매매4억 5,000아파트71A/49m², 17/23층, 남향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:48.352Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태영(주상복합) 1동매매5억아파트71A/49m², 고/23층, 남향태영아파트 올수리 완료",
+      "price": "5억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:48.352Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "태영(주상복합) 1동매매4억 5,000아파트60/42m², 고/23층, 서향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:48.353Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "태영(주상복합) 1동매매4억 2,000아파트60/42m², 중/23층, 동향태영아파트 입주가능한 매물 나왔습니다",
+      "price": "4억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:48.353Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 4,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1050_20250717_221853.png"
+  }
+}

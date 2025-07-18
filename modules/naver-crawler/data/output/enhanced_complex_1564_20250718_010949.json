@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:09:49.485616",
+    "complex_id": "1564"
+  },
+  "basic_info": {
+    "complex_id": "1564",
+    "source_url": "https://new.land.naver.com/complexes/1564",
+    "extracted_at": "2025-07-18T01:09:45.879637",
+    "url": "https://new.land.naver.com/complexes/1564?ms=37.630308,126.82511,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:09:42.927Z",
+    "complexId": "1564"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:45.893Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,750만별빛8단지부영매매3.6억3.03억~4.7억전세2.2억1.94억~2.65억월세90만90만~1백면적68㎡68.27㎡ ~ 81.92㎡매매매물만 보기160개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억3",
+      "area": "68㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:45.894Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,826만별빛9단지벽산,코오롱,한일,기산매매5.8억4.5억~6.1억전세3.9억3.6억~4.3억월세1.4백20만~1.4백면적105㎡90.1㎡ ~ 105.88㎡매매매물만 보기123개 매물이 있습니다.전세매물만 보기16개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:45.894Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "스마일하우스(도시형)면적 - ㎡23.28㎡ ~ 57.39㎡단지정보",
+      "price": null,
+      "area": "23.28㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:09:45.894Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "에코하우스(도시형)면적 - ㎡25.86㎡ ~ 44.14㎡단지정보",
+      "price": null,
+      "area": "25.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:09:45.894Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,054만별빛10단지건영매매6.4억5.15억~6.85억전세4.2억4.2억~4.6억월세-1.2백면적103㎡93.62㎡ ~ 103.48㎡매매매물만 보기87개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억5",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:45.894Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1564_20250718_010949.png"
+  }
+}

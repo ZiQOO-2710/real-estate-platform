@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:24:53.956146",
+    "complex_id": "1611"
+  },
+  "basic_info": {
+    "complex_id": "1611",
+    "source_url": "https://new.land.naver.com/complexes/1611",
+    "extracted_at": "2025-07-18T01:24:51.116648",
+    "url": "https://new.land.naver.com/complexes/1611?ms=37.475563,126.872896,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:24:49.856Z",
+    "complexId": "1611"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1206동월세5,000/100아파트82/61m², 3/12층, 서향25 특올수리 신혼부부 살기좋음",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1216동매매9억 5,000아파트80/60m², 10/15층, 남향",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1218동전세2억 7,300아파트71/53m², 2/15층, 남향저렴하고 아주 깨끗함 초역세권",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1203동매매9억아파트82/61m², 10/12층, 서향입주매물,  확장, 탁트인 산조망, 재건축 추진중",
+      "price": "9억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1213동전세3억 5,000아파트91/73m², 1/15층, 남동향수리됨, 남향, 내집앞 정원조망, 아이키우기 좋아요, 초역세권",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1215동매매9억 6,000아파트80/60m², 11/15층, 남향수리됨  로얄동 로얄호수",
+      "price": "9억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1218동매매8억 5,000아파트71/53m², 1/15층, 남향세안고 매매가능함",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1216동전세3억 2,000아파트80/60m², 9/15층, 남향수리됨 ,상태좋음,신혼살기좋은집, 하시",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1205동월세2억 5,000/50아파트110/84m², 4/15층, 남동향올수리, 확장, 편안한조망, 따뜻하고 조용한 남향집",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1211동매매11억아파트91/73m², 4/12층, 남서향27,거실확장형,부분수리,트인전망,입주일협의가능",
+      "price": "11억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1203동매매9억 2,000아파트82/61m², 4/12층, 남서향",
+      "price": "9억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1208동월세1억/120아파트110/84m², 13/15층, 남향33,특올수리,상태양호,하시입주,학군양호",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1210동월세1억/80아파트74/53m², 3/12층, 남서향22,3년전올수리로깨끗하고깔끔,편안하고아늑한느낌,초역세권",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1208동월세1억/110아파트110/84m², 5/15층, 남동향특올수리, 햇살가득한 따뜻한 남향집,  편안한조망",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1207동전세3억 2,000아파트110/84m², 4/15층, 남향상태양호,12월부터입주가능,학군양호",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1207동전세3억 3,000아파트110/84m², 13/15층, 남동향올수리, 상태양호, 넓은평, 탁트인 뷰,8월말경입주",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1204동전세3억 3,500아파트110/84m², 12/15층, 남동향수리된 로얄동 남향매물 현재 공실,도배.장판 해줌",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:51.132Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체71㎡74㎡80㎡82㎡91㎡100㎡103㎡110㎡",
+      "price": null,
+      "area": "71㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:24:51.133Z"
+    },
+    {
+      "index": 62,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인주공12단지 1206동월세5,000/100아파트82/61m², 3/12층, 서향25 특올수리 신혼부부 살기좋음매경부동산 제공온누리 공인중개사사무소확인매물 25.07.17.집주인주공12단지 1216동매매9억 5,000아파트80/60m², 10/15층, 남향매경부동산 제공신덕공인중개사사무소확인매물 25.07.17.집주인주공12단지 1218동전세2억 7,300아파트71/53m², 2/15층, 남향저렴하고 아주 깨끗함 초역세권매경부동산 제공신덕공인중개사사무소확인매물 25.07.17.집주인주공12단지 1203동매매9억아파트82/61m²",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:51.133Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1611_20250718_012453.png"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:41:59.935619",
+    "complex_id": "3901"
+  },
+  "basic_info": {
+    "complex_id": "3901",
+    "source_url": "https://new.land.naver.com/complexes/3901",
+    "extracted_at": "2025-07-17T16:41:54.237127",
+    "url": "https://new.land.naver.com/complexes/3901?ms=37.346436,127.338004,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:41:52.953Z",
+    "complexId": "3901"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 202동월세3,000/120아파트131/114m², 15/18층, 남향싱크대교체, 도배, 최근 엘레베이터 교체, 즉시입주 가능",
+      "price": null,
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:41:54.249Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동매매3억아파트101A/84m², 15/18층, 남향남향으로 햇볕 잘드는집, 초중고 도보 가까운동",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.249Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 205동매매4억 6,000아파트152/134m², 16/20층, 남향올수리 된 깨끗하고 전망 좋은 정남향 집 매매",
+      "price": "4억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 205동전세2억 8,000아파트152/134m², 19/20층, 남향전망좋은 씽크대교체 및 도배장판양호한 아파트로 즉시 입주가능함",
+      "price": "2억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 205동매매4억 6,000아파트152/134m², 고/20층, 남향샤시포함 완전리모델링한 집으로 전망좋고 이사는 협의 이사가능함",
+      "price": "4억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 202동매매3억 4,000아파트131/114m², 15/18층, 남향급매로 현 공실, 8년전 샷시제외 리모델링",
+      "price": "3억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 202동매매3억 1,000아파트131/114m², 1/18층, 남향즉시입주가능 1층으로 층간소음 걱정없이 아이 키울수 있는 세대",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 205동월세3,000/120아파트152/134m², 고/20층, 동향공실 굿전망 엘베교체되어 거주하기 좋으며 보증금 과 월세 조절가능합",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동전세2억 3,000아파트101A/84m², 3/18층, 동향씽크대 욕실 도배 장판등 올수리하는중  라인굿 곤지암초중고 인접",
+      "price": "2억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 202동매매3억 3,000아파트131/114m², 10/18층, 남향로얄층  공실 즉시입주가능 수리기간 줄수 있습니다.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동전세2억 3,000아파트101A/84m², 3/18층, 남향리모델링 진행후 전세이므로 깔끔한 집.초,중,고 모든 있는  아파트 단지",
+      "price": "2억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동매매3억아파트101A/84m², 2/18층, 남향주인거주로 집 관리잘된 집.초,중,고가 모든 갖춘 아이키우기 좋은 단지.",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동매매3억아파트101A/84m², 18/18층, 남향욕실 및 씽크대 수리된 깨끗한 집으로 계약후 2달 여유협의 입주가능함",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인곤지암쌍용2차 203동매매3억아파트101A/84m², 2/18층, 동향수리된 집으로 안정감있는 층으로 협의 입주가능함",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:54.250Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3901_20250717_164159.png"
+  }
+}

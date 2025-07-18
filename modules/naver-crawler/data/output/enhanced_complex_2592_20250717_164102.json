@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:41:02.250990",
+    "complex_id": "2592"
+  },
+  "basic_info": {
+    "complex_id": "2592",
+    "source_url": "https://new.land.naver.com/complexes/2592",
+    "extracted_at": "2025-07-17T16:40:57.485535",
+    "url": "https://new.land.naver.com/complexes/2592?ms=37.36286,127.115578,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:40:54.949Z",
+    "complexId": "2592"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "정든한진6차 601동매매14억 5,000아파트121/99m², 1/14층, 동향37p 샷시포함확장특올수리 정상입주가 초등인접 주차편리",
+      "price": "14억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:57.493Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "정든한진6차 601동전세8억아파트121/99m², 1/14층, 동향37타입 샷시포함확장특올수리 정자역도보 초품아",
+      "price": "8억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:40:57.493Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "정든한진6차 605동매매22억아파트197/162m², 21/21층, 남향정상, 예전 특 올수리, 전망",
+      "price": "22억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:57.494Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "정든한진6차 601동매매18억아파트121/99m², 14/14층, 동향37,전세안고매매,최근완벽특올수리,전망좋음",
+      "price": "18억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:57.494Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "정든한진6차 605동매매22억아파트197/162m², 20/21층, 남향60 샷시포함최근완벽수리 특전망 주인거주",
+      "price": "22억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:57.494Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2592_20250717_164102.png"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:07:12.914988",
+    "complex_id": "1938"
+  },
+  "basic_info": {
+    "complex_id": "1938",
+    "source_url": "https://new.land.naver.com/complexes/1938",
+    "extracted_at": "2025-07-18T03:07:09.631867",
+    "url": "https://new.land.naver.com/complexes/1938?ms=37.289262,126.850543,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:07:07.540Z",
+    "complexId": "1938"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상록수현대1차 302동매매5억 5,000아파트184/150m², 21/21층, 남향급매물 올수리 샷시 빠른 입주 가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "상록수현대1차 304동매매4억 9,500아파트106/84m², 3/13층, 동향샷시포함 올수리됨",
+      "price": "4억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "상록수현대1차 303동매매4억 2,000아파트106/84m², 8/9층, 남향샷시됨",
+      "price": "4억 2",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "상록수현대1차 302동월세2억/110아파트184/150m², 18/21층, 남향올수리되고 바로 입주가능",
+      "price": "2억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "상록수현대1차 304동전세3억 3,000아파트106/84m², 10/13층, 동향전망굿,샷시까지 특올수리,10월말 입주",
+      "price": "3억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "상록수현대1차 307동월세5,000/150아파트145/120m², 3/9층, 남향깨끗",
+      "price": null,
+      "area": null,
+      "floor": "9층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "상록수현대1차 306동매매4억 8,000아파트106/84m², 12/13층, 남향입주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "상록수현대1차 309동매매3억 7,000아파트102/84m², 5/5층, 남향샷시외올수리",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "상록수현대1차 304동매매4억 7,000아파트106/84m², 1/13층, 남향최근올수리",
+      "price": "4억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "상록수현대1차 301동매매5억아파트184/150m², 14/20층, 남향앞전망훤희트임  급매 기본",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "상록수현대1차 308동매매2억 8,000아파트69/56m², 2/5층, 동향귀한매물입니다",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인상록수현대1차 302동매매7억아파트184/150m², 18/21층, 남향사리역인접.수리첫입주 정남향. 전망최고",
+      "price": "7억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "상록수현대1차 307동매매4억 7,000아파트145/120m², 2/9층, 남향샤시한번교채함",
+      "price": "4억 7",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "상록수현대1차 303동매매3억 8,000아파트106/84m², 2/9층, 남향저렴해요",
+      "price": "3억 8",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "상록수현대1차 305동매매5억아파트145/120m², 14/15층, 남향앞트임 깨끗 사리역역세권 조정가",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.646Z"
+    },
+    {
+      "index": 93,
+      "selector": "[class*=\"item\"]",
+      "text": "상록수현대1차 309동매매4억 2,000아파트102/84m², 4/5층, 남향올수리됨텐컴즈 제공신우공인중개사사무소확인매물 25.07.14.",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.648Z"
+    },
+    {
+      "index": 129,
+      "selector": "[class*=\"item\"]",
+      "text": "상록수현대1차 303동매매4억 3,000아파트106/84m², 4/9층, 남향샷시포함한샘 올수리됨텐컴즈 제공신우공인중개사사무소확인매물 25.07.09.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:07:09.648Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1938_20250718_030712.png"
+  }
+}

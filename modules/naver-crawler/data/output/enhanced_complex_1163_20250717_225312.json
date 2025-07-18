@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:53:12.149038",
+    "complex_id": "1163"
+  },
+  "basic_info": {
+    "complex_id": "1163",
+    "source_url": "https://new.land.naver.com/complexes/1163",
+    "extracted_at": "2025-07-17T22:53:08.904556",
+    "url": "https://new.land.naver.com/complexes/1163?ms=37.583779,126.943252,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:53:06.933Z",
+    "complexId": "1163"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 103동매매8억 1,000아파트114/84m², 4/17층, 남서향34 실입주 풀인테리어 초품아 학세권 도서관 안산 홍제천 숲세권",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 102동매매8억 2,000아파트148/114m², 5/17층, 남서향급매, 샷시까지 올수리, 깔끔한 인테리어, 안산 숲세권, 입주 협의 가능",
+      "price": "8억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 102동매매8억 5,000아파트148/114m², 중/17층, 남서향45.올수리 상태 채광 전망우수 빠른입주가능 홍제역세권.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 103동매매8억아파트114/84m², 중/17층, 남서향귀한34형 샷시포함 올수리 채광,전망우수 조용한 단독세대 입주가.",
+      "price": "8억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 101동매매4억 6,000아파트58/41m², 8/17층, 남서향전세안고 안산뷰좋음 일부수리되어깔끔 신혼투자",
+      "price": "4억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 101동매매4억 6,000아파트58/41m², 중/17층, 남서향소형 2룸 앞,뒤로 산전망 채광좋고 깨끗합니다 전세안고",
+      "price": "4억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 103동매매8억 5,000아파트148/114m², 중/17층, 남동향안산 뷰,로얄동,로얄층,관리 잘되고 깔끔한 집,추천",
+      "price": "8억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "홍제성원 101동매매4억 6,000아파트58/41m², 11/17층, 남서향트인전망.수리됨.입주협의.지하주차장연결",
+      "price": "4억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 101동매매5억아파트58/41m², 7/17층, 남서향19  거실확장  신혼부부 거주로 이쁘게 수리된집, 입주가능합니다",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인홍제성원 101동월세3,000/150아파트78/55m², 5/17층, 남동향안산조망 저렴한보증금 귀한월세물건 7월말입주 내부수리깨끗합니다",
+      "price": null,
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:53:08.916Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1163_20250717_225312.png"
+  }
+}

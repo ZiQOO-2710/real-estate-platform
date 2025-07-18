@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:23:03.387446",
+    "complex_id": "1452"
+  },
+  "basic_info": {
+    "complex_id": "1452",
+    "source_url": "https://new.land.naver.com/complexes/1452",
+    "extracted_at": "2025-07-18T00:22:58.309887",
+    "url": "https://new.land.naver.com/complexes/1452?ms=37.384214,126.966554,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:22:56.986Z",
+    "complexId": "1452"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 702동전세8억아파트119/96m², 중/15층, 남향샷시포함 올수리 귀인초 귀인중학군",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 707동매매13억 5,000아파트119/96m², 1/15층, 남향즉시입주가능 샤시교체 올수리, 귀인초 귀인중학군",
+      "price": "13억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 703동매매19억아파트201/172m², 고/15층, 남향샷시포함 특올수리 입주물 귀인초 귀인중학군 통합재건축 선도지구확정",
+      "price": "19억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 706동매매16억아파트145/117m², 저/24층, 남향세안고,샤시포함특올수리,남향안쪽조용,재건축선도지구,귀인초중",
+      "price": "16억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 707동전세8억아파트119/96m², 고/15층, 남향외부샷시교체, 방확장, 귀인초, 귀인중학군",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인꿈한신 708동매매14억 5,000아파트119/96m², 저/13층, 남향세안고 올수리 선도지구 통합재건축 지정 투자물",
+      "price": "14억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "꿈한신 707동매매13억 5,000아파트119/96m², 저/15층, 남향올수리  즉시입주 가능",
+      "price": "13억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인꿈한신 702동전세8억아파트119/96m², 중/15층, 남향샷시포함 올수리 귀인초 귀인중학군매경부동산 제공대동공인중개사사무소확인매물 25.07.16.집주인꿈한신 707동매매13억 5,000아파트119/96m², 1/15층, 남향즉시입주가능 샤시교체 올수리, 귀인초 귀인중학군아실 제공삼보공인중개사확인매물 25.07.07.네이버에서 보기집주인꿈한신 703동매매19억아파트201/172m², 고/15층, 남향샷시포함 특올수리 입주물 귀인초 귀인중학군 통합재건축 선도지구확정매경부동산 제공대동공인중개사사무소확인매물 25.07.11.집주",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:22:58.322Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1452_20250718_002303.png"
+  }
+}

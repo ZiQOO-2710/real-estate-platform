@@ -1,0 +1,278 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:53:41.907084",
+    "complex_id": "9012"
+  },
+  "basic_info": {
+    "complex_id": "9012",
+    "source_url": "https://new.land.naver.com/complexes/9012",
+    "extracted_at": "2025-07-17T16:53:38.907528",
+    "url": "https://new.land.naver.com/complexes/9012?ms=37.51259,126.77324,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:53:36.099Z",
+    "complexId": "9012"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "흥립약대 4동매매1억 7,000아파트58/44m², 5/5층, 남향남향밝음이사협의재건축추진중",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "흥립약대 1동매매1억 8,000아파트55/41m², 4/5층, 동향올수리됨밝고환함40년아파트 재건축추진중",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "흥립약대 2동전세9,000아파트55/41m², 5/5층, 동향올수리됨주말5시이후 집 볼수 있음이사협의",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "흥립약대 3동매매1억 7,500아파트55/41m², 1/5층, 동향부분수리주차장이사협의",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인흥립약대 3동매매1억 8,000아파트55/41m², 5/5층, 동향일부 수리된 집으로 채광좋아 밝아요",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인흥립약대 3동매매1억 8,000아파트55/41m², 3/5층, 동향샤시포함 올수리. 밝고 쾌적",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "흥립약대 1동월세2,000/55아파트58/44m², 중/5층, 남향올수리됨남향주차확실8월부터 집볼수있음",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:53:38.922Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "계남샤이니면적77.7㎡77.7㎡ ~ 77.7㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "77.7㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "부천위브트레지움3단지면적72.99㎡53.46㎡ ~ 72.99㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "72.99㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,311만부천위브트레지움2단지매매7.9억6.4억~10.7억전세5.2억5억~6.3억월세1.6백1.6백면적113㎡84.28㎡ ~ 147.11㎡매매매물만 보기49개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억6",
+      "area": "113㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,338만부천3차아이파크매매5.8억5.4억~7.2억전세4.55억4.5억~4.55억면적82㎡82.8㎡ ~ 97.48㎡매매매물만 보기40개 매물이 있습니다.전세매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼우면적83.3㎡78.37㎡ ~ 83.3㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "83.3㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "청연면적83.87㎡43.45㎡ ~ 87.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "83.87㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "962만우남매매2.3억2.3억면적79㎡79.09㎡ ~ 79.09㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,392만다청림매매4억4억~4.5억면적95㎡94.87㎡ ~ 95.33㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,748만스타파크리움매매5.5억4.4억~5.7억면적104㎡87.07㎡ ~ 104.72㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,576만현대매매3.57억3.4억~4.5억전세-2.8억면적75㎡66.95㎡ ~ 83.4㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "57억3",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,064만스카이포인트(주상복합)매매4.37억4.3억~4.8억면적70㎡70.31㎡ ~ 75.68㎡매매매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "37억4",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,194만부천위브트레지움1단지매매7.1억4억~9.3억전세5.2억5.2억~6.5억월세-2백면적107㎡56.18㎡ ~ 149.71㎡매매매물만 보기68개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억4",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "팔레스아파트면적94.28㎡48.15㎡ ~ 94.28㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "94.28㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,837만SJ성진힐스매매4억3.48억~4억면적72㎡72.68㎡ ~ 72.68㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억3",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,477만그랜드센트라움(주상복합)매매4.2억4.2억~4.5억면적94㎡94.74㎡ ~ 94.74㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억4",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,082만흥립약대매매1.8억1.7억~1.8억전세9천9천월세-55만면적55㎡55.6㎡ ~ 58.77㎡매매매물만 보기6개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억1",
+      "area": "55㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,030만부천아이파크매매7억5.5억~23억전세4.5억4.5억~14억월세1.3백25만~250억면적114㎡85.34㎡ ~ 208.21㎡매매매물만 보기438개 매물이 있습니다.전세매물만 보기43개 매물이 있습니다.월세매물만 보기14개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억5",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:53:38.925Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 25,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9012_20250717_165341.png"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:56:00.043713",
+    "complex_id": "1173"
+  },
+  "basic_info": {
+    "complex_id": "1173",
+    "source_url": "https://new.land.naver.com/complexes/1173",
+    "extracted_at": "2025-07-17T22:55:56.198830",
+    "url": "https://new.land.naver.com/complexes/1173?ms=37.561996,127.048598,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:55:55.021Z",
+    "complexId": "1173"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인하이츠 101동매매8억아파트90/71m², 중/15층, 남향올수리 뷰좋은 남향입니다",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인하이츠 101동매매8억아파트90/71m², 중/15층, 남동향중앙하이츠 매매",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "하이츠 102동전세4억 5,000아파트90/71m², 15/15층, 남향6년 전 리모델링  9월 15일 입주   냠 향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "하이츠 102동매매7억 6,000아파트90/71m², 15/15층, 남향사 통  팔 달 인근 개발 지역임. 남 향 집으로 주인 거주.",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "하이츠 101동전세4억 5,000아파트90/71m², 15/15층, 동향하이츠아파트 전세",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인하이츠 101동매매8억아파트90/71m², 6/15층, 남향올수리된집.샤시교체함.뻥뷰",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "하이츠 101동전세4억 8,000아파트90/71m², 고/15층, 남향남향으로 수리해주는 조건 전세",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "하이츠 101동매매9억아파트90/71m², 9/15층, 동향정 남 향.  로얄 층.주인 거주,올 리모델링",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "하이츠 102동매매7억 5,000아파트90/71m², 중/15층, 남향하이츠아파트 입주 가능 매매",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.212Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인하이츠 101동매매8억아파트90/71m², 중/15층, 남향올수리 뷰좋은 남향입니다부동산써브 제공세림공인중개사사무소확인매물 25.07.14.집주인하이츠 101동매매8억아파트90/71m², 중/15층, 남동향중앙하이츠 매매매경부동산 제공행복부동산공인중개사사무소확인매물 25.07.14.하이츠 102동전세4억 5,000아파트90/71m², 15/15층, 남향6년 전 리모델링  9월 15일 입주   냠 향부동산뱅크 제공한양공인중개사확인매물 25.07.09.하이츠 102동매매7억 6,000아파트90/71m², 15/15층, 남향사 통 ",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:56.213Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1173_20250717_225559.png"
+  }
+}

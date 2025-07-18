@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:23:43.048176",
+    "complex_id": "1065"
+  },
+  "basic_info": {
+    "complex_id": "1065",
+    "source_url": "https://new.land.naver.com/complexes/1065",
+    "extracted_at": "2025-07-17T22:23:39.105717",
+    "url": "https://new.land.naver.com/complexes/1065?ms=37.499309,126.863599,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:23:36.340Z",
+    "complexId": "1065"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신원프라자(주상복합) 1동매매4억아파트85/59m², 16/17층, 서향",
+      "price": "4억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.116Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신원프라자(주상복합) 1동매매5억아파트93/65m², 15/17층, 남서향거실전망 특리모델링 밝고 좋은집",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.116Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신원프라자(주상복합) 1동매매4억 1,000아파트85/59m², 7/17층, 남서향매도인 사정상 급매물로 나온   6개월전  완전 특올수리  아주깨끗합니다",
+      "price": "4억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.117Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신원프라자(주상복합) 1동매매4억 1,000아파트85/59m², 중/17층, 서향올수리 빠른입주가능 서향 방3개 욕실1개  초,중,고,대학교 도보이용가능",
+      "price": "4억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.117Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신원프라자(주상복합) 1동매매5억아파트93/65m², 15/17층, 동향25 올수리 예쁜집 고층 전망트임 방3화1",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.117Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "신원프라자(주상복합) 1동매매4억 9,000아파트93/65m², 중/17층, 남서향세안고매매 살기편리하고 미래가치좋은집",
+      "price": "4억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.117Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "신원프라자(주상복합) 1동매매4억 5,000아파트93/65m², 4/17층, 남향빠른입주 . 생활하기편리하고 밝아요.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:39.117Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1065_20250717_222342.png"
+  }
+}

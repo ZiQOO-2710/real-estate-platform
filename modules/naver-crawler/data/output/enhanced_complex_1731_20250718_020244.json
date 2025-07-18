@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:02:44.667953",
+    "complex_id": "1731"
+  },
+  "basic_info": {
+    "complex_id": "1731",
+    "source_url": "https://new.land.naver.com/complexes/1731",
+    "extracted_at": "2025-07-18T02:02:39.175250",
+    "url": "https://new.land.naver.com/complexes/1731?ms=37.440955,127.180509,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:02:37.330Z",
+    "complexId": "1731"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 3,000아파트74/58m², 13/15층, 남향전체올리모델링 했음 보일러교체  전세끼고 소액투자가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 4,000아파트86/67m², 11/15층, 동향올수리 내부깨끗 관리잘된집 이사협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 2,500아파트74/58m², 8/15층, 동향주인거주 내부깨끗 잘관리된집 이사협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 2,500아파트74/58m², 중/15층, 동향입주가능. 선호하는층",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 4,000아파트86/67m², 6/15층, 남향올리모델링  입주가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인일성 1동매매3억 2,000아파트74/58m², 고/15층, 남향로열층 전망이 좋음,전자계약가능,예쁜집",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "일성 1동매매3억 2,000아파트74/58m², 15/15층, 동향입주 날짜와 매매가 협의 조정 가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "일성 1동매매3억 2,000아파트74/58m², 5/15층, 동향내부 일부 수리 교체하여 깨끗",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "일성 1동매매3억 3,000아파트86/67m², 중/15층, 동향급매 리모델링은 하지 않은 집입니다 빠른 입주 가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "일성 1동매매3억 5,000아파트86/67m², 7/15층, 동향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:02:39.181Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1731_20250718_020244.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:32:25.128562",
+    "complex_id": "2016"
+  },
+  "basic_info": {
+    "complex_id": "2016",
+    "source_url": "https://new.land.naver.com/complexes/2016",
+    "extracted_at": "2025-07-18T03:32:20.426363",
+    "url": "https://new.land.naver.com/complexes/2016?ms=37.413682,126.915552,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:32:18.934Z",
+    "complexId": "2016"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼성 103동매매6억 9,000아파트162/133m², 9/20층, 남동향샷시포함 특올수리로 탁 트인 개방감. 즉시 입주가능 합니다.",
+      "price": "6억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼성 103동매매6억 7,000아파트162/133m², 6/20층, 남동향교통이 편리하고  올수리되어 있어요",
+      "price": "6억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼성 104동매매5억 800아파트108/84m², 11/24층, 남동향남동향으로 수리되어 깨끗합니다",
+      "price": "5억 800",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼성 103동매매7억아파트162/133m², 5/20층, 남동향시설 상태 좋고 교통 편리, 입주물 입니다",
+      "price": "7억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인삼성 102동매매4억 3,000아파트86/59m², 18/25층, 남서향특 올수리 전세안고 1.3억 투자물 매매전세 3억.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼성 101동매매4억 9,000아파트108/84m², 2/20층, 남동향급매 매도인사정으로 급매 합니다, 시설 깨끗합니다",
+      "price": "4억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼성 104동매매5억 3,000아파트108/84m², 12/24층, 남동향샷시포함 올수리  하시입주 24시도소매마트근접",
+      "price": "5억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인삼성 104동매매5억 800아파트108/84m², 11/24층, 남동향남향.일부수리된집",
+      "price": "5억 800",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.439Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼성 102동매매4억아파트86/59m², 8/25층, 남서향기본수리했어요. 예술공원초입구,대형마트앞,편리한대중교통및생활편리",
+      "price": "4억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.440Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인삼성 103동전세4억 7,000아파트162/133m², 9/20층, 남동향대형평수. 특올수리. 입주협의 가능합니다.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:32:20.440Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인삼성 104동매매5억 3,000아파트108/84m², 12/24층, 남향대형마트 1분거리 소재, 샷시 포함 올수리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.440Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼성 101동매매5억 8,000아파트108/84m², 4/20층, 남동향입주가능,씽크대,화장실수리됨,상태좋음",
+      "price": "5억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.440Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "삼성 103동매매6억 7,000아파트162/133m², 6/20층, 남향귀한대형.예술공원인접.,관악역 도보.24시간마트 앞",
+      "price": "6억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:32:20.440Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2016_20250718_033224.png"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:19:11.818410",
+    "complex_id": "1595"
+  },
+  "basic_info": {
+    "complex_id": "1595",
+    "source_url": "https://new.land.naver.com/complexes/1595",
+    "extracted_at": "2025-07-18T01:19:08.669678",
+    "url": "https://new.land.naver.com/complexes/1595?ms=37.478042,126.852428,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:19:06.530Z",
+    "complexId": "1595"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 101동월세2억/130아파트110/84m², 6/20층, 남향정남향 올수리 조용하고 채광좋아요",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동매매7억 7,000아파트110/84m², 7/25층, 남향샷시빼고 올수리된 최상의 물건입니다",
+      "price": "7억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동월세1억/160아파트110/84m², 7/25층, 남향샷시빼고 올수리된 최상의 물건입니다 잔금일은 빠를수록 좋습니다",
+      "price": "1억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 107동전세4억아파트110/84m², 1/25층, 남향내부상태 아주좋은 남향 물건입니다",
+      "price": "4억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동매매7억 7,000아파트110/84m², 20/25층, 남향전망좋음수리상태양호함연락주세요12월중순이후입주가능합니다",
+      "price": "7억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 103동매매6억 2,500아파트77/59m², 1/25층, 동향",
+      "price": "6억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 102동매매7억 6,000아파트110/84m², 20/20층, 남향전면이 트인 남향으로 내부 올수리된 최상의 물건입니다",
+      "price": "7억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 105동매매6억아파트77/59m², 1/25층, 동향내부 올수리된 초 급매물 입니다",
+      "price": "6억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 107동매매6억 1,000아파트77/59m², 1/25층, 동향샷시빼고 올수리된 최상의 물건입니다",
+      "price": "6억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동매매7억 6,000아파트110/84m², 16/25층, 동향전면이 시원하게 트이고 내부수리 아주잘된 물건입니다",
+      "price": "7억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동매매7억 8,000아파트110/84m², 15/25층, 남향전면이 완전히 트인 남향으로 내부수리 아주잘된 물건 입니다",
+      "price": "7억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동월세2억/100아파트110/84m², 4/25층, 남향내부 수리 잘된 남향물건 입니다",
+      "price": "2억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 105동매매6억 8,000아파트77/59m², 19/25층, 동향내부상태 깨끗하고 전면이 탁트인 최상의 물건입니다",
+      "price": "6억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인광명한진타운 106동매매7억 6,000아파트110/84m², 고/25층, 남향올수리 완전깨끗 조용하고 채광좋음",
+      "price": "7억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:19:08.682Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1595_20250718_011911.png"
+  }
+}

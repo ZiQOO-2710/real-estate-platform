@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:30:09.535822",
+    "complex_id": "201"
+  },
+  "basic_info": {
+    "complex_id": "201",
+    "source_url": "https://new.land.naver.com/complexes/201",
+    "extracted_at": "2025-07-18T03:30:04.059460",
+    "url": "https://new.land.naver.com/complexes/201?ms=37.669392,127.052148,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:30:02.580Z",
+    "complexId": "201"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1611동매매6억 8,500아파트105/79m², 3/15층, 남향",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1615동매매3억 9,000아파트63/45m², 8/15층, 남향올수리,탁트인 뷰, 조용한 동 연금매장, 공원인접 언제든지 연락주세요",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1617동매매5억 3,000아파트82/59m², 3/15층, 남향올수리,남향, 상경초바로옆, 버스정거장앞, 근린공원옆,입주협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1601동매매5억 5,000아파트80/58m², 11/15층, 남향올수리 초중고인근 탁트인뷰 교통우수 언제든지 연락주세요.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1617동매매4억 8,000아파트82/59m², 15/15층, 남향남향,올수리,2025,12월입주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1611동매매7억 5,000아파트105/79m², 8/15층, 남향올수리 트인뷰 채광우수 동간넓은쾌적한단지 언제든지 연락주세요.",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1615동매매3억 8,000아파트63/45m², 4/15층, 남향B형구조 입주가능 샤시,욕실등수리된 깨끗한집.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1608동매매4억 8,000아파트80/58m², 15/15층, 남향올수리,전망좋은집,하시입주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1611동매매7억 2,000아파트105/79m², 1/15층, 남향올수리 푸른정원뷰 방3개 언제든지 연락주세요.",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1617동매매5억 5,000아파트82/59m², 13/15층, 남향입주 가능, 로얄층, 부분 수리된 깔끔한 상태",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1602동매매5억아파트82/59m², 1/15층, 남향샷시포함올수리,남향,층간소음무,역가까움,세안고",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1613동매매5억 2,000아파트82/59m², 8/15층, 남향정상,전체특올수리 로얄동층,주인거주 실입주매물,수리잘된집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1602동매매5억아파트82/59m², 15/15층, 남향",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1607동매매5억 2,000아파트82/59m², 5/15층, 남향급매 입주가능 4년전특올수리 동간넓고쾌적 언제든지 연락주세요.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1603동매매5억 1,000아파트82/59m², 10/15층, 남향올수리됨 전세25000안고가능함",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1605동매매5억아파트82/59m², 2/15층, 남향25 특올수리 귀한정상입주물 주인거주관리",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1612동전세4억 5,000아파트105/79m², 6/15층, 남향정상.남향.전체올수리특2년됨.초.중.고.학세권.공원.녹지최고.조용한주거",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1604동매매4억 7,500아파트82/59m², 15/15층, 남향남향.부분수리.전세안고 투자로 적극추천합니다.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인상계주공16단지 1604동월세3,000/100아파트82/59m², 11/15층, 남향남향,시특",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:30:04.066Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_201_20250718_033009.png"
+  }
+}

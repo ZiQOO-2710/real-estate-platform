@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:55:25.446535",
+    "complex_id": "1365"
+  },
+  "basic_info": {
+    "complex_id": "1365",
+    "source_url": "https://new.land.naver.com/complexes/1365",
+    "extracted_at": "2025-07-17T23:55:20.580024",
+    "url": "https://new.land.naver.com/complexes/1365?ms=37.668479,126.761147,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:55:18.594Z",
+    "complexId": "1365"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강선14단지두산 1407동매매5억아파트85/69m², 5/21층, 남동향급매 올수리되어 엄청깨끗 주엽초역세권계단식아파트 늦은입주",
+      "price": "5억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.593Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1409동매매6억 9,000아파트104/84m², 3/25층, 남서향최근샷시포함특올수리,정원같은공원전망,주엽초역세권,호수공원,초품아",
+      "price": "6억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인강선14단지두산 1403동매매3억 9,500아파트77/59m², 10/15층, 남서향초급매, 화장실포함 올수리, 거실확장, 입주물",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1409동매매7억아파트104/84m², 10/25층, 남서향급매,샷포올수리,중문유,폴딩도어,로얄동,로얄층,전망굿,강추",
+      "price": "7억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1401동전세3억 2,000아파트85/69m², 10/15층, 남서향올수리,탁트인 시원한전망,초품아,주엽역 초역세권입니다.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1408동매매4억아파트77/59m², 3/15층, 남서향급매.즉시입주가.로얄동.공원길라인.초품아",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1402동매매5억 2,000아파트85/69m², 5/20층, 남동향급매 ,트인전망굿,거실,작은방확장,조정가",
+      "price": "5억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1404동전세2억 8,000아파트77/59m², 4/15층, 남서향화포올수리됨,내외부샷시올교체, 공원라인,초역세권",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1401동매매5억 1,000아파트85/69m², 1/15층, 남서향초역세권, 샷시포함 최근 특올수리, 주인거주, 입주 또는 주세안고",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1405동매매5억 4,000아파트85/69m², 12/18층, 남서향초역세권, 조용하고 전망좋은 집, 화포 올수리, 주인거주, 협의가능",
+      "price": "5억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1406동전세3억 6,000아파트104/84m², 2/25층, 남서향초역세권 급전세, 화포 올수리, 작은방 확장, 밝은 남향, 입주시기 협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1405동매매4억 9,500아파트85/69m², 6/18층, 남서향",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1404동매매4억 3,000아파트77/59m², 10/15층, 남서향세안고,화포올수리,로얄동,로얄층,강추",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1402동매매5억아파트85/69m², 1/20층, 남동향최근특올수리,초역세,초품아,맘껏뛰어요,월세안고,조정가",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1403동매매4억 5,000아파트77/59m², 14/15층, 남서향초역세권, 밝은 남향, 올수리, 공가라 빠른입주, 신혼집 추천, 초품아",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1409동매매7억아파트104/84m², 4/25층, 남서향샷시포함올수리.눈높이가좋은뷰.역세권.초품아",
+      "price": "7억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "강선14단지두산 1401동매매5억 8,000아파트85/69m², 15/15층, 남서향입주가.올수리.확트인 남향.초품아.초역세권",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:20.594Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1365_20250717_235525.png"
+  }
+}

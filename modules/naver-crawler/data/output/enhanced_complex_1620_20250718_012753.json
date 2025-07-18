@@ -1,0 +1,48 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:27:53.375750",
+    "complex_id": "1620"
+  },
+  "basic_info": {
+    "complex_id": "1620",
+    "source_url": "https://new.land.naver.com/complexes/1620",
+    "extracted_at": "2025-07-18T01:27:48.237833",
+    "url": "https://new.land.naver.com/complexes/1620?ms=37.482759,126.870605,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:27:45.894Z",
+    "complexId": "1620"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:27:48.253Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,056만철산자이더헤리티지매매13억12.5억~20억전세5.5억4.3억~10.5억월세1.5백40만~8백면적85㎡85.09㎡ ~ 173.17㎡매매매물만 보기167개 매물이 있습니다.전세매물만 보기1120개 매물이 있습니다.월세매물만 보기1502개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "13억12",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:27:48.253Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 2,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1620_20250718_012753.png"
+  }
+}

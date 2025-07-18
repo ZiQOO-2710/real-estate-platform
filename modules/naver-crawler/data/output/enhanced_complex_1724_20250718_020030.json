@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:00:30.582108",
+    "complex_id": "1724"
+  },
+  "basic_info": {
+    "complex_id": "1724",
+    "source_url": "https://new.land.naver.com/complexes/1724",
+    "extracted_at": "2025-07-18T02:00:26.499583",
+    "url": "https://new.land.naver.com/complexes/1724?ms=37.377814,127.135727,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:00:25.423Z",
+    "complexId": "1724"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인효자촌동아 203동매매15억아파트106/84m², 16/16층, 남서향",
+      "price": "15억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "효자촌동아 211동매매20억아파트198/166m², 10/18층, 남동향60 급매물 예전올수리 확트인 전망 추천굿매물",
+      "price": "20억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "효자촌동아 205동매매16억아파트125/101m², 4/16층, 남동향거실확장올수리 정상 주인거주",
+      "price": "16억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "효자촌동아 203동매매16억아파트106/84m², 12/16층, 남서향32특올수리샷시포함탁트인앞뒤전망에로열동로열층라인주인거주중이며학군및교통편리",
+      "price": "16억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "효자촌동아 202동전세8억 5,000아파트153/128m², 7/19층, 남서향46. 특올수리 정상",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "효자촌동아 216동전세8억 5,000아파트153/128m², 8/19층, 남동향46. 샷시포함특올수리 전망최고 입주협의",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "효자촌동아 205동매매16억아파트125/101m², 2/16층, 남동향확장특올수리 세안고",
+      "price": "16억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "효자촌동아 209동월세7억 7,000/20아파트153/128m², 12/15층, 남동향10월중순11월초 샤시포함올수리",
+      "price": "7억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "효자촌동아 213동매매11억아파트72/59m², 4/5층, 남서향방3개 올수리 계단식 서당초 양영중 굿매물",
+      "price": "11억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인효자촌동아 207동전세7억 5,000아파트125/101m², 저/16층, 남동향집상태깨끗하고 좋음,조용한 위치의 로얄동",
+      "price": "7억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인효자촌동아 203동매매16억아파트106/84m², 중/16층, 남서향32 로얄동 올수리",
+      "price": "16억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "효자촌동아 207동매매15억 5,000아파트125/101m², 1/16층, 남동향38. 방4개 확장올수리 입주",
+      "price": "15억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "효자촌동아 207동전세7억 3,000아파트125/101m², 1/16층, 남동향38  방4화2   샷시포함주인특올수리   입주협의  만기9월협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:00:26.512Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체72㎡106㎡125㎡153㎡165㎡198㎡",
+      "price": null,
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:00:26.513Z"
+    },
+    {
+      "index": 56,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인효자촌동아 203동매매15억아파트106/84m², 16/16층, 남서향부동산뱅크 제공마당공인중개사사무소확인매물 25.07.14.효자촌동아 211동매매20억아파트198/166m², 10/18층, 남동향60 급매물 예전올수리 확트인 전망 추천굿매물부동산뱅크 제공세종공인중개사사무소확인매물 25.07.17.효자촌동아 203동매매15억 5,000아파트106/84m², 16/16층, 남서향탑층 샷시포함올수리 전망굿 교통편리매경부동산 제공하나공인중개사사무소확인매물 25.07.17.효자촌동아 205동매매16억아파트125/101m², 4/16",
+      "price": "15억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:26.513Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1724_20250718_020030.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:46:09.430253",
+    "complex_id": "1139"
+  },
+  "basic_info": {
+    "complex_id": "1139",
+    "source_url": "https://new.land.naver.com/complexes/1139",
+    "extracted_at": "2025-07-17T22:46:06.536216",
+    "url": "https://new.land.naver.com/complexes/1139?ms=37.487297,126.967793,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:46:05.235Z",
+    "complexId": "1139"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동매매8억 3,000아파트75/59m², 14/19층, 남서향탁트인 전망 컨디션굿  전세안고",
+      "price": "8억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:46:06.549Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동매매7억 9,000아파트75/59m², 9/19층, 남서향추천매물,남서향 뻥트인조망,올수리후 주인거주,입주가능",
+      "price": "7억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:46:06.549Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동매매8억 5,000아파트75/59m², 9/19층, 남동향남성역5분 전망좋고 교통편리,지하주차장엘베설치 주인거주",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:46:06.549Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동월세4억/44아파트107/84m², 1/19층, 남동향남성역5분 아이키우기좋은1층  32p 방3화2,수리조건좋아요,입주협의",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:46:06.550Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동매매8억 3,000아파트75/59m², 5/19층, 남서향남성역 도보5분 입주가능 올수리되어컨디션굿",
+      "price": "8억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:46:06.550Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인대아2차(경남아너스빌) 201동매매9억 9,000아파트107/84m², 중/19층, 남서향남성역5분 역세권,뻥트인 관악산조망 상태깔끔 입주가능",
+      "price": "9억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:46:06.550Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1139_20250717_224609.png"
+  }
+}

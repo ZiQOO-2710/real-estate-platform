@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:05:05.177475",
+    "complex_id": "1549"
+  },
+  "basic_info": {
+    "complex_id": "1549",
+    "source_url": "https://new.land.naver.com/complexes/1549",
+    "extracted_at": "2025-07-18T01:05:00.774014",
+    "url": "https://new.land.naver.com/complexes/1549?ms=37.625318,126.838874,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:04:58.036Z",
+    "complexId": "1549"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2009동매매3억 2,000아파트79B/59m², 7/15층, 남향조용한동 급매 입주일협의가능합니다.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2003동매매2억 9,500아파트79A/59m², 1/15층, 남서향화장실수리 하시입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2014동월세2,000/65아파트54/39m², 15/15층, 남향올수리  언제나 입주가능",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2014동전세1억 7,500아파트54/39m², 15/15층, 남향남향 수리된 집으로 전망이 좋아요",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2011동매매3억 4,000아파트86A/59m², 16/20층, 남향최근샷시 포함, 전체특올수리, 넓은거실",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2006동매매3억 6,000아파트86A/59m², 4/20층, 남동향방3개구조, 샷시포함 특올수리되어 정상입주가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2004동매매2억 8,000아파트73/49m², 1/20층, 남향아이키우기 좋은 1층집, 수리되어 정상입주가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2009동매매3억 5,000아파트79B/59m², 11/15층, 남향0패밀리선호구조0남향채광밝은집0수리되어깨끗",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2001동매매3억 1,000아파트79A/59m², 15/15층, 남향급매, 전세안고 투자매물",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2002동전세2억 1,980아파트67/49m², 10/15층, 남향수리.도배해드려요. 입주일 협의가능합니다. 전망굿",
+      "price": "2억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2004동매매3억 1,000아파트73/49m², 6/20층, 남향0올수리0엘리베이터2대0조용한단지0나무위조망권",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2003동매매3억아파트79A/59m², 1/15층, 남향내부수리.주인거주.남향.1층원하시는분께추천.밝고환한집.롯데마트,학군근접",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2007동매매3억 4,000아파트86A/59m², 11/20층, 남향전망라인0선호구조0성신초0주차공간 낙낙08월부터입주가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2006동매매3억 3,000아파트86A/59m², 12/20층, 남향정남향, 1억2천투자물건,  화장실포함 올수리,  방3개 남향구조",
+      "price": "3억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2016동매매2억 9,500아파트83B/59m², 1/20층, 동향빠른입주가능,  1층이라 층간소음 없고 노약자에게 좋아요, 방3개구조",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2005동매매3억 4,000아파트86A/59m², 6/20층, 남서향초품아 출퇴근 소아과 마트까지 모든게 다 편한 입지에요",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인햇빛20단지주공 2009동매매3억 2,000아파트79B/59m², 9/15층, 남동향전세안고. 올수리.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.788Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체54㎡67㎡73㎡79A㎡79B㎡82A㎡83B㎡86A㎡89B㎡",
+      "price": null,
+      "area": "54㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:05:00.789Z"
+    },
+    {
+      "index": 61,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인햇빛20단지주공 2009동매매3억 2,000아파트79B/59m², 7/15층, 남향조용한동 급매 입주일협의가능합니다.매경부동산 제공탑공인중개사확인매물 25.07.17.집주인햇빛20단지주공 2003동매매2억 9,500아파트79A/59m², 1/15층, 남서향화장실수리 하시입주매경부동산 제공탑공인중개사확인매물 25.07.17.집주인햇빛20단지주공 2014동월세2,000/65아파트54/39m², 15/15층, 남향올수리  언제나 입주가능매경부동산 제공월드이미자공인중개사사무소확인매물 25.07.17.집주인햇빛20단지주공 2014동전세",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:00.789Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1549_20250718_010505.png"
+  }
+}

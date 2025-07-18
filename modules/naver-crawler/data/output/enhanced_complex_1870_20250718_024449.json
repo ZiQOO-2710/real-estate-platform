@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:44:49.165944",
+    "complex_id": "1870"
+  },
+  "basic_info": {
+    "complex_id": "1870",
+    "source_url": "https://new.land.naver.com/complexes/1870",
+    "extracted_at": "2025-07-18T02:44:43.597652",
+    "url": "https://new.land.naver.com/complexes/1870?ms=37.440461,126.798162,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:44:41.868Z",
+    "complexId": "1870"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 302동매매4억 3,000아파트109/84m², 6/20층, 남동향방1개확장, 내부 수리됨 .집주인거주 관리잘된집",
+      "price": "4억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.613Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 304동매매2억 9,000아파트82/59m², 1/18층, 남동향집주인 거주 관리잘된집. 초.증.고 인접.입주협의",
+      "price": "2억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.613Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 304동매매3억 1,000아파트82/59m², 2/18층, 남동향정원뷰,주인거주중 중간라인 기본집 시세보다 저렴",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.613Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 303동전세3억 2,000아파트109/84m², 18/20층, 남동향학교앞  수리 좋음  주차시설  넓고 좋음  주변인프라 굿  앞뒤 베란다",
+      "price": "3억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:44:43.613Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 303동매매4억 500아파트109/84m², 12/20층, 남동향작은방확장,씽크대,화장실 수리,전망좋아요",
+      "price": "4억 500",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.613Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 301동매매3억 1,000아파트82/59m², 9/20층, 남서향남서향이며  시원한 전망 씽크대 부분수리 바로옆 웃터골초",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.614Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 302동매매4억 1,000아파트109/84m², 4/20층, 남동향",
+      "price": "4억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.614Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 303동월세1억/100아파트109/84m², 11/20층, 남동향씽크대 화장실2 도배 바닥 도색 신발장까지 올수리해 드림",
+      "price": "1억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:44:43.614Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 301동매매3억 2,000아파트82/59m², 15/20층, 남서향수리기간 드려요 전망좋고 햇살좋은집 초중고 공원인근 매매가조정가",
+      "price": "3억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:44:43.614Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1870_20250718_024448.png"
+  }
+}

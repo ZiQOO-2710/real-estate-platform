@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:48:40.758931",
+    "complex_id": "1882"
+  },
+  "basic_info": {
+    "complex_id": "1882",
+    "source_url": "https://new.land.naver.com/complexes/1882",
+    "extracted_at": "2025-07-18T02:48:37.084504",
+    "url": "https://new.land.naver.com/complexes/1882?ms=37.343445,126.740087,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:48:35.456Z",
+    "complexId": "1882"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인금강 118동매매2억 8,000아파트79B/59m², 8/10층, 남서향부분수리, 전망굿, 상업지역인접, 이사협의및조정가",
+      "price": "2억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인금강 121동전세2억 7,000아파트106/84m², 4/10층, 남서향햇빛잘들고 앞트인동 내부완전올수리 아주깨끗 전세대출가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인금강 109동매매3억 6,000아파트106/84m², 2/10층, 남동향올수리 방2개확장 중문 붙박이장 에이디등교체 가격대폭조정가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인금강 104동매매2억 8,000아파트73A/59m², 3/5층, 남동향생활권편리.이사협의.조정가",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인금강 102동매매2억 6,500아파트73A/59m², 5/5층, 남동향샷시포함 특올수리.편의시설완비.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인금강 107동매매2억 8,000아파트73A/59m², 5/5층, 남동향최근올수리깨끗한집, 층간소음없음, 뻥뚫려사생활보호, 가격조정가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인금강 117동매매2억 9,000아파트79B/59m², 1/10층, 남서향올수리.생활권 좋음.이사협의.조정가",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인금강 110동매매3억 9,800아파트106/84m², 9/10층, 남동향특올수리.생활권편리.이사협의",
+      "price": "3억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인금강 106동매매2억 7,500아파트73A/59m², 1/5층, 남서향전체올수리 아주깨끗 상권 초중교인접 생활편리 빠른입주가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "금강 109동전세2억 5,000아파트106/84m², 7/10층, 남동향부분수리 아주깨끗 협의이사",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "금강 113동매매4억아파트106/84m², 6/10층, 남동향샷시포함 전체올수리.이사협의",
+      "price": "4억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "금강 118동전세2억아파트79B/59m², 3/10층, 남서향햇빛잘들고 올수리 상권교통편리",
+      "price": "2억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "금강 113동매매3억 9,000아파트106/84m², 3/10층, 남동향상권교통편리  완전올수리 협의이사",
+      "price": "3억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.097Z"
+    },
+    {
+      "index": 59,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인금강 118동매매2억 8,000아파트79B/59m², 8/10층, 남서향부분수리, 전망굿, 상업지역인접, 이사협의및조정가부동산뱅크 제공지성공인중개사확인매물 25.07.17.집주인금강 121동전세2억 7,000아파트106/84m², 4/10층, 남서향햇빛잘들고 앞트인동 내부완전올수리 아주깨끗 전세대출가능매경부동산 제공365공인중개사확인매물 25.07.16.집주인금강 109동매매3억 6,000아파트106/84m², 2/10층, 남동향올수리 방2개확장 중문 붙박이장 에이디등교체 가격대폭조정가능 부동산써브 제공거평공인중개사사무소확인매",
+      "price": "2억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:48:37.098Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1882_20250718_024840.png"
+  }
+}

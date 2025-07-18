@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T04:22:31.729217",
+    "complex_id": "2109"
+  },
+  "basic_info": {
+    "complex_id": "2109",
+    "source_url": "https://new.land.naver.com/complexes/2109",
+    "extracted_at": "2025-07-18T03:59:40.487398",
+    "url": "https://new.land.naver.com/complexes/2109?ms=37.737445,127.071216,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:59:38.165Z",
+    "complexId": "2109"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트65A/49m², 5/15층, 동향입주협의, 거실확장, 중문 등 수리되어있음",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.909Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 101동매매1억 5,000아파트65A/49m², 9/15층, 남동향세안고, 샤시포함수리된집, 중문,채광좋음.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트80/60m², 1/15층, 남향샷시포함 완전올수리 중문 상태아주좋음청소만 하셔요 주인거주",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 101동매매1억 5,700아파트80/60m², 4/15층, 남향싱크대, 샷시 수리, 깨끗, 입주 협의",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "신곡현대 101동매매1억 7,500아파트80/60m², 14/15층, 남향정상입주, 올수리 아주 깨끗함.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "신곡현대 102동월세2,000/60아파트80/60m², 6/15층, 남향즉시입주,남향",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 101동매매1억 5,700아파트80/60m², 4/15층, 남서향급매 실입주,월세안고 매매 둘다 협의가능,샷시,주방수리됨.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "신곡현대 101동매매1억 7,000아파트80/60m², 7/15층, 남향화장실.씽크대수리되어있어요",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트66B/49m², 7/15층, 남서향세안고,일부수리,복도창없는타입",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.921Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트65A/49m², 2/15층, 남동향화이트톤의 깔끔한 2인가구 집 세안고",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,000아파트80/60m², 2/15층, 남향남향  앞동 주인거주로 깨끗함 입주 협의",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "신곡현대 101동매매1억 7,500아파트80/60m², 13/15층, 남향샷시까지올수리한집.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "신곡현대 102동매매1억 7,000아파트80/60m², 15/15층, 남향남향.하시입주가능.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트66B/49m², 7/15층, 남동향급매 엘이디등교체  세안고 조정가능",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "신곡현대 101동매매1억 8,000아파트65A/49m², 5/15층, 남향올수리 상태깨끗 빠른입주가",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.924Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트65A/49m², 5/15층, 동향입주협의, 거실확장, 중문 등 수리되어있음매경부동산 제공땡큐공인중개사사무소확인매물 25.07.17.집주인신곡현대 101동매매1억 5,000아파트65A/49m², 9/15층, 남동향세안고, 샤시포함수리된집, 중문,채광좋음.부동산써브 제공장암센스공인중개사사무소확인매물 25.07.14.집주인신곡현대 102동매매1억 5,500아파트80/60m², 1/15층, 남향샷시포함 완전올수리 중문 상태아주좋음청소만 하셔요 주인거주부동산써브 제공장암현대공인중개사사확인매물 2",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.929Z"
+    },
+    {
+      "index": 90,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신곡현대 102동매매1억 5,500아파트65A/49m², 저/15층, 동향입주협의, 거실확장하여 넓음, 중문, 수리되어 깨끗함부동산뱅크 제공다원공인중개사사무소확인매물 25.07.02.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:40.929Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2109_20250718_042228.png"
+  }
+}

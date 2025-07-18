@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:29:21.513638",
+    "complex_id": "1473"
+  },
+  "basic_info": {
+    "complex_id": "1473",
+    "source_url": "https://new.land.naver.com/complexes/1473",
+    "extracted_at": "2025-07-18T00:29:17.155627",
+    "url": "https://new.land.naver.com/complexes/1473?ms=37.38054,126.957503,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:29:15.599Z",
+    "complexId": "1473"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 504동매매7억아파트103/84m², 1/11층, 남동향층간소음없는 조용한 남향동, 학원가접근용이한 단지입니다.",
+      "price": "7억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 506동매매8억아파트103/84m², 7/15층, 남동향샷시포함 올수리,거실 폴딩도어,작은방 확장,입주물",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 501동매매5억 3,000아파트74/56m², 4/15층, 남서향샷시포함특올수리입주물,초품아,학원가인접,",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 503동매매8억아파트103/84m², 9/10층, 남향샷시포함 올인테리어 학원가 도보가 신기초 초근접",
+      "price": "8억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 501동매매4억 9,000아파트74/56m², 15/15층, 남서향",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 506동매매7억 9,000아파트103/84m², 7/15층, 남향입주물, 샤시포함 리모델링, 폴딩도어, 평촌학원가 걸어서",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 501동매매4억 8,000아파트74/56m², 14/15층, 남서향부분수리,정상입주,신기초,평촌학원가 인접",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 503동매매7억 500아파트103/84m², 1/10층, 남향샷시포함올수리,남향로얄동입주,초품아,평촌학원가인접",
+      "price": "7억 500",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 503동매매7억 500아파트103/84m², 1/10층, 남동향주인거주중으로 정상 입주가능 도배 빼고 올 인테리 함",
+      "price": "7억 500",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "무궁화진흥 501동매매4억 8,000아파트74/56m², 7/15층, 서향 뷰좋아요  신기초  깨끗함  학원가도보이동  잘빠진구조",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 502동매매8억아파트103/84m², 8/15층, 남동향로열동입주물, 트인전망, 주인이깨끗이관리",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 504동매매7억아파트103/84m², 저/11층, 남동향신기초,평촌학원가 인접,세안고",
+      "price": "7억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인무궁화진흥 503동매매8억아파트103/84m², 9/10층, 남동향",
+      "price": "8억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.169Z"
+    },
+    {
+      "index": 53,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인무궁화진흥 506동매매8억아파트103/84m², 5/15층, 남동향샷시포함 올수리,거실폴딩도어,입주텐컴즈 제공OK공인중개사사무소확인매물 25.07.15.",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:29:17.170Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1473_20250718_002921.png"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:04:32.390496",
+    "complex_id": "1737"
+  },
+  "basic_info": {
+    "complex_id": "1737",
+    "source_url": "https://new.land.naver.com/complexes/1737",
+    "extracted_at": "2025-07-18T02:04:28.657291",
+    "url": "https://new.land.naver.com/complexes/1737?ms=37.453121,127.146288,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:04:27.336Z",
+    "complexId": "1737"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "수정타운(주상복합)면적84.73㎡68.72㎡ ~ 92.21㎡단지정보",
+      "price": null,
+      "area": "84.73㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "수정면적93.53㎡93.53㎡ ~ 93.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "93.53㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,176만산성역포레스티아매매12억10.5억~23억전세6.5억5.4억~7.9억월세1.7백60만~3.4백면적95㎡77.18㎡ ~ 125.26㎡매매매물만 보기786개 매물이 있습니다.전세매물만 보기128개 매물이 있습니다.월세매물만 보기82개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "12억10",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,730만삼부르네상스파크1(주상복합)매매5.6억3억~5.9억면적107㎡49.42㎡ ~ 127.67㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억3",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,715만셀레스빌(주상복합)매매5.5억5억~6억면적106㎡97.36㎡ ~ 112.25㎡매매매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,745만산성역헤리스톤매매12.05억7.28억~21억면적84㎡66.12㎡ ~ 127.91㎡매매매물만 보기70개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억7",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:28.672Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1737_20250718_020432.png"
+  }
+}

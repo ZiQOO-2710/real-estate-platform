@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:13:17.239694",
+    "complex_id": "1957"
+  },
+  "basic_info": {
+    "complex_id": "1957",
+    "source_url": "https://new.land.naver.com/complexes/1957",
+    "extracted_at": "2025-07-18T03:13:14.127716",
+    "url": "https://new.land.naver.com/complexes/1957?ms=37.325667,126.847991,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:13:12.149Z",
+    "complexId": "1957"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1129동매매3억 2,000아파트71/59m², 1/5층, 남향수리됨,전세안고투자,성포초역세권",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1107동매매3억아파트68/49m², 7/15층, 남향급매,성포초역세권,전세안고,",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1110동월세2,000/75아파트71/59m², 1/5층, 남서향샷시까지 올수리해드림.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1119동매매3억 3,500아파트71/59m², 4/5층, 남향최근 올수리, 신혼부부 추천, 구조좋은 계단식 저층아파트",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1114동매매3억 3,000아파트71/59m², 2/5층, 남향급매,조정됨.,이사협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1101동매매3억 5,000아파트79/58m², 저/15층, 남향방3,욕실1,베란다1  일부수리 완료  전세안고 투자매물",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1107동매매3억 1,000아파트68/49m², 14/15층, 남향샤시포함올수리,전세안고",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1104동매매3억 5,000아파트79/58m², 9/15층, 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1104동매매3억 3,000아파트79/58m², 1/15층, 남향조정됨,샤시포함올수리,공실",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공11단지 1106동매매2억 7,500아파트68/49m², 6/15층, 남향",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공11단지 1103동매매3억 4,000아파트79/58m², 12/15층, 남향급매,부분수리,입주됨",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1125동매매2억 9,000아파트71/59m², 5/5층, 남향추천 실거주 매물 이사협의 거실확장 샷시 컨디션 좋음",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공11단지 1104동매매3억 5,000아파트79/58m², 4/15층, 남향성포역초역세권,수리됨.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공11단지 1109동월세2,000/70아파트79/58m², 1/15층, 남향내부올수리됨.빠른이사됨",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1105동월세5,000/40아파트68/49m², 3/15층, 남향방2,욕실1,베란다1  상태 깔끔",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1131동매매3억 1,000아파트71/59m², 5/5층, 남향전체 올수리, 이사협의",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.141Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1130동매매3억 5,000아파트71/59m², 2/5층, 남향입주가능  화장실 수리  내부상태 양호",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.142Z"
+    },
+    {
+      "index": 134,
+      "selector": "[class*=\"item\"]",
+      "text": "주공11단지 1104동매매3억 5,000아파트79/58m², 5/15층, 남향전망최고.성포역초역세권텐컴즈 제공LG공인중개사사무소확인매물 25.07.10.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:14.143Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1957_20250718_031317.png"
+  }
+}

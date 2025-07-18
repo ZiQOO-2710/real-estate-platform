@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:59:17.852343",
+    "complex_id": "2107"
+  },
+  "basic_info": {
+    "complex_id": "2107",
+    "source_url": "https://new.land.naver.com/complexes/2107",
+    "extracted_at": "2025-07-18T03:59:11.249791",
+    "url": "https://new.land.naver.com/complexes/2107?ms=37.74193,127.05786,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:59:09.314Z",
+    "complexId": "2107"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 106동매매4억 2,000아파트124/101m², 9/16층, 남향남향 초중학교근접 서울출퇴근편리 수리된집",
+      "price": "4억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.325Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 108동매매4억 5,000아파트124/101m², 13/16층, 남향최선호동,층이며,라인 매우 좋고.곰팡이 없이 관리 잘된 집입니다.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 106동매매4억아파트124/101m², 2/16층, 남동향주인거주잘관리된집 I 최근샷시수리완료.내부상태굿 I 입주협의",
+      "price": "4억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 107동매매4억 7,000아파트124/101m², 8/16층, 남동향올수리된집 의정부역근접 경전철근접 학군우수 남향",
+      "price": "4억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 110동매매4억 5,000아파트161/134m², 4/11층, 남향주인거주 입주협의",
+      "price": "4억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 105동매매4억 1,000아파트124/101m², 1/16층, 남향외부샷시 교체  부분수리됨 집상태 깨끗 추천",
+      "price": "4억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 109동매매4억 3,500아파트161/134m², 1/16층, 남동향올수리된집 의정부역근접 경전철근접 학군우수 남향",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 110동매매4억 5,000아파트161/134m², 저/11층, 남향상태깨끗,부분수리,방1확장,거실확장,확장샤시,입주정상.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 105동매매4억 2,000아파트124/101m², 9/16층, 남향주인거주,상태깨끗,초,중학교도보5분,입지굿",
+      "price": "4억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.329Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 109동매매4억 6,000아파트161/134m², 3/16층, 남동향오래전수리 상태아주좋아요 보기편해요",
+      "price": "4억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 110동매매4억 5,000아파트161/134m², 중/11층, 남동향급매. 교통학군위치 굿. 샷시교체. 밝고 수리깨끗.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 109동매매4억 9,000아파트161/134m², 저/16층, 남동향교통학군등 조용하여 살기좋고 올수리됨.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 105동매매4억 2,000아파트124/101m², 중/16층, 남향야경이 아름다운집, 올확장, 전망좋아요 내부깨끗",
+      "price": "4억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 107동매매4억 7,000아파트161/134m², 저/16층, 남동향정상입주 샷시빼고수리함",
+      "price": "4억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 109동매매4억 7,000아파트161/134m², 저/16층, 남향6년전 샤시포함 올수리,상태깨끗,주인거주",
+      "price": "4억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 107동매매4억 7,000아파트161/134m², 저/16층, 남향2년전 샤시빼고 수리, 주인거주, 입지굿, 초,중학교도보5분, 투자추천",
+      "price": "4억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인신곡은하수 106동매매4억 6,000아파트124/101m², 고/16층, 남향샤시교체포함  특올수리, 확장되어 있지 않아 베란다 활용 굿",
+      "price": "4억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:11.330Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2107_20250718_035914.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:24:24.835172",
+    "complex_id": "1265"
+  },
+  "basic_info": {
+    "complex_id": "1265",
+    "source_url": "https://new.land.naver.com/complexes/1265",
+    "extracted_at": "2025-07-17T23:24:22.524215",
+    "url": "https://new.land.naver.com/complexes/1265?ms=37.500072,126.892002,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:24:20.992Z",
+    "complexId": "1265"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 2,000아파트112B/84m², 15/22층, 남서향정상입주.주인거주 수리되어 집상태 깨끗.햇빛 잘들고 전망좋은 남향집",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매5억 2,000아파트79/59m², 저/22층, 남서향깨끗 공원뷰 방2화1  신도림역도보10분 지하주차장",
+      "price": "5억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 4,000아파트111A/84m², 중/22층, 남서향방3화2 수리되어 깨끗 볕 잘 드는 남향집 자주식 지하주차장 이용",
+      "price": "6억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매5억 1,000아파트79/59m², 17/22층, 남서향거실확장 부분수리  거리공원뷰 전망좋은 남서향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 5,000아파트112B/84m², 고/22층, 남서향올수리 관리잘된집  로얄층 거리공원조망 채광굿 지하주차 1,2,7호선인접",
+      "price": "6억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매5억 500아파트79/59m², 7/22층, 남서향컨디션좋아요 욕실씽크대수리 깨끗 깔끔 조정가 거리공원및 1.2.7호선인접",
+      "price": "5억 500",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 2,000아파트112B/84m², 6/22층, 남서향특A급올수리 방3화2 도배만 새로하면 되는 깔끔한 남향집 지하주차장이용굿",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매5억 1,000아파트79/59m², 7/22층, 남서향신혼강추 욕실 씽크대 교체되어 깨끗 남향이라 집 환하고 밝아요",
+      "price": "5억 1",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 2,000아파트112B/84m², 6/22층, 남서향방3화2 특A급올수리 급매  집상태 최상 빠른입주가능 지하주차장굿",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 5,000아파트112B/84m², 20/22층, 남서향특올수리 남향 볕 잘드는 집 거리공원뷰 지하주차장 이용편리",
+      "price": "6억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.537Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 5,000아파트112B/84m², 8/22층, 남서향전망 채광우수 신도림역세권 입주협의",
+      "price": "6억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.538Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인금호(주상복합) 1동매매6억 5,000아파트112B/84m², 20/22층, 남서향올수리 집좋아요 공원뷰 방3화2",
+      "price": "6억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.538Z"
+    },
+    {
+      "index": 39,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인금호(주상복합) 1동매매6억 2,000아파트112B/84m², 15/22층, 남서향정상입주.주인거주 수리되어 집상태 깨끗.햇빛 잘들고 전망좋은 남향집부동산뱅크 제공명문공인중개사사무소확인매물 25.07.12.집주인금호(주상복합) 1동매매5억 2,000아파트79/59m², 저/22층, 남서향깨끗 공원뷰 방2화1  신도림역도보10분 지하주차장매경부동산 제공대성공인중개사사무소확인매물 25.07.14.집주인금호(주상복합) 1동매매6억 4,000아파트111A/84m², 중/22층, 남서향방3화2 수리되어 깨끗 볕 잘 드는 남향집 자주식 ",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:24:22.538Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1265_20250717_232424.png"
+  }
+}

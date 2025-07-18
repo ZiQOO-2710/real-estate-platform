@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:09:37.560360",
+    "complex_id": "1019"
+  },
+  "basic_info": {
+    "complex_id": "1019",
+    "source_url": "https://new.land.naver.com/complexes/1019",
+    "extracted_at": "2025-07-17T22:09:33.734855",
+    "url": "https://new.land.naver.com/complexes/1019?ms=37.553409,126.86688,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:09:32.236Z",
+    "complexId": "1019"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태영송화 101동매매11억 9,000아파트143/114m², 9/18층, 남동향9호선 등촌역 도보5분 상태깨끗 염창초중 학군우수 입주협의",
+      "price": "11억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태영송화 104동매매7억 4,000아파트86/59m², 2/18층, 동향입주 깨끗함 9호선 등촌역5분 염창초5분 지하2층주차장연결",
+      "price": "7억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인태영송화 101동매매11억 5,000아파트143/114m², 1/18층, 남동향급매추천 샷시포함특올수리 깨끗해요 시스템에어컨4대 9호선등촌역세권",
+      "price": "11억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인태영송화 103동매매14억아파트143/114m², 11/18층, 남동향특올수리 거실확장 전망좋음 등촌역도보4분거리 입주가능",
+      "price": "14억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인태영송화 104동매매9억 8,000아파트109/84m², 8/18층, 남서향9호선 등촌역 도보4분 교통편리 초중교인근 교육환경이 좋음 정상 입주가능",
+      "price": "9억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인태영송화 104동매매7억 8,000아파트86/59m², 16/18층, 남동향정상 입주가능 등촌역 도보4분 교통편리 초중교인근이 올수리 확장",
+      "price": "7억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:33.745Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1019_20250717_220937.png"
+  }
+}

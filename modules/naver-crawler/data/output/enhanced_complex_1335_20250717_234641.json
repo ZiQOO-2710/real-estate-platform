@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:46:41.939596",
+    "complex_id": "1335"
+  },
+  "basic_info": {
+    "complex_id": "1335",
+    "source_url": "https://new.land.naver.com/complexes/1335",
+    "extracted_at": "2025-07-17T23:46:36.927328",
+    "url": "https://new.land.naver.com/complexes/1335?ms=37.545828,127.13482,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:46:34.310Z",
+    "complexId": "1335"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한신 1동매매6억 2,000아파트76D/57m², 3/14층, 남향모아타운 추진 중인 남향으로 살기좋은 갭투자 가능한 아파트",
+      "price": "6억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.937Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한신 1동매매4억 6,000아파트49/37m², 고/14층, 동향모아타운진행중 전세 안고갭투자가능",
+      "price": "4억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.937Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한신 2동매매7억 9,000아파트106B/82m², 중/15층, 남향모아타운 추진 중인 로열층 남향으로 깨끗하게 수리된 살기좋은 아파트",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.937Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한신 1동월세5,500/120아파트76D1/58m², 2/14층, 남향남향 깨끗하고밝은집 오래거주",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:46:36.937Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한신 2동매매5억 3,000아파트62/46m², 중/15층, 남향모아타운3구역 추진  입주, 투자 모두가능",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.937Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "한신 1동월세5,500/130아파트76D1/58m², 2/14층, 동향올수리 신혼부부 거주 강추",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "한신 2동매매4억 9,000아파트49/37m², 중/15층, 남향모아타운 추진 중인 로열층 남향으로 갭투자 가능한 아파트",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "한신 1동매매5억 5,000아파트62/46m², 중/14층, 동향모아타운3구역 추진 입주, 투자 모두가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "한신 1동월세12억/90아파트76D1/58m², 저/14층, 남향수리,깨끗",
+      "price": "12억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체49㎡62㎡76D㎡76D1㎡106B㎡107C㎡108A㎡",
+      "price": null,
+      "area": "49㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한신 1동매매6억 2,000아파트76D/57m², 3/14층, 남향모아타운 추진 중인 남향으로 살기좋은 갭투자 가능한 아파트부동산114 제공한신공인중개사사무소확인매물 25.07.14.집주인한신 1동매매4억 6,000아파트49/37m², 고/14층, 동향모아타운진행중 전세 안고갭투자가능 매경부동산 제공대명컨설팅공인중개사사무소확인매물 25.07.17.집주인한신 2동매매7억 9,000아파트106B/82m², 중/15층, 남향모아타운 추진 중인 로열층 남향으로 깨끗하게 수리된 살기좋은 아파트부동산114 제공한신공인중개사사무소확인매물 ",
+      "price": "6억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:36.938Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1335_20250717_234641.png"
+  }
+}

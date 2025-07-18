@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:57:22.424793",
+    "complex_id": "1714"
+  },
+  "basic_info": {
+    "complex_id": "1714",
+    "source_url": "https://new.land.naver.com/complexes/1714",
+    "extracted_at": "2025-07-18T01:57:18.520275",
+    "url": "https://new.land.naver.com/complexes/1714?ms=37.47828,126.78158,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:57:17.127Z",
+    "complexId": "1714"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태경삼익 A동매매4억 8,000아파트109/83m², 7/10층, 남서향올수리된역세권아파트,현재재건축진행중,투자물건,세안고매매",
+      "price": "4억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.535Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태경삼익 B동매매2억 6,000아파트74/52m², 7/9층, 서향부천역도보7분,재건축추진중,집깨끗함,급매물건",
+      "price": "2억 6",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.535Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "태경삼익 A동매매4억 5,000아파트105/80m², 9/10층, 서향재건축 추진중 안전진단 통과. 전체 수리됨. 부천역10분",
+      "price": "4억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.535Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,161만태경삼익매매2.6억2.6억~4.8억면적74㎡74.13㎡ ~ 109.83㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억2",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,566만신진딜문힐매매4.5억4.5억면적95㎡95.99㎡ ~ 95.99㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "5억4",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,359만부천극동매매3억2.8억~5억전세1.9억1.9억~2.6억월세70만70만면적73㎡73.7㎡ ~ 107.25㎡매매매물만 보기28개 매물이 있습니다.전세매물만 보기9개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,128만부천롯데매매2.9억2.6억~6.8억전세2억2억~2.5억면적85㎡85.52㎡ ~ 185.73㎡매매매물만 보기26개 매물이 있습니다.전세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억2",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "느보하임면적81.42㎡46.2㎡ ~ 90.83㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "81.42㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,161만광희매매1.65억1.6억~1.7억면적47㎡47.8㎡ ~ 47.8㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억1",
+      "area": "47㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "경원면적69.16㎡69.16㎡ ~ 69.16㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "69.16㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "939만아남매매2.5억2.5억~3.6억전세1.9억1.9억~2.5억월세-30만면적88㎡88㎡ ~ 107.06㎡매매매물만 보기34개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,061만금강매매2.6억2.5억~2.7억면적81㎡81.55㎡ ~ 81.55㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억2",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:57:18.537Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1714_20250718_015722.png"
+  }
+}

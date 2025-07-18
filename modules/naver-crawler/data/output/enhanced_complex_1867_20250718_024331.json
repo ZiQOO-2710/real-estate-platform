@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:43:31.136928",
+    "complex_id": "1867"
+  },
+  "basic_info": {
+    "complex_id": "1867",
+    "source_url": "https://new.land.naver.com/complexes/1867",
+    "extracted_at": "2025-07-18T02:43:25.857985",
+    "url": "https://new.land.naver.com/complexes/1867?ms=37.44156,126.799015,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:43:24.738Z",
+    "complexId": "1867"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동매매3억 9,500아파트99/78m², 2/19층, 남동향빠른 입주 가능.욕실수리함, 초.중고.인접",
+      "price": "3억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.870Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대우그린 101동매매3억 2,000아파트79/59m², 8/19층, 남향료얄층 중간라인 욕실,씽크대 수리, 은행초, 중,고 인접",
+      "price": "3억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동매매3억 9,500아파트99/78m², 2/19층, 남향욕실 수리,비확장, 기본형 은행초,중,고 인접,",
+      "price": "3억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인대우그린 104동매매3억 4,800아파트79/59m², 16/19층, 남동향시원한 공원전망 내외부샷시 교체 작은방확장 로얄층수리됨",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대우그린 105동매매4억 5,000아파트99/78m², 11/19층, 남서향좋은 층수. 해 잘드는 집. 일부 수리. 작은방 1확장",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동매매4억 1,000아파트99/78m², 10/19층, 남향부분수리 앞이 트인 시원한뷰 매매가조절가 입주협의",
+      "price": "4억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인대우그린 102동매매3억 4,000아파트79/59m², 20/20층, 동향뻥뷰 뷰가이쁜집 입주협의이며 매가조절가",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동월세8,000/110아파트99/78m², 1/19층, 남서향전체 특수리, 입주가능, 공실, 학세권, 숲세권, 상업지역이용편리",
+      "price": null,
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동전세3억 4,000아파트99/78m², 1/19층, 남서향1층 전세매물 특인테리어잘된집 입주는 상시가능  사생활침해적은라인",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인대우그린 101동매매3억 2,000아파트79/59m², 12/19층, 남서향수리되어깨끗 입주협의 매가조절가",
+      "price": "3억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인대우그린 105동매매4억 3,000아파트99/78m², 18/19층, 남서향내부샷시 포함 특올수리, 공원전망. 입주협의. 거실 방1확장",
+      "price": "4억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동매매4억아파트99/78m², 2/19층, 남서향주인 직접 거주, 깨끗함, 초 중 고 인접한 단지 , 조용한 단지",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인대우그린 105동매매4억 3,000아파트99/78m², 18/19층, 남동향올수리, 거실확장, 방확장, 전망좋음, 상태 아주 좋아요",
+      "price": "4억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인대우그린 103동매매3억 9,800아파트99/78m², 고/19층, 남향입주협의",
+      "price": "3억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인대우그린 101동매매3억 2,000아파트79/59m², 8/19층, 남동향초중고 인접위치로 안전등하교 부분수리된 주인거주세대로 내부상태 좋아요",
+      "price": "3억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:25.871Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1867_20250718_024330.png"
+  }
+}

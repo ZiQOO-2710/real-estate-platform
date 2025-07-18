@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:29:12.526593",
+    "complex_id": "1085"
+  },
+  "basic_info": {
+    "complex_id": "1085",
+    "source_url": "https://new.land.naver.com/complexes/1085",
+    "extracted_at": "2025-07-17T22:29:08.987210",
+    "url": "https://new.land.naver.com/complexes/1085?ms=37.624358,127.071265,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:29:07.567Z",
+    "complexId": "1085"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매7억아파트114/84m², 6/17층, 동향공릉역초역세권  깨끗",
+      "price": "7억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매5억 6,000아파트114/84m², 8/17층, 동향급매 아주저렴해요 로얄동로얄층 씽크대교체함 전철공릉역5분거리 지하엘베연결",
+      "price": "5억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매5억아파트81/59m², 8/17층, 동향입주일협의 깨끗 7호선공릉역세권",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매5억아파트81/59m², 3/17층, 동향공릉역, 역세권 , 전세끼고, 갭투자",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매6억 5,000아파트114/84m², 13/17층, 동향공릉역7호선2분거리 초역세권아파트",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "건영 1동매매5억아파트81/59m², 저/17층, 동향역세권, 주인거주, 입주일협의",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인건영 1동전세4억 7,000아파트143/106m², 2/17층, 남향역세권아파트.아주깨끗.정상입주.융무",
+      "price": "4억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인건영 1동매매5억 6,000아파트114/84m², 중/17층, 동향급매 주인거주 역세권 입주일협의",
+      "price": "5억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "건영 1동매매5억아파트81/59m², 2/17층, 동향공릉역 도보 5분거리 급매 입주 가능한 물건입니다",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "건영 1동매매7억아파트114/84m², 16/17층, 동향주인거주 로얄층 입주일협의",
+      "price": "7억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.998Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1085_20250717_222912.png"
+  }
+}

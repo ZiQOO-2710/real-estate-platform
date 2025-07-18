@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:29:14.029248",
+    "complex_id": "1821"
+  },
+  "basic_info": {
+    "complex_id": "1821",
+    "source_url": "https://new.land.naver.com/complexes/1821",
+    "extracted_at": "2025-07-18T02:29:10.152932",
+    "url": "https://new.land.naver.com/complexes/1821?ms=37.384173,127.126891,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:29:08.814Z",
+    "complexId": "1821"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 110동월세8억/130아파트231/192m², 8/28층, 남서향70  특올수리  입주협의가능합니다",
+      "price": "8억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 131동매매23억 5,000아파트161/133m², 5/15층, 남동향올수리   융무  서현초앞 재건축투자 주인거주로입주도 가능합니다.",
+      "price": "23억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 127동전세10억아파트161/133m², 14/16층, 남동향전망이 좋으며 특올수리 되어있습니다",
+      "price": "10억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 120동월세3억/120아파트73/59m², 4/5층, 남동향샷시포함 전체올수리,로얄동,서현역가까운동,하시,정상",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 131동매매23억 5,000아파트161/133m², 13/15층, 남동향49,방4,예전올수리,서현초 인근,입주가능,투자추천합니다.",
+      "price": "23억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 132동전세8억 1,000아파트161/133m², 4/16층, 남서향특올수리  전망라인  보증금일부월세가능  입주날짜협의됩니다",
+      "price": "8억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 122동전세6억 5,000아파트107/84m², 1/10층, 남서향내부올수리 밝은 집 초역세권 입주일 협의가능합니다",
+      "price": "6억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 115동전세6억아파트107/84m², 1/15층, 남동향2년전샷시포함특올수리,전세대출불가,1024 입주",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 109동매매29억아파트231/192m², 22/28층, 남서향70. 서현역세권 시원한전망 거실발코니확장올수리 방6화3",
+      "price": "29억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 115동월세2억 5,000/180아파트107/84m², 12/15층, 남동향특올수리되어있으며 8월1일 이후부터 입주가능합니다",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 109동매매27억 5,000아파트231/192m², 17/28층, 남서향70  확장올수리  시원한전망   입주협의가능합니다",
+      "price": "27억 5",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼성,한신 112동매매21억 5,000아파트107/84m², 11/23층, 남서향전망이 아주 좋으며 집수리가 되어있습니다",
+      "price": "21억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "삼성,한신 101동전세4억 5,000아파트73/59m², 1/5층, 남서향예전올수리 도배해줌 밝은 집 9월10일전 융자없습니다",
+      "price": "4억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "삼성,한신 111동전세13억아파트231/192m², 5/28층, 남서향70 .완벽수리최근샷시포함전체특  전망  입주일협의",
+      "price": "13억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:29:10.167Z"
+    },
+    {
+      "index": 73,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인삼성,한신 110동월세8억/130아파트231/192m², 8/28층, 남서향70  특올수리  입주협의가능합니다부동산뱅크 제공유진공인중개사사무소확인매물 25.07.16.집주인삼성,한신 131동매매23억 5,000아파트161/133m², 5/15층, 남동향올수리   융무  서현초앞 재건축투자 주인거주로입주도 가능합니다.매경부동산 제공굿모닝공인중개사사무소확인매물 25.07.15.집주인삼성,한신 127동전세10억아파트161/133m², 14/16층, 남동향전망이 좋으며 특올수리 되어있습니다매경부동산 제공국제공인중개사사무소확인매물 25",
+      "price": "8억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:29:10.168Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1821_20250718_022913.png"
+  }
+}

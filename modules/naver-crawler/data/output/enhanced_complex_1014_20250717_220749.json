@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:07:49.241479",
+    "complex_id": "1014"
+  },
+  "basic_info": {
+    "complex_id": "1014",
+    "source_url": "https://new.land.naver.com/complexes/1014",
+    "extracted_at": "2025-07-17T22:07:43.709589",
+    "url": "https://new.land.naver.com/complexes/1014?ms=37.569999,126.849332,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:07:41.308Z",
+    "complexId": "1014"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인가양중앙하이츠 103동매매10억아파트151/119m², 1/16층, 남동향특올수리  입주가능 공원초인접",
+      "price": "10억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.720Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인가양중앙하이츠 103동전세6억 9,000아파트151/119m², 8/16층, 남동향전체 올수리, 뷰 좋음,입주 날짜 협의",
+      "price": "6억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:07:43.720Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 102동매매12억아파트151/119m², 8/17층, 남향9호선역세권 한강조망 남향 최근샷시포함특올수리 세안고",
+      "price": "12억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.720Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 103동매매11억 5,000아파트151/119m², 5/16층, 남동향내부올수리,주인거주중이라 아주깨끗하고,한강조망살짝보입니다.",
+      "price": "11억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.720Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 101동월세3억 5,000/150아파트151/119m², 10/16층, 남동향한강조망,산책로 근접,수리 깨끗, 입주협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인가양중앙하이츠 102동매매12억 3,000아파트151/119m², 고/17층, 남향남향,한강뷰 좋음,입주 협의",
+      "price": "12억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 101동매매12억 5,000아파트151/119m², 14/16층, 남동향9호선역세권 한강조망 올수리 입주협의 가능함",
+      "price": "12억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 101동전세6억 7,000아파트151/119m², 10/16층, 남동향주인거주중 상호협의 깨끗한집 한강변 아파트 한강조망",
+      "price": "6억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 101동매매12억 5,000아파트151/119m², 10/16층, 남동향입주협의가능 한강변아파트 cj공장부지개발호재",
+      "price": "12억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 102동매매12억 3,000아파트151/119m², 15/17층, 남서향정상입주 협의가능 cj공장부지개발호재 한강변아파트",
+      "price": "12억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 102동매매12억아파트151/119m², 8/17층, 남서향샷시포함특올수리 전세안고매매",
+      "price": "12억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "가양중앙하이츠 103동매매10억아파트151/119m², 저/16층, 남향공원 인접한 대형 평수 아파트",
+      "price": "10억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.721Z"
+    },
+    {
+      "index": 39,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인가양중앙하이츠 103동매매10억아파트151/119m², 1/16층, 남동향특올수리  입주가능 공원초인접매경부동산 제공조은공인중개사사무소확인매물 25.07.11.집주인가양중앙하이츠 103동전세6억 9,000아파트151/119m², 8/16층, 남동향전체 올수리, 뷰 좋음,입주 날짜 협의우리집부동산 제공늘푸른부동산공인중개사사무소확인매물 25.07.09.가양중앙하이츠 102동매매12억아파트151/119m², 8/17층, 남향9호선역세권 한강조망 남향 최근샷시포함특올수리 세안고한경부동산 제공연세공인중개사사무소확인매물 25.07.17.",
+      "price": "10억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:07:43.722Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1014_20250717_220749.png"
+  }
+}

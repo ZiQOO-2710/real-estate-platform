@@ -1,0 +1,248 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:16:43.952570",
+    "complex_id": "178"
+  },
+  "basic_info": {
+    "complex_id": "178",
+    "source_url": "https://new.land.naver.com/complexes/178",
+    "extracted_at": "2025-07-18T02:16:41.509918",
+    "url": "https://new.land.naver.com/complexes/178?ms=37.62542,127.08266,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:16:40.360Z",
+    "complexId": "178"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,168만공릉삼익2차매매5.05억3.2억~6.8억면적77㎡47.42㎡ ~ 118.38㎡매매매물만 보기17개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억3",
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,578만태릉해링턴플레이스매매10.5억8.2억~14.7억전세6.5억6.4억~8.5억월세1.8백1.6백~1.8백면적97㎡80.98㎡ ~ 110.54㎡매매매물만 보기123개 매물이 있습니다.전세매물만 보기25개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "97㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,269만동부매매7억4.99억~9.8억면적102㎡81.67㎡ ~ 136.07㎡매매매물만 보기38개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억4",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,277만공릉8단지청솔매매7.3억7.2억~8.6억면적106㎡106.62㎡ ~ 106.85㎡매매매물만 보기42개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억7",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,026만태릉현대홈타운스위트1단지매매13억13억~13.5억전세-7.5억~8억면적142㎡142.86㎡ ~ 161.93㎡매매매물만 보기5개 매물이 있습니다.전세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "13억13",
+      "area": "142㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,843만임성매매6.8억6.8억면적122㎡122.1㎡ ~ 122.1㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억6",
+      "area": "122㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,078만공릉미소지움매매6.6억6.6억~8.2억면적105㎡105.52㎡ ~ 132.65㎡매매매물만 보기58개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억6",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,440만공릉해링턴플레이스매매9.3억8.8억~13억월세1.6백1.5백~1.6백면적126㎡126.75㎡ ~ 164.73㎡매매매물만 보기44개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억8",
+      "area": "126㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "주완위즈빌2(주상복합)면적86.92㎡86.92㎡ ~ 160.11㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "86.92㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,040만한진매매5.8억5억~5.8억면적94㎡94.75㎡ ~ 130.19㎡매매매물만 보기14개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,177만현대성우매매5.4억4.9억~8.5억전세3.5억3.5억면적82㎡82.15㎡ ~ 107.93㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,873만우성(태릉)매매7.3억6.9억~9억전세3.8억3.7억~4.5억월세1.2백1.2백~1.5백면적84㎡84.1㎡ ~ 105.4㎡매매매물만 보기36개 매물이 있습니다.전세매물만 보기24개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억6",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,539만태강매매5.3억4.8억~6.6억전세3.5억3.1억~3.8억월세1백14만~1.1백면적69㎡69.32㎡ ~ 83.04㎡매매매물만 보기111개 매물이 있습니다.전세매물만 보기11개 매물이 있습니다.월세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억4",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "서로퍼스트빌(주상복합)면적80.37㎡80.37㎡ ~ 107.62㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "80.37㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,788만하늘공원매매5.3억5.25억~5.5억면적98㎡96.88㎡ ~ 98.25㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억5",
+      "area": "98㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "탑스빌(504-7)면적95.6㎡81.42㎡ ~ 95.6㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "95.6㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "주완위즈빌(주상복합)면적86.68㎡82.14㎡ ~ 105.43㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "86.68㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "윤탁노블레스(주상복합)면적112.17㎡101.44㎡ ~ 112.17㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "112.17㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,244만화랑해링턴플레이스아파트매매7.4억7.2억~8.5억면적109㎡109.05㎡ ~ 156.89㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억7",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,066만삼익포레스트매매4.5억4.25억~9.2억전세-5억~6억면적72㎡72.23㎡ ~ 139.2㎡매매매물만 보기77개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,127만공릉한보에센시티매매6.95억5.2억~8.6억면적108㎡84.87㎡ ~ 142㎡매매매물만 보기56개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억5",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:41.519Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 22,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_178_20250718_021643.png"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:38:08.345971",
+    "complex_id": "1112"
+  },
+  "basic_info": {
+    "complex_id": "1112",
+    "source_url": "https://new.land.naver.com/complexes/1112",
+    "extracted_at": "2025-07-17T22:38:04.142072",
+    "url": "https://new.land.naver.com/complexes/1112?ms=37.654415,127.073395,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:38:02.022Z",
+    "complexId": "1112"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 103동매매9억 500아파트108/85m², 8/19층, 남향샷시포함올수리 조용한남향 세안고협의 엘베지하연결단지 중계중바로앞",
+      "price": "9억 500",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.150Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동매매6억 3,000아파트85/59m², 11/19층, 남동향수리기간제공할수있는 빠른입주 가능한집입니다",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동전세3억 9,000아파트85/59m², 8/19층, 동향수리되어 있으며 언제든지 입주 가능합니다.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동매매6억 3,000아파트85/59m², 7/19층, 동향내부확장 전체올수리됨 불암산뷰와 채광이 좋으며 입주추천 매물입니다",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동매매6억아파트85/59m², 19/19층, 남동향탁트인불암산전망굿 수리되어 깨끗  주차장연결",
+      "price": "6억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동매매6억 6,000아파트85/59m², 9/19층, 동향전체올수리,전망,원광초,중계중,학원가",
+      "price": "6억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 101동매매6억 3,000아파트85/59m², 4/19층, 남향남향의 계단식 단독라인으로 수리된 입주가능한 매물입니다.",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 102동매매9억아파트108/85m², 12/19층, 남동향학군우수 주차장연결  탁트인전망과 불암산뷰",
+      "price": "9억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 102동매매8억 9,500아파트108/85m², 18/19층, 남동향불암산조망 탁트인 로얄동층 세안고 추천매물 엘베지하연결단지",
+      "price": "8억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인벽산3차 102동매매8억 6,000아파트108/85m², 3/19층, 남동향세안고수리되어있으며 원광초학군 학원가인접",
+      "price": "8억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.151Z"
+    },
+    {
+      "index": 115,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인벽산3차 101동매매6억 5,000아파트85/59m², 4/19층, 동향원광초,을지,중계중,학원가매경부동산 제공성원(933-4949)공인중개사사무소확인매물 25.07.07.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:04.152Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1112_20250717_223808.png"
+  }
+}

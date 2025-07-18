@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:07:13.040593",
+    "complex_id": "1208"
+  },
+  "basic_info": {
+    "complex_id": "1208",
+    "source_url": "https://new.land.naver.com/complexes/1208",
+    "extracted_at": "2025-07-17T23:07:08.165190",
+    "url": "https://new.land.naver.com/complexes/1208?ms=37.508335,126.865492,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:07:06.539Z",
+    "complexId": "1208"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매8억 3,000아파트108/84m², 10/19층, 남향급매.목동학군.올수리.집컨디션 최상.입주가능.햇살가득한집",
+      "price": "8억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매8억 4,000아파트108/84m², 9/19층, 남향",
+      "price": "8억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동전세4억 7,000아파트91/59m², 15/19층, 남동향2년전특올수리.거실확장.햇살좋은 최고층뷰확보.목동학군.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매7억 2,000아파트91/59m², 8/19층, 남서향특올수리 폴딩도어 잔금일협의 잔금조건편하게 됨 상태좋습니다",
+      "price": "7억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매9억 3,000아파트144/114m², 6/19층, 남향급매저렴 남향 확장 봉영목일배정 주인거주 깨끗함",
+      "price": "9억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매10억아파트91/59m², 3/19층, 남서향특올수리,거실확장,",
+      "price": "10억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동전세5억 5,000아파트91/59m², 3/19층, 남동향사진o, 거실 베란다 확장, 화장실 리모델링 완료 , 목동인기학군",
+      "price": "5억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인목동우성3차 301동매매7억 3,000아파트91/59m², 15/19층, 남동향특올수리.로얄층뷰확보.관리도최상.입주하시가능.목동학군.",
+      "price": "7억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "목동우성3차 301동매매9억 3,000아파트144/114m², 6/19층, 남동향43목동학군,비확장 구수리 깔끔,주차편함",
+      "price": "9억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "목동우성3차 301동전세5억 5,000아파트91/59m², 3/19층, 남향27 샷시포함 확장 특올수리 입주협의 목동학군",
+      "price": "5억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "목동우성3차 301동매매6억 8,000아파트91/59m², 1/19층, 남동향기본깨끗함 조율가능 주인거주 1층 아이키우기좋아요",
+      "price": "6억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "목동우성3차 301동매매7억 3,000아파트91/59m², 13/19층, 남향확장 특올수리 트인전망 입주협의 세안고 매매  26년9월만기",
+      "price": "7억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "목동우성3차 301동매매7억 2,000아파트91/59m², 저/19층, 남서향주인거주로 깨끗, 일부수리됨, 입주협의",
+      "price": "7억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:08.176Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1208_20250717_230712.png"
+  }
+}

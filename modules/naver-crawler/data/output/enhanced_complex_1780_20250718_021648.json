@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:16:48.626961",
+    "complex_id": "1780"
+  },
+  "basic_info": {
+    "complex_id": "1780",
+    "source_url": "https://new.land.naver.com/complexes/1780",
+    "extracted_at": "2025-07-18T02:16:44.259821",
+    "url": "https://new.land.naver.com/complexes/1780?ms=37.2697,126.95297,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:16:43.185Z",
+    "complexId": "1780"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매3억아파트102/83m², 2/19층, 남서향저층이지만 앞동이 없어서 밝고 아늑한곳으로 샷시 교체되어 있고 일부수리됨",
+      "price": "3억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동매매3억 5,000아파트102/83m², 11/19층, 남서향샷시교체및 올수리해서 신혼부부 거주하는 예쁜집 밝고 조망권 좋은곳",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동전세2억 3,000아파트102/83m², 9/19층, 남서향샷시교체및 수리된 집으로 주인분 관리 잘하며 거주하는곳",
+      "price": "2억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매3억 5,000아파트102/83m², 8/19층, 남향남향집이며 샷시포함 올수리 정상입주",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매3억 1,000아파트102/83m², 2/19층, 남향저층이지만 앞이 막히지 않아 햇살 잘 들어오며 밝고 환한 집,부분수리됨",
+      "price": "3억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신미주 103동매매2억 5,000아파트81/59m², 12/19층, 남향남향집이며  내부개끗 합니다",
+      "price": "2억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매3억 3,000아파트102/83m², 10/19층, 남향조망권좋으며 남향집이며 일부수리되어 잇어요 조정가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동매매3억 4,000아파트102/83m², 8/19층, 남향겨울에 햇빛잘드고 여름에 시원한 남향집",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매4억 2,000아파트102/83m², 18/19층, 남서향올리모델링,보일러교체,이중창샷시, 잠금형방충망, 거실확장, 붙박이장 설치",
+      "price": "4억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동매매3억 1,500아파트102/83m², 6/19층, 서향화장실 등 부분수리, 보일러 교체된 상태 좋은 매물, 가격 입주협의가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신미주 103동전세2억아파트81/59m², 12/19층, 남향샷시포함올수리,수리후첫입주,남향,입주일협의가",
+      "price": "2억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동매매3억 4,000아파트102/83m², 8/19층, 남서향밝고 채광좋은 곳으로 현 공실이라 계약이후 공사기간도  줄수있어요.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신미주 101동매매3억 4,000아파트102/83m², 5/19층, 남서향거실확장 올수리 6월 입주협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신미주 103동매매3억아파트81/59m², 18/19층, 남향남향, 완전올수리, 샤시포함, 입주가능",
+      "price": "3억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인신미주 102동매매3억 5,000아파트102/83m², 10/19층, 남향정남향 샷시포함 올수리.칠보산뷰. 조용하고햇빛좋고깨끗 입주날짜 맞춰드림",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:16:44.271Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1780_20250718_021648.png"
+  }
+}

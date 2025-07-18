@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:40:10.722034",
+    "complex_id": "1456"
+  },
+  "basic_info": {
+    "complex_id": "1456",
+    "source_url": "https://new.land.naver.com/complexes/1456",
+    "extracted_at": "2025-07-17T16:40:08.401367",
+    "url": "https://new.land.naver.com/complexes/1456?ms=37.386822,126.956649,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:40:05.815Z",
+    "complexId": "1456"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 605동매매17억 5,000아파트158/131m², 6/19층, 남동향확장 특올수리 입주물 세안고도 가능",
+      "price": "17억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 608동매매17억아파트158/131m², 4/18층, 남동향세안고",
+      "price": "17억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 610동매매14억 5,000아파트123/101m², 6/14층, 남서향입주물",
+      "price": "14억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 603동매매14억 5,000아파트123/101m², 5/14층, 남서향막힘없는 뷰, 평촌학원가와 중앙공원 도보 3분",
+      "price": "14억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 603동매매15억 2,000아파트123/101m², 13/14층, 남서향올수리된 고층 뻥뚫린 뷰가 이쁜집, 입주물",
+      "price": "15억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 604동매매18억 5,000아파트158/131m², 14/19층, 남동향올수리 재건축추진중 서비스면적넓어 재건축시 유리 평촌최고 명품단지",
+      "price": "18억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 602동매매20억아파트193/161m², 고/19층, 남동향입주물 로열동 로열층 전망 좋은집",
+      "price": "20억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 603동매매15억 2,000아파트123/101m², 고/14층, 남서향특올수리 입주물 조용하고 쾌적한 단지",
+      "price": "15억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인목련6단지 604동매매18억 5,000아파트158/131m², 고/19층, 남동향고층 귀한 입주물,  집주인관리로 깨끗",
+      "price": "18억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "목련6단지 608동매매17억아파트158/131m², 12/18층, 남동향입주",
+      "price": "17억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "목련6단지 602동매매19억아파트193/161m², 4/19층, 남동향입주물",
+      "price": "19억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.412Z"
+    },
+    {
+      "index": 102,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인목련6단지 608동매매17억아파트158/131m², 저/18층, 남동향세끼고 매매선방 제공부동산이즈두산공인중개사사무소확인매물 25.07.14.",
+      "price": "17억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:40:08.413Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1456_20250717_164010.png"
+  }
+}

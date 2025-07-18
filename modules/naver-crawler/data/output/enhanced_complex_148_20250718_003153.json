@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:31:53.880609",
+    "complex_id": "148"
+  },
+  "basic_info": {
+    "complex_id": "148",
+    "source_url": "https://new.land.naver.com/complexes/148",
+    "extracted_at": "2025-07-18T00:31:50.151132",
+    "url": "https://new.land.naver.com/complexes/148?ms=37.498354,126.876093,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:31:48.743Z",
+    "complexId": "148"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 2,000아파트100C/82m², 9/17층, 동향급매 올수리  입주가능 역세권이며 방3,화2 계단식 개별난방 지하주차장",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.166Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "현대의보 1동전세3억 7,000아파트100C/82m², 9/17층, 동향계단식 방3화2 올수리굿 주인거주 착한전세. 지하주차장 입주협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:31:50.166Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 2,000아파트100C/82m², 9/17층, 남향 역세권 특올리입주.주인거주상태굿.계단식 인기타입 개별난방 지하주차장",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.166Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 4,000아파트100C/82m², 12/17층, 남향수리  남향 계단식 개별난방 지하주차장 일조권좋은 남향 입주협의",
+      "price": "5억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.166Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대의보 1동월세1억 5,000/100아파트102B/83m², 14/17층, 남향올수리 구일역세권 방3화2 계단식개별 지하주차 학세권 전망굿 즉시입주",
+      "price": "1억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:31:50.166Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 3,000아파트94/77m², 7/17층, 남동향0계단식 0화장실2 0지하주차장있고 0입주가능해요.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 2,000아파트102D/84m², 6/17층, 북향0계단식 0개별난방 0화장실2 0지하주차장있어요.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 2,000아파트100C/82m², 9/17층, 북향0계단식 0개별난방 0올수리 0방4 0지하주차장있어요.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 1,000아파트100B/82m², 6/17층, 북동향0계단식 0개별난방, 0화장실2 0지하주차장있어요.",
+      "price": "5억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 1,000아파트100B/82m², 6/17층, 남향입주가능 계단식 개별난방 지하주차장 화장실2  저렴한매물",
+      "price": "5억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "현대의보 1동매매5억 4,000아파트100B/82m², 4/17층, 남향0남향 0화장실2 0올수리 0지하주차장있어요.",
+      "price": "5억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대의보 1동월세1억 5,000/100아파트102B/83m², 14/17층, 남동향하시입주,올수리",
+      "price": "1억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체94㎡94㎡100C㎡100A㎡100B㎡101A㎡102B㎡102C㎡102D㎡",
+      "price": null,
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:31:50.167Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_148_20250718_003153.png"
+  }
+}

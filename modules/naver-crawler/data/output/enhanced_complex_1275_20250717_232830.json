@@ -1,0 +1,318 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:28:30.191628",
+    "complex_id": "1275"
+  },
+  "basic_info": {
+    "complex_id": "1275",
+    "source_url": "https://new.land.naver.com/complexes/1275",
+    "extracted_at": "2025-07-17T23:28:27.521958",
+    "url": "https://new.land.naver.com/complexes/1275?ms=37.497322,127.151914,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:28:26.172Z",
+    "complexId": "1275"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한보 1동매매8억 5,000아파트71/49m², 5/9층, 남동향재개발물건,입주가,전망좋은 살기좋은환경아파트",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한보 1동매매8억아파트56/39m², 7/9층, 남향마천 1구역 재개발 물건 입니다.",
+      "price": "8억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한보 1동매매8억 8,000아파트85/59m², 중/9층, 남서향재개발아파트, 입주가, 공동주택가격좋음",
+      "price": "8억 8",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "한보 1동매매15억 5,000아파트137/95m², 고/9층, 남서향43, 마천뉴타운내 대형평수, 수리깨끗, 입주가능",
+      "price": "15억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "한보 1동매매8억 8,000아파트85/59m², 6/9층, 남동향마천1구역 재계발지역 급매",
+      "price": "8억 8",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한보 1동매매8억아파트56/39m², 7/9층, 남서향마천1구역 내 아파트, 인테리어 최상, 마천역 도보3분",
+      "price": "8억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한보 1동매매8억 5,000아파트71/49m², 5/9층, 남향올수리, 역세권, 초등학교 앞, 재개발 추진",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한보 1동매매8억 5,000아파트71/49m², 고/9층, 남서향마천1구역 재개발 지역 아파트 공동주택가격 좋아요",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.535Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "주성아우라(주상복합)면적 - ㎡60.48㎡ ~ 60.48㎡단지정보",
+      "price": null,
+      "area": "60.48㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,487만성동레인보우매매8.5억6억~8.5억월세-32만면적113㎡77.17㎡ ~ 113.74㎡매매매물만 보기4개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "113㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,026만마천금호매매9.5억9.5억~11.5억전세4.5억4.5억면적78㎡78.94㎡ ~ 111.86㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,958만한보매매8.5억8억~15.5억면적71㎡56.37㎡ ~ 137.17㎡매매매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "71㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "보보스빌면적78.49㎡71.85㎡ ~ 78.49㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "78.49㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,757만송파파크데일1단지매매12.5억9.3억~15억전세7억7억면적110㎡78.62㎡ ~ 148.35㎡매매매물만 보기17개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,020만현대3차매매9.5억8.8억~10.2억월세1.6백1.6백면적104㎡101.86㎡ ~ 104.21㎡매매매물만 보기28개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "뉴타운면적74.64㎡74.64㎡ ~ 82.61㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "74.64㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,442만한주리버뷰매매6.5억6.5억월세1.3백1.3백면적88㎡88.42㎡ ~ 88.42㎡매매매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,834만현대그린빌매매6억6억면적70㎡70.12㎡ ~ 70.12㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억6",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,185만대성매매10억9억~10억면적79㎡79.77㎡ ~ 80.18㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "10억9",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,336만송파파크데일2단지매매11.2억10.8억~14억면적111㎡79.35㎡ ~ 150.33㎡매매매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억10",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "인투파크거여1단지면적36.66㎡29.71㎡ ~ 36.66㎡단지정보",
+      "price": null,
+      "area": "36.66㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,339만성영매매7.5억7억~9억면적106㎡102.29㎡ ~ 106.45㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억7",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "인투파크거여2단지(주상복합)전세3.4억3.4억면적49㎡49.03㎡ ~ 49.03㎡전세매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "4억3",
+      "area": "49㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "기영면적89.03㎡66.21㎡ ~ 93.9㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "89.03㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,392만송파파크데일5단지(도시형)매매5.5억5.5억면적76㎡76.7㎡ ~ 76.7㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "5억5",
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,747만동구햇살매매8.5억8.5억면적75㎡75.89㎡ ~ 75.89㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,741만마천삼익매매9.95억9억~10.2억면적120㎡120.81㎡ ~ 120.81㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억9",
+      "area": "120㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,457만송파파크데일4단지(도시형)매매5.5억5.5억면적74㎡74.46㎡ ~ 74.46㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "5억5",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:28:27.537Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 29,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1275_20250717_232829.png"
+  }
+}

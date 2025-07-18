@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:11:01.226532",
+    "complex_id": "1413"
+  },
+  "basic_info": {
+    "complex_id": "1413",
+    "source_url": "https://new.land.naver.com/complexes/1413",
+    "extracted_at": "2025-07-18T00:10:57.460383",
+    "url": "https://new.land.naver.com/complexes/1413?ms=37.50022,126.77984,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:10:55.288Z",
+    "complexId": "1413"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1013동매매8억아파트161/134m², 22/22층, 남향탑층  최근외부 샷시 내부 예전수리",
+      "price": "8억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.473Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1011동매매5억아파트76/59m², 1/10층, 남향지하철 역세권, 주인거주  중, 정남향",
+      "price": "5억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.473Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1017동매매6억 4,000아파트105/84m², 7/15층, 남향전망 및 학군 양호, 세안고 매매",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.473Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1012동월세2억/65아파트105/84m², 1/16층, 남향학세권 숲세권 초,중,고 도보통학  풍부한 생활 인프라가 형성 중동의중심",
+      "price": "2억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:10:57.473Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1013동매매7억 5,000아파트161/134m², 2/22층, 남향50,역세권아파트,인프라 굿세안고가능,실입주가능,정남향",
+      "price": "7억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1013동매매7억 5,000아파트161/134m², 20/22층, 남향전망확트임.신중동역5분거리",
+      "price": "7억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1013동매매7억 5,000아파트161/134m², 4/22층, 남향남향 아늑하고  환한집이예요  샷시교체되었어요",
+      "price": "7억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1015동매매8억 5,000아파트161/134m², 7/18층, 남향전체샷시포함예쁜특올수리,입주협의 ,지하철초역세권",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1011동매매5억 2,000아파트76/59m², 9/10층, 동향거실 작은방 확장 내부 올수리 주인 거주로 아주 깨끗함",
+      "price": "5억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1013동전세5억 4,000아파트161/134m², 2/22층, 남향내부올수리되어 아주깨끗.해잘드는집 입니다",
+      "price": "5억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1017동매매6억 5,000아파트105/84m², 1/15층, 남향샷시포함예쁜 특올수리,단지앞 산책로,초중고인접, 층간소음걱정없어요,초역세",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인꿈동아 1011동매매5억 1,000아파트76/59m², 6/10층, 남향남향  관리잘되었어요",
+      "price": "5억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:10:57.474Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1413_20250718_001101.png"
+  }
+}

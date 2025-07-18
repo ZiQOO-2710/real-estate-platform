@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:36:22.817972",
+    "complex_id": "3921"
+  },
+  "basic_info": {
+    "complex_id": "3921",
+    "source_url": "https://new.land.naver.com/complexes/3921",
+    "extracted_at": "2025-07-17T16:36:18.887711",
+    "url": "https://new.land.naver.com/complexes/3921?ms=37.692088,126.592778,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:36:16.613Z",
+    "complexId": "3921"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 201동매매3억 5,000아파트140/114m², 15/15층, 남향탑층 단독세대 올수리 전망 하시입주 가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.901Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 204동매매2억 7,000아파트104/84m², 저/15층, 남향남향 입주정상 올수리 깨끗",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "마송현대2차 201동매매3억 6,000아파트140/114m², 2/15층, 남향집주인거주 , 리모델링 깨끗,버스정류장 도보 5분내외",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 201동매매3억 5,000아파트140/114m², 저/15층, 남향방4 남향  작은방 확장 완전 깨끗  빠른입주도 가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 202동매매2억 8,000아파트104/84m², 5/12층, 남향올인테리어 입주10월 상태굳굳 적극추천",
+      "price": "2억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "마송현대2차 203동매매2억 5,000아파트104/84m², 5/13층, 남향교통이 편리하고 초등학교 근접",
+      "price": "2억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 201동매매3억 6,000아파트140/114m², 13/15층, 남향올수리 빠른입주 가능 내부샷시교체  실링팬 최상급",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "마송현대2차 202동매매2억 7,000아파트104/84m², 9/12층, 남향남향 전면동 수리한집 해잘들어요 입주가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "마송현대2차 204동매매2억 7,000아파트104/84m², 11/15층, 남향올수리 한 예쁜집,해잘드는 전면동 ,남향,로얄층",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 204동매매2억 9,000아파트104/84m², 5/15층, 남향31, 실 입  주  ,올수리, 주인거주 집상태 좋음",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 203동매매2억 7,000아파트104/84m², 3/13층, 남향세안고 매매가능 올수리 해 잘 드는집",
+      "price": "2억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인마송현대2차 202동매매2억 6,500아파트104/84m², 고/12층, 남향남향 빠른입주도 가능 수리 전망동 해 잘 들어오는집 적극추천",
+      "price": "2억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "마송현대2차 201동매매3억 7,000아파트140/114m², 중/15층, 남동향올수리 상태최고",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:36:18.902Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3921_20250717_163622.png"
+  }
+}

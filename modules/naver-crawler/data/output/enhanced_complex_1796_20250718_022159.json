@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:21:59.518056",
+    "complex_id": "1796"
+  },
+  "basic_info": {
+    "complex_id": "1796",
+    "source_url": "https://new.land.naver.com/complexes/1796",
+    "extracted_at": "2025-07-18T02:21:56.120980",
+    "url": "https://new.land.naver.com/complexes/1796?ms=37.26851,127.04283,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:21:53.263Z",
+    "complexId": "1796"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매5억아파트102/84m², 6/15층, 남서향특올수리 정상 조정가",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.134Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "현대 104동매매5억 1,000아파트102/84m², 11/15층, 남향전체특인테리어,보일러배관까지 교체,9월말이전가능,조정가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "현대 101동매매4억 8,000아파트102/84m², 6/15층, 남향최근특인테리어,손 볼곳 없음,라인굿,정상입주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "현대 106동매매4억 5,000아파트102/84m², 3/15층, 남향조용한동 주인거주 정상입주",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대 104동매매5억 4,000아파트102/84m², 중/15층, 남향정상입주. 주인거주. 예전 수리",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "현대 101동매매4억 5,000아파트102/84m², 7/15층, 남향기본으로 샤시교체하였고 주인거주로 집상태깨끗하며 정상입주 가능합니다.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대 101동매매4억 5,000아파트102/84m², 8/15층, 남향전체수리되어 캐끗 입주일 협의가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "현대 105동매매4억 9,000아파트102/84m², 11/15층, 남향샷시,화장실 수리,주인거주로 관리잘됨,채광,라인 좋아요.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:56.135Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1796_20250718_022159.png"
+  }
+}

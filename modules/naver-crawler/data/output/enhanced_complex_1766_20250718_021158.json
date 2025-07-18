@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:11:58.226525",
+    "complex_id": "1766"
+  },
+  "basic_info": {
+    "complex_id": "1766",
+    "source_url": "https://new.land.naver.com/complexes/1766",
+    "extracted_at": "2025-07-18T02:11:53.608620",
+    "url": "https://new.land.naver.com/complexes/1766?ms=37.249277,127.028051,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:11:52.604Z",
+    "complexId": "1766"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인보성,유원 603동매매3억 5,000아파트83/59m², 7/12층, 남향초품아 제일 선호동 로얄층 장기투자추천",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인보성,유원 616동매매3억 7,000아파트79/60m², 12/12층, 남동향최근 화이트올수리.집상태최상.트인조망.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "보성,유원 601동전세2억 5,000아파트83/59m², 5/12층, 남향남향로열동,올수리깨끗,방3,상가입구동,8월말입주가능,생활권좋아요.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "보성,유원 607동매매3억 1,000아파트83/59m², 10/12층, 남향부분수리함 깨끗깔끔 입주협의가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "보성,유원 610동매매3억 3,000아파트79/60m², 1/12층, 남향샷시교체포함올수리,올 층간소음걱정끝 입주협의 중간라인",
+      "price": "3억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "보성,유원 609동월세3,000/90아파트79/60m², 12/12층, 남향10월중순 입주협의가능,층간소음 없고 좋아요",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "보성,유원 608동매매3억 4,000아파트83/59m², 2/12층, 남향최근올수리 신혼거주 입주일 언제든지 협의 남향 조용하고 일조권 좋아요",
+      "price": "3억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "보성,유원 601동매매3억 4,000아파트83/59m², 12/12층, 남향남향고층으로 수리되어 아주깨끗함  전세안고 층간소음해방",
+      "price": "3억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "보성,유원 611동월세2,000/100아파트79/60m², 11/12층, 남향계단식,거실.방 확장,올수리,아주깨끗,아주 좋아요",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "보성,유원 607동매매3억 3,000아파트83/59m², 7/12층, 남향갭8천전세안고,로열동층,라인굿,올수리깨끗,입구동장점,광역버스이용좋아요",
+      "price": "3억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "보성,유원 601동매매3억 5,000아파트83/59m², 5/12층, 남향남향,신발장,욕실,바닥,싱크대수리,정문동상가이용 생활편리,초품아유치원",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "보성,유원 616동매매3억 2,500아파트79/60m², 3/12층, 동향급매 계단식 전세안고  소액으로 투자 만기 26년5월 딱 투자하기좋은물건",
+      "price": "3억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인보성,유원 607동매매3억 1,000아파트83/59m², 12/12층, 남향협의입주,씽크대욕실수리함,고층,조망좋은집,채광좋은집",
+      "price": "3억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "보성,유원 608동월세3,000/95아파트83/59m², 10/12층, 남향내부올수리함, 남향고층, 방3개,",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:53.617Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1766_20250718_021158.png"
+  }
+}

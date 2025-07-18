@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:45:18.213076",
+    "complex_id": "1520"
+  },
+  "basic_info": {
+    "complex_id": "1520",
+    "source_url": "https://new.land.naver.com/complexes/1520",
+    "extracted_at": "2025-07-18T00:45:08.185905",
+    "url": "https://new.land.naver.com/complexes/1520?ms=37.69401,126.766846,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:45:06.570Z",
+    "complexId": "1520"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 202동전세2억 500아파트78/59m², 13/17층, 남향빠른입주가능 I 거실 작은방 확장 I 라인 좋아요",
+      "price": "2억 500",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:45:08.249Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 203동매매2억 6,000아파트78/59m², 6/17층, 남향탄현역5분 올수리 라인좋아요",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 202동매매2억 6,500아파트78/59m², 17/17층, 남향올수리 세안고 갭투추천  최근씽교체 조용한탑층 탄현초역세권",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 201동월세3,000/85아파트78/59m², 6/19층, 남향정상입주, 화장실 포함 올수리, 층라인 좋은 집입니다.",
+      "price": null,
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 201동매매2억 5,000아파트78/59m², 4/19층, 남향올수리 입주협의 방1확장 컨디션굿 남향 탄현초역세권",
+      "price": "2억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 202동매매2억 6,000아파트78/59m², 4/17층, 남향갭4천,내부올수리되어있습니다.탄현역세권,남향입니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 203동매매2억 5,000아파트78/59m², 3/17층, 남향탄현역5분 세안고 보증금일억삼천만",
+      "price": "2억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 202동매매2억 6,000아파트78/59m², 13/17층, 남향탄현역세권,계단식아파트입니다.중간라인,입주협의가능합니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 201동매매2억 5,000아파트78/59m², 1/19층, 남향외부샤시 포함  전체 특올수리된 집, 맘껏 뛰어도 됩니다",
+      "price": "2억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 203동전세2억아파트78/59m², 6/17층, 남향정상입주, 현상태 입주조건, 간섭없는 단지전면동입니다",
+      "price": "2억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 202동전세2억 1,500아파트78/59m², 8/17층, 남향올수리, 입주협의, 작은방확장, 계단식",
+      "price": "2억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 201동매매2억 7,000아파트78/59m², 9/19층, 남향외부샤시포함 전체 올수리된 특급매물, 미리구입 강력추천드려요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인탄현2단지삼익 203동매매2억 6,000아파트78/59m², 14/17층, 남향세안고, 갭6천만원,  올수리, 상태 좋은 깨끗한 집입니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:08.250Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1520_20250718_004512.png"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:06:24.062626",
+    "complex_id": "1934"
+  },
+  "basic_info": {
+    "complex_id": "1934",
+    "source_url": "https://new.land.naver.com/complexes/1934",
+    "extracted_at": "2025-07-18T03:06:21.191313",
+    "url": "https://new.land.naver.com/complexes/1934?ms=37.290688,126.849788,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:06:18.191Z",
+    "complexId": "1934"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "요진 202동매매6억아파트212/176m², 17/24층, 남향",
+      "price": "6억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.202Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "요진 212동전세2억 7,000아파트102/84m², 2/5층, 남향8월입주 내부수리 조정",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "요진 205동매매6억아파트156/130m², 8/15층, 남향전망 좋아요",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "요진 201동매매5억 1,000아파트212/176m², 17/22층, 남향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "요진 215동전세2억 6,000아파트93/77m², 4/5층, 남향샷시까지올수리 10월중순입주가",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "요진 212동매매3억 3,000아파트102/84m², 5/5층, 남향깨끗 일부수리 조용  조종가",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "요진 208동월세1억 5,000/50아파트106/84m², 2/10층, 남향1억70 가능 내부 올수리해줌",
+      "price": "1억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "요진 208동매매4억 1,000아파트106/84m², 4/10층, 남향조용하고 아늑한집",
+      "price": "4억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "요진 204동매매4억 8,000아파트156/130m², 11/14층, 남향한번수리된집 깨끗 조용해요",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "요진 207동매매4억아파트106/84m², 3/9층, 남향",
+      "price": "4억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "요진 203동매매5억 3,000아파트182/152m², 8/14층, 남향",
+      "price": "5억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "요진 208동매매4억 2,000아파트106/84m², 9/10층, 남향수리됨",
+      "price": "4억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "요진 206동매매5억아파트156/130m², 14/14층, 남향샷시교체됨세끼고",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "요진 208동매매4억 1,000아파트106/84m², 5/10층, 남향학군좋고 전망 나와요",
+      "price": "4억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "요진 211동매매4억 2,000아파트102/84m², 1/5층, 남향수리됨 남향 아주깔끔 채광굿 수인선역세권",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체71㎡93㎡102㎡106㎡156㎡182㎡212㎡",
+      "price": null,
+      "area": "71㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:06:21.203Z"
+    },
+    {
+      "index": 119,
+      "selector": "[class*=\"item\"]",
+      "text": "요진 201동매매5억 5,000아파트212/176m², 19/22층, 남향텐컴즈 제공좋은마을공인중개사사무소확인매물 25.07.14.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:06:21.204Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1934_20250718_030623.png"
+  }
+}

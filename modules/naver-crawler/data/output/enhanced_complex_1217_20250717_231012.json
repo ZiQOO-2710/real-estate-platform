@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:10:12.695864",
+    "complex_id": "1217"
+  },
+  "basic_info": {
+    "complex_id": "1217",
+    "source_url": "https://new.land.naver.com/complexes/1217",
+    "extracted_at": "2025-07-17T23:10:08.730878",
+    "url": "https://new.land.naver.com/complexes/1217?ms=37.535712,126.89625,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:10:07.561Z",
+    "complexId": "1217"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 101동매매9억 5,000아파트101/70m², 11/19층, 남동향입주협의 1년전 전체리모델링 방3화2 시스템에어컨설치 주차편리",
+      "price": "9억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:10:08.744Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 101동매매8억 3,000아파트85/59m², 3/19층, 북동향주인거주 샷시포함 특올수리 당산역 선유도역 역세권",
+      "price": "8억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:10:08.744Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 101동매매8억 9,000아파트101/70m², 15/19층, 남동향방3화2 입주협의 3년전 수리깨끗 주차편리",
+      "price": "8억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:10:08.744Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 101동매매8억 6,000아파트101/70m², 4/19층, 남동향방3화2 갭투자매물 기존전세승계조건",
+      "price": "8억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:10:08.744Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 101동매매9억 1,000아파트101/70m², 9/19층, 남향전세승계 방3화2 당산역7분 선유도역4분",
+      "price": "9억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:10:08.744Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1217_20250717_231012.png"
+  }
+}

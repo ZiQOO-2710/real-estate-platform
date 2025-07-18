@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:23:52.602023",
+    "complex_id": "1990"
+  },
+  "basic_info": {
+    "complex_id": "1990",
+    "source_url": "https://new.land.naver.com/complexes/1990",
+    "extracted_at": "2025-07-18T03:23:47.163465",
+    "url": "https://new.land.naver.com/complexes/1990?ms=37.39682,126.93507,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:23:45.638Z",
+    "complexId": "1990"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,465만엠씨티(주상복합)매매3.5억3.5억면적79㎡79.95㎡ ~ 79.95㎡매매매물만 보기3개 매물이 있습니다.단지정보",
+      "price": "5억3",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,351만베네스트(주상복합)매매3.8억3.8억면적93㎡93.04㎡ ~ 93.04㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억3",
+      "area": "93㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,392만미목연(주상복합)매매3.2억3.2억면적76㎡76.63㎡ ~ 76.63㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억3",
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,225만비산롯데캐슬매매7억5.7억~9.5억면적104㎡72.81㎡ ~ 136.86㎡매매매물만 보기39개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억5",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,573만비산화성파크드림(주상복합)매매5.42억4억~6.5억월세1.4백1.4백면적114㎡91.53㎡ ~ 145.86㎡매매매물만 보기32개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "42억4",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,715만래미안안양메가트리아매매9.2억3.7억~15억전세5.8억3억~8억월세-80만~2.7백면적112㎡59.69㎡ ~ 186.29㎡매매매물만 보기1103개 매물이 있습니다.전세매물만 보기49개 매물이 있습니다.월세매물만 보기36개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "2억3",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,548만성도매매2.95억2.95억면적63㎡63.3㎡ ~ 63.3㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억2",
+      "area": "63㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,951만동산매매4.25억4억~4.5억면적72㎡72.29㎡ ~ 86.51㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억4",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,478만평촌래미안푸르지오매매12.1억8.5억~15억전세-9억~10억면적115㎡85.55㎡ ~ 138.18㎡매매매물만 보기149개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억8",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "일진면적72.63㎡72.63㎡ ~ 72.63㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "72.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,335만강남6차매매3.15억3억~4.5억전세-2.8억면적78㎡78.06㎡ ~ 91.32㎡매매매물만 보기8개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "15억3",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,635만렉스타운(주상복합)매매4.5억2.9억~4.5억면적91㎡67.13㎡ ~ 91.56㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "91㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,214만비산한화꿈에그린매매7.3억6.8억~10.5억전세5억5억월세-30만~2백면적109㎡83.19㎡ ~ 162.69㎡매매매물만 보기50개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억6",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,510만성원매매3.7억3.5억~6.2억면적81㎡81.39㎡ ~ 116.47㎡매매매물만 보기38개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,570만블루오션(주상복합)매매3.8억3.5억~3.8억면적80㎡80.8㎡ ~ 80.8㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억3",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,489만미륭매매5억4.2억~6억월세-40만~50만면적111㎡89.43㎡ ~ 115.76㎡매매매물만 보기63개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:47.180Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1990_20250718_032352.png"
+  }
+}

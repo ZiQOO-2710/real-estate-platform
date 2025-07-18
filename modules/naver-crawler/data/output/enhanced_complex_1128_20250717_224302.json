@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:43:02.004393",
+    "complex_id": "1128"
+  },
+  "basic_info": {
+    "complex_id": "1128",
+    "source_url": "https://new.land.naver.com/complexes/1128",
+    "extracted_at": "2025-07-17T22:42:59.011289",
+    "url": "https://new.land.naver.com/complexes/1128?ms=37.588133,127.049387,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:42:56.471Z",
+    "complexId": "1128"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한신 102동매매8억 5,000아파트107/84m², 9/20층, 동향한신   로얄층  실입주   깔끔한  집  매매입니다",
+      "price": "8억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.021Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한신 108동매매9억 9,000아파트140/114m², 7/19층, 남향최고 로얄   조망권  올수리  실입주  매매입니다",
+      "price": "9억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.021Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한신 108동매매10억아파트140/114m², 8/19층, 남향한신  최고 로얄  조망권  올수리   정상입주 갭투자 급매입니다",
+      "price": "10억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.021Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한신 104동전세5억 7,000아파트140/114m², 4/20층, 남향청량  한신  특올수리  남향집  전세입니다",
+      "price": "5억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:42:59.021Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한신 107동매매7억 1,000아파트85/59m², 13/19층, 동향깔끔한 집 전세 안고 매매 합니다",
+      "price": "7억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.021Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인한신 109동매매7억 2,000아파트85/59m², 4/11층, 동향임차인거주  수리되어있는집",
+      "price": "7억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한신 106동매매9억 5,000아파트140/114m², 15/20층, 남향전망좋은 집",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한신 101동매매8억 5,000아파트107/84m², 19/20층, 남향남향집",
+      "price": "8억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인한신 107동매매7억아파트85/59m², 3/19층, 동향입주가능하고 전세안고 매수도가능,상태양호",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인한신 108동매매8억 7,000아파트107/84m², 7/19층, 동향수리되어있는집",
+      "price": "8억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인한신 104동매매9억 5,000아파트140/114m², 14/20층, 남향청량  한신  남향집  정상입주  매매입니다",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인한신 107동매매7억 3,000아파트85/59m², 16/19층, 동향청량  한신  실입주  매매입니다",
+      "price": "7억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인한신 105동매매9억 3,000아파트140/114m², 3/20층, 남향정남향, 방4 욕실2,  청량리역 도보10분,",
+      "price": "9억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인한신 106동매매9억 5,000아파트140/114m², 15/20층, 남동향한신아파트 최고조망, 나날이 발전하는 청량리 역세권 아파트입니다",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인한신 109동매매7억 2,000아파트85/59m², 3/11층, 남서향한신  상태  깨끗한  올수리  갭투자 매매입니다",
+      "price": "7억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한신 107동전세3억 8,000아파트85/59m², 8/19층, 동향올수리 완전 깨끗  전세대출가능 입주날짜 8월말협의가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인한신 104동매매10억아파트140/114m², 13/20층, 남향청량  한신  올수리  실입주  매매입니다",
+      "price": "10억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.022Z"
+    },
+    {
+      "index": 47,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한신 102동매매8억 5,000아파트107/84m², 9/20층, 동향한신   로얄층  실입주   깔끔한  집  매매입니다부동산써브 제공좋은집부동산플러스공인중개사확인매물 25.07.16.집주인한신 108동매매9억 9,000아파트140/114m², 7/19층, 남향최고 로얄   조망권  올수리  실입주  매매입니다부동산써브 제공좋은집부동산플러스공인중개사확인매물 25.07.16.집주인한신 108동매매10억아파트140/114m², 8/19층, 남향한신  최고 로얄  조망권  올수리   정상입주 갭투자 급매입니다부동산써브 제공좋은집부",
+      "price": "8억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.023Z"
+    },
+    {
+      "index": 117,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한신 107동매매7억 2,000아파트85/59m², 6/19층, 동향청량  한신  상태  깨끗  정상입주  매매입니다부동산써브 제공좋은집부동산플러스공인중개사확인매물 25.07.10.",
+      "price": "7억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:59.023Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1128_20250717_224301.png"
+  }
+}

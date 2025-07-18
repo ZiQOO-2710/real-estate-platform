@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:17:33.306080",
+    "complex_id": "1437"
+  },
+  "basic_info": {
+    "complex_id": "1437",
+    "source_url": "https://new.land.naver.com/complexes/1437",
+    "extracted_at": "2025-07-18T00:17:29.986375",
+    "url": "https://new.land.naver.com/complexes/1437?ms=37.50146,126.76181,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:17:27.342Z",
+    "complexId": "1437"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 804동매매9억아파트129/110m², 13/15층, 동향샷시포함 최근특올수리, 정상이사협의",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 802동매매12억아파트177/155m², 25/25층, 남향전체샷시포함 올수리 컨디션굿 전망굿 중앙공원옆 이사협의",
+      "price": "12억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 801동매매9억아파트129/110m², 3/15층, 남향샷시포함 올수리 정상입주 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 803동매매10억아파트152/131m², 2/15층, 남향최근 화이트톤 샷시포함 수리로 상태최상, 정상이사협의",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 804동매매8억 9,000아파트129/110m², 15/15층, 동향중앙공원뷰. 특급인테리어. 입주가능",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "포도뉴서울 806동매매10억아파트152/131m², 3/15층, 남향특인테리어,정상입주",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "포도뉴서울 801동매매8억아파트129/110m², 1/15층, 남향수리,정상입주",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "포도뉴서울 801동매매9억아파트129/110m², 6/15층, 남향올수리, 이사협의",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "포도뉴서울 802동매매10억 3,000아파트177/155m², 1/25층, 남향특올수리 중동 중앙공원 앞 대단지아파트 매매물건입니다",
+      "price": "10억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "포도뉴서울 802동전세7억 8,000아파트177/155m², 1/25층, 남향특올수리 중앙공원 바로 앞에 위치하고 있는 대단지아파트",
+      "price": "7억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 802동매매10억아파트177/155m², 3/25층, 남향공실,조정가,초역세권, 오래전수리,중앙공원옆,현대백화점,이마트초근접",
+      "price": "10억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 805동매매9억 5,000아파트177/155m², 2/25층, 남동향주인직접의뢰 최고의위치 정남향 채광좋고 공원과 역세권 도보3분내",
+      "price": "9억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인포도뉴서울 806동매매10억아파트152/131m², 14/15층, 남향언제든이사가능, 전망최고,로열동로열층, 수리필요,조정가",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "포도뉴서울 801동매매9억아파트129/110m², 4/15층, 남향부분수리로 깨끗, 초역세권,현대백화점,중앙공원 5분거리,정상이사",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.998Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인포도뉴서울 804동매매9억아파트129/110m², 13/15층, 동향샷시포함 최근특올수리, 정상이사협의아실 제공우리공인중개사사무소확인매물 25.07.14.네이버에서 보기집주인포도뉴서울 802동매매12억아파트177/155m², 25/25층, 남향전체샷시포함 올수리 컨디션굿 전망굿 중앙공원옆 이사협의부동산써브 제공GS공인중개사사무소확인매물 25.07.14.집주인포도뉴서울 801동매매9억아파트129/110m², 3/15층, 남향샷시포함 올수리 정상입주 입주협의부동산뱅크 제공넝쿨공인중개사무소확인매물 25.07.10.집주인포도뉴서울 8",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:17:29.999Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1437_20250718_001733.png"
+  }
+}

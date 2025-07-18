@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:06:20.711965",
+    "complex_id": "1747"
+  },
+  "basic_info": {
+    "complex_id": "1747",
+    "source_url": "https://new.land.naver.com/complexes/1747",
+    "extracted_at": "2025-07-18T02:06:15.540874",
+    "url": "https://new.land.naver.com/complexes/1747?ms=37.429763,127.146033,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:06:13.987Z",
+    "complexId": "1747"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성원초원 103동매매5억 2,000아파트83/59m², 3/12층, 동향내부상태는 리모델링하여 매우 양호함",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.553Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성원초원 101동매매6억아파트107/84m², 4/10층, 남향급매,구청.도서관.스포츠센터.학교.공원등이 근처에 있어 생활환경 양호함",
+      "price": "6억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인성원초원 103동매매5억 2,000아파트83/59m², 11/12층, 남향신축급으로 올리모델링된 남향집  뻥뷰",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인성원초원 101동매매6억 4,000아파트107/84m², 7/10층, 남향남향 샷시포함올리모델링 햇볕가득한집",
+      "price": "6억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인성원초원 103동매매5억 2,000아파트83/59m², 고/12층, 남향샷쉬 및 주방수리,보일러 금년 2월에 교체했음,초중고 근처로 생활편함",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인성원초원 102동매매7억아파트107/84m², 4/10층, 남향조망권 A급,초.중.고,도서관,공원등이 근처에 있어서 생활환경 우수함.",
+      "price": "7억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "성원초원 103동매매5억아파트83/59m², 9/12층, 남향각종 대출가능,초중고.도서관,스포츠센터등이 근처에 있고,내부수리 깨끗함,",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "성원초원 103동매매6억아파트83/59m², 저/12층, 동향올리모델링 . 확장. 붙박이장설치. 샤시수리.",
+      "price": "6억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "성원초원 102동매매6억 5,000아파트107/84m², 8/10층, 남향입주가능, 로얄동, 로얄층, 뻥뷰 아파트.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "성원초원 102동매매5억 1,000아파트83/59m², 중/10층, 남향입주가능,정남향 뻥뷰,학세권 아파트.",
+      "price": "5억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "성원초원 102동매매6억 5,000아파트107/84m², 저/10층, 남향초.중.고,도서관,공원,운동장등 근처에 있어서 생활환경 우수함",
+      "price": "6억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "성원초원 101동매매6억아파트107/84m², 중/10층, 남향입주협의 내부 깔끔 정남향",
+      "price": "6억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.554Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인성원초원 103동매매5억 2,000아파트83/59m², 3/12층, 동향내부상태는 리모델링하여 매우 양호함부동산포스 제공하이서울공인중개사사무소확인매물 25.07.14.집주인성원초원 101동매매6억아파트107/84m², 4/10층, 남향급매,구청.도서관.스포츠센터.학교.공원등이 근처에 있어 생활환경 양호함부동산포스 제공하이서울공인중개사사무소확인매물 25.07.14.집주인성원초원 103동매매5억 2,000아파트83/59m², 11/12층, 남향신축급으로 올리모델링된 남향집  뻥뷰부동산써브 제공에이스공인중개사사무소확인매물 25.07",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:06:15.555Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1747_20250718_020620.png"
+  }
+}

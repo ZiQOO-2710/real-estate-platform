@@ -1,0 +1,348 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:45:22.078134",
+    "complex_id": "2654"
+  },
+  "basic_info": {
+    "complex_id": "2654",
+    "source_url": "https://new.land.naver.com/complexes/2654",
+    "extracted_at": "2025-07-17T16:45:17.684138",
+    "url": "https://new.land.naver.com/complexes/2654?ms=37.522746,126.798416,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:45:15.436Z",
+    "complexId": "2654"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인부촌5차 가동매매1억 2,000아파트53/39m², 5/5층, 남향가격조정가능 남향 이사날짜협의",
+      "price": "1억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.691Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "부촌5차 가동매매1억 4,500아파트56/42m², 4/5층, 남향전체 올수리 되어 있어 채광좋고 상태 최상의 아파트",
+      "price": "1억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.691Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "하늘숲(도시형)면적 - ㎡38.71㎡ ~ 65.6㎡단지정보",
+      "price": null,
+      "area": "38.71㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "방배(384-4,주상복합)면적41.4㎡41.4㎡ ~ 51.48㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "41.4㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "방배(383-7)면적59.88㎡59.88㎡ ~ 59.88㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "59.88㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,198만성지매매2.5억2.5억전세1.4억1.4억면적69㎡69.31㎡ ~ 69.31㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,066만중앙매매2억2억면적62㎡62.35㎡ ~ 62.35㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "62㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "성진리치빌면적90.89㎡81.62㎡ ~ 90.89㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "90.89㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "대도월세60만60만면적55㎡55.07㎡ ~ 55.07㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "55㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "테라탑팰리스Ⅲ면적 - ㎡68.63㎡ ~ 154.6㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "68.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "857만영화매매2.1억2.1억~3억전세1.3억1.3억면적81㎡81.41㎡ ~ 90.82㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,202만현대(211-1)매매2억2억~2.3억면적55㎡55.83㎡ ~ 58.56㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "55㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "992만월산장미매매3억2억~3억월세80만80만면적100㎡84.38㎡ ~ 100.96㎡매매매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "798만부촌4차매매1.4억1.2억~1.5억월세40만30만~50만면적58㎡58.41㎡ ~ 58.41㎡매매매물만 보기4개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "58㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "아남면적73.02㎡69.63㎡ ~ 85.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "73.02㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,377만온새미로매매2.75억2.65억~3억면적66㎡66.57㎡ ~ 66.57㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억2",
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "드림앤시티면적146.87㎡80.41㎡ ~ 146.87㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "146.87㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,653만상우매매3.2억3.2억면적64㎡64.07㎡ ~ 64.07㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억3",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "937만서문매매3.82억3.8억~3.85억면적135㎡135.18㎡ ~ 135.18㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "82억3",
+      "area": "135㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "제이디스카이빌면적78.39㎡78.39㎡ ~ 78.39㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "78.39㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "856만부촌5차매매1.45억1.2억~1.45억면적56㎡53.32㎡ ~ 56.6㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억1",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "928만무궁화매매1.6억1.6억면적57㎡57.48㎡ ~ 57.48㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억1",
+      "area": "57㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "한울(228)면적78.67㎡78.67㎡ ~ 84.47㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "78.67㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "부촌3차면적54.86㎡54.86㎡ ~ 54.86㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "54.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 29,
+      "selector": "[class*=\"deal\"]",
+      "text": "문화(214-7)면적59.32㎡59.32㎡ ~ 59.32㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "59.32㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 30,
+      "selector": "[class*=\"deal\"]",
+      "text": "용상전세3.2억2억~3.2억면적99㎡75.68㎡ ~ 99.23㎡전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 32,
+      "selector": "[class*=\"deal\"]",
+      "text": "영화참마음면적110.09㎡109.75㎡ ~ 110.09㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "110.09㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 33,
+      "selector": "[class*=\"deal\"]",
+      "text": "888만삼보매매1.8억1.4억~2.1억월세65만40만~65만면적67㎡55㎡ ~ 67.78㎡매매매물만 보기10개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억1",
+      "area": "67㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 35,
+      "selector": "[class*=\"deal\"]",
+      "text": "원종스카이뷰(도시형)면적 - ㎡35.51㎡ ~ 42.85㎡단지정보",
+      "price": null,
+      "area": "35.51㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 37,
+      "selector": "[class*=\"deal\"]",
+      "text": "근화월세60만60만면적72㎡72.08㎡ ~ 72.08㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"deal\"]",
+      "text": "892만오성파크(주상복합)매매4.1억4.1억면적152㎡152.48㎡ ~ 152.48㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억4",
+      "area": "152㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:45:17.692Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 32,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2654_20250717_164521.png"
+  }
+}

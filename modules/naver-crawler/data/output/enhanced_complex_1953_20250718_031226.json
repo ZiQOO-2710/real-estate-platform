@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:12:26.450381",
+    "complex_id": "1953"
+  },
+  "basic_info": {
+    "complex_id": "1953",
+    "source_url": "https://new.land.naver.com/complexes/1953",
+    "extracted_at": "2025-07-18T03:12:22.184827",
+    "url": "https://new.land.naver.com/complexes/1953?ms=37.325527,126.843785,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:12:20.156Z",
+    "complexId": "1953"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인선경 14동전세3억 8,000아파트152/129m², 6/15층, 남향완전올수리이사협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인선경 7동매매3억 4,500아파트78T/57m², 12/20층, 남향급매 수리한집 컨디션좋음 실입주가능 신안산선호재 깨끗함 이사협의가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인선경 9동매매3억 6,000아파트78/62m², 3/22층, 남향올수리이사협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인선경 20동매매4억 7,000아파트104S/84m², 10/15층, 남향샷시포함 수리 집상태 양호 이사협의",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인선경 19동매매4억 5,000아파트104S/84m², 5/15층, 남향샷시수리,기본공실",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인선경 13동매매6억 6,000아파트184/157m², 11/15층, 남향급매 양호이사협의",
+      "price": "6억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인선경 10동매매4억아파트91/73m², 9/22층, 남향올수리이사협의",
+      "price": "4억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인선경 8동매매3억 6,000아파트78/62m², 19/22층, 남향성포역 I 올수리, 전세 안고 I 갭 1억9천",
+      "price": "3억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인선경 7동매매3억 1,500아파트78T/57m², 15/20층, 남향로얄층이며 앞이 가리지않아 훤하고 햇볕 잘들어옴.가격아주저렴함.",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인선경 1동전세3억 1,500아파트152/129m², 14/15층, 남향도배.수리 해드려요.이사협의.초등바로옆동.채광굿",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인선경 9동매매3억 8,500아파트91/73m², 8/22층, 남향주인거주로 깔끔 트인전망 샷시등 수리",
+      "price": "3억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "선경 2동매매4억 8,000아파트103N/84m², 10/15층, 남향특 전체올수리.확장",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인선경 3동매매4억 6,000아파트103N/84m², 3/15층, 남향성포역 I 올수리, 공실 I 즉시 입주 가능",
+      "price": "4억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인선경 2동매매5억 7,000아파트152/129m², 5/15층, 남향급매올수리빠른이사가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인선경 19동매매4억 3,500아파트104S/84m², 15/15층, 남향부분수리,집깨끗,전망좋음,이사협의.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인선경 1동월세3,000/100아파트103N/84m², 1/15층, 남향아주엄청양호,빠른입주도가능,이사일협의가능",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "선경 5동월세3,000/120아파트104S/84m², 7/15층, 남향올수리 8월26일부터 입주가능합니다.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체78㎡78T㎡91㎡103N㎡104S㎡152㎡163㎡184㎡",
+      "price": null,
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:12:22.192Z"
+    },
+    {
+      "index": 114,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인선경 9동매매3억 6,000아파트78/62m², 15/22층, 남향샷시포함 올수리 이사 협의 매경부동산 제공별공인중개사사무소확인매물 25.07.09.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:22.193Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1953_20250718_031226.png"
+  }
+}

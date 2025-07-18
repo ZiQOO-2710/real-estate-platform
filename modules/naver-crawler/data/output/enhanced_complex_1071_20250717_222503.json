@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:25:03.913505",
+    "complex_id": "1071"
+  },
+  "basic_info": {
+    "complex_id": "1071",
+    "source_url": "https://new.land.naver.com/complexes/1071",
+    "extracted_at": "2025-07-17T22:24:59.037466",
+    "url": "https://new.land.naver.com/complexes/1071?ms=37.504136,126.856168,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:24:56.434Z",
+    "complexId": "1071"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매5억 2,000아파트84/59m², 5/19층, 남향남향집으로 전망과 채광이 좋으며 수리하여 시설 깨끗합니다",
+      "price": "5억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 4,000아파트107/84m², 4/19층, 남향올수리 상태로 깨끗한 매물입니다",
+      "price": "6억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 2,500아파트107/84m², 6/19층, 남향｜실매물｜로얄동 로얄층 남향 수리된 방3화2 빠른입주가",
+      "price": "6억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 3,000아파트107/84m², 3/19층, 남향올수리되어 있는 남향,전세승계조건 매매입니다",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 201동매매6억 2,000아파트107/84m², 5/11층, 동향입주가능 입주일 협의",
+      "price": "6억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 203동매매6억아파트84/59m², 7/18층, 남동향깨끗 입주일협의",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 5,000아파트107/84m², 2/19층, 남향남향 입주가능 입주일협의",
+      "price": "6억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 2,000아파트107/84m², 11/19층, 남향남향, 주인거주중",
+      "price": "6억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.050Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인경남2차(아너스빌) 202동매매6억 4,000아파트107/84m², 중/19층, 남향전망트인 남향,수리되어  깨끗 함,세안고 매매",
+      "price": "6억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:59.051Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1071_20250717_222503.png"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:05:27.010298",
+    "complex_id": "1550"
+  },
+  "basic_info": {
+    "complex_id": "1550",
+    "source_url": "https://new.land.naver.com/complexes/1550",
+    "extracted_at": "2025-07-18T01:05:23.554102",
+    "url": "https://new.land.naver.com/complexes/1550?ms=37.62431,126.83719,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:05:22.234Z",
+    "complexId": "1550"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 3,000아파트54/39m², 9/15층, 남동향올수리되어, 10월 입주가능, 모든부분 조율해드려요",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2204동매매3억 7,000아파트80/59m², 15/15층, 남향화장실 씽크대 포함 올수리,전망 위치굿,방3,남향",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2201동매매3억 9,000아파트80/59m², 8/15층, 남향매수추천 24 l 주변개발호재 l 접근성굿 l 합리가 l 빠른거래가능",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 2,000아파트54/39m², 11/15층, 동향깨끗,세안고,12월 중순 입주가능",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2203동매매3억 8,000아파트80/59m², 14/15층, 남향샷시포함올수리,세안고,전망트이고 밝고환한남향집",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 3,000아파트54/39m², 10/15층, 동향내부올수리깨끗.주인거주.정상.롯데마트옆단지.중앙차로근접.초중고학군근접",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 4,000아파트54/39m², 12/15층, 남동향전체샤시특올수리 세안고",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2204동매매3억 5,000아파트80/59m², 저/15층, 남향0올.수.리0입주협의0중앙로및상권이용 최적화단지",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2205동매매2억 9,000아파트67/49m², 고/15층, 남동향급매.저렴한 가격으로 내집마련기회.대형마트 중앙로접근성굿",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2203동매매3억 7,000아파트80/59m², 중/15층, 남향갭투자강추.올수리된 남향 , 버스중앙로이용 편리, 확트인 뷰",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 3,000아파트54/39m², 고/15층, 남동향고양은평선 호재, 주변 생활 편리시설 굿",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인햇빛22단지뜨란채 2202동매매2억 3,000아파트54/39m², 9/15층, 남동향올수리되어, 10월 입주가능, 모든부분 조율해드려요매경부동산 제공21세기 (031-979-2454)공인중개사사무소확인매물 25.07.17.집주인햇빛22단지뜨란채 2204동매매3억 7,000아파트80/59m², 15/15층, 남향화장실 씽크대 포함 올수리,전망 위치굿,방3,남향부동산써브 제공친절부동산 공인중개사사무소확인매물 25.07.17.집주인햇빛22단지뜨란채 2201동매매3억 9,000아파트80/59m², 8/15층, 남향매수추천 24 l 주",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:05:23.564Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1550_20250718_010526.png"
+  }
+}

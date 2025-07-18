@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:02:23.585865",
+    "complex_id": "1388"
+  },
+  "basic_info": {
+    "complex_id": "1388",
+    "source_url": "https://new.land.naver.com/complexes/1388",
+    "extracted_at": "2025-07-18T00:02:20.175459",
+    "url": "https://new.land.naver.com/complexes/1388?ms=37.67233,126.75469,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:02:18.854Z",
+    "complexId": "1388"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동전세3억 2,000아파트102/77m², 13/25층, 남서향내샷포특올수리,환하게해잘드는남서향,주엽역세권으로상권좋아요",
+      "price": "3억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:20.187Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동매매4억아파트102/77m², 13/25층, 남서향내부샷시포함특올수리,세안고또는긴정상,탁트인개방감,주엽역,킨텍스역근접",
+      "price": "4억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.187Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1202동매매4억 4,000아파트102/77m², 19/25층, 남서향주엽역도보권 방3화2 수리깨끗 중문 붙박이장 전망굿",
+      "price": "4억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.187Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1202동매매4억 4,900아파트102/77m², 13/25층, 남서향주엽역 도보5분 방3화2 내부올수리 신혼부부거주 전망굿",
+      "price": "4억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.187Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1202동매매4억 6,000아파트102/77m², 9/25층, 남서향12월입주가능.올수리.인프라굿",
+      "price": "4억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동전세3억 7,000아파트102/77m², 22/25층, 남서향정상.내부올수리.방3화2.전망굿.주엽역세권",
+      "price": "3억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1201동전세2억 6,000아파트79/57m², 10/24층, 남서향7월25일이후입주가능, 샷시포함올수리특,주엽역약7분,GTX약15분,",
+      "price": "2억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1202동전세2억 7,000아파트102/77m², 13/25층, 남서향하시,착한전세,도배,부분수리해줌.전망굿,입주협의가",
+      "price": "2억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동전세3억 3,000아파트102/77m², 17/25층, 남서향하시 방3화2 남향 역세권 전망굿 내부올수리 아주깨끗",
+      "price": "3억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동매매4억 1,000아파트102/77m², 17/25층, 남서향하시 방3화2 남향 역세권 전망굿 내부올수리 아주깨끗",
+      "price": "4억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1202동매매4억 3,000아파트102/77m², 14/25층, 남서향급매 강력추천함니다 수리했던집임  직접확인하세요  좋은위치와 전망도좋음",
+      "price": "4억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "문촌12단지유승 1203동매매5억아파트102/77m², 21/25층, 남서향주엽역세권,남향,화장실2,주인거주",
+      "price": "5억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:20.188Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1388_20250718_000223.png"
+  }
+}

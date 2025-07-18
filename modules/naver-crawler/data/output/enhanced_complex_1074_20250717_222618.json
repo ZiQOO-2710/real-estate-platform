@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:26:18.939473",
+    "complex_id": "1074"
+  },
+  "basic_info": {
+    "complex_id": "1074",
+    "source_url": "https://new.land.naver.com/complexes/1074",
+    "extracted_at": "2025-07-17T22:26:15.777632",
+    "url": "https://new.land.naver.com/complexes/1074?ms=37.511167,126.882755,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:26:13.880Z",
+    "complexId": "1074"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 102동매매14억 5,000아파트200/169m², 6/27층, 남동향넓은 공간으로 아이키우기 좋고 2세대구성도가능.1년세안고매매",
+      "price": "14억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 105동전세6억 8,000아파트108/84m², 24/24층, 남서향앞전망트인 시원한뷰로  깨끗하게 수리됨",
+      "price": "6억 8",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 111동매매12억 6,000아파트108/84m², 24/27층, 남서향전세안고매수, 샷시포함특올수리,올확장형, 거실뷰탁트임.초중고인접대단지",
+      "price": "12억 6",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 107동매매13억아파트108/84m², 19/27층, 남동향방1확장, 중문, 붙방이장설치, 대단지 관리비 저렴, 신도림역세권",
+      "price": "13억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 106동월세8,000/320아파트178/148m², 19/26층, 남동향큰방4개로 쾌적한 귀한평형.초,중,고 학교다니기 편하고 신도림역세로 편리",
+      "price": null,
+      "area": null,
+      "floor": "26층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 103동월세3억/130아파트108/84m², 22/27층, 남서향1년 계약조건,올수리 샷시포함,컨디션 최상",
+      "price": "3억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 102동매매14억 9,000아파트200/169m², 10/27층, 남동향내부확장 수리되어 상태깨끗.입주여유.1년세안고 매매",
+      "price": "14억 9",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 102동매매14억 7,000아파트200/169m², 13/27층, 남동향정상입주 전망이 트여 있고 학원 학군좋은 2세대 거주좋은 아파트",
+      "price": "14억 7",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인신도림동아1차 109동월세4억/70아파트80/59m², 5/25층, 남서향입주일9월초중협의희망.집상태 매우 깨끗.햇빛 통풍 좋은 남향",
+      "price": "4억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:26:15.790Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1074_20250717_222618.png"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:40:24.060040",
+    "complex_id": "1120"
+  },
+  "basic_info": {
+    "complex_id": "1120",
+    "source_url": "https://new.land.naver.com/complexes/1120",
+    "extracted_at": "2025-07-17T22:40:19.414146",
+    "url": "https://new.land.naver.com/complexes/1120?ms=37.670869,127.047618,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:40:18.144Z",
+    "complexId": "1120"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인서원 115동매매3억 8,000아파트67A/49m², 18/18층, 동향탁트인전망,층간소음없는탑층. 입주협의가능. 도봉역가까운라인",
+      "price": "3억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인서원 112동매매3억 1,000아파트54A/40m², 6/18층, 동향전망좋음,도배,장판,화장실 인테리어됨",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인서원 115동매매2억 9,500아파트54B/39m², 5/18층, 동향급매, 도봉역 6분, 중랑천 조망, 수리기간 부여 가능",
+      "price": "2억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "서원 105동매매3억 6,000아파트67A/49m², 9/18층, 남향급매 대단지 남향집 방핛역 가깝고  즉시입주 가능해요.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "서원 115동전세1억 7,500아파트54B/39m², 18/18층, 동향최상층 최고의 전망  배관수리등 화장실수리깨끗 입주일협해요.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "서원 108동매매3억 6,000아파트67A/49m², 10/18층, 남향남향 깨끗 정상입주 이사날짜협의가능합니다",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "서원 111동매매3억 7,000아파트67A/49m², 6/16층, 동향내부 깨끗 전세1.89억 안고 매매",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "서원 112동매매3억아파트54A/40m², 17/18층, 동향급매 로얄층 전망최고  올수리 하시.",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.425Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "서원 116동매매3억 7,000아파트67A/49m², 9/16층, 동향샷시등 화이트톤으로 올수리되어 완전깔끔, 전망좋고 역가까워요.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "서원 109동매매5억 5,000아파트81B/59m², 11/18층, 남향주인거주.샷시포함 수리된집.입주협의가능.로얄동",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "서원 107동매매3억 4,500아파트67A/49m², 4/18층, 동향급매 역세권 1.9억원 세안고 매매하세요.27.2월이후 입주가",
+      "price": "3억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "서원 111동매매3억 4,000아파트67A/49m², 16/16층, 동향급매매 최상층 올수리깨끗 월세안고 매매입니다",
+      "price": "3억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "서원 114동매매3억 7,000아파트67A/49m², 6/18층, 동향주인거주. 입주협의가능. 배관공사완료.시설깨끗.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "서원 115동매매3억 1,000아파트54B/39m², 17/18층, 동향소액투자 올수리 중랑천 전망굿 전세1.9억안고 매매",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "서원 115동매매3억 1,000아파트54B/39m², 10/18층, 동향화장실 씽크대등 올수리 아주깨끗 전망좋고 입주날자 협의가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체54A㎡54B㎡66B㎡66A1㎡67A㎡67C㎡80C㎡81B㎡81A㎡",
+      "price": null,
+      "area": "1㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:40:19.426Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1120_20250717_224023.png"
+  }
+}

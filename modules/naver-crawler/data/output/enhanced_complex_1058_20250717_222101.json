@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:21:01.057908",
+    "complex_id": "1058"
+  },
+  "basic_info": {
+    "complex_id": "1058",
+    "source_url": "https://new.land.naver.com/complexes/1058",
+    "extracted_at": "2025-07-17T22:20:57.120828",
+    "url": "https://new.land.naver.com/complexes/1058?ms=37.529461,127.084164,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:20:55.159Z",
+    "complexId": "1058"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 1동매매13억아파트113/84m², 13/19층, 남향올수리,입주가능",
+      "price": "13억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.131Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 1동전세5억 8,000아파트113/84m², 1/19층, 남향한강공원 인근, 남향, 초중고 인접, 입주협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "경남아너스빌 1동매매11억 5,000아파트113/84m², 1/19층, 남향한강공원인근       남향 으로  밝음       입주추천",
+      "price": "11억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 1동매매10억 7,000아파트113/84m², 2/19층, 남향",
+      "price": "10억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 1동매매12억 5,000아파트113/84m², 6/19층, 남향채광 좋은 남향, 내부 컨디션 좋음, 초,중,고 인접, 실입주 가능",
+      "price": "12억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "경남아너스빌 1동매매9억아파트85/59m², 9/19층, 동향",
+      "price": "9억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인경남아너스빌 1동매매12억 5,000아파트113/84m², 저/19층, 남향남향,깨끗함, 초중고 한강공원인근 아주밝아요",
+      "price": "12억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:57.132Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1058_20250717_222100.png"
+  }
+}

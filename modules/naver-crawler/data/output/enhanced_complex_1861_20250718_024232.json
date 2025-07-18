@@ -1,0 +1,268 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:42:32.011063",
+    "complex_id": "1861"
+  },
+  "basic_info": {
+    "complex_id": "1861",
+    "source_url": "https://new.land.naver.com/complexes/1861",
+    "extracted_at": "2025-07-18T02:42:28.455326",
+    "url": "https://new.land.naver.com/complexes/1861?ms=37.43274,126.78892,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:42:26.314Z",
+    "complexId": "1861"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인산호 101동매매2억 7,500아파트78/59m², 19/19층, 남동향샤시까지 특올수리.층간소음 걱정없어요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인산호 101동매매2억 5,500아파트78/59m², 8/19층, 남동향막힘없이환한집 초중고인접 서해선신천역 삼미시장전통시장 신천공원인접",
+      "price": "2억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인산호 101동매매2억 7,500아파트78/59m², 19/19층, 남향2년전 샷시포함 특올수리",
+      "price": "2억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인산호 101동매매2억 5,500아파트78/59m², 8/19층, 남향입주가능 깨끗함",
+      "price": "2억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "산호 101동매매3억 4,000아파트111/84m², 16/19층, 남동향전망좋고 살기좋은아파트 주인거주 이사협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "산호 101동매매2억 7,500아파트78/59m², 고/19층, 남동향특올수리된집 주거행복",
+      "price": "2억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.467Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "산호 101동매매3억 500아파트111/84m², 1/19층, 남동향",
+      "price": "3억 500",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.468Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,267만연희매매2.3억1.5억~2.7억전세1억1억월세40만40만면적60㎡60.59㎡ ~ 78.19㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억1",
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,446만엠에스스타리움매매3.98억3.9억~4.13억전세2.95억2.9억~3억월세1.4백1.4백면적91㎡83.85㎡ ~ 91.91㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "98억3",
+      "area": "91㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,006만한영매매2.1억2억~2.75억전세-1.3억면적69㎡69.76㎡ ~ 80.46㎡매매매물만 보기20개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,038만시흥롯데캐슬시그니처(1블럭)매매7.39억6.72억~7.99억면적120㎡120.61㎡ ~ 122.45㎡매매매물만 보기136개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "39억6",
+      "area": "120㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "763만극동매매1.5억1.5억면적65㎡61.37㎡ ~ 65.55㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,341만경남아너스빌매매4.3억3.5억~5.4억월세1백1백면적106㎡79.73㎡ ~ 149.83㎡매매매물만 보기32개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억3",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "580만명성(882-5)매매1.35억1.35억~1.6억면적77㎡71.82㎡ ~ 77.82㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,122만우남한신매매2.75억2.6억~4억면적81㎡81.47㎡ ~ 108.2㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억2",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,123만산호매매2.65억2.55억~3.4억면적78㎡78.31㎡ ~ 111.88㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억2",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "광덕1차월세40만40만면적73㎡73.11㎡ ~ 73.11㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "756만신성매매1.35억1.35억~1.7억면적59㎡59.02㎡ ~ 60.17㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "59㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,417만진주매매2.4억1.8억~2.4억월세-40만면적56㎡56.78㎡ ~ 62.88㎡매매매물만 보기8개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "명성(69-1)면적54.77㎡54.77㎡ ~ 54.77㎡단지정보",
+      "price": null,
+      "area": "54.77㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,001만시흥롯데캐슬시그니처(2블럭)매매7.14억6.59억~8억면적118㎡118.79㎡ ~ 120.63㎡매매매물만 보기124개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "14억6",
+      "area": "118㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,066만뉴월드매매3.45억1.55억~3.65억면적107㎡57.85㎡ ~ 107.65㎡매매매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억1",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "671만동경2차매매1.3억1.2억~1.3억면적64㎡64㎡ ~ 64㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억1",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:42:28.470Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 24,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1861_20250718_024231.png"
+  }
+}

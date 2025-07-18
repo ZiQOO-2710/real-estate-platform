@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:41:59.110468",
+    "complex_id": "1309"
+  },
+  "basic_info": {
+    "complex_id": "1309",
+    "source_url": "https://new.land.naver.com/complexes/1309",
+    "extracted_at": "2025-07-17T16:41:55.134366",
+    "url": "https://new.land.naver.com/complexes/1309?ms=37.568309,126.848905,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:41:53.521Z",
+    "complexId": "1309"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매6억 8,000아파트75B/59m², 1/18층, 북동향입주,확장형,샷시포함특올수리,CJ부지 개발호재",
+      "price": "6억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.147Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 3,000아파트75B/59m², 7/18층, 북향올수리, 전망굿,  주인거주 관리잘됨, 입주협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 5,000아파트75B/59m², 14/18층, 북동향한강뷰 세안고",
+      "price": "7억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 6,000아파트74A/59m², 17/18층, 북동향특올수리  거실에서 한강조망  cj자리 개발중",
+      "price": "7억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 104동매매7억 5,000아파트75C/59m², 11/17층, 동향CJ개발호재,한강조망권,샷시,폴딩도어 특올수리,갭투자",
+      "price": "7억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "한보구암마을 102동매매7억 3,000아파트75B/59m², 7/18층, 북동향올수리 깨끗,한강 산책로근접 주변cj개발호재,입주협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 5,000아파트75B/59m², 6/18층, 북동향확장, 샷시까지 특 올수리주방 넓음, 입구동, 트인뷰, 채광굿",
+      "price": "7억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "한보구암마을 102동매매7억 6,000아파트74A/59m², 17/18층, 북서향9호선역세권 한강조망 특올수리 입주 가능함",
+      "price": "7억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 6,000아파트74A/59m², 고/18층, 북동향탁 한강 뷰, 투룸 구조, 샷시 교체, 깔끔 깨끗",
+      "price": "7억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "한보구암마을 103동매매8억 3,000아파트106/84m², 8/15층, 남향남향 입주가능매물입니다",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "한보구암마을 101동매매8억 5,000아파트106/84m², 16/17층, 남서향한강조망권  9호선역세권 세안고",
+      "price": "8억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 102동매매7억 3,000아파트74A/59m², 저/18층, 북향입주매물, 특급 인테리어, 상태최상, 한강조망, CJ부지개발호재",
+      "price": "7억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인한보구암마을 103동매매8억 5,000아파트106/84m², 3/15층, 남향소유주거주중 남향 조용하고 아늑한 단지임 입주협의가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "한보구암마을 102동매매7억 6,000아파트74A/59m², 17/18층, 북향입주협의 전체올수리 한강뷰 cj공장부지개발호재",
+      "price": "7억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한보구암마을 102동매매6억 8,000아파트75B/59m², 1/18층, 북동향입주,확장형,샷시포함특올수리,CJ부지 개발호재한경부동산 제공가양역강나루부동산공인중개사사무소확인매물 25.07.16.집주인한보구암마을 102동매매7억 3,000아파트75B/59m², 7/18층, 북향올수리, 전망굿,  주인거주 관리잘됨, 입주협의매경부동산 제공(주)우대빵부동산중개법인 강서지점확인매물 25.07.16.집주인한보구암마을 102동매매7억 5,000아파트75B/59m², 14/18층, 북동향한강뷰 세안고매경부동산 제공조은공인중개사사무소확인매물",
+      "price": "6억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:55.148Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1309_20250717_164158.png"
+  }
+}

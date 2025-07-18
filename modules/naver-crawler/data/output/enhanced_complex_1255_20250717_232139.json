@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:21:39.347479",
+    "complex_id": "1255"
+  },
+  "basic_info": {
+    "complex_id": "1255",
+    "source_url": "https://new.land.naver.com/complexes/1255",
+    "extracted_at": "2025-07-17T23:21:34.015785",
+    "url": "https://new.land.naver.com/complexes/1255?ms=37.58099,127.03597,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:21:31.629Z",
+    "complexId": "1255"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "분양중청량리역 리버리치 3차분양가10.8 ~ 15.49억10.8억~15.49억면적90.94㎡ ~ 235.67㎡90.94㎡ ~ 235.67㎡상가 7세대민간분양90.94㎡ ~ 235.67㎡분양중2021.06.01",
+      "price": "49억10",
+      "area": "90.94㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "공성면적98.41㎡80.5㎡ ~ 113.92㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "98.41㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,034만월드캐슬매매12억12억전세-6억면적195㎡142.8㎡ ~ 195.55㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기7개 매물이 있습니다.단지정보",
+      "price": "12억12",
+      "area": "195㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,745만두산베어스타워(주상복합)매매7.6억7.6억~7.8억면적144㎡144.05㎡ ~ 144.05㎡매매매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억7",
+      "area": "144㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,811만이수브라운스톤매매9.1억7.2억~9.5억전세-5.8억면적107㎡76.65㎡ ~ 107㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억7",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "다빈치빌(도시형)면적 - ㎡35.22㎡ ~ 35.43㎡단지정보",
+      "price": null,
+      "area": "35.22㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "리안(도시형)월세34만34만면적58㎡58.36㎡ ~ 58.36㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "58㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,457만해오름매매5.5억5.5억면적74㎡74.56㎡ ~ 74.56㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,757만용두롯데캐슬리치매매12.5억10.3억~16억전세6.7억6.7억월세-2.2백면적110㎡84.26㎡ ~ 149.26㎡매매매물만 보기32개 매물이 있습니다.전세매물만 보기12개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "송봉파크(도시형)전세2.7억2.7억월세40만40만면적42㎡42.02㎡ ~ 42.02㎡전세매물만 보기2개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "7억2",
+      "area": "42㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,436만청우매매7억6.5억~7억월세1.6백1.6백면적95㎡95.32㎡ ~ 95.32㎡매매매물만 보기3개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,521만현대매매9억7억~10억전세5.5억5.5억면적118㎡85.97㎡ ~ 118.75㎡매매매물만 보기22개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억7",
+      "area": "118㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,128만동성매매4.7억4.7억면적73㎡73.38㎡ ~ 73.38㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억4",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,521만동성네스트빌매매4.5억4.5억면적59㎡59.31㎡ ~ 59.31㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "59㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,755만안암골벽산매매9억7.8억~9.8억전세-6.5억월세1.7백1.7백면적108㎡81.18㎡ ~ 143.6㎡매매매물만 보기16개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억7",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,990만청량리역해링턴플레이스(주상복합)매매14억12.2억~19억전세7.4억7억~7.9억월세3.1백2.8백~3.2백면적116㎡83.87㎡ ~ 116.9㎡매매매물만 보기136개 매물이 있습니다.전세매물만 보기31개 매물이 있습니다.월세매물만 보기31개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "14억12",
+      "area": "116㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "동광팰리스(도시형)면적37.99㎡27.92㎡ ~ 38.48㎡단지정보",
+      "price": null,
+      "area": "37.99㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,792만경동미주매매7.6억7.6억면적90㎡90.91㎡ ~ 90.91㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억7",
+      "area": "90㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:34.029Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1255_20250717_232139.png"
+  }
+}

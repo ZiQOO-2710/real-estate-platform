@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:52:55.888061",
+    "complex_id": "2087"
+  },
+  "basic_info": {
+    "complex_id": "2087",
+    "source_url": "https://new.land.naver.com/complexes/2087",
+    "extracted_at": "2025-07-18T03:52:52.639464",
+    "url": "https://new.land.naver.com/complexes/2087?ms=37.749316,127.035868,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:52:50.502Z",
+    "complexId": "2087"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "이지한팰리스6차(도시형)면적 - ㎡54.04㎡ ~ 54.04㎡단지정보",
+      "price": null,
+      "area": "54.04㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "센텀파크빌면적71.55㎡53.56㎡ ~ 84.25㎡단지정보",
+      "price": null,
+      "area": "71.55㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "이지한팰리스면적 - ㎡53.97㎡ ~ 58.89㎡단지정보",
+      "price": null,
+      "area": "53.97㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "공간행복(주상복합)면적 - ㎡85.13㎡ ~ 90.58㎡단지정보",
+      "price": null,
+      "area": "85.13㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "정은루체빌(649-14)면적 - ㎡53.72㎡ ~ 55.4㎡단지정보",
+      "price": null,
+      "area": "53.72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "채움빌리지12차면적 - ㎡56.6㎡ ~ 62.81㎡단지정보",
+      "price": null,
+      "area": "56.6㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "채움빌리지7차면적 - ㎡47.4㎡ ~ 58.11㎡단지정보",
+      "price": null,
+      "area": "47.4㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "베네스트파크면적56.24㎡56.24㎡ ~ 56.24㎡단지정보",
+      "price": null,
+      "area": "56.24㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "992만희망매매2.1억2억~2.4억면적70㎡70.54㎡ ~ 85.34㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "정은루체빌(639-11)면적 - ㎡53.89㎡ ~ 55.0㎡단지정보",
+      "price": null,
+      "area": "53.89㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "베스트하우스(도시형)면적 - ㎡82.56㎡ ~ 82.56㎡단지정보",
+      "price": null,
+      "area": "82.56㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "동성면적67.11㎡67.11㎡ ~ 84.68㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "67.11㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,102만유성벨로스매매2.7억2.6억~2.8억면적81㎡81.41㎡ ~ 81.41㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억2",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,194만의정부SKVIEW매매3.9억3.2억~5.6억전세-3억~3.3억월세-1.3백면적108㎡80.64㎡ ~ 141.68㎡매매매물만 보기48개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억3",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "한솔아트빌(664-9)면적 - ㎡65.05㎡ ~ 70.59㎡단지정보",
+      "price": null,
+      "area": "65.05㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "인성하이츠22차면적 - ㎡44.63㎡ ~ 60.18㎡단지정보",
+      "price": null,
+      "area": "44.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "아리띠애(687-3,도시형)면적63.2㎡59.56㎡ ~ 65.82㎡단지정보",
+      "price": null,
+      "area": "63.2㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "954만문화늘푸른매매2.8억2.7억~2.8억면적97㎡97.46㎡ ~ 97.46㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억2",
+      "area": "97㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    },
+    {
+      "index": 29,
+      "selector": "[class*=\"deal\"]",
+      "text": "904만동일수정매매1.75억1.75억~2.07억월세65만50만~65만면적64㎡64.88㎡ ~ 76.82㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억1",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:52:52.648Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2087_20250718_035255.png"
+  }
+}

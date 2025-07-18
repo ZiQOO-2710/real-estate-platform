@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:09:01.890656",
+    "complex_id": "1408"
+  },
+  "basic_info": {
+    "complex_id": "1408",
+    "source_url": "https://new.land.naver.com/complexes/1408",
+    "extracted_at": "2025-07-18T00:08:58.089973",
+    "url": "https://new.land.naver.com/complexes/1408?ms=37.497717,126.76964,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:08:55.268Z",
+    "complexId": "1408"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1307동매매9억아파트198/173m², 7/15층, 남향부분수리로깔끔,주인거주,계남학군,로얄동로얄층",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.106Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1310동매매8억아파트122/101m², 14/20층, 남향",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1302동매매7억 4,000아파트124/101m², 10/16층, 남향주인거주,밖샷시포함 내부 올수리됨.거실확장,정상,이사협의가,계남초,중학군",
+      "price": "7억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1307동매매8억 8,000아파트198/173m², 8/15층, 남향계남초중학군. 공원옆. 옛수리. 정상",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1312동매매9억아파트152/128m², 21/25층, 남향",
+      "price": "9억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1310동매매7억 5,000아파트122/101m², 11/20층, 남향급매,일부수리로 내부깨끗,계남학군,가격절충가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1304동매매8억 5,000아파트158/133m², 10/18층, 남향로얄동 로얄층, 주인거주로 관리잘된집, 계남학군",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1306동매매8억 2,000아파트158/133m², 3/17층, 동향샷시제외한내부올수리,트인전망,가격절충가능",
+      "price": "8억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1311동매매8억 2,000아파트152/128m², 15/25층, 동향공원뷰. 계남초중학군.샷시포함수리",
+      "price": "8억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1301동매매7억아파트124/101m², 저/16층, 동향내부올수리,주인거주,관리잘된집,계남학군,가격절충가능",
+      "price": "7억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1307동매매8억 5,000아파트198/173m², 1/15층, 남향전체올수리. 정상이사.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1311동매매7억 8,000아파트152/128m², 17/25층, 동향공원전망탁월 계남초 입주매물",
+      "price": "7억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1311동매매8억 5,000아파트152/128m², 중/25층, 동향",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인그린타운삼성,우성 1310동매매7억 5,000아파트122/101m², 중/20층, 남향급매, 집상태 깨끗, 계남학군, 중앙공원인접, 7호선역세권",
+      "price": "7억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체122㎡124㎡152㎡158㎡193㎡198㎡",
+      "price": null,
+      "area": "122㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:08:58.107Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1408_20250718_000901.png"
+  }
+}

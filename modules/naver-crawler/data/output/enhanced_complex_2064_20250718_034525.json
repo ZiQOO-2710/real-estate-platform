@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:45:25.841206",
+    "complex_id": "2064"
+  },
+  "basic_info": {
+    "complex_id": "2064",
+    "source_url": "https://new.land.naver.com/complexes/2064",
+    "extracted_at": "2025-07-18T03:45:22.752088",
+    "url": "https://new.land.naver.com/complexes/2064?ms=37.31672,126.956105,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:45:20.987Z",
+    "complexId": "2064"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한아름1차 101동매매2억 9,000아파트75/59m², 5/20층, 서향올수리해서 주인거주중.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한아름1차 101동매매3억아파트75/59m², 8/20층, 서향리모델링으로 내부 활용도 굿 입주시기 협의가능",
+      "price": "3억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매2억 9,000아파트75/59m², 15/20층, 서향초급매 왕송호수뷰 상태양호  정상입주 생활권 편리함 절충",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매2억 9,000아파트75/59m², 11/20층, 서향최상급올수리,옵션 식기세척기,안방붙박이장 있음.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매3억 6,000아파트108/84m², 13/20층, 서향초급매 의왕역세권 수리됨 상태양호  절충가 정상입주",
+      "price": "3억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매3억 9,500아파트108/84m², 19/20층, 남향급매 수리됨 상태양호 남향 의왕역세권 상태최상  정상입주",
+      "price": "3억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한아름1차 101동매매2억 9,000아파트75/59m², 19/20층, 서향즉시입주 탁 트인 왕송호수 뷰 채광굿  특올수리 샤시포함 신혼부부강추",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한아름1차 101동전세2억아파트75/59m², 6/20층, 서향귀한 전세매물,lh가능 환하고 깨끗한집",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매2억 9,000아파트75/59m², 18/20층, 서향급매물의왕전철역세권왕송호수전망",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "한아름1차 101동전세3억 5,000아파트108/84m², 8/20층, 서향중문,샷시까지 올수리됨 상태양호  의왕역세권  정상입주",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매4억 2,500아파트108/84m², 13/20층, 남향의왕전철역 역세권 ,상태양호",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매4억 2,500아파트108/84m², 12/20층, 남향남향 내외부샷시까지 완벽한 리모델링 상태최상 경관양호 정상",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매3억 9,000아파트108/84m², 4/20층, 남향",
+      "price": "3억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "한아름1차 101동매매4억아파트108/84m², 8/20층, 서향중문,샷시까지 올수리됨 상태양호  의왕역세권  정상입주 절충가",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.762Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2064_20250718_034525.png"
+  }
+}

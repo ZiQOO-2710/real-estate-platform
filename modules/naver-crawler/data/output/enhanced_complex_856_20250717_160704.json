@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:07:04.489413",
+    "complex_id": "856"
+  },
+  "basic_info": {
+    "complex_id": "856",
+    "source_url": "https://new.land.naver.com/complexes/856",
+    "extracted_at": "2025-07-17T16:07:01.215557",
+    "url": "https://new.land.naver.com/complexes/856?ms=37.682328,127.04839,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:06:59.182Z",
+    "complexId": "856"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 3동매매5억 1,000아파트104/84m², 11/15층, 남향정상입주 가능. 정남향 일조량 우수함 조정가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 3동매매5억 8,000아파트104/84m², 9/15층, 남향샷시포함 특올수리, 남향, 일조량 풍부, 입주일 협의가능",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 2동매매5억 8,000아파트104/84m², 11/15층, 남향",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 3동매매5억 1,000아파트104/84m², 5/15층, 남향awesome대단지1.7호선도보5분.끝내는주는 조망,남향 . 깨끗 햇빛굿",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 1동매매5억 1,000아파트104/84m², 4/12층, 남향주세안고 매매가능  남향으로 조용함",
+      "price": "5억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 3동매매5억 1,000아파트104/84m², 10/15층, 남향awesome 1호선 도봉역 도보5분, 햇빛 짱 .  깨끗 남향.수리됨",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인도봉유원 2동매매5억 1,000아파트104/84m², 3/15층, 남향awesome 도봉역1호선도보5분 .집주인거주 수리됨 조용한단지 남향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "도봉유원 3동매매5억 1,000아파트104/84m², 6/15층, 남향awesome. 도봉역1호선 . 도보5분거리. 조용한단지. 올수리.",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:07:01.230Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_856_20250717_160704.png"
+  }
+}

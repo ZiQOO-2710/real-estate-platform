@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:14:59.050979",
+    "complex_id": "1428"
+  },
+  "basic_info": {
+    "complex_id": "1428",
+    "source_url": "https://new.land.naver.com/complexes/1428",
+    "extracted_at": "2025-07-18T00:14:54.348806",
+    "url": "https://new.land.naver.com/complexes/1428?ms=37.495074,126.781602,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:14:51.567Z",
+    "complexId": "1428"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1411동매매5억 5,000아파트104/84m², 16/21층, 남향세안고,샷시포함특올수리,",
+      "price": "5억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1411동전세3억 8,000아파트104/84m², 6/21층, 남향안밖올샷시,수리됨,바로입주가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1411동월세3,000/150아파트104/84m², 6/21층, 남향안,밖올샤시,빠른입주가능,융무,남향",
+      "price": null,
+      "area": null,
+      "floor": "21층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1410동매매5억 2,000아파트104/84m², 1/24층, 남동향샷시까지올수리,정상입주,주인거주중",
+      "price": "5억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1409동매매5억 3,000아파트104/84m², 18/19층, 남향샷시수리된집 공원,학교 인접 조용한 주거환경",
+      "price": "5억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1412동매매5억 2,000아파트104/84m², 4/12층, 남동향추천샷시포함올수리 주인거주함 일주일협의 가능",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1411동매매5억 5,000아파트104/84m², 2/21층, 남향정상입주,주인거주중,주방,거실,작은방확장",
+      "price": "5억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1409동매매5억 2,000아파트104/84m², 6/19층, 남향정상입주,주인거주중",
+      "price": "5억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1410동매매5억 3,000아파트104/84m², 10/24층, 남동향내부수리됨,주인거주중,날짜협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1410동매매5억 6,000아파트104/84m², 16/24층, 남동향내외부샷시교체, 가격조정가능",
+      "price": "5억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "연화건영 1413동매매3억 7,000아파트66/53m², 11/12층, 남향신중동역 인근 연화마을 3룸,학군 주거인프라 훌륭함",
+      "price": "3억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "연화건영 1412동매매5억 6,000아파트104/84m², 7/12층, 남동향주인거주로 깨끗하고 밝은집, 초중고 인접,가격조정가능",
+      "price": "5억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.360Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "연화건영 1412동매매3억 4,000아파트66/53m², 5/12층, 남동향주인거주.날짜협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.361Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "연화건영 1410동매매5억 1,000아파트104/84m², 저/24층, 남동향샷시포함올수리, 초중고 인근, 주변인프라 좋음",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.361Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1410동매매5억 5,000아파트104/84m², 14/24층, 남동향학군 양호, 부분 수리 상태, 주인거주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.361Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인연화건영 1413동매매3억 3,000아파트66/53m², 12/12층, 남동향세안고 ,샷시포함올수리,탑층",
+      "price": "3억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.361Z"
+    },
+    {
+      "index": 89,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인연화건영 1409동매매5억 4,000아파트104/84m², 16/19층, 남향샷시까지올수리,정상입주,주인거주중부동산써브 제공연화공인중개사사무소확인매물 25.07.10.",
+      "price": "5억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:14:54.361Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1428_20250718_001458.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:08:58.106850",
+    "complex_id": "1212"
+  },
+  "basic_info": {
+    "complex_id": "1212",
+    "source_url": "https://new.land.naver.com/complexes/1212",
+    "extracted_at": "2025-07-17T23:08:54.036588",
+    "url": "https://new.land.naver.com/complexes/1212?ms=37.515595,126.892802,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:08:52.158Z",
+    "complexId": "1212"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문래우정 101동매매11억아파트112A/84m², 11/15층, 동향실입주가능 탁트인조망 로얄층 수리되어 깔끔함",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.049Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인문래우정 101동매매13억 2,000아파트151/114m², 저/15층, 남향쾌적하게 수리된 남향 문래역 도보4분 문래공원,홈플러스 학군 근접",
+      "price": "13억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.050Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인문래우정 101동매매9억 9,000아파트112A/84m², 저/15층, 동향문래공원옆 편의시설 풍부, 내부올수리, 입주협의 가능",
+      "price": "9억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.050Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인문래우정 101동매매13억 2,000아파트151/114m², 4/15층, 남향남향, 수리됨,주인거주상태좋음, 입주가능, 문래역세권",
+      "price": "13억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.050Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인문래우정 101동매매11억아파트111B/84m², 저/15층, 남향실입주가능.내부상태깔끔.2호선초역세권.주거만족도최상.",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.050Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인문래우정 101동매매11억아파트112A/84m², 11/15층, 동향실입주가능 탁트인조망 로얄층 수리되어 깔끔함매경부동산 제공채움공인중개사사무소확인매물 25.07.16.집주인문래우정 101동매매13억 2,000아파트151/114m², 저/15층, 남향쾌적하게 수리된 남향 문래역 도보4분 문래공원,홈플러스 학군 근접한경부동산 제공문래동소망공인중개사사무소확인매물 25.07.16.집주인문래우정 101동매매11억아파트112A/84m², 11/15층, 동향실입주가능.내부올수리.2호선초역세권.주거만족도최상.매경부동산 제공문래자이공인중개사",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:08:54.050Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1212_20250717_230857.png"
+  }
+}

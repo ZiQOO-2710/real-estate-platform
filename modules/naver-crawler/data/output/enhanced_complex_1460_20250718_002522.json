@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:25:22.612415",
+    "complex_id": "1460"
+  },
+  "basic_info": {
+    "complex_id": "1460",
+    "source_url": "https://new.land.naver.com/complexes/1460",
+    "extracted_at": "2025-07-18T00:25:17.229184",
+    "url": "https://new.land.naver.com/complexes/1460?ms=37.400976,126.957548,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:25:15.825Z",
+    "complexId": "1460"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 504동매매4억 1,500아파트67/49m², 1/15층, 남서향깨끗,  세안고",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.242Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 508동매매4억 1,000아파트67/49m², 1/15층, 남동향급매매,착한금액 ,내부 수리되어 좋음",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 507동매매4억 9,000아파트67/49m², 4/14층, 남동향귀한 입주물 남향입니다",
+      "price": "4억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 504동매매5억아파트67/49m², 10/15층, 남서향세안고,저렴한 매물,앞이 트여있고 햇살좋은집",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 508동매매5억 5,500아파트67/49m², 12/15층, 남동향2년전. 샷시포함. 주인세대용 특올수리. 26년2월13일이전",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 502동매매4억 7,000아파트67/49m², 7/20층, 남서향외부샷시포함 올수리 거실조망 트여 채광굿 세안고 투자",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 504동전세3억 2,000아파트67/49m², 9/15층, 남서향샷시포함 특올수리, 9.89.12일 입주가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 503동매매5억 1,000아파트67/49m², 저/20층, 서향특 올수리, 2룸, 노을이 예쁜 집, 입주물",
+      "price": "5억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 505동매매4억 6,000아파트67/49m², 6/14층, 남향추천 남향  세안고매매투자물 올수리  탁트인뷰",
+      "price": "4억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 502동매매4억 7,000아파트67/49m², 중/20층, 서향세안고가능.베란다샷시포함올수리됨.층수좋음",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 501동매매5억아파트67/49m², 저/20층, 남향수리깨끗한입주물 남향 층수좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 508동매매5억아파트67/49m², 고/15층, 남향수리되어 깨끗함 층수 좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 507동매매5억아파트67/49m², 고/14층, 남향입주물 수리되어깨끗함 공원앞동 층수좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인공작럭키 504동전세3억아파트67/49m², 고/15층, 남서향샷시 포함 전체 특올수리. 9월중순 이후 입주일 협의가능.",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:25:17.243Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인공작럭키 504동매매4억 1,500아파트67/49m², 1/15층, 남서향깨끗,  세안고매경부동산 제공광개토공인중개사사무소확인매물 25.07.17.집주인공작럭키 508동매매4억 1,000아파트67/49m², 1/15층, 남동향급매매,착한금액 ,내부 수리되어 좋음텐컴즈 제공공작삼성공인중개사사무소확인매물 25.07.17.집주인공작럭키 507동매매4억 9,000아파트67/49m², 4/14층, 남동향귀한 입주물 남향입니다텐컴즈 제공공작삼성공인중개사사무소확인매물 25.07.17.집주인공작럭키 504동매매5억아파트67/49m², 10/",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:17.244Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1460_20250718_002522.png"
+  }
+}

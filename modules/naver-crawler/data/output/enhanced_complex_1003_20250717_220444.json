@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:04:44.297212",
+    "complex_id": "1003"
+  },
+  "basic_info": {
+    "complex_id": "1003",
+    "source_url": "https://new.land.naver.com/complexes/1003",
+    "extracted_at": "2025-07-17T22:04:38.749213",
+    "url": "https://new.land.naver.com/complexes/1003?ms=37.54867,127.12784,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:04:35.894Z",
+    "complexId": "1003"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인유원 1동매매8억 9,500아파트96/84m², 2/18층, 남향내부샷시교체 수리. 암사초역세권. 남향.  앞이트여 있어 채광좋음.",
+      "price": "8억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인유원 1동매매8억 7,000아파트96/84m², 12/18층, 동향암사역 초역세권 부분수리 가능한 3룸 화2 8월중순협의",
+      "price": "8억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "유원 1동매매8억 8,000아파트96/84m², 고/18층, 동향w암사역세권w실입주 귀한물건",
+      "price": "8억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인유원 1동매매9억아파트98/84m², 저/18층, 남향암사초역세권, 수리깔끔, 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "유원 1동매매8억 5,000아파트96/84m², 13/18층, 동향추천매물  8호선암사초역세권  살기좋은아파트",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "유원 1동매매7억아파트76/55m², 저/18층, 동향암사초역세권 정원같은 조망  신혼추천 입주",
+      "price": "7억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "유원 1동매매9억아파트96/84m², 중/18층, 남향암사역초역세로 생활인프라 좋은 로얄층 입니다. 입주협의.",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:04:38.757Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1003_20250717_220444.png"
+  }
+}

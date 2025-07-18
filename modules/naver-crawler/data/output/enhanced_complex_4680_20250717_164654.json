@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:46:54.840007",
+    "complex_id": "4680"
+  },
+  "basic_info": {
+    "complex_id": "4680",
+    "source_url": "https://new.land.naver.com/complexes/4680",
+    "extracted_at": "2025-07-17T16:46:50.716134",
+    "url": "https://new.land.naver.com/complexes/4680?ms=35.809728,128.520334,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:46:49.376Z",
+    "complexId": "4680"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동월세1,000/70아파트133/85m², 4/14층, 동향싱크대교체,도배,이사항시",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 6,000아파트94/59m², 8/14층, 남향남향 햇살전망굿 집깨끗 생활편리 진천역편리",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동월세2,000/55아파트94/59m², 12/14층, 남향올인테리어, 전망좋은 남향집, 9월 10월이사협의",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 5,500아파트94/59m², 12/14층, 남향올인테리어, 전망좋은 남향집, 9월 10월이사협의",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 8,500아파트133/85m², 3/14층, 동향초등5분거리,조용한아파트,지하주차장있고 계단으로 연결되어있음.",
+      "price": "1억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 8,500아파트133/85m², 13/14층, 동향밝고조망굿 집깨끗 진천초 전철역 조용 교통편리",
+      "price": "1억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 8,500아파트133/85m², 저/14층, 동향착한 금액,방3주거욕2,앞뒤베란다 시원한 구조,진천초바로,수목원 도보권",
+      "price": "1억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 6,000아파트94/59m², 1/14층, 남향귀한1층 남향 밝고햇살굿 아이키우기굿 조정가 진천초 진천역편리",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매2억아파트133/85m², 10/14층, 동향밝고전망 집깨끗 방1확장 부분수리 이사항시 초중고 전철역편리",
+      "price": "2억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "진천대동맨션 1동매매1억 5,000아파트94/59m², 10/14층, 남향남향 올수리2년 이사항시 조정가 햇살전망굿 깨끗한집 초중고 진천역",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인진천대동맨션 1동매매1억 5,700아파트94/59m², 9/14층, 남향정남향이라 햇살잘들고 전망잘나옴.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:46:50.729Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인진천대동맨션 1동월세1,000/70아파트133/85m², 4/14층, 동향싱크대교체,도배,이사항시부동산뱅크 제공대성청호공인중개사사무소확인매물 25.07.15.집주인진천대동맨션 1동매매1억 6,000아파트94/59m², 8/14층, 남향남향 햇살전망굿 집깨끗 생활편리 진천역편리부동산뱅크 제공수목원하늘채공인중개사사무소확인매물 25.07.14.집주인진천대동맨션 1동월세2,000/55아파트94/59m², 12/14층, 남향올인테리어, 전망좋은 남향집, 9월 10월이사협의매경부동산 제공IPARK에이스1공인중개사사무소확인매물 25.07.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:46:50.730Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4680_20250717_164654.png"
+  }
+}

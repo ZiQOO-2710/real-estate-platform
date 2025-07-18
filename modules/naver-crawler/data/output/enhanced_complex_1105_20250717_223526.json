@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:35:26.296985",
+    "complex_id": "1105"
+  },
+  "basic_info": {
+    "complex_id": "1105",
+    "source_url": "https://new.land.naver.com/complexes/1105",
+    "extracted_at": "2025-07-17T22:35:20.948194",
+    "url": "https://new.land.naver.com/complexes/1105?ms=37.621622,127.061478,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:35:18.164Z",
+    "complexId": "1105"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매5억 9,000아파트91/59m², 1/19층, 남향전세안고 I 아이키우기 좋은집 I 남향 I 역2분 I GTX C역세권개발",
+      "price": "5억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매7억 9,500아파트110/84m², 3/19층, 동향광운대역 도보 1분, GTXC현대건설 호재 품은 신축급 특올수리",
+      "price": "7억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매6억 7,000아파트91/59m², 14/19층, 남향남향,주인거주로컨디션굿,광운대역초역세권단지,입주조건협의가",
+      "price": "6억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매7억 8,000아파트110/84m², 18/19층, 동향정상입주 I 올수리 I 로얄층 I전망좋고 밝고 환함 I 거실확장,붙박이장",
+      "price": "7억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매8억아파트110/84m², 5/19층, 동향깨끗함,전망굿,광운대역3분.",
+      "price": "8억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동월세2억/100아파트110/84m², 16/19층, 동향올수리됨,광운대역3분,전망굿.즉시입주가능.",
+      "price": "2억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매7억 5,000아파트110/84m², 14/19층, 동향임차승계매매,26년6월경입주가,초역세권단지,24년수리,입주조건협의가",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매10억 2,000아파트144/114m², 9/19층, 남향입주만하면되는컨디션좋은집,GTX C서울원아이파크호재미래가치굿,입주조건협가",
+      "price": "10억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매9억 5,000아파트144/114m², 18/19층, 남향샷시포함수리I남향뷰I서울원아이파크뷰I1호선초역세권단지I입주조건협의가",
+      "price": "9억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인월계한일1차 101동매매6억 6,000아파트91/59m², 16/19층, 남향샷시포함올수리됨,남향,전망굿,광운대역3분.",
+      "price": "6억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "월계한일1차 101동매매7억 9,500아파트110/84m², 11/19층, 동향전망굿,광운대역3분.역세권개발,GTX착공등 호재 최대 수혜지임.",
+      "price": "7억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:20.960Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1105_20250717_223526.png"
+  }
+}

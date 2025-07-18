@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:37:31.196376",
+    "complex_id": "1846"
+  },
+  "basic_info": {
+    "complex_id": "1846",
+    "source_url": "https://new.land.naver.com/complexes/1846",
+    "extracted_at": "2025-07-18T02:37:25.991548",
+    "url": "https://new.land.naver.com/complexes/1846?ms=37.301981,126.99668,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:37:24.061Z",
+    "complexId": "1846"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,066만남서울그린맨션매매3.9억3.5억~5억면적121㎡106.26㎡ ~ 146.18㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억3",
+      "area": "121㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,165만삼성미도매매2.92억2.8억~4억면적83㎡83.63㎡ ~ 104.07㎡매매매물만 보기25개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "92억2",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "송죽타워(도시형)면적 - ㎡33.74㎡ ~ 51.61㎡단지정보",
+      "price": null,
+      "area": "33.74㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,181만정자신호매매3억2.8억~3.1억면적84㎡84.89㎡ ~ 84.89㎡매매매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,574만경남아너스빌매매5억4.1억~7.9억월세60만60만면적105㎡75.18㎡ ~ 150.11㎡매매매물만 보기30개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,234만동신1차매매2.8억2억~4.2억전세1.85억1.2억~1.9억월세70만70만~75만면적75㎡57.03㎡ ~ 98.85㎡매매매물만 보기70개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억2",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,305만동신3차매매4.5억3.3억~4.6억월세-70만~80만면적114㎡92.85㎡ ~ 114.62㎡매매매물만 보기24개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼성아트빌(도시형)면적 - ㎡38.76㎡ ~ 79.83㎡단지정보",
+      "price": null,
+      "area": "38.76㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:37:26.007Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,392만동신2차매매2.4억2.2억~4.6억전세1.45억1.4억~2.2억월세65만45만~70만면적57㎡57.21㎡ ~ 112.45㎡매매매물만 보기120개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.월세매물만 보기19개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억2",
+      "area": "57㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.008Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "드림하우스(도시형)면적 - ㎡32.61㎡ ~ 92.6㎡단지정보",
+      "price": null,
+      "area": "32.61㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:37:26.008Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,365만송죽희성연인매매4.5억4.5억면적109㎡109.34㎡ ~ 109.34㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:37:26.008Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1846_20250718_023731.png"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:44:38.763371",
+    "complex_id": "2060"
+  },
+  "basic_info": {
+    "complex_id": "2060",
+    "source_url": "https://new.land.naver.com/complexes/2060",
+    "extracted_at": "2025-07-18T03:44:34.854301",
+    "url": "https://new.land.naver.com/complexes/2060?ms=37.318654,126.954354,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:44:32.624Z",
+    "complexId": "2060"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼신8차 3동매매2억 7,000재건축63/48m², 2/5층, 남향급매,  주인거주, 수리됨, 가로정비사업추진중, 입주협의가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼신8차 1동매매2억 1,000재건축63/48m², 5/5층, 남향",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼신8차 3동매매3억 4,000재건축63/48m², 3/5층, 남향급매 삼신8차가로주택정비사업 추진중 현임대 승계조건 절충가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "삼신8차 2동매매3억재건축63/48m², 2/5층, 남향남향,깨끗,전세안고 투자,초중고 도보가능,가로정비사업 사업시행인가",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "삼신8차 1동매매2억 5,000재건축63/48m², 3/5층, 남향급매 의왕역도보 역세권,상태양호 전세안고",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼신8차 3동전세1억 5,000재건축67/51m², 1/5층, 남향LH 제외 각종전세대출 가능, 보증보험가입 가능, 수도관까지올수리",
+      "price": "1억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "삼신8차 2동매매2억 7,000재건축63/48m², 1/5층, 남향의왕역세권 삼신8차가로주택정비사업 투자물 수리됨 상태최상 정상입주",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "삼신8차 3동매매2억 2,000재건축67/51m², 1/5층, 남향가로정비사업진행지구,의왕역도보약10분",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "삼신8차 3동매매2억 5,000재건축63/48m², 4/5층, 남향가로정비구역,분양신청중,초중고,의왕역,전통시장 등 도보가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "삼신8차 2동매매2억 3,000재건축63/48m², 3/5층, 남향급매 의왕역세권  수리됨 상태양호 삼신8차가로주택사업 분양신청중",
+      "price": "2억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "삼신8차 1동매매2억 5,000재건축63/48m², 2/5층, 남향올수리,깨끗,가로정비사업구역,분양신청중",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:34.863Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2060_20250718_034438.png"
+  }
+}

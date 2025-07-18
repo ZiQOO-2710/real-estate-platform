@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:00:38.190466",
+    "complex_id": "1381"
+  },
+  "basic_info": {
+    "complex_id": "1381",
+    "source_url": "https://new.land.naver.com/complexes/1381",
+    "extracted_at": "2025-07-18T00:00:33.945512",
+    "url": "https://new.land.naver.com/complexes/1381?ms=37.66969,126.75278,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:00:32.266Z",
+    "complexId": "1381"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1905동매매8억아파트152/126m², 2/18층, 남서향최고입니다 GTX역세권 올수리 관리잘된집 입주가능",
+      "price": "8억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1910동매매6억아파트91/73m², 1/12층, 남동향올수리된깨끗한집  킨텍스,현대백화점, 원마운트 GTX역도보가능",
+      "price": "6억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1905동매매8억 5,000아파트152/126m², 6/18층, 남서향세안고. 미래가치에 투자하세요. GTX도보권. 서울역17분컷. 현백앞.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1907동매매10억 9,000아파트180/150m², 11/17층, 동향캐슬추천, 55형,주인거주,올인테리어,gtx도보거리,집보기용이",
+      "price": "10억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1905동매매8억 5,000아파트152/126m², 6/18층, 남동향세안고  GTX킨텍스역10분 호수공원,현대백화점,스타필드마켓,원마운트바로",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1902동매매7억 9,000아파트122/99m², 13/17층, 남서향공가GTX역세권,로얄동,로얄층,밝고좋은집입니다.",
+      "price": "7억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1904동매매7억 9,000아파트152/126m², 2/18층, 남서향예쁜정원에서 사는 느낌 미래가치에 투자하세요",
+      "price": "7억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1908동매매7억 4,000아파트104/84m², 11/15층, 남서향빠른입주 샷시포함올수리 GTX도보권. 서울역17분컷  IC인근  현백앞",
+      "price": "7억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1909동매매7억 8,000아파트152/126m², 15/15층, 남서향정상입주 층고높임 확장수리 GTX, 호수공원인근",
+      "price": "7억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인문촌19단지신우 1909동매매8억 2,000아파트152/126m², 8/15층, 남향정남향으로 주인이 관리한 깔끔한 위치좋은 아파트입니다",
+      "price": "8억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1903동전세4억 3,000아파트122/99m², 1/17층, 남서향정상 수리 밝은남향1층",
+      "price": "4억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1911동매매6억 3,000아파트91/73m², 12/12층, 남서향정상입주 샷시수리함 탑층 GTX, 한수학군,호수공원인근",
+      "price": "6억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1905동매매8억아파트152/126m², 3/18층, 남서향수리 정상입주 GTX도보 가능",
+      "price": "8억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1908동매매8억 3,500아파트152/126m², 5/15층, 남서향정상입주수리깨끗현대백화점 바로 앞GTX도보가능",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1909동매매9억아파트152/126m², 13/15층, 남서향GTX도보.현대백화점도보.한수초.한수중.협의입주",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "문촌19단지신우 1909동월세1억/170아파트152/126m², 8/15층, 남서향GTX 도보가능, 남향,수리된집,교육등 주변상권완벽",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:00:33.958Z"
+    },
+    {
+      "index": 53,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인문촌19단지신우 1905동매매8억아파트152/126m², 2/18층, 남서향최고입니다 GTX역세권 올수리 관리잘된집 입주가능매경부동산 제공힐스테이트최고부동산 공인중개사사무소확인매물 25.07.17.집주인문촌19단지신우 1910동매매6억아파트91/73m², 1/12층, 남동향올수리된깨끗한집  킨텍스,현대백화점, 원마운트 GTX역도보가능우리집부동산 제공성주후곡18단지공인중개사사무소확인매물 25.07.15.집주인문촌19단지신우 1905동매매8억 5,000아파트152/126m², 6/18층, 남서향세안고. 미래가치에 투자하세요. GT",
+      "price": "8억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:33.959Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1381_20250718_000038.png"
+  }
+}

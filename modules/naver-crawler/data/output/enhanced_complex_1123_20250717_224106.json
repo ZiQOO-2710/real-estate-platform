@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:41:06.832719",
+    "complex_id": "1123"
+  },
+  "basic_info": {
+    "complex_id": "1123",
+    "source_url": "https://new.land.naver.com/complexes/1123",
+    "extracted_at": "2025-07-17T22:41:02.789997",
+    "url": "https://new.land.naver.com/complexes/1123?ms=37.559095,127.145227,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:41:01.314Z",
+    "complexId": "1123"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "대우 1동매매10억 5,000아파트101/72m², 고/9층, 남서향명덕초.명일중학군,5.8호선인근교통편리.재건축진행중",
+      "price": "10억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.803Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,437만대우매매10.5억10.5억면적101㎡101.64㎡ ~ 101.64㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,012만아남매매12.5억8억~12.9억전세5.2억5억~5.6억월세50만50만면적103㎡60.95㎡ ~ 103.1㎡매매매물만 보기35개 매물이 있습니다.전세매물만 보기48개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "정원(도시형)면적 - ㎡32.82㎡ ~ 54.17㎡단지정보",
+      "price": null,
+      "area": "32.82㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,176만배재현대매매12억10.7억~15억전세5.5억5.3억~5.5억면적95㎡95.87㎡ ~ 119.01㎡매매매물만 보기88개 매물이 있습니다.전세매물만 보기14개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억10",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,013만강동롯데캐슬퍼스트매매17.6억14억~30억전세9억7.8억~13억월세2.8백45만~4백면적145㎡87.41㎡ ~ 198.51㎡매매매물만 보기180개 매물이 있습니다.전세매물만 보기42개 매물이 있습니다.월세매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억14",
+      "area": "145㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,259만강동현대홈타운매매14.3억11.5억~17억전세6.9억6.9억월세2백2백면적111㎡84.09㎡ ~ 141.8㎡매매매물만 보기38개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억11",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,462만고덕래미안힐스테이트매매19억15.7억~48억전세9억7.3억~15억월세3.2백30만~3.2백면적115㎡82.55㎡ ~ 223.15㎡매매매물만 보기613개 매물이 있습니다.전세매물만 보기111개 매물이 있습니다.월세매물만 보기46개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "19억15",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:41:02.805Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1123_20250717_224106.png"
+  }
+}

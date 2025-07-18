@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:09:15.056521",
+    "complex_id": "1017"
+  },
+  "basic_info": {
+    "complex_id": "1017",
+    "source_url": "https://new.land.naver.com/complexes/1017",
+    "extracted_at": "2025-07-17T22:09:10.710745",
+    "url": "https://new.land.naver.com/complexes/1017?ms=37.557794,126.85716,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:09:09.336Z",
+    "complexId": "1017"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인등촌마을서광 106동매매8억 9,000아파트107B/84m², 5/18층, 남동향가양역5분역세권 세안고 깨끗",
+      "price": "8억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인등촌마을서광 103동전세5억 2,000아파트79B/59m², 7/19층, 남서향가양역세권 올수리  상태최상 전망트임 신혼부부추천 홈플러스 영화관앞",
+      "price": "5억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인등촌마을서광 102동매매8억 4,000아파트79A/59m², 12/19층, 남동향가양역세권 특올수리 확장 상태최상  전세안고 투자도가능 홈플러스앞",
+      "price": "8억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인등촌마을서광 101동매매8억 9,000아파트107B/84m², 7/19층, 남서향가양역세권  상태깨끗 전망트임  햇살가득  열병합난방  홈플러스앞",
+      "price": "8억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인등촌마을서광 101동매매8억 5,000아파트107B/84m², 2/19층, 남향남향 입주정상 깨끗",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "등촌마을서광 101동매매8억 5,000아파트107B/84m², 2/19층, 남서향6,9호선급행가양역 입주가능 홈플러스3분 신혼부부강추",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "등촌마을서광 103동매매8억아파트79A/59m², 6/19층, 남동향올수리 정상",
+      "price": "8억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:09:10.721Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1017_20250717_220914.png"
+  }
+}

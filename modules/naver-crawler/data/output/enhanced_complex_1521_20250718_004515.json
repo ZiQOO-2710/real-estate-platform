@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:45:15.158851",
+    "complex_id": "1521"
+  },
+  "basic_info": {
+    "complex_id": "1521",
+    "source_url": "https://new.land.naver.com/complexes/1521",
+    "extracted_at": "2025-07-18T00:45:07.627569",
+    "url": "https://new.land.naver.com/complexes/1521?ms=37.692469,126.783346,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:45:04.681Z",
+    "complexId": "1521"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:07.719Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,048만중산7단지코오롱매매3.9억3.45억~4.5억전세2.9억2.7억~3.1억월세-70만면적123㎡123.89㎡ ~ 159.84㎡매매매물만 보기16개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억3",
+      "area": "123㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:07.723Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,148만중산5단지동부,건영매매2.5억2.3억~2.7억전세1.95억1.75억~1.95억월세85만80만~85만면적72㎡72.24㎡ ~ 72.32㎡매매매물만 보기35개 매물이 있습니다.전세매물만 보기7개 매물이 있습니다.월세매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:07.723Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,017만중산6단지태영매매3.2억2.19억~4억전세2.5억2.4억~2.8억월세1백1백면적104㎡76.84㎡ ~ 104.12㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기11개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:07.723Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,102만중산3단지일신매매2.6억2.45억~2.77억전세2억2억월세85만85만면적78㎡78.61㎡ ~ 79.41㎡매매매물만 보기43개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억2",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:45:07.723Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1521_20250718_004512.png"
+  }
+}

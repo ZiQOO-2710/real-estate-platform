@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:41:41.353079",
+    "complex_id": "2890"
+  },
+  "basic_info": {
+    "complex_id": "2890",
+    "source_url": "https://new.land.naver.com/complexes/2890",
+    "extracted_at": "2025-07-17T16:41:37.028461",
+    "url": "https://new.land.naver.com/complexes/2890?ms=37.358247,126.937188,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:41:35.053Z",
+    "complexId": "2890"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 111동매매5억 2,000아파트92A/66m², 15/15층, 남동향GTX호재. 주인거주 샷시포함올수리되어 매우깨끗 남동향탑층 전망특우수",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 101동월세3,000/55아파트58A/41m², 1/15층, 남서향내외부 샷시포함 올수리되어 깨끗함. 반려동물X 8월19일 이후 입주협의",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 103동매매4억 1,500아파트83B/59m², 14/15층, 남동향샤시포함 올수리됨 정상입주가 남동향 산본역도보5분",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 101동매매2억 5,500아파트58A/41m², 4/15층, 남동향",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 109동매매2억 4,000아파트58A/41m², 1/15층, 남동향급매, 화장실포함 내부올수리, 27년2월 세안고",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 108동매매2억 9,000아파트58A/41m², 12/15층, 남서향화장실포함 내부올수리됨, 버스정류장 인접, 산본역 도보5분",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 101동전세1억 7,000아파트58A/41m², 8/15층, 남서향깨끗하게 관리된 집. 월세10만원 별도. 산본초역세권",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 103동매매4억 1,000아파트81A/58m², 10/15층, 남동향27년 7월 세안고.샤시포함올수리.로얄동.로얄층",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 109동매매2억 9,500아파트58A/41m², 10/15층, 남동향GTX호재. 26년3월만기 전세안고 욕실포함 올수리되어 깨끗함",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 102동매매3억 9,000아파트81A/58m², 6/15층, 남동향1.5억 갭투자, 올수리, 역세권",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 101동월세1,000/75아파트58A/41m², 10/15층, 남서향화장실포함올수리, 역세권",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 101동매매2억 5,500아파트58A/41m², 4/15층, 남서향공실로 빠른 입주가능 , 신혼부부 추천,수리필요",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 109동매매2억 9,000아파트58A/41m², 7/15층, 남동향전세안고, 샤시포함 올수리됨",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 114동매매5억 2,000아파트100A/74m², 13/15층, 남동향입주일은 상호협의 할수 있고 내부 수리됨.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 104동매매3억 2,500아파트72/51m², 1/12층, 남서향급,샷시포함올수리됨, 전세안고 투자",
+      "price": "3억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:41:37.040Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체58A㎡59B㎡72㎡81A㎡83B㎡92A㎡98B㎡100A㎡101A㎡102B㎡103B㎡",
+      "price": null,
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T07:41:37.041Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2890_20250717_164141.png"
+  }
+}

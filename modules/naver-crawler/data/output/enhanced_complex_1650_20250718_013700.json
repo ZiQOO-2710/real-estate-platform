@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:37:00.512101",
+    "complex_id": "1650"
+  },
+  "basic_info": {
+    "complex_id": "1650",
+    "source_url": "https://new.land.naver.com/complexes/1650",
+    "extracted_at": "2025-07-18T01:36:56.412151",
+    "url": "https://new.land.naver.com/complexes/1650?ms=37.591929,127.147717,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:36:54.326Z",
+    "complexId": "1650"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인우림 103동매매5억 1,500아파트105A/84m², 9/11층, 남향9층로얄층, 남향, 국평 방3화2, 장자역1.1Km, 26년3월입주가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.422Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인우림 102동매매5억 4,000아파트105A/84m², 8/13층, 남향베란다확장,수리되어깨끗,남향,입주가능",
+      "price": "5억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인우림 103동매매4억 6,500아파트86/59m², 6/11층, 동향샷시포함 올수리됨, 입주가능, 날짜협의",
+      "price": "4억 6",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인우림 102동매매4억 5,000아파트77/59m², 3/13층, 동향올 수리된 실속있는 구조, 신혼부부 강추, 8호선 장자역 1.1Km",
+      "price": "4억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인우림 102동매매4억 4,000아파트77/59m², 5/13층, 남향실속있는 5층 햇빛드는 남향, 싱크대 교체완, 8호선 장자역 1.1Km",
+      "price": "4억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "우림 103동매매5억 6,000아파트105A/84m², 5/11층, 남향올수리,입주가",
+      "price": "5억 6",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인우림 101동매매5억 1,000아파트114/84m², 14/17층, 남동향즉시입주 협의가능함",
+      "price": "5억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인우림 102동매매5억 2,000아파트105A/84m², 4/13층, 남향남향,방3화2,기본,입주협의",
+      "price": "5억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인우림 101동매매5억 5,000아파트105B/84m², 14/17층, 남향정상, 기본, 최근 보일러 화장실 교체수리, 주인거주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인우림 101동매매5억 2,000아파트114/84m², 10/17층, 남향조망굿 남향 일부수리 주인거주로 입주가",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인우림 103동매매5억 1,500아파트105A/84m², 9/11층, 남향9층로얄층, 남향, 국평 방3화2, 장자역1.1Km, 26년3월입주가능부동산써브 제공구리복된길공인중개사사무소확인매물 25.07.16.집주인우림 102동매매5억 4,000아파트105A/84m², 8/13층, 남향베란다확장,수리되어깨끗,남향,입주가능텐컴즈 제공우림부동산공인중개사사무소확인매물 25.07.16.집주인우림 103동매매4억 6,500아파트86/59m², 6/11층, 동향샷시포함 올수리됨, 입주가능, 날짜협의텐컴즈 제공우림부동산공인중개사사무소확인매물 2",
+      "price": "5억 1",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:36:56.423Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1650_20250718_013700.png"
+  }
+}

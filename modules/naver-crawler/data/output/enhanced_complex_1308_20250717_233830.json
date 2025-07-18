@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:38:30.326310",
+    "complex_id": "1308"
+  },
+  "basic_info": {
+    "complex_id": "1308",
+    "source_url": "https://new.land.naver.com/complexes/1308",
+    "extracted_at": "2025-07-17T23:38:25.724697",
+    "url": "https://new.land.naver.com/complexes/1308?ms=37.552103,127.148997,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:38:23.135Z",
+    "complexId": "1308"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 503동전세6억 5,000재건축123/107m², 3/15층, 남향수리  관리 잘 되고 시원한 집 정상",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 503동전세6억 8,000재건축123/107m², 10/15층, 남향남향 로얄층 확장 올수리 조건 입주협의",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 303동전세6억 5,000재건축125/107m², 중/15층, 남향수리,깨끗,채광좋아요",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 603동매매14억 5,000재건축76/54m², 저/15층, 남향입주매매, 올수리깨끗,남향, 재건축진행중, 교통학군미래가치좋아요",
+      "price": "14억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 605동매매12억재건축59/42m², 고/15층, 동향9호선착공호재,대규모재건축진행중,학세권으로 보시면 마음에 드실겁니다",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 503동전세7억 5,000재건축123/107m², 저/15층, 남향최근 특올수리 관리 잘 된 집 하시",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 301동매매15억 5,000재건축90/66m², 중/12층, 남향주인직접 햇살가득 입주 샷시  화장실 수리 학원가 초역세권 뭐든조율가능",
+      "price": "15억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 503동매매22억재건축123/107m², 저/15층, 남향최근 특올수리 관리 잘 된 집 하시",
+      "price": "22억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 601동매매15억 9,000재건축90/66m², 고/15층, 남향관리 잘 된 집 정상",
+      "price": "15억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 607동월세2억/90재건축76/54m², 저/15층, 남향올수리,무융자 추천합니다",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 301동매매16억 3,000재건축90/66m², 11/12층, 남향",
+      "price": "16억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 509동매매25억재건축148/128m², 고/15층, 남향최고전망, 정남향, 입주, 초중고 선호학군",
+      "price": "25억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 509동전세7억 5,000재건축148/128m², 저/15층, 남향45.주인 직 접 방4칸 최근 특 올수리 무융자 정원뷰 장기거주 가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인삼익그린맨션2차 601동매매16억재건축90/66m², 15/15층, 남향귀한입주매물,재건축추진중 밝고 기분좋은 매물입니다",
+      "price": "16억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "삼익그린맨션2차 605동매매12억재건축59/42m², 13/15층, 동향명일역5분, 수리됨, 재건축조합설립됨.",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:38:25.736Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체59㎡76㎡90㎡99㎡123㎡125㎡148㎡",
+      "price": null,
+      "area": "59㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:38:25.737Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1308_20250717_233830.png"
+  }
+}

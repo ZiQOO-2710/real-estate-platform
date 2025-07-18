@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:49:17.865372",
+    "complex_id": "1148"
+  },
+  "basic_info": {
+    "complex_id": "1148",
+    "source_url": "https://new.land.naver.com/complexes/1148",
+    "extracted_at": "2025-07-17T22:49:12.052676",
+    "url": "https://new.land.naver.com/complexes/1148?ms=37.537246,126.945832,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:49:09.541Z",
+    "complexId": "1148"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 106동매매11억 3,000아파트85/59m², 16/19층, 남동향마포역도보5분 내부올수리 한강조망 전세안고매매",
+      "price": "11억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 106동매매11억아파트85/59m², 14/19층, 남동향24 매매 교통 편리",
+      "price": "11억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 105동전세6억 4,000아파트85/59m², 7/12층, 남서향샷시까지 전체 특올수리 신혼부부추천 평지 마포역5분 입주10월중순협의",
+      "price": "6억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 106동매매9억 2,000아파트85/59m², 1/19층, 남동향l도담l 급매 l 입주가능 l 전자계약 l 역세권",
+      "price": "9억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 105동월세5억/60아파트85/59m², 7/12층, 남서향샷시까지 전체 특올수리 신혼부부추천 평지 마포역5분",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 104동매매18억아파트144/114m², 19/21층, 남동향올리모델링 한강뷰 시티뷰 편리한주차 초역세권",
+      "price": "18억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 104동매매18억아파트144/114m², 고/21층, 남동향마포 초역세권 한강뷰 올수리 아파트",
+      "price": "18억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 106동매매9억 2,000아파트85/59m², 저/19층, 남향마포역세권  일부수리되어 깨끗",
+      "price": "9억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 101동매매13억 5,000아파트111/84m², 13/21층, 남동향막힘없어 채광우수 수리돼 상태좋음 마포역 초역세권 입주협의",
+      "price": "13억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 101동매매13억 5,000아파트111/84m², 중/21층, 남동향",
+      "price": "13억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "마포쌍용황금 101동매매13억 5,000아파트111/84m², 13/21층, 남서향33 특올수리 부분한강뷰 실입주가",
+      "price": "13억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인마포쌍용황금 105동매매11억 5,000아파트85/59m², 중/12층, 남서향마포역 도보4분이내, 전세끼고, 부분수리, 남서향, 입주도가능",
+      "price": "11억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:12.064Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1148_20250717_224917.png"
+  }
+}

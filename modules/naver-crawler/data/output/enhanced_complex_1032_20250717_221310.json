@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:13:10.009963",
+    "complex_id": "1032"
+  },
+  "basic_info": {
+    "complex_id": "1032",
+    "source_url": "https://new.land.naver.com/complexes/1032",
+    "extracted_at": "2025-07-17T22:13:04.800202",
+    "url": "https://new.land.naver.com/complexes/1032?ms=37.55807,126.86618,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:13:02.164Z",
+    "complexId": "1032"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매8억 9,000아파트104B/84m², 8/15층, 남동향증미역세권, 거실 작은방 확장, 거인거주깨끗,증미산인접 힐링하세요",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매6억 6,000아파트79/59m², 8/15층, 남서향급매강추 남향, 기본형, 염창산배경, 둘레길 한강공원 도서관스포츠센터",
+      "price": "6억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 101동매매9억 5,000아파트104B/84m², 11/15층, 남서향올수리로상태깨끗 채광좋음 숲세권 증미역5분 한강공원근접 세안고",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매7억아파트79/59m², 7/15층, 남동향실거주 내부리모델링 내부훌륭 이사협의",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 101동매매8억 4,000아파트104B/84m², 2/15층, 남향초급매,남향,샷시포함특올수리,전세안고투자,9호선역세권",
+      "price": "8억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 101동매매8억 4,000아파트104B/84m², 2/15층, 남서향세안고 햇살 굿 샷시포함 완전특올수리 9호선 증미역 도보5분",
+      "price": "8억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 101동매매9억 5,000아파트104B/84m², 11/15층, 남향남향 샷시포함특올수리 세안고 염경초중학교학군 9호선증미역역세권",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매6억아파트79/59m², 1/15층, 남서향올수리로상태깨끗 숲세권 증미역5분 한강공원근접 세안고",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매6억아파트79/59m², 1/15층, 남서향증미역5분, 남향, 올수리, 11만기협의,",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 101동매매9억 2,000아파트104B/84m², 10/15층, 남서향증미역세권,남향,  2년전 내부 올수리, 8월 중순경, 증미산 한강 바로",
+      "price": "9억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매7억 3,000아파트79/59m², 14/15층, 남서향남향 햇볕짱 상태깨끗 정상입주가능 9호선증미역역세권 가양도서관근처",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매7억아파트79/59m², 9/15층, 남향샷시까지특수리",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인벽산늘푸른 102동매매6억아파트79/59m², 1/15층, 남동향증미역6분 신혼거주로깔끔 수리됨  세만기25.11.24",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:04.812Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1032_20250717_221309.png"
+  }
+}

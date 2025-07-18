@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:56:09.226047",
+    "complex_id": "171"
+  },
+  "basic_info": {
+    "complex_id": "171",
+    "source_url": "https://new.land.naver.com/complexes/171",
+    "extracted_at": "2025-07-18T01:56:05.746051",
+    "url": "https://new.land.naver.com/complexes/171?ms=37.44733,126.90055,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:56:02.924Z",
+    "complexId": "171"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,605만시흥중앙하이츠매매5.2억4.7억~6억면적66㎡66.76㎡ ~ 75.65㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억4",
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "미림퀸즈빌(민간임대,도시형)면적 - ㎡26.11㎡ ~ 56.84㎡단지정보",
+      "price": null,
+      "area": "26.11㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,905만스카이매매6.05억6억~6.1억면적105㎡105.7㎡ ~ 105.96㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억6",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "대동리버파크빌전세2.35억2.35억~3.3억면적34㎡34.57㎡ ~ 45.64㎡전세매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "35억2",
+      "area": "34㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "세종팰리스면적34.25㎡34.25㎡ ~ 35.31㎡단지정보",
+      "price": null,
+      "area": "34.25㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,271만대도훼미리매매2.5억2억~3억월세50만50만면적65㎡65.38㎡ ~ 65.4㎡매매매물만 보기4개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,962만SM엘루이매매6.35억5.5억~7억전세-4.7억면적107㎡90.01㎡ ~ 108.3㎡매매매물만 보기17개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억5",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,673만남서울힐스테이트매매9.3억7.7억~17억전세6억5억~7.5억월세1.5백1백~2백면적115㎡82.29㎡ ~ 189.51㎡매매매물만 보기206개 매물이 있습니다.전세매물만 보기76개 매물이 있습니다.월세매물만 보기31개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억7",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "한솔시티빌(933-6,도시형)면적31.21㎡28.83㎡ ~ 36.63㎡단지정보",
+      "price": null,
+      "area": "31.21㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "휴캐슬(984-3,도시형)면적53.15㎡53.15㎡ ~ 62.08㎡단지정보",
+      "price": null,
+      "area": "53.15㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,597만럭키매매5.5억4.05억~8억전세2.5억1.75억~3.5억월세75만45만~80만면적70㎡55.87㎡ ~ 89.72㎡매매매물만 보기75개 매물이 있습니다.전세매물만 보기45개 매물이 있습니다.월세매물만 보기17개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:05.762Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_171_20250718_015609.png"
+  }
+}

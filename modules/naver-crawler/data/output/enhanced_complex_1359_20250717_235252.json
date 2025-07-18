@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:52:52.458031",
+    "complex_id": "1359"
+  },
+  "basic_info": {
+    "complex_id": "1359",
+    "source_url": "https://new.land.naver.com/complexes/1359",
+    "extracted_at": "2025-07-17T23:52:48.387255",
+    "url": "https://new.land.naver.com/complexes/1359?ms=37.673545,126.768808,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:52:47.140Z",
+    "complexId": "1359"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강선2단지경남 209동매매6억 3,000아파트151/129m², 10/15층, 남서향주인위임 l 실사진有 l 입주가능 l 샤시포함  확장수리 l 조정가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.400Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인강선2단지경남 209동매매6억 3,000아파트151/129m², 10/15층, 남서향급매 , 거실 확장 화이트 예전 올수리, 햇살 좋은 남향집 , 수납 여유",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "강선2단지경남 205동전세5억 5,000아파트190/164m², 6/20층, 북서향",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "강선2단지경남 208동매매7억 5,000아파트190/164m², 3/18층, 남서향58 정상입주 예전올수리",
+      "price": "7억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인강선2단지경남 209동전세5억 8,000아파트151/129m², 10/15층, 남향남향, 주인특올수리, 발산중 학군",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "강선2단지경남 208동매매7억아파트190/164m², 12/18층, 남서향",
+      "price": "7억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "강선2단지경남 209동전세5억 8,000아파트151/129m², 10/15층, 남서향내외부 샷시포함 전체 주인 올수리된 집.입주일 협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인강선2단지경남 205동매매6억 7,000아파트151/129m², 20/20층, 남서향주인위임 l 샤시포함 수리 l 주인거주로 관리잘된집 l 입주협의",
+      "price": "6억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "강선2단지경남 207동매매6억 5,000아파트151/129m², 고/14층, 남동향47. 탑층으로 층간 소음 해방, 입주협의 올수리, 후곡학원가 도보거리.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "강선2단지경남 209동전세5억 8,000아파트151/129m², 중/15층, 남서향내외샷시포함.특올수리한집,넓은동간거리로쾌적",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "강선2단지경남 201동매매7억아파트151/129m², 2/19층, 남서향빠른입주 조정가 좋음",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "강선2단지경남 205동월세1억/210아파트190/164m², 6/20층, 남서향햇살 가득한 아주깨끗한집 언제든지입주가능",
+      "price": "1억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "강선2단지경남 207동전세4억 5,000아파트151/129m², 고/14층, 남동향47. 올수리 외부샤시해드림, 입주협의, 문화초교, 후곡학원가 도보거리",
+      "price": "4억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "강선2단지경남 209동매매6억 8,000아파트151/129m², 12/15층, 남서향세안고 ,수리깨끗,학군,학원가 인접",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "강선2단지경남 201동매매7억아파트151/129m², 13/19층, 남서향로얄동,수리깨끗,관리비저렴,학군좋음,세안고",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "강선2단지경남 207동매매7억 5,000아파트151/129m², 5/14층, 남동향주인특올수리 내외부샷시포함 좋아요",
+      "price": "7억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:52:48.401Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1359_20250717_235252.png"
+  }
+}

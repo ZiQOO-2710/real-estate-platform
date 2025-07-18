@@ -1,0 +1,26 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T17:57:57.303458",
+    "complex_id": "4123"
+  },
+  "basic_info": {
+    "complex_id": "4123",
+    "source_url": "https://new.land.naver.com/complexes/4123",
+    "extracted_at": "2025-07-17T17:57:54.401002",
+    "url": "https://new.land.naver.com/complexes?ms=37.3595704,127.105399,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T08:57:53.311Z"
+  },
+  "current_listings": [],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 0,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4123_20250717_175757.png"
+  }
+}

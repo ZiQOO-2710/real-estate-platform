@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:57:58.753978",
+    "complex_id": "1372"
+  },
+  "basic_info": {
+    "complex_id": "1372",
+    "source_url": "https://new.land.naver.com/complexes/1372",
+    "extracted_at": "2025-07-17T23:57:52.630949",
+    "url": "https://new.land.naver.com/complexes/1372?ms=37.668213,126.768508,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:57:49.837Z",
+    "complexId": "1372"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강선9단지화성 908동매매3억 3,000아파트78/57m², 6/13층, 남서향세안고,주엽역세,내부수리로 곱게 잘 관리된 집입니다.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.634Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "강선9단지화성 908동매매3억 1,000아파트78/57m², 3/13층, 남서향빠른입주가능 역세권 중간라인  대중교통이용좋음",
+      "price": "3억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.634Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인강선9단지화성 903동매매5억 5,000아파트106/84m², 4/17층, 남서향초.급.매 로얄동 3bay 입주일협의가능 꼭보러오세요",
+      "price": "5억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.634Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "강선9단지화성 907동매매3억 2,500아파트78/57m², 1/13층, 남서향내외샷시포함 올수리 화 전세안고 매물 갭투 추천 매물",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.634Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "강선9단지화성 903동전세3억 6,000아파트106/84m², 17/17층, 남서향32,저렴한전세,올수리,조용한탑층,3베이구조",
+      "price": "3억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:52.634Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "강선9단지화성 906동전세2억 5,000아파트87/69m², 1/15층, 남서향27 저렴한전세 출입하기편안한층 언제든지 즉시입주가 주엽역세권",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "강선9단지화성 908동매매3억 7,000아파트78/57m², 5/13층, 남서향24 내부샷시포함 올수리 입주가 조정 신혼부부추천",
+      "price": "3억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "강선9단지화성 901동매매5억 8,000아파트106/84m², 11/17층, 남서향조정확실, 아주깨끗, 라인 전망특, 전세안고 , 역세권",
+      "price": "5억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "강선9단지화성 906동전세3억아파트87/69m², 3/15층, 남서향전체올수리되어있는 깨끗하고 아늑한 집. 주엽역역세권으로 교통편리함",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "강선9단지화성 906동매매4억 3,000아파트87/69m², 3/15층, 남서향전체올수리되어있는 깨끗하고 아늑한 집. 주엽역역세권으로 교통편리함",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "강선9단지화성 908동전세2억 3,500아파트78/57m², 9/13층, 남서향24. 내부전체 올수리. 전세대출가능. 남향. 주엽역세권. 강추",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "강선9단지화성 903동매매5억 6,000아파트106/84m², 6/17층, 남서향조정확실,선호하는 3베이구조,방1확장, 최고 라인 ,주인거주, 역세권",
+      "price": "5억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "강선9단지화성 905동매매4억 5,000아파트87/69m², 8/19층, 남서향27 샷시포함 내부전체올수리 입주가 정발산뷰",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "강선9단지화성 910동매매4억 1,000아파트78/57m², 7/13층, 남서향24 내외부샷포함 전체올수리 중문 붙박이장 입주협의 주엽역8분수도배관교체",
+      "price": "4억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "강선9단지화성 909동매매3억 2,000아파트78/57m², 8/13층, 남서향24. 욕실 포함 올수리 남서향 로열층 빠른 입주 가능합니다.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "강선9단지화성 905동매매4억 5,000아파트87/69m², 8/19층, 남동향27 내외부샷시포함올수리,강선초,발산중학군,주엽역도보7분",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "강선9단지화성 906동매매4억 5,000아파트87/69m², 12/15층, 남서향27 내부샷시포함 올수리 로얄층 라인굿 공원인접 입주협의 주엽역세권 조정",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:52.635Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1372_20250717_235758.png"
+  }
+}

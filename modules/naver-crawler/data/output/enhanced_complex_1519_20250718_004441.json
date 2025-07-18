@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:44:41.921833",
+    "complex_id": "1519"
+  },
+  "basic_info": {
+    "complex_id": "1519",
+    "source_url": "https://new.land.naver.com/complexes/1519",
+    "extracted_at": "2025-07-18T00:44:38.895055",
+    "url": "https://new.land.naver.com/complexes/1519?ms=37.699163,126.766772,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:44:37.779Z",
+    "complexId": "1519"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 801동전세2억 7,000아파트124A/101m², 16/16층, 남향정상입주 협의, 방4, 수리 깨끗, 층간소음 걱정없는 탑층입니다",
+      "price": "2억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:38.906Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 802동전세3억아파트124B/101m², 1/16층, 남향귀한1층 전세매물. 큰거실. 큰방. 큰집. 아이들에게 좋아요.",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 804동매매3억 500아파트124A/101m², 1/17층, 남향공실임,매수후 편하게수리가능합니다, 작은방확장  가격조절가능합니다",
+      "price": "3억 500",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 804동매매3억 5,000아파트124A/101m², 5/17층, 남향최근 올수리로 컨디션 굿  입주가능 방4화2 대형평수  탄현역세권",
+      "price": "3억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 805동매매3억 7,000아파트124A/101m², 11/16층, 남향방2 주방 확장함 라인좋은 남향",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 802동매매3억 4,000아파트124B/101m², 16/16층, 남향수리,빠른입주,거실큰구조,방3,층간소음없는탑층,초품아,탄현역세권",
+      "price": "3억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 802동매매3억 6,000아파트124B/101m², 4/16층, 남향추천 1년전 특올수리 내부샷시 중문 탄현역세권 입주만하세요",
+      "price": "3억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 806동매매3억 1,000아파트124A/101m², 1/16층, 남향주인거주 관리잘된집 남향 1층이라 아이들키우기좋아요",
+      "price": "3억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 803동매매4억 4,000아파트146/122m², 5/17층, 남향바로 입주, 외부샤시포함 올수리, 정남향 라인좋은 집입니다",
+      "price": "4억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 806동매매3억 5,000아파트124A/101m², 13/16층, 남향라인좋은 로얄동 올수리 초중고인접 주인거주중입니다 가격조절가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 805동매매3억 7,000아파트124A/101m², 2/16층, 남향내부.외부샷시교체 최근 특급올수리 방확장 그냥 입주만하세요 너무좋은집",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 805동매매3억 6,000아파트124A/101m², 4/16층, 남향올수리 입주협의  깨끗한 남향집 탄현역세권 초품아 편리한생활권",
+      "price": "3억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 805동매매3억 6,000아파트124A/101m², 13/16층, 남향관리잘된집 부분수리 깨끗 라인굿 초.중.고인접",
+      "price": "3억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인탄현8단지동성 801동전세2억 9,000아파트124A/101m², 12/16층, 남향빠른입주도 가능한 올수리된집",
+      "price": "2억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:38.907Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1519_20250718_004441.png"
+  }
+}

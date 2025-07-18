@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:48:52.424078",
+    "complex_id": "2076"
+  },
+  "basic_info": {
+    "complex_id": "2076",
+    "source_url": "https://new.land.naver.com/complexes/2076",
+    "extracted_at": "2025-07-18T03:48:48.429963",
+    "url": "https://new.land.naver.com/complexes/2076?ms=37.366953,126.965809,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:48:47.367Z",
+    "complexId": "2076"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 3,000아파트79/59m², 3/21층, 동향인동선 공사중 호재, 급초중교 인접",
+      "price": "3억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.442Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동전세2억 4,000아파트79/59m², 1/21층, 동향샷시빼고  전체 특 올수리  신혼부부 추천드립니다   입주가능",
+      "price": "2억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 1,000아파트79/59m², 1/21층, 동향전체 특 올수리   빠른 입주  가능 협의 가격조정됨",
+      "price": "3억 1",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인진달래 101동전세3억 4,000아파트104/84m², 3/21층, 동향올수리됨, 날짜 협의가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 1,000아파트79/59m², 1/21층, 남향1층으로 아이있는 집 추천, 신혼추천, 남향, 빠른입주협의",
+      "price": "3억 1",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 7,000아파트79/59m², 6/21층, 동향올수리 적은금액 갭투가능 인동선 호재누리세요.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 3,000아파트79/59m², 2/21층, 동향24 방3, 수리깨끗, 학교도보, 조용 쾌적, 인동선호재, 적극추천",
+      "price": "3억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 7,000아파트79/59m², 19/21층, 동향씽크 화장실 부분수리 26년3월 아파트 입주 협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 6,000아파트79/59m², 17/21층, 동향채광굿, 조망굿, 부분 수리되어 깨끗, 입주협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동매매3억 4,000아파트79/59m², 11/21층, 동향",
+      "price": "3억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인진달래 101동매매5억 5,000아파트122/101m², 11/21층, 남향앞 뒤 전망 굿  초 중교  도보 5분 거리 전세 안고",
+      "price": "5억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인진달래 101동매매4억 6,000아파트104/84m², 15/21층, 동향급매 올수리  인동선 착공  오전역  호계사거리역  역세권임 입주 협의",
+      "price": "4억 6",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동전세2억 6,000아파트79/59m², 15/21층, 동향올수리샷시제외,초중고 인접",
+      "price": "2억 6",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "진달래 103동매매3억 7,000아파트79/59m², 4/21층, 동향초,중,고, 인접 올수리",
+      "price": "3억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인진달래 103동전세2억 4,000아파트79/59m², 1/21층, 남향1층으로 아이있는 집 추천, 신혼 추천, 남향, 즉시입주 가능, 초등인접",
+      "price": "2억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:48.443Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2076_20250718_034852.png"
+  }
+}

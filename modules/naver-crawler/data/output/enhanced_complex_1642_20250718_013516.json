@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:35:16.611488",
+    "complex_id": "1642"
+  },
+  "basic_info": {
+    "complex_id": "1642",
+    "source_url": "https://new.land.naver.com/complexes/1642",
+    "extracted_at": "2025-07-18T01:35:11.425882",
+    "url": "https://new.land.naver.com/complexes/1642?ms=37.59071,127.133701,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:35:08.969Z",
+    "complexId": "1642"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인덕현 106동매매6억 5,000아파트80/62m², 4/17층, 동향",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인덕현 106동매매6억 3,000아파트80/62m², 6/17층, 남향강추  특올수리 방3화1  로얄동 초역세권아파트",
+      "price": "6억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인덕현 102동매매9억 1,000아파트158/134m², 19/19층, 남향내부일부수리. 입주협의가능. 긴 잔금가능.",
+      "price": "9억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인덕현 110동매매6억 3,000아파트80/62m², 7/17층, 동향추천.최근샷시포함거실확장특올수리.1030확.장자호수역10분거리.초.중접",
+      "price": "6억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인덕현 112동매매7억 8,000아파트103/84m², 4/20층, 남향정상 거실 작은방확장 전철역 공원 학교인접",
+      "price": "7억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인덕현 101동전세5억아파트103/84m², 8/18층, 남향수리 공실 융무 남향",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인덕현 109동매매8억 3,000아파트103/84m², 11/18층, 남향정상 조망아주좋음 남향",
+      "price": "8억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인덕현 103동매매6억아파트80/62m², 15/17층, 동향샷시포함올수리 정상",
+      "price": "6억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인덕현 105동매매7억 5,000아파트103/84m², 2/20층, 남향역세권.초중교인접대단지.주차편리.조용.쾌적.관리잘된단지.입주협의",
+      "price": "7억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인덕현 102동매매8억 9,000아파트158/134m², 6/19층, 남향급매물  정상입주  남향",
+      "price": "8억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인덕현 110동매매5억 6,000아파트80/62m², 16/17층, 동향투자자환영,세안고.초,중학교접함.장자호수역 도보10분거리.대중교통편리.",
+      "price": "5억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인덕현 101동매매7억 8,000아파트103/84m², 8/18층, 남향주인거주,입주가능,급매로 추천,지하철도보8분,정남향 밝고 따뜻함",
+      "price": "7억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인덕현 105동매매8억 3,000아파트103/84m², 14/20층, 남향최근확장특올수리.초중교인접대단지.조용.쾌적.주차편리한단지.입주일협의",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인덕현 103동매매5억 7,000아파트80/62m², 3/17층, 동향강력추천. 최근올수리. 완전급매물. 빠른입주가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인덕현 111동매매9억 2,000아파트158/134m², 10/19층, 남향",
+      "price": "9억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인덕현 103동매매6억아파트80/62m², 9/17층, 동향초중교인접대단지.2주차무료.조용.쾌적.관리잘된아파트.입주일협의",
+      "price": "6억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.438Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인덕현 106동매매6억 5,000아파트80/62m², 4/17층, 동향매경부동산 제공대림한숲공인중개사사무소확인매물 25.07.17.집주인덕현 106동매매6억 3,000아파트80/62m², 6/17층, 남향강추  특올수리 방3화1  로얄동 초역세권아파트매경부동산 제공대림한숲공인중개사사무소확인매물 25.07.17.집주인덕현 102동매매9억 1,000아파트158/134m², 19/19층, 남향내부일부수리. 입주협의가능. 긴 잔금가능. 부동산써브 제공우성공인중개사사무소확인매물 25.07.16.집주인덕현 110동매매6억 3,000아파트8",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:35:11.439Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1642_20250718_013516.png"
+  }
+}

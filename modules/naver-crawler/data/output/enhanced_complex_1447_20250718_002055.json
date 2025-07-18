@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:20:55.713395",
+    "complex_id": "1447"
+  },
+  "basic_info": {
+    "complex_id": "1447",
+    "source_url": "https://new.land.naver.com/complexes/1447",
+    "extracted_at": "2025-07-18T00:20:51.399331",
+    "url": "https://new.land.naver.com/complexes/1447?ms=37.384822,126.970091,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:20:48.645Z",
+    "complexId": "1447"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 502동전세8억 6,000아파트157/133m², 15/19층, 남향최근주인용특올수리,샷시,시스템에어컨4대,로얄동층,전망좋음",
+      "price": "8억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 501동매매15억아파트157/133m², 4/18층, 남향",
+      "price": "15억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 502동전세8억 6,000아파트157/133m², 고/19층, 남향특올수리 내외부샤시포함 , 시스템에어컨 4대",
+      "price": "8억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "꿈건영5단지 502동매매18억아파트157/133m², 18/19층, 남향조용하고 뷰가 좋음 학군 좋음",
+      "price": "18억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 502동전세8억 6,000아파트157/133m², 15/19층, 북서향시스템에어컨포함 특수리된 임대입니다.",
+      "price": "8억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 504동매매14억아파트123/102m², 6/18층, 동향투자물 수리깨끗 인동선수혜 선도지구",
+      "price": "14억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 502동매매17억 5,000아파트157/133m², 고/19층, 남향남향 조망이 최고입니다 민백초 귀인중학군 선도지구및인동선수혜",
+      "price": "17억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인꿈건영5단지 504동매매14억 5,000아파트123/102m², 저/18층, 동향올수리됨 아주깨끗  조망이 이쁩니다  인동선수혜 선도지구",
+      "price": "14억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.407Z"
+    },
+    {
+      "index": 99,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인꿈건영5단지 501동매매18억아파트157/133m², 6/18층, 남향매경부동산 제공원탑부동산공인중개사사무소확인매물 25.06.20.",
+      "price": "18억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:20:51.408Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1447_20250718_002055.png"
+  }
+}

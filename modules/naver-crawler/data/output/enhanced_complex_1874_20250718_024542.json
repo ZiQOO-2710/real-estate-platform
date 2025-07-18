@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:45:42.377999",
+    "complex_id": "1874"
+  },
+  "basic_info": {
+    "complex_id": "1874",
+    "source_url": "https://new.land.naver.com/complexes/1874",
+    "extracted_at": "2025-07-18T02:45:37.958068",
+    "url": "https://new.land.naver.com/complexes/1874?ms=37.43195,126.79552,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:45:35.814Z",
+    "complexId": "1874"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인연희 가동매매2억 3,000아파트60/44m², 2/5층, 남향은행정비2구역. 샷시포함올수리. 남향 월세안고",
+      "price": "2억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인연희 나동전세1억아파트60/44m², 4/5층, 남향공실, 즉시입주 가능합니다. 수리한번함.",
+      "price": "1억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "연희 나동매매2억 7,000아파트78/53m², 3/5층, 남향은행2구역,샷시포함올수리,보일러2년전 교체,지분면적14.4 투자로 굿",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "연희 나동월세3,000/40아파트60/44m², 3/5층, 남향올수리되어 깨끗.350035도 가능",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "연희 나동월세1,000/40아파트60/44m², 2/5층, 남향공실,수리되어 깨끗해요",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "연희 나동매매1억 9,500아파트60/44m², 4/5층, 남향공실이라 입주도 가능합니다.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "연희 가동매매1억 9,500아파트60/44m², 3/5층, 남동향",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:45:37.969Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1874_20250718_024542.png"
+  }
+}

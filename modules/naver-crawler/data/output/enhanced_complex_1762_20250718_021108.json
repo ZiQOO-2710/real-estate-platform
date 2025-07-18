@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:11:08.215188",
+    "complex_id": "1762"
+  },
+  "basic_info": {
+    "complex_id": "1762",
+    "source_url": "https://new.land.naver.com/complexes/1762",
+    "extracted_at": "2025-07-18T02:11:03.668548",
+    "url": "https://new.land.naver.com/complexes/1762?ms=37.248752,127.032217,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:11:02.591Z",
+    "complexId": "1762"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신동아,대원 511동월세2,000/90아파트80A/59m², 1/12층, 남향남향 샷시제외 올수리 입주청소",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:03.680Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신동아,대원 513동매매3억 500아파트80A/59m², 2/12층, 남향남향 깨끗합니다 12월초부터입주가",
+      "price": "3억 500",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.680Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "신동아,대원 508동매매3억 3,000아파트80B/59m², 4/12층, 남향올수리중문 도배 장판 샷시까지 동간거리넓고  넘 깨끗깔끔 입주협의가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.680Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "신동아,대원 507동매매2억 8,500아파트80A/59m², 12/12층, 동향초급매,층간소음없는조용한층,중간라인,앞뒤전망최고,매탄권선역도보10분",
+      "price": "2억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.680Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "신동아,대원 507동매매2억 7,000아파트80B/59m², 1/12층, 동향상가인접동,자녀키우기맘편한층,큰방2넓은거실,주차좋은동",
+      "price": "2억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신동아,대원 514동월세2,000/90아파트80B/59m², 2/12층, 동향8월중순협의입주,초품아,채광좋은집,집상태좋아요",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "신동아,대원 509동매매3억 2,000아파트80A/59m², 4/12층, 남향올수리 전세안고 소액투자 신혼거주 27년2월만기",
+      "price": "3억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "신동아,대원 507동전세2억 5,000아파트80A/59m², 12/12층, 동향올수리 신혼거주 입주일 언제든지협의 모든전새대출 적극협조",
+      "price": "2억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "신동아,대원 506동전세2억 5,000아파트80A/59m², 8/11층, 남향올수리 아주개끗함 중문설치 8월말부터입주",
+      "price": "2억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "신동아,대원 514동매매3억 2,500아파트80A/59m², 12/12층, 동향최근샷시새로함,중문,씽크,욕실등올수리함,깨끗한신혼집,층간소음무,전망최고",
+      "price": "3억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:03.681Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1762_20250718_021108.png"
+  }
+}

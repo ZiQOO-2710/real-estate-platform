@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:24:36.824829",
+    "complex_id": "1610"
+  },
+  "basic_info": {
+    "complex_id": "1610",
+    "source_url": "https://new.land.naver.com/complexes/1610",
+    "extracted_at": "2025-07-18T01:24:32.004148",
+    "url": "https://new.land.naver.com/complexes/1610?ms=37.342144,127.122875,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:24:30.629Z",
+    "complexId": "1610"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "무지개마을7단지라이프 705동매매13억아파트192/162m², 4/13층, 남서향특올수리,주인세안고,전망굿",
+      "price": "13억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.018Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "무지개마을7단지라이프 702동전세7억아파트159/132m², 15/19층, 남동향올수리 조용하고 쾌적한 환경 서울대병원",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:32.018Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "무지개마을7단지라이프 702동월세3억/140아파트159/132m², 9/19층, 남동향리모델링잘된집,장기거주가능,전망좋은집",
+      "price": "3억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:32.018Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "무지개마을7단지라이프 705동매매13억아파트192/162m², 4/13층, 남서향특올수리,주인세안고,전망굿텐컴즈 제공샘물공인중개사사무소확인매물 25.07.14.무지개마을7단지라이프 702동전세7억아파트159/132m², 15/19층, 남동향올수리 조용하고 쾌적한 환경 서울대병원 한경부동산 제공제일공인중개사사무소확인매물 25.07.03.무지개마을7단지라이프 702동월세3억/140아파트159/132m², 9/19층, 남동향리모델링잘된집,장기거주가능,전망좋은집텐컴즈 제공희망공인중개사 사무소확인매물 25.06.26.",
+      "price": "13억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.019Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,107만빌라드Y매매20억20억면적161㎡161.56㎡ ~ 161.56㎡매매매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "20억20",
+      "area": "161㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,734만무지개6단지건영매매13.15억12억~15억면적159㎡123.76㎡ ~ 191.49㎡매매매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "15억12",
+      "area": "159㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,632만무지개8단지제일매매12.9억11.2억~13억면적162㎡124.98㎡ ~ 162.31㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억11",
+      "area": "162㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,927만하얀마을그랜드빌매매17억17억전세-9억면적192㎡160.4㎡ ~ 192.63㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "17억17",
+      "area": "192㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,673만무지개5단지청구매매12억7.9억~13억전세5.8억4억~6.6억월세1.2백1.2백~1.5백면적108㎡83.66㎡ ~ 108.91㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기8개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억7",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:32.020Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1610_20250718_012436.png"
+  }
+}

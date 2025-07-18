@@ -1,0 +1,288 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:44:17.170328",
+    "complex_id": "1132"
+  },
+  "basic_info": {
+    "complex_id": "1132",
+    "source_url": "https://new.land.naver.com/complexes/1132",
+    "extracted_at": "2025-07-17T22:44:12.475336",
+    "url": "https://new.land.naver.com/complexes/1132?ms=37.51196,126.93323,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:44:11.163Z",
+    "complexId": "1132"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신한토탈 101동전세4억아파트50/50m², 8/18층, 남서향확장 특올수리 주인거주 독신,신혼추천 옵션 또는 비옵션",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:44:12.490Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신한토탈 101동월세2억 5,000/100아파트107/84m², 12/18층, 남서향방3화2 내부 깨끗 10월입주 1.9호선 도보가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:44:12.490Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신한토탈 101동전세4억아파트50/50m², 8/18층, 남동향올수리, 방1, 거실1",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:44:12.490Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "심플하우스(민간임대,도시형)면적21.86㎡21.86㎡ ~ 24.05㎡단지정보",
+      "price": null,
+      "area": "21.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "대방파크빌(516,도시형)면적40.3㎡38.24㎡ ~ 54.74㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "40.3㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,306만우정매매11억8.5억~13억전세6억5억~6억면적110㎡83.05㎡ ~ 110.24㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "11억8",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "더클래식동작(도시형)면적24.94㎡21.75㎡ ~ 47.77㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "24.94㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,791만대방아데나339(도시형)매매1.3억1.2억~2.86억월세65만33만~65만면적24㎡20.27㎡ ~ 45.77㎡매매매물만 보기17개 매물이 있습니다.월세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억1",
+      "area": "24㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "화동코웨이(주상복합)면적136.36㎡117.78㎡ ~ 139.83㎡단지정보",
+      "price": null,
+      "area": "136.36㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,987만대방현대1차매매11.7억10.9억~12억월세92만85만~1백면적97㎡97.86㎡ ~ 97.86㎡매매매물만 보기18개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억10",
+      "area": "97㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,639만한국개나리매매12억12억전세-5억~8억면적109㎡76.03㎡ ~ 138.84㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억12",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,766만대방신일해피트리매매9억8.7억~11억전세5.35억5.3억~5.4억월세1.05백1백~1.1백면적79㎡79.47㎡ ~ 105.52㎡매매매물만 보기12개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억8",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "노량진큐브스테이트(도시형)월세1백1백면적21㎡21.47㎡ ~ 24.14㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "21㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "비젼면적180㎡169.34㎡ ~ 193.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "180㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "효성전세3.5억3.5억면적64㎡64.15㎡ ~ 64.15㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "신한토탈전세4억4억월세-1백면적50㎡50.06㎡ ~ 107.37㎡전세매물만 보기2개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "50㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "JS타운(주상복합)면적14.45㎡14.45㎡ ~ 22.7㎡단지정보",
+      "price": null,
+      "area": "14.45㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,435만대방주공2단지매매11억8.9억~13억전세5억4.5억~5억월세50만30만~80만면적82㎡71.23㎡ ~ 82.56㎡매매매물만 보기32개 매물이 있습니다.전세매물만 보기21개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "11억8",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "대방파크빌(351-10,도시형)면적35.07㎡27.92㎡ ~ 46.34㎡단지정보",
+      "price": null,
+      "area": "35.07㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "우성(284-1)면적66.51㎡42.98㎡ ~ 66.51㎡단지정보",
+      "price": null,
+      "area": "66.51㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "엘리안(도시형)면적18.85㎡18.03㎡ ~ 18.85㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "18.85㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,337만대방e-편한세상2차매매16.15억15.7억~19.5억면적160㎡160.31㎡ ~ 160.31㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "15억15",
+      "area": "160㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "대방팰리스면적68.13㎡39.41㎡ ~ 69.15㎡단지정보",
+      "price": null,
+      "area": "68.13㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,329만대방현대2차매매11억11억~17.5억전세-6.5억~8.5억면적84㎡84.84㎡ ~ 199.42㎡매매매물만 보기10개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "11억11",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,660만대방e-편한세상1차매매14.8억13.2억~17억전세7.5억6.51억~8억월세1.5백1.5백면적105㎡105.83㎡ ~ 105.83㎡매매매물만 보기34개 매물이 있습니다.전세매물만 보기7개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억13",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:44:12.492Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 26,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1132_20250717_224417.png"
+  }
+}

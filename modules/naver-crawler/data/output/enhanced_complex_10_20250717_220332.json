@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:03:32.911570",
+    "complex_id": "10"
+  },
+  "basic_info": {
+    "complex_id": "10",
+    "source_url": "https://new.land.naver.com/complexes/10",
+    "extracted_at": "2025-07-17T22:03:26.991210",
+    "url": "https://new.land.naver.com/complexes/10?ms=37.562241,126.848433,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:03:25.562Z",
+    "complexId": "10"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동월세2,000/95아파트55/37m², 6/15층, 남향7월10일경 기본으로 깨끗  가양역 도보약 6분거리",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:03:27.012Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1005동전세4억 2,000아파트80/58m², 2/15층, 남서향남향집,화장실등내부수리됨,신혼부부거주중,깔끔합니다",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1002동매매7억 7,000아파트80/58m², 2/15층, 남동향주인거주 정상입주 물건, 9호선 급행가양역 근접, 상태기본입니다",
+      "price": "7억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동매매5억 9,000아파트55/37m², 15/15층, 남서향입주가올수리,9호선 가양급행역,등현초 배정  탑층 층간소음없음,유치원단지",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1001동전세4억 5,000아파트80/58m², 4/15층, 남서향샷시포함 올수리, 채광굿, LG샷시, 확장형, 관리잘됨, 입주협의",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1005동매매8억 5,000아파트80/58m², 4/15층, 남향입주매물,수리되어깨끗,주인거주로관리잘된집.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동매매5억 9,000아파트55/37m², 2/15층, 남서향세안고 수리깨끗, 남향, 9호선급행 가양역 이용,",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동전세3억 3,000아파트55/37m², 6/15층, 남향올수리됨.10월경 입주가",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1001동매매8억아파트80/58m², 1/15층, 남향샷시포함 수리됨, 전세안고 매매",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1001동매매8억 5,000아파트80/58m², 2/15층, 남향올수리됨.,입주가",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동월세2,000/100아파트55/37m², 8/15층, 남향3천에 95도 가능, 즉시입주가능, 내부샷시포함 전체 특올수리, 밝은남향",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1004동매매5억 8,000아파트55/37m², 4/15층, 남향전세안고,가양역6분거리 위치합니다.",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "등촌주공10단지 1001동매매8억 8,000아파트80/58m², 12/15층, 남향예전올수리, 입주협의, 생활하기 편한 학군좋은 단지, 교통편리",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "등촌주공10단지 1002동매매8억 5,000아파트80/58m², 14/15층, 남동향월세안고 매매로 수리되어 깨끗함니다",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인등촌주공10단지 1002동월세2억 5,000/70아파트80/58m², 9/15층, 남동향수리함",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:03:27.013Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10_20250717_220332.png"
+  }
+}

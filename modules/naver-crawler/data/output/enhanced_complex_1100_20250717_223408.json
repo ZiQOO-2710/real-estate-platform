@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:34:08.097480",
+    "complex_id": "1100"
+  },
+  "basic_info": {
+    "complex_id": "1100",
+    "source_url": "https://new.land.naver.com/complexes/1100",
+    "extracted_at": "2025-07-17T22:34:04.530447",
+    "url": "https://new.land.naver.com/complexes/1100?ms=37.681978,127.056421,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:34:02.443Z",
+    "complexId": "1100"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 101동매매9억아파트139/114m², 10/15층, 남향남향,전망특. 초중고인접.대형체육센터입점예정.편리한상권",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.544Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 112동매매10억 5,000아파트139/114m², 9/15층, 남향올수리.남향,탁트인전망좋은집.역세권.쾌적한단지.빠른입주가능",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.544Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 102동월세1억/180아파트158/134m², 6/15층, 동향수리. 관리잘된집. 입주협의가,초중고인접함. 쾌적하고 조용한단지",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:34:04.544Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 106동매매9억 5,000아파트139/114m², 11/15층, 남향도심속고급단지 사계절숲세권 공기청정지역 지하주차장연결",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.544Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 106동매매9억 5,000아파트139/114m², 9/15층, 남향초역세권 남향 수리 깨끗 정상",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.544Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 111동매매13억아파트158/134m², 5/15층, 동향특올수리 사계절숲세권 전망최고 협의입주",
+      "price": "13억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 110동매매12억 5,000아파트158/134m², 3/15층, 남향도심속숲세권 귀한남향 올수리 빠른입주가능",
+      "price": "12억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 104동매매8억 9,000아파트158/134m², 3/15층, 동향수리. 관리잘된집.긴입주협의.동간거리넓어 쾌적한동, 초중고인접",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 104동매매9억 7,000아파트158/134m², 2/15층, 동향최근 전체 올수리 입주협의 가능",
+      "price": "9억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 112동매매9억아파트139/114m², 2/15층, 남향올수리.남향,조용하고 쾌적한단지.대형체육센터입점예정.초중고인접",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인수락산벨리체 104동매매9억 7,000아파트158/134m², 2/15층, 남향특올수리. 전철가까운동,동간거리넓어 밝은집.",
+      "price": "9억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:34:04.545Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1100_20250717_223407.png"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T16:43:15.241999",
+    "complex_id": "1876"
+  },
+  "basic_info": {
+    "complex_id": "1876",
+    "source_url": "https://new.land.naver.com/complexes/1876",
+    "extracted_at": "2025-07-17T16:43:09.638776",
+    "url": "https://new.land.naver.com/complexes/1876?ms=37.443426,126.798205,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T07:43:07.751Z",
+    "complexId": "1876"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신명 101동매매2억 2,000아파트65/48m², 14/20층, 동향욕실,씽크대 ,화장실 수리되어 깨끗,2IN1 에어컨.초,중.고 인접",
+      "price": "2억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신명 101동전세1억 8,500아파트65/48m², 4/20층, 동향입주10월중순,샷시제외 올수리 ,깨끗한관리",
+      "price": "1억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신명 101동매매2억 3,500아파트65/48m², 10/20층, 남동향주인거주 관리잘된집.은행초.중.고 인접",
+      "price": "2억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신명 101동매매2억 3,000아파트65/48m², 4/20층, 동향10월중순입주,샷시제외 올리모델링,햇살좋은집,깔끔한관리",
+      "price": "2억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신명 101동매매2억 5,500아파트79/59m², 17/20층, 남향남향, 트인뷰.주인거주로 관리잘된집, 입주협의.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신명 101동월세2,000/75아파트65/48m², 12/20층, 동향신명아파트 은행단지 중심가에 위치해서 생활권이 아주편한아파트 집상태좋음",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신명 101동매매2억 3,000아파트65/48m², 3/20층, 남동향욕실 씽크대 신발장등 올수리함,상태최상,모던,깔끔,심플함,",
+      "price": "2억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신명 102동매매2억 1,300아파트65/48m², 9/20층, 남동향로얄층 기본형  교육 생활여건 좋은 위치예요.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신명 102동매매2억 2,500아파트65/48m², 4/20층, 남동향세안고매매.수리잘됨",
+      "price": "2억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신명 102동매매2억 2,000아파트65/48m², 3/20층, 동향샷시교체 보일러교체 욕실수리 싱크대교체 신발장교체 타일교체 전등 도배장판",
+      "price": "2억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T07:43:09.653Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1876_20250717_164315.png"
+  }
+}

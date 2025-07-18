@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:29:13.431154",
+    "complex_id": "1084"
+  },
+  "basic_info": {
+    "complex_id": "1084",
+    "source_url": "https://new.land.naver.com/complexes/1084",
+    "extracted_at": "2025-07-17T22:29:08.077735",
+    "url": "https://new.land.naver.com/complexes/1084?ms=37.454495,126.897535,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:29:05.136Z",
+    "complexId": "1084"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매4억 9,800아파트82B/59m², 6/12층, 남향초저가급매물 전세낀매물 올수리깨끗함 초역세권고밀도개발대상 금나래초배정",
+      "price": "4억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매4억 9,800아파트82B/59m², 중/12층, 남향o 착한비용 o 초역세권  갭 2.58억 투자자물, 기회 잡으세요",
+      "price": "4억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매6억 7,000아파트82B/59m², 8/12층, 남서향금천구청역앞.  개발호재근처. 세안고매매가능.",
+      "price": "6억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매6억 5,000아파트82B/59m², 8/12층, 남동향향후 더블역세권,올수리 된 깨끗한 집",
+      "price": "6억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매4억 9,800아파트82B/59m², 6/12층, 남서향시흥목련아파트 입지좋은 아파트 전세낀 매물 저렴 수리완료",
+      "price": "4억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매5억 6,000아파트82B/59m², 중/12층, 남동향금천구청역 초역세권 소형아파트",
+      "price": "5억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인시흥목련 102동매매5억 7,000아파트82B/59m², 5/12층, 남동향전세안고 소액 갭투.더블 역세권.지분 넓은 아파트",
+      "price": "5억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "시흥목련 102동매매5억 2,000아파트82B/59m², 중/12층, 남서향금천구청역 5분거리.시흥사거리 주변",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:08.091Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1084_20250717_222913.png"
+  }
+}

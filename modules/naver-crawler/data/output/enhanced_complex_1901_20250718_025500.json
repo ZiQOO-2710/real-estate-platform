@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:55:00.749813",
+    "complex_id": "1901"
+  },
+  "basic_info": {
+    "complex_id": "1901",
+    "source_url": "https://new.land.naver.com/complexes/1901",
+    "extracted_at": "2025-07-18T02:54:55.767060",
+    "url": "https://new.land.naver.com/complexes/1901?ms=37.353875,126.731335,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:54:53.914Z",
+    "complexId": "1901"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신우 105동매매4억 2,000아파트123/101m², 7/10층, 남동향방1확장, 초중교인근, 이사협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신우 102동매매3억아파트99/84m², 1/5층, 남서향아이키우기 좋은 1층, 깨끗합니다. 이사협의",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신우 101동매매2억 8,500아파트99/84m², 1/5층, 남서향초초급매.서두르세요.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신우 106동매매4억 3,000아파트123/101m², 4/10층, 남서향화이트인테리어, 밝고 환한 남서향집, 초중교 인근,이사협의",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신우 103동매매3억 5,000아파트99/84m², 5/5층, 남서향중문 붙박이장 일부수리,깨끗,날자협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신우 105동매매4억 3,000아파트123/101m², 4/10층, 남동향작은방1확장,붙밖이장,중문 일부수리, 입주일자협의가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신우 103동매매3억 1,000아파트99/84m², 4/5층, 남서향일부수리,거실 방2 확장, 입주일자협의가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신우 101동매매2억 8,000아파트99/84m², 4/5층, 남서향일부수리된 깨끗하고 채광좋은 환한집입니다.초,중,고교 인접",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신우 102동매매2억 9,000아파트99/84m², 5/5층, 남서향급매,예전올수리,방3 방1확장,협의조정가능해요,초중 인접 생활편리",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신우 105동전세3억아파트123/101m², 7/10층, 남서향새로이 부분수리해줌 이사하시",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인신우 103동매매3억 5,000아파트99/84m², 3/5층, 남서향\t올수리, 방2확장, 이사날자협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:55.782Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1901_20250718_025500.png"
+  }
+}

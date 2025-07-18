@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:21:34.199292",
+    "complex_id": "1254"
+  },
+  "basic_info": {
+    "complex_id": "1254",
+    "source_url": "https://new.land.naver.com/complexes/1254",
+    "extracted_at": "2025-07-17T23:21:30.852427",
+    "url": "https://new.land.naver.com/complexes/1254?ms=37.581928,127.055421,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:21:28.451Z",
+    "complexId": "1254"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인전농삼성(전농삼성래미안) 102동매매9억 5,000아파트109/84m², 16/20층, 남향정남향 로얄동 로얄층 특올수리 10월 말부터 입주 협의 가능해요",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인전농삼성(전농삼성래미안) 102동매매8억 9,000아파트109/84m², 6/20층, 남향남향 중간층의 급매물입니다",
+      "price": "8억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인전농삼성(전농삼성래미안) 105동매매7억 2,000아파트86/59m², 1/20층, 동향26형, 특올수리, 전세 안고 매매 가능, 내부상태깔끔",
+      "price": "7억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인전농삼성(전농삼성래미안) 103동매매11억 2,000아파트145/114m², 중/22층, 남향거실쪽 베란다 타일시공, 입주 협의",
+      "price": "11억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인전농삼성(전농삼성래미안) 105동매매7억 5,000아파트86/59m², 저/20층, 동향26  깨끗하게  올수리 교통 편리 좋은집 갭투자 강추",
+      "price": "7억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "전농삼성(전농삼성래미안) 104동매매11억아파트145/114m², 중/22층, 동향엘리베이터 단독 이용하는 라인으로 정상입주 및 입주일 협의 가능합니다",
+      "price": "11억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:21:30.866Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1254_20250717_232134.png"
+  }
+}

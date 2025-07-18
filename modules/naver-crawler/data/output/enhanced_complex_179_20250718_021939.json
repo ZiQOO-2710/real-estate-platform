@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:19:39.875082",
+    "complex_id": "179"
+  },
+  "basic_info": {
+    "complex_id": "179",
+    "source_url": "https://new.land.naver.com/complexes/179",
+    "extracted_at": "2025-07-18T02:19:35.295845",
+    "url": "https://new.land.naver.com/complexes/179?ms=37.62117,127.08855,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:19:32.637Z",
+    "complexId": "179"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인효성 101동매매7억 9,000아파트99/84m², 1/5층, 남향남향,세안고매매,재건축시 사업성좋음,태랑초중학군",
+      "price": "7억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.307Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인효성 105동매매6억 6,000아파트86/73m², 1/5층, 동향I 효성APT내 I 30년차대지권많음",
+      "price": "6억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.307Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인효성 101동매매7억 9,000아파트99/84m², 1/5층, 남동향전세안고매매 투자용,넓은 평수, 화랑대역세권",
+      "price": "7억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.307Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인효성 101동전세4억 2,000아파트99/84m², 1/5층, 남향I 효성APT내 I 남향 I 부분수리됨",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인효성 102동전세4억아파트99/84m², 3/5층, 남향I 효성 APT내 I 남향 I 수리깨끗.학군교통우수.시세대비저렴",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인효성 105동매매6억 4,500아파트86/73m², 저/5층, 동향재건축시 지분이 많고,화랑대역5분거리,방과거실이 넓음,",
+      "price": "6억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인효성 101동전세4억 2,000아파트99/84m², 1/5층, 남동향조용하고 수리됨.아이키우기 좋아요",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "효성 106동매매7억 5,000아파트86/73m², 3/5층, 동향샷시포함 올수리",
+      "price": "7억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인효성 104동매매7억아파트86/73m², 5/5층, 동향특올수리 태랑초태랑중 학군 입주협의",
+      "price": "7억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:19:35.308Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_179_20250718_021939.png"
+  }
+}

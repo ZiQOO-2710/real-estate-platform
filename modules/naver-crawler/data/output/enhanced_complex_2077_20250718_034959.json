@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:49:59.944042",
+    "complex_id": "2077"
+  },
+  "basic_info": {
+    "complex_id": "2077",
+    "source_url": "https://new.land.naver.com/complexes/2077",
+    "extracted_at": "2025-07-18T03:49:54.695506",
+    "url": "https://new.land.naver.com/complexes/2077?ms=37.365669,126.965296,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:49:53.238Z",
+    "complexId": "2077"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 101동매매4억 5,000아파트105A/84m², 19/21층, 남향남향,일부수리,깨끗,초중고도보10분이내,",
+      "price": "4억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 104동매매4억 5,000아파트105A/84m², 8/18층, 남동향부분수리, 정상입주",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 104동매매4억 5,000아파트105A/84m², 7/18층, 남향남향, 일부수리, 초중고도보10분이내, 날짜협의가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 102동매매4억 4,000아파트105A/84m², 8/22층, 남서향샷시포함 특올수리 올확장 입주 협의",
+      "price": "4억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 105동매매3억 9,000아파트77/59m², 4/22층, 남서향급매, 초중고 인접, 깨끗하게 관리잘된 집",
+      "price": "3억 9",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 101동매매4억 3,000아파트105A/84m², 1/21층, 남향전자계약,층간소음무,아이키우기 좋은집,남향,채광 굿,밝은집,인동선 역세권",
+      "price": "4억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 105동매매4억 8,000아파트105B/84m², 중/22층, 남향내부올수리남향,입주물",
+      "price": "4억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "신원수선화 103동전세4억 2,000아파트136/115m², 3/18층, 남동향올수리샷시제외정상",
+      "price": "4억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 102동매매4억 2,000아파트105A/84m², 12/22층, 남동향좋은가격 넓은내부 협의 가능합니다",
+      "price": "4억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 102동매매4억 4,000아파트105A/84m², 4/22층, 남서향인동선 공사중 호재, 초중고 인접",
+      "price": "4억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 105동매매3억 9,500아파트77/59m², 7/22층, 남서향조용한 안쪽동, 초중고도보10분이내, 입주협의가능",
+      "price": "3억 9",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 104동매매4억 2,500아파트105A/84m², 2/18층, 남향인동선 공사중 호재, 초중교 인접, 입주협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인신원수선화 104동매매4억 5,000아파트105A/84m², 8/18층, 남향초중고 도보8분이내, 인동선,남향,일부수리 전망좋고 관리잘됨, 조정가",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.702Z"
+    },
+    {
+      "index": 70,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신원수선화 101동매매4억 3,000아파트105A/84m², 8/21층, 남향남향,일부수리,초중고도보10분이내,날짜협의가능아실 제공한진해모로공인중개사사무소확인매물 25.07.09.네이버에서 보기",
+      "price": "4억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:49:54.703Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2077_20250718_034959.png"
+  }
+}

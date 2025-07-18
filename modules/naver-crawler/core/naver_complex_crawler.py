@@ -301,6 +301,21 @@ class NaverComplexCrawler:
                         break
                 except:
                     continue
+            
+            # 60개월 데이터 선택 시도
+            print("⏳ 60개월 데이터 선택 시도...")
+            try:
+                # "기간" 버튼 클릭 (정확한 셀렉터는 웹페이지 구조에 따라 다를 수 있음)
+                await self.page.click('button:has-text("기간")')
+                await self.page.wait_for_timeout(1000)
+                # "60개월" 옵션 클릭 (정확한 셀렉터는 웹페이지 구조에 따라 다를 수 있음)
+                await self.page.click('li:has-text("60개월")')
+                print("✅ 60개월 기간 선택 성공")
+                await self.page.wait_for_timeout(3000) # 데이터 로드를 위해 대기
+            except Exception as e:
+                print(f"⚠️ 60개월 기간 선택 실패 (수동 선택 필요할 수 있음): {e}")
+                # 실패 시, 다음 로직으로 진행 (모든 데이터를 가져오지 못할 수 있음)
+                pass
                     
             # 실거래가 데이터 추출
             transactions = await self.page.evaluate("""
@@ -322,8 +337,8 @@ class NaverComplexCrawler:
                     
                     patterns.forEach((pattern, patternIndex) => {
                         let match;
-                        let count = 0;
-                        while ((match = pattern.exec(text)) !== null && count < 15) {
+                        // count < 15 제한 제거
+                        while ((match = pattern.exec(text)) !== null) {
                             transactions.push({
                                 pattern_type: patternIndex,
                                 match_text: match[0],
@@ -332,7 +347,7 @@ class NaverComplexCrawler:
                                     Math.min(text.length, match.index + 200)
                                 )
                             });
-                            count++;
+                            // count++; // 제한이 없으므로 필요 없음
                         }
                     });
                     
@@ -350,7 +365,7 @@ class NaverComplexCrawler:
                         }
                     });
                     
-                    return transactions.slice(0, 40); // 최대 40개
+                    return transactions; // slice(0, 40) 제한 제거
                 }
             """)
             

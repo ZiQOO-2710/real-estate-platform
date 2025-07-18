@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:00:09.440862",
+    "complex_id": "138"
+  },
+  "basic_info": {
+    "complex_id": "138",
+    "source_url": "https://new.land.naver.com/complexes/138",
+    "extracted_at": "2025-07-18T00:00:05.904475",
+    "url": "https://new.land.naver.com/complexes/138?ms=37.491229,126.876735,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:00:03.909Z",
+    "complexId": "138"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "구로주공2차 114동매매4억 3,000재건축46/32m², 3/12층, 남향0남향 0특올수리 0방1 0생활편의시설이용 편리해요.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.918Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "구로주공2차 116동매매4억 7,000재건축46/32m², 6/12층, 남향투자매물 , 정비구역 지정신청중 , 특올수리 ,",
+      "price": "4억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "구로주공2차 116동매매5억 3,000재건축59A/41m², 12/12층, 남향18형,올수리 입주매매,남향,조정,재건축진행중",
+      "price": "5억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인구로주공2차 118동매매9억 5,000재건축88/64m², 고/15층, 남향확장샷시까지 특올수리 뻥뷰 빠른입주가능",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "구로주공2차 115동매매6억 5,000재건축70/49m², 11/12층, 남향0남향 0방2 0거실따로있고 0생활편의시설이용편리하고 0세끼어있어요.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "구로주공2차 118동매매8억 5,000재건축88/64m², 7/15층, 남향정남향 재건축중 올수리 역세권 학세권 우수한 초중고교와 편의시설있어요.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "구로주공2차 115동매매6억 5,000재건축70/49m², 8/12층, 남향올수리 일조권좋고 주인거주 입주협의가능 가격조정가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "구로주공2차 118동매매8억재건축75/54m², 1/15층, 남향o 입주매매 o 남향 o 가산출퇴근편리 o 올리모델링 o 큰대지지분",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "구로주공2차 114동매매4억 2,000재건축46/32m², 8/12층, 남향구일역세권 방1화1 월세끼고투자목적  편의시설굿 대단지남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:05.919Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체46㎡52㎡57B㎡59A㎡60C㎡70㎡75㎡88㎡",
+      "price": null,
+      "area": "46㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:00:05.920Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_138_20250718_000009.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:13:15.450632",
+    "complex_id": "1956"
+  },
+  "basic_info": {
+    "complex_id": "1956",
+    "source_url": "https://new.land.naver.com/complexes/1956",
+    "extracted_at": "2025-07-18T03:13:11.880779",
+    "url": "https://new.land.naver.com/complexes/1956?ms=37.321678,126.847251,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:13:09.321Z",
+    "complexId": "1956"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1011동매매3억 2,000아파트84/61m², 4/15층, 남향올수리되어 아주깨끗함, 전세만기26년5월",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1007동매매4억 5,000아파트94A/75m², 11/15층, 동향샷시포함수리 주인거주 깨끗함 금액조정협의 이사협의가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1013동전세2억 6,000아파트94A/75m², 4/15층, 동향추천 귀한 매물 i 9월 30일 이사 i 샷시포함 전체 수리됨 i 단지뷰",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1010동매매3억 5,000아파트90/66m², 14/15층, 동향실입주 i 전체 올수리됨  i 결로방지시공완료 i 조정가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1002동매매3억아파트84/61m², 15/15층, 남향이사협의 수리되어 잘 관리된 집",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1001동매매3억 7,000아파트90/66m², 15/15층, 남향샷시및 수리됨, 주방벽틈, 정남향,이사협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공10단지 1002동매매3억 3,000아파트84/61m², 4/15층, 남향세안고매매 남향 올수리한깨끗한집 좋은투자 좋은집 살기좋음",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "주공10단지 1015동매매3억 2,000아파트84/61m², 10/15층, 남향급매물.즉시입주.남향",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "주공10단지 1002동매매3억아파트84/61m², 15/15층, 남동향올수리,이사 협의",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공10단지 1012동매매4억 2,000아파트94B/75m², 14/15층, 남향급매물.전체수리됨.이사협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공10단지 1002동매매3억 1,000아파트90A/66m², 1/15층, 남향",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공10단지 1013동월세5,000/100아파트94B/75m², 14/15층, 남향올수리됨.이사협의",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공10단지 1010동매매3억 5,000아파트90/66m², 9/15층, 남향올수리됨.이사협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:13:11.897Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1956_20250718_031315.png"
+  }
+}

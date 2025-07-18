@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:17:55.950823",
+    "complex_id": "159"
+  },
+  "basic_info": {
+    "complex_id": "159",
+    "source_url": "https://new.land.naver.com/complexes/159",
+    "extracted_at": "2025-07-18T01:17:51.927946",
+    "url": "https://new.land.naver.com/complexes/159?ms=37.47526,126.892301,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:17:49.403Z",
+    "complexId": "159"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인두산위브 102동전세5억아파트107/84m², 5/25층, 남서향깔끔하게 수리 되어 있습니다",
+      "price": "5억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:17:51.940Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인두산위브 102동매매7억 2,000아파트107/84m², 5/25층, 남서향깔끔하게 수리 되어 있습니다",
+      "price": "7억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인두산위브 103동매매9억 7,000아파트162/134m², 4/21층, 남동향갤러리 같은 멋진 집입니다.",
+      "price": "9억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인두산위브 102동매매6억 9,000아파트107/84m², 3/25층, 남서향입주 협의, 위치 좋은 집",
+      "price": "6억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인두산위브 105동매매9억 3,000아파트162/134m², 4/25층, 남동향올수리 된 급매물 방4 화2 드레스룸 깔끔한 대형 매물 전자계약",
+      "price": "9억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인두산위브 109동매매6억 8,000아파트107/84m², 1/25층, 남동향위치 좋은 아이 키우기 최고인 집",
+      "price": "6억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인두산위브 115동매매6억 7,000아파트107/84m², 1/22층, 남서향깔끔하게 샷시까지 올 수리 함",
+      "price": "6억 7",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인두산위브 103동매매8억 5,000아파트162/134m², 7/21층, 남동향급매 조망좋고 채광량 우수  입주및 세안고 매매가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인두산위브 117동매매6억 8,000아파트107/84m², 3/22층, 남서향내부수리로  깨끗하고 채광량 풍부함",
+      "price": "6억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인두산위브 111동매매6억 4,000아파트81/59m², 24/25층, 남서향조망 우수하고 채광량 풍부  깨끗함",
+      "price": "6억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인두산위브 118동매매7억 2,000아파트107/84m², 6/22층, 남서향즉시 입주 가능. 내부 상태 깔끔함",
+      "price": "7억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인두산위브 106동매매7억 7,000아파트107/84m², 7/25층, 남서향전체 수리되어 있어 깔끔함.",
+      "price": "7억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인두산위브 112동매매6억 3,000아파트81/59m², 18/23층, 남동향남동향 고층으로 일조량 및 조망권 훌륭한 집",
+      "price": "6억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인두산위브 101동매매5억 9,000아파트81/59m², 2/25층, 남동향방 확장수리  전세끼고 투자 가격조정가능",
+      "price": "5억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인두산위브 102동매매7억 3,000아파트107/84m², 12/25층, 남서향로얄동호수   채광량풍부하고 환함",
+      "price": "7억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인두산위브 102동월세3억 9,000/40아파트107/84m², 5/25층, 남서향내부 수리 되어있는 깔끔한 상태",
+      "price": "3억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:17:51.941Z"
+    },
+    {
+      "index": 57,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인두산위브 102동전세5억아파트107/84m², 5/25층, 남서향깔끔하게 수리 되어 있습니다매경부동산 제공두산위브공인중개사사무소확인매물 25.07.17.집주인두산위브 102동매매7억 2,000아파트107/84m², 5/25층, 남서향깔끔하게 수리 되어 있습니다매경부동산 제공두산위브공인중개사사무소확인매물 25.07.17.집주인두산위브 103동매매9억 7,000아파트162/134m², 4/21층, 남동향갤러리 같은 멋진 집입니다.부동산뱅크 제공두산공인중개사 사무소확인매물 25.07.17.집주인두산위브 102동매매6억 9,000아파",
+      "price": "5억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:17:51.942Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_159_20250718_011755.png"
+  }
+}

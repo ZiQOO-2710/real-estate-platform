@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:54:38.962274",
+    "complex_id": "2094"
+  },
+  "basic_info": {
+    "complex_id": "2094",
+    "source_url": "https://new.land.naver.com/complexes/2094",
+    "extracted_at": "2025-07-18T03:54:34.496113",
+    "url": "https://new.land.naver.com/complexes/2094?ms=37.745573,127.058882,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:54:32.256Z",
+    "complexId": "2094"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 110동매매1억 7,400아파트64/47m², 18/18층, 남향세안고 투자하세요",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 110동매매1억 7,400아파트64/47m², 18/18층, 남동향민성 I 샷시제외올수리 깔끔 I 세안고 I 동오역역세권",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 109동매매2억 3,000아파트79/60m², 2/18층, 남향12월 입주, 싱크대, 화장실, 신발장등 수리되어 있어요",
+      "price": "2억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 104동매매1억 7,500아파트64/47m², 1/18층, 남서향입주협의, 부분수리되어었어요",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 110동매매1억 7,500아파트64/47m², 12/18층, 남향세안고, 부분수리되었어요",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 101동매매1억 7,500아파트64/47m², 3/18층, 남동향입주가능, 씽크대교체, 도배,장판깨끗, 전등교체 ,상태깨끗",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 101동전세1억 4,000아파트64/47m², 1/18층, 남동향바로입주가, 올수리된집,상태깨끗,주출입구초입이라 편하고좋아요",
+      "price": "1억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 108동매매1억 7,000아파트64/47m², 16/18층, 남서향대단지, 교통편리, 깨끗",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 108동매매1억 8,000아파트64/47m², 2/18층, 남서향KING,올수리,상태좋음,입주협의",
+      "price": "1억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 101동전세1억 4,000아파트64/47m², 1/18층, 남향샷시빼고 화장실 씽크대 올수리",
+      "price": "1억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 106동매매1억 8,000아파트64/47m², 15/18층, 남동향수리됨 서울출퇴근편리 초중학교근접 세안고매매",
+      "price": "1억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 110동매매1억 7,400아파트64/47m², 고/18층, 남향추천, 샷시제외올수리, 전세안고 소액투자,",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 110동매매1억 7,400아파트64/47m², 고/18층, 남동향급매  올수리 샷시제외 조정가능 층간소음X 세안고26.9 인프라굿",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 109동매매2억 5,500아파트79/60m², 15/18층, 남동향세안고,기본상태,경전철근접,교통편리,상권편리,학세권,부용천근접",
+      "price": "2억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "극동,동성 109동매매2억 5,000아파트79/60m², 9/18층, 남동향빠른입주가능.거실 방1확장.중문설치.시야좋음.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인극동,동성 106동매매1억 7,000아파트64/47m², 17/18층, 남향입주협의, 조용한동",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:34.504Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2094_20250718_035438.png"
+  }
+}

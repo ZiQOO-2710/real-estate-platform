@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:28:19.665687",
+    "complex_id": "1815"
+  },
+  "basic_info": {
+    "complex_id": "1815",
+    "source_url": "https://new.land.naver.com/complexes/1815",
+    "extracted_at": "2025-07-18T02:28:15.581202",
+    "url": "https://new.land.naver.com/complexes/1815?ms=37.280139,127.041276,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:28:14.031Z",
+    "complexId": "1815"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 205동매매4억아파트60/41m², 10/15층, 남향깨끗 하시입주가능 조정가",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 201동전세2억아파트85/61m², 15/15층, 남향융무 거실확장 중문 9월15 고정 싱크대는 새로해줌",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 202동매매5억아파트73/49m², 15/15층, 남향전세안고 투자",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 202동전세1억 3,000아파트64/45m², 2/15층, 남동향9월말경입주, LH가능함",
+      "price": "1억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 204동매매5억 8,000아파트80/58m², 8/15층, 남향세인고 투자 중문 특내부올수리",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 205동매매4억 8,000아파트73/49m², 5/15층, 남향내부 수리 되어있음 전세안고 매매",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 206동매매5억 8,000아파트80/58m², 9/15층, 남동향내부올수리 전세안고 재건축투자",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 208동전세2억아파트63/45m², 14/15층, 남향올수리 샤시포함 10월초부터 하시 보증금 1억6천만 월세20만도 가능",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 208동매매5억 8,500아파트82/59m², 8/15층, 남향내부올수리,입주가,정비계획 수립고시 진행중",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 202동매매4억 2,000아파트64/45m², 2/15층, 남동향급매,세안고,재건축투자유망",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 205동매매4억 1,000아파트60/41m², 11/15층, 남동향올수리 샤시포함  세안고",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 203동매매6억 7,000아파트80/58m², 고/15층, 남향24 재건축투자. 부분리모델링. 조정협의",
+      "price": "6억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 208동매매4억 5,000아파트63/45m², 10/15층, 남향0추천0내부깨끗 전세안고 매가조정가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 202동매매4억 8,000아파트64/45m², 15/15층, 동향1년전 샷시포함 올수리 전세안고 재건축 추진중",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 206동매매5억 8,000아파트80/58m², 9/15층, 남향세안고 재건축 추진중2026년 10월입주가",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공2단지 208동매매5억 9,000아파트82/59m², 7/15층, 남향샷시제외 내부수리됨 전세안고매매 재건축추진중",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:15.596Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체60㎡63㎡64㎡73㎡80㎡82㎡85㎡92㎡",
+      "price": null,
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:28:15.597Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1815_20250718_022819.png"
+  }
+}

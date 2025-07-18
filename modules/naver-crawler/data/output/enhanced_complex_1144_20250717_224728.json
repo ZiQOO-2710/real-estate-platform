@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:47:28.955483",
+    "complex_id": "1144"
+  },
+  "basic_info": {
+    "complex_id": "1144",
+    "source_url": "https://new.land.naver.com/complexes/1144",
+    "extracted_at": "2025-07-17T22:47:24.319060",
+    "url": "https://new.land.naver.com/complexes/1144?ms=37.496733,126.94353,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:47:22.584Z",
+    "complexId": "1144"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,814만종인아네스트(409-3)매매6.3억6.3억~7.5억면적74㎡74.71㎡ ~ 87.19㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억6",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,070만본파크빌매매6.5억6.5억면적70㎡70.55㎡ ~ 70.55㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,516만경향렉스빌매매8.6억6.7억~10.9억전세-4.7억월세1.8백1.8백면적113㎡79.5㎡ ~ 152.7㎡매매매물만 보기63개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억6",
+      "area": "113㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,696만상도중앙하이츠빌매매11.85억10억~15억전세6.5억6.3억~7억월세2.7백2.7백면적106㎡75.31㎡ ~ 151.86㎡매매매물만 보기37개 매물이 있습니다.전세매물만 보기15개 매물이 있습니다.월세매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "85억10",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,005만삼익매매9억9억면적99㎡99.25㎡ ~ 99.25㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억9",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "파크뷰면적90.62㎡39.62㎡ ~ 96.43㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "90.62㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "상도타워전세3.4억3.4억면적93㎡93.34㎡ ~ 93.34㎡전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억3",
+      "area": "93㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,884만남현그린매매4.9억4.5억~4.9억면적86㎡86.18㎡ ~ 86.18㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억4",
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,424만루나포레30(도시형)매매5.5억5.5억~5.9억면적75㎡57.83㎡ ~ 75.4㎡매매매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "5억5",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,520만상도롯데캐슬비엔매매11.5억11.5억~15.5억면적108㎡108.13㎡ ~ 154.72㎡매매매물만 보기58개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억11",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "장승면적100.85㎡45.64㎡ ~ 100.85㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "100.85㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,604만힐스테이트상도프레스티지매매15.6억14억~20.5억전세8.3억7.9억~11.5억월세1.7백1.2백~3.8백면적112㎡82.35㎡ ~ 152.78㎡매매매물만 보기151개 매물이 있습니다.전세매물만 보기25개 매물이 있습니다.월세매물만 보기25개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억14",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,638만동아매매7.5억6.7억~8억면적94㎡94.32㎡ ~ 94.32㎡매매매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,030만약수맨션매매11억11억전세-5.5억~6억월세-1.7백면적120㎡120.53㎡ ~ 121.26㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기11개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "11억11",
+      "area": "120㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:47:24.335Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1144_20250717_224728.png"
+  }
+}

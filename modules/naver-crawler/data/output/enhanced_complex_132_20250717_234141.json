@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:41:41.642560",
+    "complex_id": "132"
+  },
+  "basic_info": {
+    "complex_id": "132",
+    "source_url": "https://new.land.naver.com/complexes/132",
+    "extracted_at": "2025-07-17T23:41:38.211680",
+    "url": "https://new.land.naver.com/complexes/132?ms=37.50347,126.884476,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:41:35.332Z",
+    "complexId": "132"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 104동매매8억 8,000아파트80A/59m², 20/20층, 남서향24. 최근샷시포함특올수리 내부상태 최상으로 층간소음 걱정없는 집.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.222Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 105동월세4억/80아파트108/84m², 6/18층, 남동향세입자거주,기본형,정문앞로얄동로얄층,탁트인고층조망및뷰,역세권",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 102동매매8억 3,000아파트81B/59m², 16/20층, 남서향25.11.중순 입주 로얄동호수 신혼추천 신도림역구로역세권 치안우수",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 105동매매9억 7,000아파트108/84m², 6/18층, 남동향세입자거주,실입주매물,기본형,정문앞로얄동로얄층,탁트인고층조망및뷰,역세권",
+      "price": "9억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 107동월세4억/80아파트108/84m², 9/23층, 남동향저렴한월세 화장실수리 도배해줌",
+      "price": "4억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 101동전세6억아파트108/84m², 17/18층, 남서향수리된집 작은방확장  입주협의  반전세 가능",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 101동월세3억 5,000/100아파트108/84m², 17/18층, 남서향급월세,구수리,초역세권,백화점마트병원,주차,생활여건최상,신혼부부강추",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 105동매매10억 1,000아파트108/84m², 3/18층, 남향최근 올수리",
+      "price": "10억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 103동매매7억 7,000아파트80A/59m², 1/20층, 남서향내부수리,날짜협의",
+      "price": "7억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 104동매매8억 3,000아파트80A/59m², 18/20층, 남서향",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인신도림롯데 101동월세4억/60아파트108/84m², 12/18층, 남서향구로초역세권. 수리 해드림.입주 협의 가",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:41:38.223Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신도림롯데 104동매매8억 8,000아파트80A/59m², 20/20층, 남서향24. 최근샷시포함특올수리 내부상태 최상으로 층간소음 걱정없는 집.매경부동산 제공시티공인중개사사무소확인매물 25.07.17.집주인신도림롯데 105동월세4억/80아파트108/84m², 6/18층, 남동향세입자거주,기본형,정문앞로얄동로얄층,탁트인고층조망및뷰,역세권매경부동산 제공미래공인중개사사무소확인매물 25.07.15.집주인신도림롯데 102동매매8억 3,000아파트81B/59m², 16/20층, 남서향25.11.중순 입주 로얄동호수 신혼추천 신도림역구로",
+      "price": "8억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:41:38.224Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_132_20250717_234141.png"
+  }
+}

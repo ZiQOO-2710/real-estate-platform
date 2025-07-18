@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:34:36.448113",
+    "complex_id": "1296"
+  },
+  "basic_info": {
+    "complex_id": "1296",
+    "source_url": "https://new.land.naver.com/complexes/1296",
+    "extracted_at": "2025-07-17T23:34:31.936139",
+    "url": "https://new.land.naver.com/complexes/1296?ms=37.527848,127.142846,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:34:29.629Z",
+    "complexId": "1296"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 102동전세5억 2,000아파트87/59m², 4/20층, 남향마음추천 남향 도배 및 부분수리예정 신혼부부강추",
+      "price": "5억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 101동매매11억 5,000아파트107/84m², 1/24층, 남향화이트올수리 세안고갭투 후회없으실꺼예요",
+      "price": "11억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 101동매매11억 5,000아파트107/84m², 저/24층, 남향저평가,샤시포함내부전체수리,남향,올파포수혜지,금액조율가,세안고6.4억",
+      "price": "11억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 101동매매13억 5,000아파트135/109m², 고/24층, 동향올확장 관리 잘됨 트인조망 더블역세권",
+      "price": "13억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 101동매매13억 3,000아파트107/84m², 7/24층, 남서향더블역세권,초중,공원인접,주인거주,입주협의,잔금여유",
+      "price": "13억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 102동월세2억/120아파트87/59m², 6/20층, 남향초중고인근 남향 수리 5호선9호선",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 101동매매13억 5,000아파트107/84m², 21/24층, 남향5,9호선역세권 남향 공원뷰굿 거실확장 입주협의가능",
+      "price": "13억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인둔촌신성미소지움 102동매매10억 3,000아파트87/59m², 고/20층, 남향남향 수리 세안고 생활 인프라 좋은 아파트 더블역세권",
+      "price": "10억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:31.947Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1296_20250717_233436.png"
+  }
+}

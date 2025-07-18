@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:10:15.042095",
+    "complex_id": "1758"
+  },
+  "basic_info": {
+    "complex_id": "1758",
+    "source_url": "https://new.land.naver.com/complexes/1758",
+    "extracted_at": "2025-07-18T02:10:12.170553",
+    "url": "https://new.land.naver.com/complexes/1758?ms=37.252478,127.023906,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:10:10.673Z",
+    "complexId": "1758"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 107동매매3억 900아파트83/61m², 10/11층, 남향올수리 깨끗, 중문, 확트인 전망굿,정상입주",
+      "price": "3억 900",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.183Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 106동월세2,000/90아파트83/61m², 7/11층, 남동향올수리되어있어요",
+      "price": null,
+      "area": null,
+      "floor": "11층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 105동매매3억 6,500아파트94/75m², 3/11층, 남향내부 올수리,확트여 환한집,정상입주,상가동과 가까워 편리",
+      "price": "3억 6",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 106동전세2억 4,000아파트83/61m², 5/11층, 남향올수리 입주일협의 LH포함모든전세대출 가능 조용하고 일조권좋은집",
+      "price": "2억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 107동매매2억 7,500아파트83/61m², 2/11층, 남향이마트터미널도보가능 초중고교인근 도시공원인근",
+      "price": "2억 7",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 103동매매3억 8,000아파트103/84m², 11/11층, 남향탑층이며 내부 인테리어 깨끗함",
+      "price": "3억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 107동매매2억 9,500아파트83/61m², 8/11층, 남향전세안고26년2월투자올수리",
+      "price": "2억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 107동매매2억 9,300아파트83/61m², 저/11층, 남향남향 수리헤서 깨끗해요",
+      "price": "2억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 106동매매2억 9,800아파트83/61m², 8/11층, 남향샷시까지 올수리앞베란다 제외,큰방2개 넓은거실,중간라인",
+      "price": "2억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 105동매매3억 5,000아파트94/75m², 고/11층, 남향해잘드는 로얄층 수리된 깔끔한 매물  월세끼고매매",
+      "price": "3억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 104동매매3억 8,000아파트103/84m², 8/11층, 남향이마트터미널도보가능  초중고교도보가능 도시공원인근",
+      "price": "3억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "삼천리권선1차 102동월세3,000/90아파트94/75m², 고/10층, 남향",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:10:12.184Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1758_20250718_021014.png"
+  }
+}

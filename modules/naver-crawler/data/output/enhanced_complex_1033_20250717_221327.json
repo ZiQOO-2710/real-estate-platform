@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:13:27.979050",
+    "complex_id": "1033"
+  },
+  "basic_info": {
+    "complex_id": "1033",
+    "source_url": "https://new.land.naver.com/complexes/1033",
+    "extracted_at": "2025-07-17T22:13:24.629492",
+    "url": "https://new.land.naver.com/complexes/1033?ms=37.555903,126.863889,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:13:23.505Z",
+    "complexId": "1033"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억 3,000아파트81/59m², 12/12층, 남향샷시포함올수리 증미역세권 채광좋은남향 방3화1 서비스베란다",
+      "price": "7억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억아파트81/59m², 6/12층, 남동향급매,기본,입주협의 가능,9호선 증미역 도보3분거리.",
+      "price": "7억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인태영 101동매매10억 8,000아파트141/114m², 13/20층, 남서향3년전올수리  확장 깨끗해요 9호선증미역 생활편의시설",
+      "price": "10억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억 3,000아파트81/59m², 7/12층, 남서향세안고 9호선초역세권. 남향. 지하주차장엘베연결.",
+      "price": "7억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억 5,000아파트81/59m², 11/12층, 남동향9호선 증미역세권, 주인거주로 상태양호, 일부수리, 빠른입주가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억 3,000아파트81/59m², 12/12층, 남서향신혼강추 우드화이트풍인테리어 LG샷시 서비스면적포함세대 9호선증미역세권",
+      "price": "7억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "태영 103동매매7억아파트81/59m², 11/12층, 남서향남향,수리되여 매우 깨끗함.증미역 오분여 거리,",
+      "price": "7억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인태영 102동매매9억아파트107/84m², 14/20층, 남서향입주가능하고 매우 깨끗하며 교통이 편리합니다",
+      "price": "9억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인태영 101동매매10억 8,000아파트141/114m², 13/20층, 남서향햇살가득남향,거실,방1확장,올수리,증미역5분,가양이마트재입점예정,환영해요",
+      "price": "10억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인태영 103동매매7억 5,000아파트81/59m², 9/12층, 남동향증미역 역세권, 수리해서 깨끗, 신혼부부 강추, 빠른입주가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:13:24.633Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1033_20250717_221327.png"
+  }
+}

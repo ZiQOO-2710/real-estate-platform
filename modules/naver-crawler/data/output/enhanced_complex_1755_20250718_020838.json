@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:08:38.781797",
+    "complex_id": "1755"
+  },
+  "basic_info": {
+    "complex_id": "1755",
+    "source_url": "https://new.land.naver.com/complexes/1755",
+    "extracted_at": "2025-07-18T02:08:35.183120",
+    "url": "https://new.land.naver.com/complexes/1755?ms=37.249953,127.030229,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:08:33.912Z",
+    "complexId": "1755"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 812동매매5억 3,000아파트126B/101m², 11/11층, 남서향올수리완료,금액조정가능,고층",
+      "price": "5억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 812동매매5억 3,000아파트126B/101m², 11/11층, 남향판상형,정남향으로 채광통풍좋음,전체올수리,주인거주로 관리잘된집",
+      "price": "5억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 801동매매6억 5,000아파트171/134m², 6/11층, 남향최근 전체 깔끔한 화이트인테리어,한번보면 반할집,공실로 빠른입주가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 810동매매5억 2,000아파트126B/101m², 10/11층, 남향협의입주,샷시교체,고층,채광좋고뷰좋은집,깨끗한집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "벽산한성 803동매매5억 6,000아파트171/134m², 6/10층, 남향주인거주, 샷시,욕실,싱크대, 선호동 로얄층, 생활편리, 학군우수",
+      "price": "5억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "벽산한성 809동매매6억 5,000아파트164/134m², 7/11층, 남향가격절충가능 올수리샷시까지 선수리가능 빠른입주가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "벽산한성 801동매매6억 5,000아파트171/134m², 9/11층, 남향최근샷시교체,방2개확장,올수리,확트인조망,정상입주",
+      "price": "6억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 806동매매5억 2,000아파트126A/101m², 1/11층, 남향협의입주,방2개확장,샷시제외올리모델링,아이키우기좋은집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "벽산한성 807동매매5억 3,000아파트126A/101m², 8/11층, 남향초급매 작은방2개확장 화장실 씽크대 신발장 중문수리됨 입주일언제든지 협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인벽산한성 804동매매6억 5,000아파트171/134m², 중/11층, 남서향용.용소장매물. 인테리어. 샷시교체. LED교체. 주인거주로관리잘된집",
+      "price": "6억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "벽산한성 811동매매5억 3,000아파트126B/101m², 5/11층, 남향급매 방4 공원뷰,이사일협의가능,주인거주로깨끗, 광역교통최고,",
+      "price": "5억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "벽산한성 810동매매5억 1,000아파트126B/101m², 2/11층, 남향남향,로얄동,중앙에 있어 조용하고 출입문, 상가이용편리,롯데마트도보권",
+      "price": "5억 1",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "벽산한성 808동매매5억 5,000아파트164/134m², 1/10층, 남향샷시까지올수리됨,2층같은1층,층간소음제로,채광굿,쾌적한주거환경,정상입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "벽산한성 808동매매6억 1,000아파트164/134m², 3/10층, 남향샤시포함올수리 특인테리어 확장 즉시입주 공원인접 초중고인접",
+      "price": "6억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.199Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인벽산한성 812동매매5억 3,000아파트126B/101m², 11/11층, 남서향올수리완료,금액조정가능,고층산업부동산 제공더플러스공인중개사사무소확인매물 25.07.14.집주인벽산한성 812동매매5억 3,000아파트126B/101m², 11/11층, 남향판상형,정남향으로 채광통풍좋음,전체올수리,주인거주로 관리잘된집매경부동산 제공하늘IPARK공인중개사사무소확인매물 25.07.14.집주인벽산한성 801동매매6억 5,000아파트171/134m², 6/11층, 남향최근 전체 깔끔한 화이트인테리어,한번보면 반할집,공실로 빠른입주가능매경부",
+      "price": "5억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:35.200Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1755_20250718_020838.png"
+  }
+}

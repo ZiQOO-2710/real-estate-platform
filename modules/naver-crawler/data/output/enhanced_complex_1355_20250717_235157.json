@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:51:57.547136",
+    "complex_id": "1355"
+  },
+  "basic_info": {
+    "complex_id": "1355",
+    "source_url": "https://new.land.naver.com/complexes/1355",
+    "extracted_at": "2025-07-17T23:51:54.278068",
+    "url": "https://new.land.naver.com/complexes/1355?ms=37.64736,126.775935,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:51:52.475Z",
+    "complexId": "1355"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 304동매매8억 8,000아파트183유원/157m², 12/17층, 남서향입주날짜협의, 올수리, 남향, 전망굿, 해잘들어요",
+      "price": "8억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 313동매매7억 9,000아파트121유원/101m², 12/15층, 남서향세안고매매,샷시포함올수리, 전망굿, 로얄동의로얄층",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 311동매매8억 5,000아파트154삼환/132m², 7/15층, 남동향최근샷시포함주인용올수리됨, 입주날짜협의, 호수공원인접",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 309동매매8억 6,000아파트154삼환/132m², 9/15층, 남동향입주날짜협의, 샷시포함올수리, 남향, 조정가",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 304동매매7억 7,000아파트183유원/157m², 1/17층, 남서향마두역세권,밝은집,조망굿,호수공원인근,인프라최상,입주협의",
+      "price": "7억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 310동매매7억 3,000아파트154삼환/132m², 4/15층, 남서향급매물 올수리 전망굿  입주가능한집 호수공원인접 마두역인접 초품아",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 305동전세5억아파트154삼환/132m², 9/15층, 남동향전체올수리.마두역세권.공원인근,공원동,입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 310동매매8억 7,000아파트154삼환/132m², 13/15층, 남서향전체올수리 거실확장 방확장 전망좋은집",
+      "price": "8억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 311동매매6억 9,000아파트154삼환/132m², 1/15층, 남동향급매물 수리깨끗  녹지예쁜집 호수공원인접 마두역 역세권 초품아 조정가",
+      "price": "6억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 311동매매8억 8,000아파트154삼환/132m², 14/15층, 남동향전체올수리 내외부샷시까지 수리됨 호수공원인접 초품아 법원도서관이용가능",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 304동매매8억 8,000아파트183유원/157m², 12/17층, 남서향마두초역세권,조망굿,인테리어올수리,공원인근,복많은집",
+      "price": "8억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 303동매매8억 5,000아파트183유원/157m², 7/17층, 남동향급매,마두초역세권,조망굿,인테리어올수리,공원인근,복많은집",
+      "price": "8억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 312동매매8억 4,000아파트154삼환/132m², 7/15층, 남서향올수리 전망굿 호수공원인접 법원도서관이용가능",
+      "price": "8억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 312동매매8억아파트154삼환/132m², 5/15층, 남서향급매물 올수리 전망굿 주인거주",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 310동매매8억아파트154삼환/132m², 7/15층, 남서향올수리 거실확장 깨끗 정상",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인호수3단지삼환유원 314동전세5억아파트154유원/132m², 7/14층, 남동향마두역세권,전망좋은집,인프라최상,호수공원인근,입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:51:54.291Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체121유원㎡154삼환㎡154유원㎡183유원㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:51:54.292Z"
+    },
+    {
+      "index": 74,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인호수3단지삼환유원 304동매매8억 8,000아파트183유원/157m², 5/17층, 남서향입주날짜협의, 올수리, 남향, 전망굿, 해잘들어요매경부동산 제공토마토 공인중개사사무소확인매물 25.07.17.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:54.292Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1355_20250717_235157.png"
+  }
+}

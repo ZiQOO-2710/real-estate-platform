@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:33:58.925766",
+    "complex_id": "1640"
+  },
+  "basic_info": {
+    "complex_id": "1640",
+    "source_url": "https://new.land.naver.com/complexes/1640",
+    "extracted_at": "2025-07-18T01:33:54.773602",
+    "url": "https://new.land.naver.com/complexes/1640?ms=37.589094,127.136981,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:33:52.054Z",
+    "complexId": "1640"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 107동매매6억 4,000아파트80/60m², 15/15층, 남향샤시포함올수리  남향이라 햇살가득 초역세권아파트",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.787Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 101동매매6억 3,000아파트80B/60m², 6/15층, 남향입주가능 수리 깨끗",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.787Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 103동매매9억 5,000아파트126B/101m², 7/18층, 남향거실  방1확장, 8호선 전철역 3분거리 초역세권",
+      "price": "9억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.787Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 106동매매8억 5,000아파트106/84m², 12/18층, 남향세안고  수리 전철역 공원3분거리",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 109동매매9억 4,000아파트125A/101m², 7/18층, 남향8호선전철역세권도보4분올깨끗.학교,편의시설.인프라 주거상급.전망뷰.",
+      "price": "9억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 107동전세3억 8,000아파트80/60m², 중/15층, 남향깨끗 내부올수리  남향이라 햇살가득 초역세권아파트",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 105동매매13억 5,000아파트162B/134m², 중/21층, 남향8호선 장자호수역 3분위치, 세안고 매매, 올수리됨",
+      "price": "13억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 103동매매8억 7,000아파트126B/101m², 저/18층, 남향거확장 방1확장,아주깔끔,지하철도보2분컷,인프라형성잘된지역",
+      "price": "8억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 107동매매6억 5,000아파트80/60m², 10/15층, 남향급매추천.장자호수역 초역세권.생활권편리한 최고입지.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 102동매매8억 3,000아파트106/84m², 2/18층, 남향특올수리,초역세권,인근 호수공원,초 중 고,각종편의시설,입주협의됩니다.",
+      "price": "8억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 101동매매6억 2,000아파트80B/60m², 3/15층, 남향방3화1.시원하게 트여있는 동.남향.선호단지.8호선초역세권",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 107동매매6억 1,000아파트80/60m², 고/15층, 남향내부수리 상태깔끔 8호선역세권 전세끼고  금액협의",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 101동전세3억 9,000아파트80B/60m², 고/15층, 남향올수리,융무,전세대출가능,지하철2분컷,인프라형성잘된지역",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인구리우성,한양 109동전세5억 5,000아파트125A/101m², 7/18층, 남향정상.올수리깨끗. 8호선최역세권.앞트인전망.융무. 편의시설 학군양호.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체80㎡80B㎡99㎡106㎡112㎡125A㎡126B㎡146㎡161A㎡162B㎡",
+      "price": null,
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:33:54.788Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1640_20250718_013358.png"
+  }
+}

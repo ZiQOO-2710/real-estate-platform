@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:44:33.658901",
+    "complex_id": "133"
+  },
+  "basic_info": {
+    "complex_id": "133",
+    "source_url": "https://new.land.naver.com/complexes/133",
+    "extracted_at": "2025-07-17T23:44:28.706510",
+    "url": "https://new.land.naver.com/complexes/133?ms=37.49216,126.893838,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:44:26.830Z",
+    "complexId": "133"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인럭키 2동월세3,000/130아파트75/56m², 3/15층, 서향대림역 초역세권 방2 올수리 공실",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:44:28.718Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인럭키 2동매매6억 8,000아파트96/71m², 6/15층, 남향올수리 방3화1 대림역1분 입주협의",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인럭키 2동전세4억 1,000아파트96/71m², 9/15층, 남향초초역세권 주인거주로 욕실등 수리되어 깨끗하고 채광좋은집",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인럭키 2동매매6억 8,000아파트96/71m², 9/15층, 남동향초초역세권  일부 수리되어 깨끗한 남향집 방3개 거실넓음 입주협의가능",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인럭키 1동매매7억 5,000아파트111/84m², 3/15층, 남향남향 방3화2 대림역2분 입주협의",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인럭키 2동매매6억 9,000아파트96/71m², 10/15층, 서향갭 투자,월세130만, 초 역세권, 3룸 아파트 매매",
+      "price": "6억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인럭키 1동전세4억 7,000아파트111/84m², 9/15층, 남향역세권남향전세입주협의",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인럭키 1동매매7억 5,000아파트111/84m², 4/15층, 남향급매전세2년승계매물",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:44:28.719Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인럭키 2동월세3,000/130아파트75/56m², 3/15층, 서향대림역 초역세권 방2 올수리 공실부동산114 제공현대공인확인매물 25.07.16.집주인럭키 2동월세5,000/120아파트75/56m², 3/15층, 남서향내부수리되어 완전 깨끗 해잘드는집  빠른입주 가능 더블역세권부동산써브 제공한신공인중개사사무소확인매물 25.07.16.집주인럭키 2동매매6억 8,000아파트96/71m², 6/15층, 남향올수리 방3화1 대림역1분 입주협의부동산114 제공현대공인확인매물 25.07.16.집주인럭키 2동전세4억 1,000아파트96/",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:44:28.720Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_133_20250717_234433.png"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:10:47.392931",
+    "complex_id": "195"
+  },
+  "basic_info": {
+    "complex_id": "195",
+    "source_url": "https://new.land.naver.com/complexes/195",
+    "extracted_at": "2025-07-18T03:10:42.735882",
+    "url": "https://new.land.naver.com/complexes/195?ms=37.662821,127.056256,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:10:41.047Z",
+    "complexId": "195"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,409만상계주공9단지매매5.1억3.75억~8억전세2.1억2억~4.2억월세75만75만~1.5백면적70㎡58.41㎡ ~ 105.54㎡매매매물만 보기354개 매물이 있습니다.전세매물만 보기25개 매물이 있습니다.월세매물만 보기25개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억3",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,245만창동역블루핀매매5.5억5.5억~6억전세4.2억4.2억면적81㎡68.89㎡ ~ 81.6㎡매매매물만 보기15개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,770만한원힐트리움아레나(도시형)매매3.1억3억~3.2억월세1백1백면적37㎡37.52㎡ ~ 37.52㎡매매매물만 보기2개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억3",
+      "area": "37㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,397만창동성원매매5.8억5.45억~9.8억전세-5.3억~5.7억면적80㎡80.73㎡ ~ 131.71㎡매매매물만 보기32개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,808만포레나노원매매9.1억7.9억~20억전세5.4억5.1억~7.5억면적79㎡66.96㎡ ~ 149.03㎡매매매물만 보기173개 매물이 있습니다.전세매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억7",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,597만임광매매11억9.1억~12억전세5.2억5억~5.5억면적140㎡123.76㎡ ~ 140.7㎡매매매물만 보기25개 매물이 있습니다.전세매물만 보기11개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "11억9",
+      "area": "140㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:10:42.750Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_195_20250718_031047.png"
+  }
+}

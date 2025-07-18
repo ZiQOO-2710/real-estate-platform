@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:26:34.835582",
+    "complex_id": "1270"
+  },
+  "basic_info": {
+    "complex_id": "1270",
+    "source_url": "https://new.land.naver.com/complexes/1270",
+    "extracted_at": "2025-07-17T23:26:31.226453",
+    "url": "https://new.land.naver.com/complexes/1270?ms=37.637571,127.077502,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:26:29.796Z",
+    "complexId": "1270"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억아파트80/59m², 3/17층, 남서향학군우수하고 조용한 단지,내부수리되어 깔끔하며,라인좋은 집.",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.240Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매4억 8,500아파트80/59m², 12/17층, 남서향정상.전망,부분수리.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인하계우방 102동매매7억 2,000아파트111/83m², 9/17층, 남향로얄층으로 올수리되어 깨끗하고 쾌적한 환경",
+      "price": "7억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억아파트80/59m², 3/17층, 남서향올수리,붙박이장시공,라인굿,관리잘된 강추남향집",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동전세3억 3,000아파트80/59m², 17/17층, 남서향올수리된 조용한라인,학군우수단지,주차공간 좋음.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억 2,000아파트80/59m², 4/17층, 남서향내부올수리된 전망트이는 매물,학군우수,주차장엘베연결구조입니다.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인하계우방 102동월세2억/90아파트105/77m², 8/17층, 남서향전망탁트인 채광좋고 조용한 라인,학군우수하며 살기좋은단지.",
+      "price": "2억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인하계우방 102동매매7억아파트111/83m², 16/17층, 남동향주인거주 특올수리, 편리한 주차시설, 자연채광 가득한 남향",
+      "price": "7억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인하계우방 102동매매7억아파트111/83m², 16/17층, 남동향대진고옆, 전체올수리,관리잘되고 전망탁트인 아주밝은집",
+      "price": "7억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매4억 8,000아파트80/59m², 17/17층, 남서향전망트인 조용한 라인,내부올수리된 깔끔한 집,학군우수단지.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억아파트80/59m², 14/17층, 남향학군우수한단지,채광좋고조용한 동호수 전세안고매매합니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억아파트80/59m², 16/17층, 남서향최선호라인,전망트인 조용한 강추매매,학군우수하며,주차용이합니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매4억 8,500아파트80/59m², 12/17층, 동향내부수리된 채광좋은집",
+      "price": "4억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억아파트80/59m², 14/17층, 남서향채광좋은 고층 중간라인,학군우수단지,공기좋고 조용합니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인하계우방 101동매매5억 5,000아파트80/59m², 6/17층, 남서향전망트인 남향,동북선 수혜단지,학군우수하며 내부 올수리,주차공간 좋음",
+      "price": "5억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:31.241Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1270_20250717_232634.png"
+  }
+}

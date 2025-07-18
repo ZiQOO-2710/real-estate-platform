@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:31:20.599568",
+    "complex_id": "1826"
+  },
+  "basic_info": {
+    "complex_id": "1826",
+    "source_url": "https://new.land.naver.com/complexes/1826",
+    "extracted_at": "2025-07-18T02:31:17.796410",
+    "url": "https://new.land.naver.com/complexes/1826?ms=37.30244,126.977702,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:31:15.508Z",
+    "complexId": "1826"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼호진덕 206동매매3억 9,000아파트78A/59m², 7/15층, 남향추천,앞동남향,방확장,채광성이 뛰어난 밝고 조용한집으로 정상입주가능",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.810Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "삼호진덕 202동매매4억 1,000아파트78A/59m², 8/15층, 동향주방및 욕실수리등 최근올수리,빠른입주가능,역세권",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.810Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "삼호진덕 204동매매4억아파트78A/59m², 9/15층, 동향남향  초중고5분 성대역5분  씽크 욕실  방1확 전세안고",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼호진덕 211동매매3억 6,000아파트77B/59m², 12/15층, 동향주방및 욕실수리된 밝고 조용하며 깨끗한집으로 정상입주가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "삼호진덕 203동매매3억 9,000아파트78A/59m², 15/15층, 동향방1확장,화장실,씽크교체,가격절충가,정상입주협의",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "삼호진덕 210동매매4억 1,000아파트78A/59m², 10/15층, 남향앞동남향,주방및 욕실수리,조망굿,밝고조용하며 깨끗,전세안고가능",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼호진덕 207동매매3억 8,000아파트78A/59m², 4/15층, 동향초중고5분 성대역5분  씽크 욕실  방1확 등교체 페인트시공 내부 올수리",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "삼호진덕 205동매매3억 7,000아파트78A/59m², 2/15층, 동향방2확장,중문,내부수리,앞.뒤베란다샷시교체,정상입주협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "삼호진덕 205동매매3억 8,000아파트78A/59m², 3/15층, 동향샤시포함 올수리한 조용하고 아주깨끗한집으로 월세안고 가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "삼호진덕 204동매매4억아파트78A/59m², 11/15층, 남향남향가운데라인,방1확장,화장실,씽크교체,중문,전세안고26년5월",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "삼호진덕 209동매매3억 9,000아파트78A/59m², 12/15층, 남향남향으로 햇볕잘드는 밝고 조용한 집으로 26년1월입주가능",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "삼호진덕 206동매매4억아파트78A/59m², 4/15층, 남향햇살담는 집, 맨 앞동, 욕실과 주방 수리되어 깨끗, 가격조정가",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "삼호진덕 212동매매3억 6,000아파트77B/59m², 9/12층, 남향남향매물가운데라인,방1확장,씽크교체,화장실부분수리,정상입주협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "삼호진덕 209동전세2억 8,000아파트78A/59m², 1/15층, 남향남향,방2확장,주방및 욕실수리,밝고조용하며 깨끗,정상입주가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인삼호진덕 212동매매3억 6,000아파트77B/59m², 9/12층, 남동향정상입주. 방1 확장.주방 화장실 일부 수리, 채광 좋고 깔끔",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:17.811Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1826_20250718_023120.png"
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:14:11.247732",
+    "complex_id": "1773"
+  },
+  "basic_info": {
+    "complex_id": "1773",
+    "source_url": "https://new.land.naver.com/complexes/1773",
+    "extracted_at": "2025-07-18T02:14:07.021877",
+    "url": "https://new.land.naver.com/complexes/1773?ms=37.273036,126.936617,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:14:04.053Z",
+    "complexId": "1773"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 408동매매4억 8,000아파트127/99m², 5/20층, 남서향코뿔소.칠보산뷰 짱 .트윈에어컨. 인테리어가능.  빠른입주가",
+      "price": "4억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.036Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 209동매매3억 8,000아파트81A/59m², 8/20층, 남향초등학교 상가 정류장인접으로 선호동입니다",
+      "price": "3억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 301동매매9억아파트271/229m², 1/20층, 남동향생활하기 편리한 동으로 전세 안고 매매 가능합니다.",
+      "price": "9억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 301동매매9억아파트271/229m², 10/20층, 남동향앞쪽에 중앙분수대가 있고 상가 이용이 편리한 동으로 깨끗합니다.",
+      "price": "9억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 402동매매4억 6,000아파트110A/84m², 16/20층, 남서향초교 중학교 가깝고 칠보산아래  쾌적하고 조용한  집  정상입주",
+      "price": "4억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 305동매매5억 5,000아파트109B/84m², 16/20층, 남동향상가 학교 가까운 선호동 수리된 집 정상입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 305동매매4억 2,000아파트109B/84m², 15/20층, 남동향일부 수리하고 주인거주로 깨끗하게 관리한 집  정상입주",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 208동매매4억 3,000아파트110A/84m², 1/20층, 남동향33A 외부 샷시 포함 올수리 된 깨끗한 집 상촌 초 근처 선호 동",
+      "price": "4억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 401동매매3억 2,000아파트81A/59m², 2/20층, 남동향급매물  정원뷰를 가진  깨끗한 집으로  방3개 구조 날짜협의 가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 204동매매4억 1,500아파트109B/84m², 16/20층, 동향트인 전망.보일러 교체.빠른입주가능.",
+      "price": "4억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 404동매매4억 8,000아파트110A/84m², 3/20층, 남서향동간거리 멀고 샷시제외 올수리 주인거주로 관리잘된집",
+      "price": "4억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 210동매매3억 2,000아파트81B/60m², 2/20층, 서향칠보산을 바라 보는 조용한 집입니다.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 404동매매3억 9,000아파트110A/84m², 1/20층, 남서향세낀매매  판상형 구조 1층  일부수리된 깨끗한집,",
+      "price": "3억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 405동매매3억 8,000아파트96/73m², 12/20층, 남동향조용한 숲세권으로 중학교 가까워요.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 410동매매5억 5,000아파트110A/84m², 13/20층, 남서향올수리 탁트인 칠보산 전망 로얄동  정상입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 105동매매9억 5,000아파트213/175m², 19/20층, 남향조용하고 칠보산 전망 좋은 남향입니다.",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 308동매매8억아파트213/175m², 2/20층, 남동향넓고 깨끗한집 초중교  상가  가까워 편리한 동   입주협의",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 205동매매4억 7,000아파트110A/84m², 13/20층, 남향작은방2 확장,  올수리된집  로얄동 남향  중간라인, 빠른입주가능",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인금곡LG 401동매매3억 4,000아파트81A/59m², 6/20층, 남동향학세권 숲세권 수리된 집 전세안고 매매 27년10월입주",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체81A㎡81B㎡96㎡109B㎡110A㎡127㎡146㎡173㎡213㎡271㎡",
+      "price": null,
+      "area": "96㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:14:07.037Z"
+    },
+    {
+      "index": 83,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인금곡LG 408동매매4억 8,000아파트127/99m², 5/20층, 남서향코뿔소.칠보산뷰 짱 .트윈에어컨. 인테리어가능.  빠른입주가매경부동산 제공호매실역 서희 코뿔소 공인중개사사무소확인매물 25.07.17.집주인금곡LG 209동매매3억 8,000아파트81A/59m², 8/20층, 남향초등학교 상가 정류장인접으로 선호동입니다매경부동산 제공LG공인중개사사무소확인매물 25.07.17.집주인금곡LG 301동매매9억아파트271/229m², 1/20층, 남동향생활하기 편리한 동으로 전세 안고 매매 가능합니다.매경부동산 제공상촌공인중개",
+      "price": "4억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:07.038Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 21,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1773_20250718_021411.png"
+  }
+}

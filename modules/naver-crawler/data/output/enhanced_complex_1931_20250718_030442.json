@@ -1,0 +1,238 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:04:42.429523",
+    "complex_id": "1931"
+  },
+  "basic_info": {
+    "complex_id": "1931",
+    "source_url": "https://new.land.naver.com/complexes/1931",
+    "extracted_at": "2025-07-18T03:04:38.210374",
+    "url": "https://new.land.naver.com/complexes/1931?ms=37.2962,126.860802,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:04:36.608Z",
+    "complexId": "1931"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한양 31동월세1,000/65아파트58/42m², 3/15층, 동향외부샷시포함 올수리됨",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한양 16동매매2억 9,000아파트73/58m², 4/5층, 남향샷시포함 올수리됨, 전철역,학교,중심상가,병원,공원등 생활 인프라가 굿",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한양 5동매매2억 8,500아파트73/58m², 4/5층, 남향샷시포함 올수리, 이사일협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한양 9동매매2억 7,000아파트73/58m², 1/5층, 남향샷시포함 올수리됨",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한양 31동월세500/50아파트38/28m², 10/15층, 서향샷시포함 특올수리됨 붙박이장있음",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인한양 12동매매2억 9,000아파트73/58m², 4/5층, 남향샷시포함 올수리됨  세끼고",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한양 24동매매3억 8,000아파트104/84m², 10/15층, 남향샷시포함 올수리됨 세안고  조정가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인한양 3동매매3억 1,000아파트85/68m², 1/5층, 남향샷시포함올수리됨.남향.전세20,000만원끼고매매.상록수역도보15분",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인한양 13동전세2억 5,000아파트85/68m², 4/5층, 남향샷시포함 수리됨  남향  8월19일이후 이사협의 집상태 깨끗함  채공좋음",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인한양 7동매매2억 7,000아파트73/58m², 1/5층, 남향중간라인.샤시포함 수리됨. 편의시설 가까움.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인한양 24동매매4억 800아파트104/84m², 11/15층, 남향최근 샷시포함 올수리함,전철역,학교,중심상가,병원,공원등 생활인프라가 굿",
+      "price": "4억 800",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인한양 22동매매4억 1,000아파트183/156m², 1/17층, 남향샷시교체됨.씽크대새로함.급매입니다.",
+      "price": "4억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인한양 29동매매3억 9,000아파트104/84m², 6/15층, 남향샷시포함올수리됨.남향.이사협의.사이드아님.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인한양 26동매매4억아파트104/84m², 6/15층, 남향 5년전 올수리",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인한양 21동전세3억아파트143/119m², 6/17층, 남향샷시포함올수리, 이사협의",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한양 29동매매3억 8,000아파트104/84m², 3/15층, 남향세끼고 매매, 샷시포함 올수리",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인한양 33동월세500/45아파트38/28m², 1/15층, 동향샷시포함 수리됨 도배는 새로 함.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인한양 9동전세1억 8,000아파트73/58m², 4/5층, 남향샷시포함 전체 올수리",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인한양 32동전세1억 6,000아파트58/42m², 14/15층, 동향올수리,탁트인전망, 이사협의,반려동물불가,신혼부부선호",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:04:38.224Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체38㎡58㎡73㎡85㎡88㎡104㎡143㎡183㎡",
+      "price": null,
+      "area": "38㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:04:38.225Z"
+    },
+    {
+      "index": 78,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한양 31동월세1,000/65아파트58/42m², 3/15층, 동향외부샷시포함 올수리됨매경부동산 제공평화부동산공인중개사사무소확인매물 25.07.17.집주인한양 16동매매2억 9,000아파트73/58m², 4/5층, 남향샷시포함 올수리됨, 전철역,학교,중심상가,병원,공원등 생활 인프라가 굿부동산써브 제공한신공인중개사사무소확인매물 25.07.17.집주인한양 5동매매2억 8,500아파트73/58m², 4/5층, 남향샷시포함 올수리, 이사일협의부동산써브 제공화성공인중개사사무소확인매물 25.07.16.집주인한양 9동매매2억 7,000아",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:04:38.225Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 21,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1931_20250718_030442.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:11:36.339214",
+    "complex_id": "1222"
+  },
+  "basic_info": {
+    "complex_id": "1222",
+    "source_url": "https://new.land.naver.com/complexes/1222",
+    "extracted_at": "2025-07-17T23:11:32.892280",
+    "url": "https://new.land.naver.com/complexes/1222?ms=37.534044,126.948536,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:11:31.108Z",
+    "complexId": "1222"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강변삼성스위트 101동매매20억아파트112A/84m², 9/22층, 남향로얄동, 한강뷰, 올수리, 12월 입주가능",
+      "price": "20억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.905Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인강변삼성스위트 102동매매16억아파트112A/84m², 2/22층, 남향올수리, 한강일부조망, 정상입주",
+      "price": "16억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.905Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인강변삼성스위트 102동매매22억아파트112A/84m², 고/22층, 남향한강 불꽃축제뷰,올확장.시스템에어컨 및 인덕션등. 입주가능합니다.",
+      "price": "22억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.905Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인강변삼성스위트 102동매매22억아파트112A/84m², 18/22층, 남향",
+      "price": "22억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.905Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "강변삼성스위트 102동매매20억아파트112A/84m², 고/22층, 남서향샤시포함올리모델링  예쁜한강조망  시스템에어컨 되고  용산개발 최대 후광",
+      "price": "20억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.905Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인강변삼성스위트 102동매매17억아파트112A/84m², 8/22층, 남향한강조망, 부분수리, 입주협의",
+      "price": "17억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:11:32.906Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1222_20250717_231136.png"
+  }
+}

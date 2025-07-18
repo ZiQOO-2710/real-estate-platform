@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:32:22.761785",
+    "complex_id": "1830"
+  },
+  "basic_info": {
+    "complex_id": "1830",
+    "source_url": "https://new.land.naver.com/complexes/1830",
+    "extracted_at": "2025-07-18T02:32:18.422700",
+    "url": "https://new.land.naver.com/complexes/1830?ms=37.30246,126.97903,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:32:17.279Z",
+    "complexId": "1830"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 302동매매3억 8,000아파트78/59m², 7/15층, 남향남향가운데라인,방1확장,화장실수리,씽크교체,앞내부샷시교체,정상",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대 302동매매3억 1,000아파트78/59m², 2/15층, 남향역세권급매물,전세안고,방1확장,씽크대화장실수리되어 깔끔합니다",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대 306동매매4억아파트78/59m², 6/14층, 남향남향 내부 부분수리 되어 깨끗 전세안고 투자",
+      "price": "4억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "현대 302동매매3억 2,000아파트78/59m², 1/15층, 남향방1확장,  화장실 씽크대 교체, 정상입주.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대 306동매매3억 8,000아파트78/59m², 4/14층, 남향남향가운데라인,방1.주방확장,씽크교체,화장실부분수리,정상입주협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대 305동월세4,300/120아파트78/59m², 8/15층, 서향방1.거실확장,최근샷시포함올수리,집상태아주좋음,정상",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "현대 302동매매3억 8,000아파트78/59m², 15/15층, 남향남향매물방1확장,샷시포함내부올수리,정상입주협의,가격절충가",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "현대 305동매매3억 6,000아파트78/59m², 4/15층, 남향남향매물,방1확장,화장실수리,씽크교체,거실폴딩도어,전세안고",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대 302동매매3억 8,000아파트78/59m², 5/15층, 남향역세권,남향,방1확장,씽크대화장실수리,조용하고 깨끗합니다",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "현대 306동매매3억 5,000아파트78/59m², 2/14층, 남향추천U내부올리모델링U선호동U정상입주",
+      "price": "3억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "현대 307동매매3억 8,000아파트78/59m², 7/13층, 남향남향 앞동 조망 채광양호 초중고5분 성대역도보7분   방1확장 정상입주",
+      "price": "3억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "현대 302동월세5,000/100아파트78/59m², 6/15층, 남향씽크대수리,조용하고 깨끗합니다",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "현대 307동전세2억 7,000아파트78/59m², 2/13층, 남향방1.거실확장,화장실수리,씽크교체,집상태아주깨10월20일에서23일입주협의",
+      "price": "2억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "현대 305동매매3억 500아파트65/50m², 1/15층, 남향역세권남향 소형평수 매물,방확장거실확장으로 넓어요,",
+      "price": "3억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "현대 307동매매4억아파트78/59m², 12/13층, 남서향ALL 올수리, 빠른입주 늦은 입주 모두 가능",
+      "price": "4억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대 306동매매3억 8,000아파트78/59m², 9/14층, 남향씽크대,화장실수리,남향,상태깨끗.이사일 조정가능.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "현대 306동매매4억 2,000아파트78/59m², 7/14층, 남향역세권매매물,전세안고,올수리,거실확장,수릳되어 깔끔합니다",
+      "price": "4억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대 307동월세5,000/120아파트78/59m², 3/13층, 서향방1확장,내부샷시포함올수리,집상태좋음,정상",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:32:18.438Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1830_20250718_023222.png"
+  }
+}

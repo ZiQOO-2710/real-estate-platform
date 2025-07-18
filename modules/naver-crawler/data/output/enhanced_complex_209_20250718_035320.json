@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:53:20.007967",
+    "complex_id": "209"
+  },
+  "basic_info": {
+    "complex_id": "209",
+    "source_url": "https://new.land.naver.com/complexes/209",
+    "extracted_at": "2025-07-18T03:53:16.020737",
+    "url": "https://new.land.naver.com/complexes/209?ms=37.500436,127.068889,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:53:14.148Z",
+    "complexId": "209"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 1동전세8억 5,000재건축102/95m², 10/14층, 남향올수리 2년전에 했어요.보증금 조정가능.이사일은 확정",
+      "price": "8억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 6동전세7억 3,000재건축102/95m², 2/14층, 서향수리해드립니다.가장 저렴한 전세입니다. 이사는  협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 5동전세12억재건축133/125m², 고/14층, 남향",
+      "price": "12억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 2동매매36억 5,000재건축102/95m², 저/14층, 남향조합원승계가능 쌍용2차와 통합재건축 주인거주",
+      "price": "36억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 6동월세5억/160재건축102/95m², 2/14층, 남서향수리잘된 깨끗한 집,학원가까운 동,입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대치우성1차 5동매매42억재건축133/125m², 고/14층, 남향빠른재건축으로 장래유망다지 올수리되어 있으며 조합원승계 가능합니다.",
+      "price": "42억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "대치우성1차 2동매매36억 5,000재건축102/95m², 1/14층, 남향입주협의,주인거주,조합원승계가능,",
+      "price": "36억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "대치우성1차 5동매매42억재건축133/125m², 12/14층, 남향조합원지위양도가능,입주협의가능,우성1차와 쌍용2차 통합합의",
+      "price": "42억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "대치우성1차 1동전세8억 5,000재건축102/95m², 2/14층, 남향올수리된 깔금한 집,입주협의가능,학원가까운 동입니다.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "대치우성1차 7동매매43억재건축133/125m², 10/14층, 남향주인거주,양재천변,쾌적한 주거,",
+      "price": "43억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:53:16.029Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_209_20250718_035319.png"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:09:55.724542",
+    "complex_id": "1946"
+  },
+  "basic_info": {
+    "complex_id": "1946",
+    "source_url": "https://new.land.naver.com/complexes/1946",
+    "extracted_at": "2025-07-18T03:09:51.151596",
+    "url": "https://new.land.naver.com/complexes/1946?ms=37.33561,126.805664,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:09:48.148Z",
+    "complexId": "1946"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 909동매매3억재건축49B/39m², 5/5층, 남향선부역재건축전체올수리된매물전세안고투자입니다",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 905동월세500/50재건축49B/39m², 3/5층, 남향빠른이사가능한남향집입니다",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 903동매매2억 7,000재건축49A/39m², 1/5층, 남향급 샷시포함 올수리 이사협의",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 906동매매3억재건축49A/39m², 4/5층, 남향선부역재건축단지월세안고투자입니다",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 905동매매3억재건축49B/39m², 3/5층, 남향선부역재건축전체올수리된매물월세안고투자입니다",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 901동매매3억 3,000재건축58/46m², 5/5층, 남향올수리이사협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "군자주공9단지 911동매매3억 4,000재건축57/46m², 2/5층, 남동향월세끼고투자,상태깨끗",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "군자주공9단지 903동월세500/50재건축49A/39m², 1/5층, 남향올수리이며 이사협의하세요.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "군자주공9단지 911동월세1,000/55재건축57/46m², 4/5층, 남향내부올수리,날짜협의",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "군자주공9단지 904동월세500/55재건축49A/39m², 4/5층, 남향전체올수리되어있고즉시입주할수있는매물입니다",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 909동매매2억 9,000재건축49B/39m², 3/5층, 남향전체올수리된남향집매물전세안고투자입니다",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "군자주공9단지 902동월세1,000/60재건축57/46m², 4/5층, 남향올수리이며 빠른이사 가능해요.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "군자주공9단지 905동매매2억 9,000재건축49B/39m², 1/5층, 남향올수리이며 전세안고 투자하세요.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "군자주공9단지 906동월세500/55재건축49A/39m², 2/5층, 남향샤시까지 올수리 8.9 이사",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "군자주공9단지 905동월세500/50재건축49B/39m², 5/5층, 남향올수리 되었으며 7월21일 이후 이사하세요.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인군자주공9단지 902동월세500/60재건축57/46m², 5/5층, 남향즉시입주가능 화장실수리 도배장판 샤시되어 있음",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "군자주공9단지 911동매매3억 4,000재건축57/46m², 2/5층, 남향기본 세안고매매 8월만기 입주협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:09:51.166Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1946_20250718_030955.png"
+  }
+}

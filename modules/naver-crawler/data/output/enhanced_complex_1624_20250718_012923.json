@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:29:23.966632",
+    "complex_id": "1624"
+  },
+  "basic_info": {
+    "complex_id": "1624",
+    "source_url": "https://new.land.naver.com/complexes/1624",
+    "extracted_at": "2025-07-18T01:29:19.687296",
+    "url": "https://new.land.naver.com/complexes/1624?ms=37.464617,126.881595,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:29:18.426Z",
+    "complexId": "1624"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1101동매매4억 2,000아파트57/41m², 13/15층, 남동향신혼부부 거주한 집, 인테리어 완료.",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공11단지 1101동전세2억아파트57/41m², 13/15층, 남동향o 착한비용 o 수리된 집, 빠른 입주 가능",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "주공11단지 1105동매매3억 7,000아파트52A/36m², 4/15층, 남향빠른입주가능 아주깨끗",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "주공11단지 1103동전세2억 6,000아파트69/49m², 14/15층, 남동향로얄동 로얄층 전망이 멋집니다.  언제든 입주 가능합니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "주공11단지 1105동전세1억 8,000아파트52B/36m², 2/15층, 남동향N형.신규완전특올수리.전대협조.독산역.즉시입주가능.",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "주공11단지 1106동전세2억아파트57/41m², 3/15층, 남동향전체올수리.버팀목 전세대출협조.독산역.입주일협의.",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공11단지 1102동월세1,000/75아파트57/41m², 6/15층, 남동향올수리되어 있습니다.즉시 입주 가능합니다",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공11단지 1103동매매5억 8,000아파트69/49m², 9/15층, 남동향6년전올수리.전망굿.독산역.하안사거리.입주매물입니다.",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "주공11단지 1104동매매3억 9,000아파트52A/36m², 6/15층, 남향올수리가 되고 조망과 채광이 우수함",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공11단지 1101동매매4억 2,000아파트57/41m², 9/15층, 남동향올수리,세안고2026.02.25",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공11단지 1101동월세1,000/70아파트57/41m², 1/15층, 남동향올수리집상태좋음,1호선독산역도보가능,7월19입부터 공가,하안사거리상권편리",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공11단지 1105동전세1억 9,000아파트52B/36m², 9/15층, 남동향N형. 전체올수리 되어 있습니다. 입주날짜 협의 가능",
+      "price": "1억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공11단지 1103동월세2,000/80아파트57/41m², 6/15층, 남동향특올수리, 중심사거리근접  교통 및 생활권최고편리, 붙박이장 에어컨옵션.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공11단지 1106동매매5억 4,000아파트69/49m², 13/15층, 남동향올수리 잘된집, 재건축준비단지, 교통상권편리, 동호수 좋음",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "주공11단지 1106동전세2억아파트57/41m², 13/15층, 남동향화장실 샷시 수리되었습니다.  로얄동 로얄층입니다.",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:19.697Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1624_20250718_012923.png"
+  }
+}

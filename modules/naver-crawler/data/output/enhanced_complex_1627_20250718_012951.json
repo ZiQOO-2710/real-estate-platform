@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:29:51.315818",
+    "complex_id": "1627"
+  },
+  "basic_info": {
+    "complex_id": "1627",
+    "source_url": "https://new.land.naver.com/complexes/1627",
+    "extracted_at": "2025-07-18T01:29:47.868357",
+    "url": "https://new.land.naver.com/complexes/1627?ms=37.465764,126.874286,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:29:45.003Z",
+    "complexId": "1627"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 105동매매3억 5,000아파트52B/36m², 12/15층, 남동향정상입주가능 로얄동 로얄층 깨끗합니다",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "주공1단지 103동매매5억아파트73/49m², 10/15층, 남동향특올수리,정비구역지정동의서징수중조합예정,숲세권",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "주공1단지 104동매매3억 4,000아파트52A/36m², 6/15층, 남동향깔끔. 재건축진행중 용적률상향. 숲세권 공기좋음. 철산역 이용편리",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 109동매매4억 6,000아파트69/49m², 1/15층, 남향20 .  최 고 .  전체 특올수리 .  입주 또는 3.2억 세안고 .",
+      "price": "4억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "주공1단지 111동전세2억아파트73/49m², 12/15층, 남향예전올수리샸시 전체됨입주일 협의가능,숲세권",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "주공1단지 112동전세2억 1,000아파트60/41m², 15/15층, 남동향N형,올수리,공가,숲세권",
+      "price": "2억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "주공1단지 108동전세1억 7,000아파트57/41m², 6/15층, 남향올수리,교통편리,상권인접,철망산,도서관등 이용편리",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공1단지 102동매매3억 5,000아파트52B/36m², 13/15층, 남동향올수리깔끔.트인뷰.재건축진행중 용적률상향.숲세권 공기좋음.철산역 이용편리",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공1단지 106동전세2억 2,000아파트60/41m², 1/15층, 남동향즉시입주가능,인기구조N형,특올수리,풀옵션,교통편리한 최상단지",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "주공1단지 110동전세2억아파트57/41m², 10/15층, 남향전망확트인뷰,교통편리하며,공원산책로좋은 최상로얄동,층,강추합니다",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공1단지 109동매매5억아파트69/49m², 4/15층, 남동향정남향 햇볕 잘듦. 숲세권 공기좋음. 철망산,공원,도서관인접. 철산역이용",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공1단지 109동매매3억 8,000아파트57/41m², 12/15층, 남향정남향. 주인거주. 정상. 재건축추진중",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공1단지 106동매매4억아파트60/41m², 1/15층, 남동향2베이,재건축이슈,숲세권,조합방식예정",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공1단지 113동매매5억 5,000아파트73/49m², 4/15층, 남동향오래전올수리",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공1단지 113동매매4억아파트60/41m², 6/15층, 남동향예전올수리됨.입주가능",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.884Z"
+    },
+    {
+      "index": 54,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인주공1단지 105동매매3억 5,000아파트52B/36m², 12/15층, 남동향정상입주가능 로얄동 로얄층 깨끗합니다매경부동산 제공송문섭공인중개사사무소확인매물 25.07.15.주공1단지 103동매매5억아파트73/49m², 10/15층, 남동향특올수리,정비구역지정동의서징수중조합예정,숲세권부동산렛츠 제공광명공인중개사사무소확인매물 25.07.17.주공1단지 104동매매3억 4,000아파트52A/36m², 6/15층, 남동향깔끔. 재건축진행중 용적률상향. 숲세권 공기좋음. 철산역 이용편리부동산렛츠 제공양지부동산공인중개사사무소확인매물 2",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:47.885Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1627_20250718_012951.png"
+  }
+}

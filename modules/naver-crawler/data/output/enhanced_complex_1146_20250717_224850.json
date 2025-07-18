@@ -1,0 +1,68 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:48:50.636794",
+    "complex_id": "1146"
+  },
+  "basic_info": {
+    "complex_id": "1146",
+    "source_url": "https://new.land.naver.com/complexes/1146",
+    "extracted_at": "2025-07-17T22:48:45.188671",
+    "url": "https://new.land.naver.com/complexes/1146?ms=37.544455,126.944848,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:48:44.094Z",
+    "complexId": "1146"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대흥세양 101동매매14억 9,000아파트113A/84m², 8/18층, 남동향최근특올수리확장,천정에어컨,염리초,마포역 공덕역 도보,학원가,입주",
+      "price": "14억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:45.201Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대흥세양 101동전세8억아파트113A/84m², 중/18층, 남동향올수리,염리초,마포역 공덕역 도보거리,경의숲길공원",
+      "price": "8억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:48:45.201Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대흥세양 101동매매13억 8,000아파트113A/84m², 중/18층, 남동향염리초,마포역 공덕역 도보,경의숲길공원,대형학원가",
+      "price": "13억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:45.201Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "대흥세양 101동매매14억 9,000아파트113A/84m², 8/18층, 남서향특올수리,거실확장,폴딩도어,시스템에어컨,염리초,학원가,초역세권",
+      "price": "14억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:45.201Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 4,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1146_20250717_224850.png"
+  }
+}

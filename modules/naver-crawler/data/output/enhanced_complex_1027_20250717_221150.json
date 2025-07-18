@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:11:50.514010",
+    "complex_id": "1027"
+  },
+  "basic_info": {
+    "complex_id": "1027",
+    "source_url": "https://new.land.naver.com/complexes/1027",
+    "extracted_at": "2025-07-17T22:11:46.877362",
+    "url": "https://new.land.naver.com/complexes/1027?ms=37.573013,126.819683,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:11:45.485Z",
+    "complexId": "1027"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 201동매매8억 5,000아파트106/84m², 8/15층, 남향신방화역10분이내 남향 지하주차장연결  근리공원인근에 있어요",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 204동매매6억아파트82/59m², 11/15층, 동향수리깨끗해요 전망굿 세안고 신방화역10분거리",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 203동매매9억 5,000아파트106/84m², 4/15층, 남향정남향, 3년전 올수리, 작은방1개확장, 입주정상",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 201동매매8억 5,000아파트106/84m², 13/15층, 남향수리해서 상태 매우깨끗, 입주정상, 남향, 9호선급행,공항철도이용편리",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 203동매매11억아파트138/114m², 8/15층, 남향샷시포함 올수리,남향,주인거주",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 201동매매9억아파트106/84m², 9/15층, 남향남향 조망굿 마곡나루역 공항철도 도보이용가능 급매 입주 협의가능",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.889Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 201동매매8억아파트106/84m², 2/15층, 남향급매 주인거주 입주협의 남향 부분수리",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 204동월세5,000/165아파트82/59m², 10/15층, 동향1억140가능 샷시포함 올수리 융무 빠를수록",
+      "price": "1억140",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 204동매매7억아파트97/70m², 1/15층, 동향마곡지구옆  아이들있는분 굿 신방화역10분거리",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 203동매매11억아파트138/114m², 11/15층, 남향올수리샷시제외 주인거주라 상태좋음, 남향, 교통편리",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 203동매매8억 2,000아파트106/84m², 15/15층, 남향남향 뻥뷰 세안고",
+      "price": "8억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인마곡현대 204동매매6억 2,000아파트82/59m², 4/15층, 동향샷시포함 화이트톤 올수리, 채광잘됨, 보면 마음에 쏙 드는집",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.890Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1027_20250717_221150.png"
+  }
+}

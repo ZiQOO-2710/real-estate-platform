@@ -34,7 +34,12 @@
       "Bash(timeout:*)",
       "Bash(git add:*)",
       "Bash(del nul)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(git clone:*)",
+      "Bash(pip3 install:*)",
+      "mcp__ide__executeCode",
+      "Bash(echo:*)",
+      "Bash(git checkout:*)"
     ],
     "deny": []
   }

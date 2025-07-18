@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:59:20.402769",
+    "complex_id": "153"
+  },
+  "basic_info": {
+    "complex_id": "153",
+    "source_url": "https://new.land.naver.com/complexes/153",
+    "extracted_at": "2025-07-18T00:59:15.568756",
+    "url": "https://new.land.naver.com/complexes/153?ms=37.512454,126.885496,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:59:14.143Z",
+    "complexId": "153"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인우성2차 201동전세5억아파트101A/84m², 3/15층, 남향3억100만원가능 빠른입주도 일부수리예정입니다",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인우성2차 203동매매10억 7,000아파트101A/84m², 11/15층, 남동향샷시포함 올수리 된집, 초중고 인접,신도림 역세권단지, 리모델링 추진단지",
+      "price": "10억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인우성2차 202동매매10억아파트101A/84m², 4/15층, 남동향최신올수리 3억75유 2026년2월만기",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인우성2차 203동매매10억아파트101A/84m², 8/15층, 남동향신도림역세권으로 리모델링진행중으로 호재가득함 입주가능함",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인우성2차 203동매매9억 7,000아파트101A/84m², 15/15층, 남동향샷시포함완전올수리.햇빛통풍좋은남향.임대차 승계조건.가격조정가능",
+      "price": "9억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인우성2차 201동매매11억아파트101A/84m², 8/15층, 남서향내부 올수리, 샷시교체,  깨끗함. 초중고 인접.  리모델링 추진단지.",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인우성2차 202동매매9억 6,000아파트101A/84m², 15/15층, 남서향세안고, 샷시포함 올수리 . 리모델링 추진단지, 개발호재, 초중고 인접",
+      "price": "9억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인우성2차 203동매매9억 8,000아파트101A/84m², 10/15층, 남동향샷시포함 올수리,폴딩도어설치,작은방 확장, 세안고,서울시리모델링 추진단지",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "우성2차 202동매매9억아파트101A/84m², 1/15층, 남서향서울형 리모델링 시범단지 선정되어  진행중  주인거주 입주가능",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "우성2차 201동매매9억아파트101A/84m², 저/15층, 남동향조정가 세안고 초중고 인접동 신도림역 도림천역 이용편리해요",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:15.576Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_153_20250718_005920.png"
+  }
+}

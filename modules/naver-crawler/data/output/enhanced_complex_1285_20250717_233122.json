@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:31:22.314473",
+    "complex_id": "1285"
+  },
+  "basic_info": {
+    "complex_id": "1285",
+    "source_url": "https://new.land.naver.com/complexes/1285",
+    "extracted_at": "2025-07-17T23:31:18.357853",
+    "url": "https://new.land.naver.com/complexes/1285?ms=37.498528,127.019039,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:31:17.333Z",
+    "complexId": "1285"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 108동전세13억 5,000아파트146A/111m², 19/26층, 남향44p, 소유주 직접 내부 특 올수리 고층 남향 채광 좋아요 입주협",
+      "price": "13억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 106동전세13억아파트146A/111m², 고/27층, 동향관리매물 비확장  A급으로 관리된 깨끗한 집  9월2일 입주",
+      "price": "13억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 105동전세11억 5,000아파트112B/84m², 고/27층, 동향",
+      "price": "11억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 110동매매37억아파트165A/126m², 중/20층, 남향50 로얄동 로얄층 확장특올수리",
+      "price": "37억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 101동단기임대1억/300아파트112B/84m², 저/27층, 남향명성직접진행.34.확장올수리.단기임대4개월가능.에어컨유",
+      "price": "1억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 110동전세16억아파트165A/126m², 저/20층, 남향50,천지단독,남향,특올수리,장기거주가능",
+      "price": "16억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 106동월세11억/130아파트146A/111m², 저/27층, 동향원목톤,관리깨끗,입주협의,장기거주가능",
+      "price": "11억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "서초래미안 109동매매35억아파트165A/126m², 4/24층, 남향50,주인직접,남향,확장,관리깨끗,입주가능",
+      "price": "35억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 108동전세13억 5,000아파트146A/111m², 고/26층, 남향융자무 전망굿 남향  교육환경우수 입주8월중순이후",
+      "price": "13억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인서초래미안 113동월세9억/100아파트112B/84m², 8/16층, 남동향9월말이후 입주가능 .올확장.깔끔. 조용한 로얄동",
+      "price": "9억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:31:18.372Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체112B㎡113A㎡129㎡146A㎡146B㎡165A㎡167B㎡",
+      "price": null,
+      "area": "129㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:31:18.373Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1285_20250717_233122.png"
+  }
+}

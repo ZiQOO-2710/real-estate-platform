@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:16:03.431622",
+    "complex_id": "1585"
+  },
+  "basic_info": {
+    "complex_id": "1585",
+    "source_url": "https://new.land.naver.com/complexes/1585",
+    "extracted_at": "2025-07-18T01:15:59.341889",
+    "url": "https://new.land.naver.com/complexes/1585?ms=37.437207,126.998086,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:15:56.585Z",
+    "complexId": "1585"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공9단지 902동매매19억재건축53/47m², 4/5층, 남서향관리처분인가된 아파트,위치좋고 교통편리한 인기 단지,선호높은74B타입입주",
+      "price": "19억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.355Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "주공9단지 907동매매26억재건축88/82m², 4/5층, 남서향84A타입배정 이주비 89,800만원신청 추가분담금 5천만원예정 이주완료",
+      "price": "26억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.356Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.357Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억1,851만주공9단지매매19억19억~27억면적53㎡53.61㎡ ~ 88.43㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억1",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.357Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "9,286만주공8단지매매25억24억~27억면적89㎡89.45㎡ ~ 101.93㎡매매매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억24",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.357Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "6,369만래미안에코팰리스매매21억19억~35억전세-11억~13.7억면적109㎡83.72㎡ ~ 156.95㎡매매매물만 보기31개 매물이 있습니다.전세매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "21억19",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:15:59.357Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1585_20250718_011603.png"
+  }
+}

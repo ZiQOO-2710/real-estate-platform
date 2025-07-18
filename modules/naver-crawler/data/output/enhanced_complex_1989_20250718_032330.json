@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:23:30.874430",
+    "complex_id": "1989"
+  },
+  "basic_info": {
+    "complex_id": "1989",
+    "source_url": "https://new.land.naver.com/complexes/1989",
+    "extracted_at": "2025-07-18T03:23:27.433417",
+    "url": "https://new.land.naver.com/complexes/1989?ms=37.398298,126.942112,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:23:24.545Z",
+    "complexId": "1989"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미륭 1동월세500/40재건축94B/87m², 9/12층, 남향81이후 , 수리되어 상태 깨끗함.",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미륭 6동매매5억재건축111C/103m², 12/12층, 남향재건축74a신청",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미륭 5동매매4억 5,000재건축92B/85m², 2/12층, 남향59B확정 , 특올수리된집, 재건축진행중으로 예정역세권",
+      "price": "4억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미륭 1동매매4억 2,000재건축94B/87m², 10/12층, 남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인미륭 5동매매4억 2,000재건축92B/85m², 11/12층, 남향51a타입, 재건축이주 확정",
+      "price": "4억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인미륭 6동매매5억재건축111C/103m², 6/12층, 남향주인거주중,59b 신청,월판선수혜지역,이주예정",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인미륭 2동매매4억 3,000재건축89A/82m², 7/12층, 동향59B 확정 전세안고나 입주도 가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인미륭 3동매매5억재건축113D/104m², 3/12층, 남향59a,입주 또는 세안고투자,월판선호재지역",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인미륭 3동매매5억재건축115/107m², 저/12층, 남향59A형신청  추분25400만원정 전세25000안 세안고",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인미륭 2동단기임대1,000/40재건축111C/103m², 8/12층, 남향6개월이내  단기",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인미륭 2동매매5억재건축111C/103m², 7/12층, 남향59A 확정 이주임박 월판선수혜지 추천드려요",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "미륭 6동매매5억재건축115/107m², 3/12층, 남향74형신청 주인거주물건 이주임박  월판선수혜",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인미륭 6동매매5억재건축111C/103m², 중/12층, 남향59b형  확정  월판선  운동장역근접",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인미륭 6동매매5억재건축89A/82m², 고/12층, 동향59B형 신청함",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인미륭 7동매매5억 6,000재건축111A/102m², 저/12층, 남향74형확정",
+      "price": "5억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:23:27.447Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체89A㎡90B㎡92B㎡92A㎡92D㎡94B㎡94C㎡94A㎡111C㎡111A㎡111E㎡113D㎡113E㎡113B㎡113F㎡115㎡",
+      "price": null,
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:23:27.448Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1989_20250718_032330.png"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:11:51.111011",
+    "complex_id": "1026"
+  },
+  "basic_info": {
+    "complex_id": "1026",
+    "source_url": "https://new.land.naver.com/complexes/1026",
+    "extracted_at": "2025-07-17T22:11:46.372687",
+    "url": "https://new.land.naver.com/complexes/1026?ms=37.572948,126.821371,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:11:44.391Z",
+    "complexId": "1026"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 101동매매6억 8,500아파트77/59m², 10/15층, 남향남향,거실확장등 상태 깨끗하고 입주협의",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 103동매매7억 5,000아파트77/59m², 8/15층, 남향남향, 거실확장.샤시까지 특올수리된상태임. 주인거주라 이사협의가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 102동매매7억 2,000아파트105/84m², 1/15층, 남향17년도에 샤시빼고 올수리된 상태 ,세만기25년10월19일",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 103동매매7억아파트77/59m², 13/15층, 남향남향 세안고 특올수리",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 102동매매7억 5,000아파트105/84m², 2/15층, 남향남향 채광좋아요 세안고 실수요자환영 마곡나루역이용가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 103동매매7억아파트77/59m², 1/15층, 남향주인거주,남향,일부수리화장실,주방,신발장",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.382Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 103동매매7억 3,000아파트77/59m², 11/15층, 동향세안고매매 동향 금액조정가 9호선 급행 마곡나루. 공항철도 이용편리",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.383Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 103동매매7억아파트77/59m², 7/15층, 남향남향,보증금 37,500만원 세안고,26년 3월30일 만기",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.383Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인마곡청구 101동매매6억 8,500아파트77/59m², 중/15층, 남향남향 로얄층 계단식 지하2층까지주차장연결주인거주 입주가 비번보유",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:11:46.383Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1026_20250717_221150.png"
+  }
+}

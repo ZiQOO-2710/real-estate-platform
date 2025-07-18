@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:15:57.229111",
+    "complex_id": "1964"
+  },
+  "basic_info": {
+    "complex_id": "1964",
+    "source_url": "https://new.land.naver.com/complexes/1964",
+    "extracted_at": "2025-07-18T03:15:54.043739",
+    "url": "https://new.land.naver.com/complexes/1964?ms=37.33044,126.84633,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:15:51.207Z",
+    "complexId": "1964"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공3단지 309동매매4억 3,000아파트71/59m², 4/5층, 남향수리하여 깨끗함,  이사협의",
+      "price": "4억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공3단지 309동매매4억 2,000아파트71/59m², 4/5층, 남서향공실  저렴한가격  성포역신안산선 2027년 개통예정인근",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공3단지 309동매매4억 2,000아파트71/59m², 4/5층, 남동향신안산선인접. 공실. 이사협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "주공3단지 310동매매4억 6,000아파트71/59m², 2/5층, 남동향컨디션 양호 성포역 인접 지분 많음 세안고 투자 강추",
+      "price": "4억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "주공3단지 307동매매4억 8,000아파트71/59m², 3/5층, 남서향깔끔 올수리 빠른이사 환영",
+      "price": "4억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "주공3단지 324동매매3억 4,000아파트49/39m², 1/5층, 남서향부분 수리 집상태 깨끗 세안고 투자강추및 입주 협의가",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인주공3단지 316동매매4억 3,000아파트71/59m², 5/5층, 남서향공실 내부일부수리됨 빠른입주가능해요",
+      "price": "4억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "주공3단지 320동월세3,000/55아파트61/49m², 2/5층, 남서향공실, 올수리화장실,도배,장판,페인트 해드려요.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공3단지 320동매매3억 3,000아파트49/39m², 1/5층, 남서향샷시외수리됨",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공3단지 310동월세2,000/70아파트71/59m², 5/5층, 남동향빠른 입주도 가능합니다.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:15:54.055Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공3단지 307동매매5억아파트71/59m², 2/5층, 남서향전세 안고 매매입니다. 수리된 집입니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:54.056Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공3단지 301동전세1억 6,000아파트71/59m², 5/5층, 남서향공실,  앞뒤통베란다, 주차좋고 구조좋고, 밝아요.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:15:54.056Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공3단지 321동월세1,000/50아파트49/39m², 3/5층, 남서향상태양호 , 주차편리,앞뒤통베란다 구조 좋아요.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:15:54.056Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1964_20250718_031557.png"
+  }
+}

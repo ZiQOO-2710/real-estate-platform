@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:38:23.293837",
+    "complex_id": "185"
+  },
+  "basic_info": {
+    "complex_id": "185",
+    "source_url": "https://new.land.naver.com/complexes/185",
+    "extracted_at": "2025-07-18T02:38:18.190906",
+    "url": "https://new.land.naver.com/complexes/185?ms=37.497948,127.071001,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:38:16.463Z",
+    "complexId": "185"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대치쌍용1차 3동월세4억/180재건축102/96m², 15/15층, 남향수리잘된 깨끗한 집,전망 굿,보증금조정가능",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대치쌍용1차 1동전세12억재건축150/141m², 9/15층, 남향 올 수리함.반전세 5억에 월 160만도가능, 이사협의 가능합니다.특A급",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대치쌍용1차 6동전세9억재건축102/96m², 저/15층, 남향초역세권으로 교통이 편리하고 양재천운동하시기 좋은 동입니다.",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "대치쌍용1차 6동월세5억/140재건축102/96m², 11/15층, 남향학여울전철역 바로 앞동으로 교통이 편리하고 양재천운동하기 좋은 동입니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "대치쌍용1차 5동전세10억 5,000재건축150/141m², 10/15층, 남향전망좋은집,확장된 깨끗한 집,입주협의 9월중순",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인대치쌍용1차 3동매매38억재건축102/96m², 저/15층, 남향즉시입주가능, 특올수리",
+      "price": "38억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인대치쌍용1차 6동전세10억재건축102/96m², 3/15층, 남향휘문대명학군 수리해줌 입주협의",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:38:18.205Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_185_20250718_023823.png"
+  }
+}

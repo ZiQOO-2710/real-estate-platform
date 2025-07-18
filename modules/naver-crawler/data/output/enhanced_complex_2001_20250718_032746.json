@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:27:46.477401",
+    "complex_id": "2001"
+  },
+  "basic_info": {
+    "complex_id": "2001",
+    "source_url": "https://new.land.naver.com/complexes/2001",
+    "extracted_at": "2025-07-18T03:27:43.263910",
+    "url": "https://new.land.naver.com/complexes/2001?ms=37.41586,126.909455,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:27:41.921Z",
+    "complexId": "2001"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무림 3동매매4억아파트71/56m², 6/6층, 남동향샷시포함 올수리된 집으로 깨끗합니다",
+      "price": "4억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무림 5동매매4억 3,500아파트89/71m², 6/6층, 남향수리굿, 예쁜집.채광좋음,기운이좋은집.관악역6분거리",
+      "price": "4억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무림 3동월세3,000/70아파트71/56m², 2/6층, 남향ss2층가성비굿아파트ss 내부깔끔 관악역세권",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "무림 1동월세3,000/60아파트71/56m², 5/6층, 남동향전체적으로 수리하여 잘 관리하며 사신 집",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "무림 1동매매3억 6,500아파트71/56m², 1/6층, 남향입주물,협의가능,1.5층저층투자물,월판선호재및관악역도보5분",
+      "price": "3억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인무림 3동매매4억아파트71/56m², 2/6층, 남향관악역 도보5분 올수리 남향으로 볕이 잘듬 세안고 투자",
+      "price": "4억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인무림 3동매매3억 8,000아파트71/56m², 6/6층, 남향관악역5분 만안역 예정지 5분거리 더블역세권 예상 가치투자",
+      "price": "3억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인무림 5동매매4억 3,500아파트89/71m², 6/6층, 남동향4년전 올수리 한집  남동향으로 채광이 좋음",
+      "price": "4억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "무림 3동월세3,000/70아파트71/56m², 2/6층, 남동향내부 깨끗한 저층 아파트 월세",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "무림 5동매매4억 5,000아파트89/71m², 2/6층, 남동향42년차 역세권 저층 아파트 입주물",
+      "price": "4억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "무림 3동매매3억 8,000아파트71/56m², 2/6층, 남동향매물 상태 깨끗, 세안고 매매,관악역 도보 5분",
+      "price": "3억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "무림 2동매매3억 7,000아파트71/56m², 5/6층, 남향관악역도보5분, 남향으로 햇빛밝은집, 주인거주로상태깨끗",
+      "price": "3억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:43.279Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2001_20250718_032746.png"
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:03:13.257603",
+    "complex_id": "1735"
+  },
+  "basic_info": {
+    "complex_id": "1735",
+    "source_url": "https://new.land.naver.com/complexes/1735",
+    "extracted_at": "2025-07-18T02:03:10.603728",
+    "url": "https://new.land.naver.com/complexes/1735?ms=37.43885,127.12444,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:03:09.570Z",
+    "complexId": "1735"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼부 108동매매11억아파트158/134m², 5/15층, 남향기본형",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼부 102동전세4억 3,000아파트82/59m², 중/15층, 남향태평역5분 남향 로얄층 상태깔끔 생활편리한단지",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼부 105동매매9억 8,000아파트107/84m², 저/15층, 남향세안고 , 특올수리 깨끗합니다.",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼부 105동매매10억아파트107/84m², 12/15층, 남향특올수리, 태평역  도보 5분,남향",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "삼부 109동매매12억아파트158/134m², 6/15층, 남향태평역 도보5분, 전망 굿, 올수리 확장, 전망굿",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "삼부 106동매매9억 9,000아파트107/84m², 12/15층, 남향올수리되어 있고 전망 좋은 아파트 입니다",
+      "price": "9억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼부 106동매매12억아파트158/134m², 고/15층, 남향올리모델,실입주매매,전망최고입니다.",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼부 102동매매7억 2,000아파트82/59m², 3/15층, 남향남향 올리모델링 입주가능 깔끔",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "삼부 105동매매9억아파트107/84m², 2/15층, 남향올리모데링 깔끔 현재 보증금 5억 있음  전세끼고 매수가능",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "삼부 106동전세6억아파트158/134m², 저/15층, 남향",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:03:10.616Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "삼부 104동매매9억 8,000아파트107/84m², 8/15층, 남향태평역5분거리 입주가능한 아파트 매매",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "삼부 106동매매10억아파트158/134m², 1/15층, 남향실입주가능,태평역 단지형",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "삼부 109동매매12억아파트158/134m², 중/15층, 남향전망쨩",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "삼부 108동매매10억아파트158/134m², 저/15층, 북향",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "삼부 108동매매11억아파트158/134m², 8/15층, 남향남향  입주가능 햇빛짱  태평역세권 평지 교통좋고 살기좋아요",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "삼부 106동매매11억아파트158/134m², 5/15층, 남향깔금 입주가능 남향  태평역세권 방4 화장실2   태평공원 수진공원 탄천",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.617Z"
+    },
+    {
+      "index": 105,
+      "selector": "[class*=\"item\"]",
+      "text": "삼부 108동매매11억아파트158/134m², 중/15층, 남향텐컴즈 제공유명공인중개사사무소확인매물 25.07.14.",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:03:10.618Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1735_20250718_020313.png"
+  }
+}

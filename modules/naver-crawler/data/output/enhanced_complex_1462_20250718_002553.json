@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:25:53.594756",
+    "complex_id": "1462"
+  },
+  "basic_info": {
+    "complex_id": "1462",
+    "source_url": "https://new.land.naver.com/complexes/1462",
+    "extracted_at": "2025-07-18T00:25:47.586088",
+    "url": "https://new.land.naver.com/complexes/1462?ms=37.399462,126.958529,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:25:44.599Z",
+    "complexId": "1462"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인공작성일 204동매매7억 6,000아파트96/79m², 5/15층, 동향l추천매매l입주물l샷시포함특올수리l잔금일협의가능",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.600Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인공작성일 204동매매7억 6,000아파트96/79m², 5/15층, 남서향특올수리 입주 전자계약가능",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인공작성일 207동매매3억 2,500아파트55/39m², 1/15층, 남서향입주물.내부완전한올수리.평촌역도보10분",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인공작성일 201동매매3억 4,000아파트55/39m², 10/10층, 동향입주물 조망권좋고 수리깨끗",
+      "price": "3억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인공작성일 204동매매7억 5,000아파트96/79m², 3/15층, 남서향입주물. 수리깨끗. 입주일협의가능.",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인공작성일 203동매매6억아파트76/59m², 저/15층, 남향l추천매매l입주물l귀한 계단식l샷시포함올수리",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인공작성일 205동매매7억 8,000아파트96/79m², 중/15층, 남향l입주물l샷시포함올수리l남향l잔금일 협의가능",
+      "price": "7억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인공작성일 205동매매7억 5,000아파트96/79m², 저/15층, 남동향귀한 입주물, 아이들 키우는 세대 강추",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인공작성일 201동매매3억 6,000아파트55/39m², 9/10층, 동향올수리,세안고,조용한 동",
+      "price": "3억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인공작성일 201동매매3억 5,000아파트55/39m², 중/10층, 동향샤시포함 올수리된 입주매물임",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인공작성일 207동매매3억 5,500아파트55/39m², 중/15층, 서향세안고가능.수리되어깨끗.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인공작성일 201동매매3억 7,000아파트55/39m², 8/10층, 동향최근 샷시포함 특올수리 앞조망 트인 동 입주물",
+      "price": "3억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인공작성일 204동매매7억 2,000아파트96/79m², 1/15층, 동향갭투자물,초중고인접",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:25:47.601Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1462_20250718_002553.png"
+  }
+}

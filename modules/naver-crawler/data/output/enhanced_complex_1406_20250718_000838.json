@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:08:38.237041",
+    "complex_id": "1406"
+  },
+  "basic_info": {
+    "complex_id": "1406",
+    "source_url": "https://new.land.naver.com/complexes/1406",
+    "extracted_at": "2025-07-18T00:08:35.078988",
+    "url": "https://new.land.naver.com/complexes/1406?ms=37.495408,126.749718,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:08:33.030Z",
+    "complexId": "1406"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1508동매매5억 3,000아파트104/84m², 7/15층, 남향부분수리, 내부상태 깨끗합니다. 빠른입주 가능, 수리기간 제공.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1512동매매5억아파트103/84m², 1/15층, 남향중문.내부샷시포함 올수리, 남향,트인뷰로 해 잘드는 초품아,전용화단있어요",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1511동매매5억 4,000아파트103/84m², 9/25층, 남향이사협의 주인분거주 송내역이용 초품아로얄동",
+      "price": "5억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1512동매매5억 4,000아파트103/84m², 6/15층, 남향작은방확장샤시일부수리",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1509동매매5억 3,000아파트104/84m², 14/25층, 남향전망최고 최고동 사이드아님 한아름단지최고물건수리날짜가능",
+      "price": "5억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1512동매매5억 3,500아파트103/84m², 11/15층, 남향올샤시올수리전세35000 승계조건임 261월만기",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1504동매매5억 5,000아파트104/84m², 10/20층, 남향일부수리 정상입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1515동매매4억 9,000아파트92/77m², 5/15층, 남향특올수리 올샤시수리욕살2개 조정가 귀힌물건",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1502동매매4억 9,500아파트90/75m², 3/15층, 남향역 인접 전체 수리 되어 입주만 하시면 되는 집입니다",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1510동매매5억 4,000아파트104/84m², 15/25층, 남향세안고, 샷시포함 특올수리  27년2월",
+      "price": "5억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1511동매매5억 6,000아파트103/84m², 18/25층, 남향리모델링추진단지 조망권과 채광좋은 위치로 내부수리 깔끔합니다",
+      "price": "5억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1511동매매5억 2,000아파트103/84m², 2/25층, 남향특올수리거실확장 방확장올샤시  너무 예쁘집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1502동매매4억 9,500아파트90/75m², 11/15층, 남향기본,주인거주,빠른입주가능함",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1503동매매3억 6,000아파트77/59m², 2/14층, 동향올샷시포함 화이트 특올수리 입주가능,관리까지 아주 잘된 집",
+      "price": "3억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1505동매매5억 5,000아파트104/84m², 3/20층, 남향내부특올수리 깔끔하게 관리 잘 된 상태로 입주날짜 협의 가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인한아름라이프,현대 1515동매매4억 7,500아파트92/77m², 12/15층, 남향초품아,샤시교체된 정남향의 깨끗하게 관리잘 된 올수리된 집입니다",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:08:35.091Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1406_20250718_000838.png"
+  }
+}

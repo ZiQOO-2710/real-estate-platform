@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:27:20.994795",
+    "complex_id": "200"
+  },
+  "basic_info": {
+    "complex_id": "200",
+    "source_url": "https://new.land.naver.com/complexes/200",
+    "extracted_at": "2025-07-18T03:27:16.753218",
+    "url": "https://new.land.naver.com/complexes/200?ms=37.66945,127.058303,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:27:15.623Z",
+    "complexId": "200"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,410만상계우방매매7.8억6.2억~7.8억면적107㎡76.09㎡ ~ 107.84㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억6",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,046만대창센시티매매6.5억6.2억~7억면적105㎡105.35㎡ ~ 105.35㎡매매매물만 보기17개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,039만상계주공13단지매매3.7억3.4억~5.1억전세1.9억1.9억~3.2억월세60만50만~85만면적60㎡58.76㎡ ~ 80.17㎡매매매물만 보기169개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.월세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,107만상계현대3차매매6.5억5.7억~7억전세3.8억3.5억~4.2억월세50만50만~1.3백면적102㎡102.4㎡ ~ 102.44㎡매매매물만 보기64개 매물이 있습니다.전세매물만 보기9개 매물이 있습니다.월세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,716만상계중앙하이츠5차매매4.1억4억~5.6억전세-4억면적79㎡79.99㎡ ~ 105.24㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억4",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,016만상계주공16단지매매5억3.6억~7.5억전세3억1.9억~4.5억월세1백60만~1.5백면적82㎡63.68㎡ ~ 105.54㎡매매매물만 보기171개 매물이 있습니다.전세매물만 보기14개 매물이 있습니다.월세매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,494만대동매매7.5억7.2억~7.5억면적166㎡166.09㎡ ~ 166.09㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억7",
+      "area": "166㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,318만희락매매5.5억3.65억~5.95억전세3.5억3.5억면적138㎡97.59㎡ ~ 138.72㎡매매매물만 보기6개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "138㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:27:16.757Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_200_20250718_032720.png"
+  }
+}

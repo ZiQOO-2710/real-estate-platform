@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:18:01.773527",
+    "complex_id": "1046"
+  },
+  "basic_info": {
+    "complex_id": "1046",
+    "source_url": "https://new.land.naver.com/complexes/1046",
+    "extracted_at": "2025-07-17T22:17:57.200951",
+    "url": "https://new.land.naver.com/complexes/1046?ms=37.490735,126.924888,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:17:54.725Z",
+    "complexId": "1046"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매16억 5,000아파트222B/170m², 27/36층, 남향／67 세안고O／올인테리어.살림편한.NICE트인뷰.큰방5.공동O.공원",
+      "price": "16억 5",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.212Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매16억 5,000아파트222B/170m², 27/36층, 남서향특추 특올수리 로얄층 뻥뷰 백화점연결된 주복아파트 보라매공원근처",
+      "price": "16억 5",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.212Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매15억아파트217/166m², 18/36층, 남향강추66,햇살가득,오픈마운틴뷰,생활.층간소음無.공동환영,5룸,공원2분",
+      "price": "15억",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.212Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매14억 8,000아파트217/166m², 27/36층, 남향／65현재최저가O／빠른선점O.관악산영구뷰.살림편한구조.큰방5.공동O",
+      "price": "14억 8",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.212Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매15억아파트217/166m², 26/36층, 남향l 66 깔끔한수리O l 관악산영구뷰.큰방5.공동O.백화점연결.편리한생활",
+      "price": "15억",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.213Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매16억아파트217/166m², 28/36층, 남향추천66,빠른입주可,오픈마운틴뷰,햇살.야경맛집,공동환영,5룸,공원앞",
+      "price": "16억",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.213Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매15억 8,000아파트222B/170m², 고/36층, 남향추천67,로열층,올리모델링,햇살가득.남향,오픈힐링뷰,공동환영,신림선2분",
+      "price": "15억 8",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.213Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인보라매롯데캐슬(주상복합) 1동매매18억아파트217/166m², 고/36층, 남향／66／로얄층.깔끔한올수리.넓은방5.관악산영구전망.편리한생활권.신림선",
+      "price": "18억",
+      "area": null,
+      "floor": "36층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:57.213Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1046_20250717_221801.png"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:26:18.360197",
+    "complex_id": "1464"
+  },
+  "basic_info": {
+    "complex_id": "1464",
+    "source_url": "https://new.land.naver.com/complexes/1464",
+    "extracted_at": "2025-07-18T00:26:13.511766",
+    "url": "https://new.land.naver.com/complexes/1464?ms=37.397312,126.95691,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:26:11.778Z",
+    "complexId": "1464"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 404동매매6억 2,000아파트80/59m², 8/15층, 동향깨끗함. 층수 좋음. 세안고",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.523Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 404동매매3억 6,000아파트57/42m², 2/15층, 남동향깨끗한 수리 입주협의가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 409동매매3억 3,000아파트52/38m², 16/23층, 남향0 입주가능 0 깨끗한집 0",
+      "price": "3억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 409동매매3억 3,000아파트52/38m², 12/23층, 남향세안고, 수리깨끗, 공원뷰로 전망좋음",
+      "price": "3억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 401동매매3억 7,000아파트59/45m², 7/15층, 남향세안고, 수리깨끗, 남향",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 407동매매6억 5,000아파트80/59m², 9/15층, 남향입주가능. 특올수리. 공원전망좋은 남향",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 403동매매3억 7,500아파트57/42m², 15/15층, 남동향깔끔한 입주물,  해잘들고 뻥뚫린 뷰, 전자계약",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 401동매매3억 8,000아파트57/42m², 13/15층, 남향주인세대샷시포함특올수리 입주가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 402동매매3억 5,000아파트49/38m², 15/15층, 남향추천 남향 내부올수리 세안고매매 탁트인 뷰",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 402동매매3억 5,000아파트49/38m², 13/15층, 남향수리깨끗. 조망권최고 입주협의가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 409동매매3억 3,500아파트52/38m², 8/23층, 동향올수리  거실뷰가 트여 햇볕 잘들어와요 세안고 투자",
+      "price": "3억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 401동매매4억아파트59/45m², 4/15층, 남향수리되어 깨끗함. 층수좋은 투자물",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 405동매매3억 8,000아파트57/42m², 11/15층, 남향올수리됨 세안고 가능 조망권최고",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 409동매매3억 6,000아파트52/38m², 10/23층, 동향수리  조망굿 햇볕 좋음  입주 전자 계약",
+      "price": "3억 6",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한가람신라 401동매매3억 8,000아파트57/42m², 13/15층, 남동향외부샷시포함올수리  햇볕잘들고 통풍 잘됨  전자 계약 가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    },
+    {
+      "index": 49,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한가람신라 404동매매6억 2,000아파트80/59m², 8/15층, 동향깨끗함. 층수 좋음. 세안고부동산뱅크 제공엘리트공인중개사사무소확인매물 25.07.17.집주인한가람신라 404동매매3억 6,000아파트57/42m², 2/15층, 남동향깨끗한 수리 입주협의가능텐컴즈 제공공작LG공인중개사사무소확인매물 25.07.17.집주인한가람신라 409동매매3억 3,000아파트52/38m², 16/23층, 남향0 입주가능 0 깨끗한집 0부동산뱅크 제공명성부동산공인중개사사무소확인매물 25.07.15.집주인한가람신라 409동매매3억 3,000",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:13.524Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1464_20250718_002618.png"
+  }
+}

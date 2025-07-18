@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:32:39.960266",
+    "complex_id": "1097"
+  },
+  "basic_info": {
+    "complex_id": "1097",
+    "source_url": "https://new.land.naver.com/complexes/1097",
+    "extracted_at": "2025-07-17T22:32:37.263336",
+    "url": "https://new.land.naver.com/complexes/1097?ms=37.6774,127.05714,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:32:34.350Z",
+    "complexId": "1097"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 104동매매5억 1,000아파트84/59m², 9/16층, 남향역세권2분.  남향.  조용하고 쾌적한단지. 집상태깨끗. 입주협의가능함",
+      "price": "5억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 104동매매4억 9,000아파트84/59m², 8/16층, 동향세안고매매,거실확장,수리깨끗,수락산전망,수락산역2분",
+      "price": "4억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 103동전세4억 2,000아파트109/84m², 1/7층, 남향수락산초역세권.남향.예전올수리.",
+      "price": "4억 2",
+      "area": null,
+      "floor": "7층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 101동매매7억 3,500아파트109/84m², 7/12층, 남향로얄동,층 햇살가득남향 역세권 생활교통인프라최상",
+      "price": "7억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 104동매매5억 1,000아파트84/59m², 14/16층, 동향초역세권 올수리 수락산전망특 교통생활입지조건잘갖춘아파트",
+      "price": "5억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 104동매매5억 5,000아파트84/59m², 1/16층, 동향최근샷시포함특올수리잘된집,아이들 키우기 좋아요.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 102동매매7억 1,000아파트109/84m², 4/18층, 남향초역세권 남향 주인거주 수리되어 깨끗 지하주차가능",
+      "price": "7억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 102동매매7억 1,000아파트109/84m², 4/18층, 남서향급매, 수락산역도보3분",
+      "price": "7억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인극동늘푸른 104동전세3억아파트84/59m², 1/16층, 동향융무 역2분 초역세권 아이키우기최상 지하주차가능",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:32:37.271Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1097_20250717_223239.png"
+  }
+}

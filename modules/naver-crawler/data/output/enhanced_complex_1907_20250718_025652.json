@@ -1,0 +1,238 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:56:52.911238",
+    "complex_id": "1907"
+  },
+  "basic_info": {
+    "complex_id": "1907",
+    "source_url": "https://new.land.naver.com/complexes/1907",
+    "extracted_at": "2025-07-18T02:56:49.681292",
+    "url": "https://new.land.naver.com/complexes/1907?ms=37.342127,126.739015,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:56:47.255Z",
+    "complexId": "1907"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인영남6차 605동매매3억 2,300아파트80B/59m², 9/10층, 남서향샷시전체최근특올수리 중문포함 입지 최상 욕실2개",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.694Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인영남6차 617동매매2억 6,000아파트75A/59m², 1/5층, 남동향전세 20,500 만기27328 올수리, 상태좋음",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인영남6차 606동매매3억 3,000아파트80B/59m², 3/10층, 남서향샷시 올확장 올수리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인영남6차 612동매매2억 6,500아파트75A/59m², 5/5층, 남동향외부샷시베란다페인트는최근수리 올수리되어 깨끗 욕실2개 전실있는 구조",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인영남6차 607동월세1,500/90아파트80B/59m², 8/10층, 남동향수리해드림 빠른입주가",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "영남6차 618동월세500/47아파트38/26m², 2/5층, 남동향원룸 수리됨 깨끗 빠른입주도가능",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "영남6차 612동매매3억 1,000아파트75A/59m², 2/5층, 남동향거실확장특올수리 외부샷시포함 첫입주 전실 화장실2있는구조 바로입주가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "영남6차 613동매매2억 9,000아파트75A/59m², 4/5층, 남동향전실 화장실2있는구조 완전올수리 협의이사",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "영남6차 611동월세1,000/85아파트75A/59m², 4/5층, 남동향거실확장올수리 화장실2있는구조 협의이사",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "영남6차 609동매매3억 2,000아파트80B/59m², 5/10층, 남서향남향  전망좋은동  전실 화장실2있는구조",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "영남6차 602동매매3억 2,000아파트80B/59m², 9/10층, 남서향남향 전실 화장실2있는구조 수리됨",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인영남6차 618동전세1억아파트38/26m², 5/5층, 남동향LH전세가능 올수리된집 아주깨끗",
+      "price": "1억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "영남6차 609동매매3억아파트80B/59m², 7/10층, 남서향전세안고 거실 방 확장 욕실2개구조  조정가",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "영남6차 609동매매3억 2,500아파트80B/59m², 6/10층, 남서향샷시포함 전체특올수리 거실,방 주방확장 문짝 문틀전체교체 중문설치 등",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "영남6차 613동월세2,000/80아파트75A/59m², 5/5층, 남동향전실 화장실2있는구조 거실확장수리됨  빠른입주가능",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "영남6차 605동매매3억 2,000아파트80B/59m², 10/10층, 남서향햇빛잘들고 조용한동 거실확장올수리 샷시포함 협의이사",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "영남6차 612동매매2억 8,000아파트75A/59m², 4/5층, 남동향전실 화장실2있는구조 전세안고",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인영남6차 620동월세1,000/90아파트75A/59m², 4/5층, 남동향올수리 방 주방 확장 욕실2개 전실 상권 초중교 인접",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "영남6차 619동전세9,000아파트38/26m², 5/5층, 남동향베란다넓고 큰방  전세대출가능 협의이사",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "영남6차 616동매매1억 3,000아파트38/26m², 1/5층, 남동향큰방원룸 부분수리 아주깨끗",
+      "price": "1억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    },
+    {
+      "index": 58,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인영남6차 605동매매3억 2,300아파트80B/59m², 9/10층, 남서향샷시전체최근특올수리 중문포함 입지 최상 욕실2개매경부동산 제공영남랜드 공인중개사사무소확인매물 25.07.14.집주인영남6차 617동매매2억 6,000아파트75A/59m², 1/5층, 남동향전세 20,500 만기27328 올수리, 상태좋음 부동산렛츠 제공유진부동산공인중개사사무소확인매물 25.07.11.집주인영남6차 606동매매3억 3,000아파트80B/59m², 3/10층, 남서향샷시 올확장 올수리매경부동산 제공유천 공인중개사사무소확인매물 25.07.08",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:49.695Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 21,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1907_20250718_025652.png"
+  }
+}

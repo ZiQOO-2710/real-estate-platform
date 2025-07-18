@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:34:57.376031",
+    "complex_id": "1298"
+  },
+  "basic_info": {
+    "complex_id": "1298",
+    "source_url": "https://new.land.naver.com/complexes/1298",
+    "extracted_at": "2025-07-17T23:34:53.368314",
+    "url": "https://new.land.naver.com/complexes/1298?ms=37.487788,127.068006,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:34:52.153Z",
+    "complexId": "1298"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "개포주공5단지 502동매매39억재건축103/74m², 10/14층, 남동향41 배정, 시공사선정 및 평형신청 완료, 관리처분인가 준비중",
+      "price": "39억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "개포주공5단지 503동매매38억재건축116/83m², 5/14층, 남동향41배정, 시공사선정 및 평형신청 완료, 관리처분인가 준비중",
+      "price": "38억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "개포주공5단지 505동매매35억재건축85/61m², 9/14층, 남동향34배정, 시공사선정 완료, 관리처분인가 준비중",
+      "price": "35억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "개포주공5단지 503동매매38억재건축116/83m², 6/14층, 남향41 분양배정,주인,조정가능,재건축 평형배정 완료,지분 큼,개포동역",
+      "price": "38억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "개포주공5단지 501동매매35억 3,000재건축103/74m², 14/14층, 남동향",
+      "price": "35억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "개포주공5단지 504동매매35억재건축103/74m², 3/14층, 남향재건축 34 분양배정,평형 배정완료,대지지분 큼,개포동역 인접",
+      "price": "35억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "개포주공5단지 501동매매38억재건축116/83m², 5/14층, 남동향25 41배정 빠른재건축  지분 15.45",
+      "price": "38억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "개포주공5단지 503동매매35억재건축103/74m², 7/14층, 남동향84배정 재건축 관리처분 단계 초역세권 대단지",
+      "price": "35억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "개포주공5단지 501동매매41억재건축116/83m², 9/14층, 남향48배정 조정가능 지분21 관리처분인가예정",
+      "price": "41억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "개포주공5단지 506동매매33억 5,000재건축75/53m², 5/13층, 남동향8434형배정 관리처분 단계로 환경 좋은 재건축 최고 단지",
+      "price": "33억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "개포주공5단지 502동매매35억재건축103/74m², 8/14층, 남동향",
+      "price": "35억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "개포주공5단지 502동매매35억재건축103/74m², 9/14층, 남향34배정 조정가 대지지분18.75 관리처분인가예정",
+      "price": "35억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "개포주공5단지 505동매매33억재건축75/53m², 9/14층, 남향34배정   조정가  대지지분13.63  관리처분인가예정",
+      "price": "33억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "개포주공5단지 505동매매34억재건축85/61m², 10/14층, 남향34배정 조정가능 관리처분예정 대지지분15.45",
+      "price": "34억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "개포주공5단지 506동매매33억재건축75/53m², 7/13층, 남향",
+      "price": "33억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "개포주공5단지 503동매매40억재건축116/83m², 6/14층, 남동향",
+      "price": "40억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.382Z"
+    },
+    {
+      "index": 103,
+      "selector": "[class*=\"item\"]",
+      "text": "개포주공5단지 502동매매34억재건축103/74m², 7/14층, 남향부동산뱅크 제공개포우리공인중개사사무소확인매물 25.07.17.",
+      "price": "34억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.384Z"
+    },
+    {
+      "index": 115,
+      "selector": "[class*=\"item\"]",
+      "text": "개포주공5단지 501동매매38억재건축116/83m², 5/14층, 남향41배정 조정가능 지분21 관리처분인가예정부동산뱅크 제공율산부동산공인중개사사무소확인매물 25.07.17.",
+      "price": "38억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:53.384Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1298_20250717_233457.png"
+  }
+}

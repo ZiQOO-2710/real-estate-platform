@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:37:16.934594",
+    "complex_id": "1303"
+  },
+  "basic_info": {
+    "complex_id": "1303",
+    "source_url": "https://new.land.naver.com/complexes/1303",
+    "extracted_at": "2025-07-17T23:37:13.311168",
+    "url": "https://new.land.naver.com/complexes/1303?ms=37.488645,127.070472,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:37:10.870Z",
+    "complexId": "1303"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "개포주공6단지 609동매매36억 5,000재건축94/73m², 7/13층, 남동향31, 지분 18.27P, 조합설립인가, 사업시행인가 완료, 시공사선정",
+      "price": "36억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.324Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "개포주공6단지 604동전세5억 3,000재건축94/73m², 13/15층, 남향31 올수리된집",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "개포주공6단지 608동매매36억 8,000재건축94/73m², 6/13층, 남동향",
+      "price": "36억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "개포주공6단지 609동매매41억재건축107/83m², 8/13층, 남향34매매 l 대형평수 배정가능 l 시공사전성 l지분 20.84",
+      "price": "41억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "개포주공6단지 607동월세2억 6,000/43재건축68/53m², 10/14층, 남동향23, 집상태좋음",
+      "price": "2억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "개포주공6단지 602동전세5억 3,000재건축94/73m², 10/15층, 남향31 올수리 깨끗한집 입주협의 융자없음",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "개포주공6단지 602동매매36억 5,000재건축94/73m², 10/15층, 남향31 조정가  지분18.27 분양신청임박 현대건설 디에이치르베르",
+      "price": "36억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인개포주공6단지 606동매매38억재건축94/73m², 중/15층, 남향지분많은 재건축단지 최근특올수리상태  시공사선정완료",
+      "price": "38억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "개포주공6단지 604동전세5억 3,000재건축94/73m², 13/15층, 남동향31 수리되어 깨끗  드나들기좋은동",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "개포주공6단지 609동매매37억재건축94/73m², 6/13층, 남향31,  지분 18.27 , 디에이치 르베르 시공사 선정",
+      "price": "37억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "개포주공6단지 606동매매37억재건축94/73m², 10/15층, 남향31,  지분 18.27 , 현대건설 디에이치르메르 시공사 선정",
+      "price": "37억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "개포주공6단지 601동전세3억 5,000재건축68/53m², 9/14층, 남향23 수리깨끗 개포동역 양재천공원 쾌적한주거",
+      "price": "3억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "개포주공6단지 602동매매36억 5,000재건축94/73m², 8/15층, 남향31 지분18.27 디에이치르베르 개포동최상입지 대모산입구역",
+      "price": "36억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "개포주공6단지 601동전세3억 5,000재건축68/53m², 5/14층, 남동향23 도배장판칠신발장교체 입주협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "개포주공6단지 604동전세5억 5,000재건축107/83m², 8/15층, 남동향34 꺠끗한수리된집 교통이용편리 학교인근 9월14일",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "개포주공6단지 608동매매40억재건축107/83m², 11/13층, 남동향입주협의  7말부터     교통편리  주거환경  교육환경 최고",
+      "price": "40억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "개포주공6단지 606동매매37억재건축94/73m², 5/15층, 남향지분많은 재건축  조합원 평형배정 9월예정",
+      "price": "37억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.325Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "개포주공6단지 609동매매36억 5,000재건축94/73m², 7/13층, 남동향31, 지분 18.27P, 조합설립인가, 사업시행인가 완료, 시공사선정아실 제공서울공인중개사사무소확인매물 25.07.17.네이버에서 보기개포주공6단지 604동전세5억 3,000재건축94/73m², 13/15층, 남향31 올수리된집부동산뱅크 제공양일공인중개사사무소확인매물 25.07.17.개포주공6단지 608동매매36억 8,000재건축94/73m², 6/13층, 남동향부동산뱅크 제공세기공인중개사사무소확인매물 25.07.17.개포주공6단지 609동매매41억재",
+      "price": "36억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:13.326Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1303_20250717_233716.png"
+  }
+}

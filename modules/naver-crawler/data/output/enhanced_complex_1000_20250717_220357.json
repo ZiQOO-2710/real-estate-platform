@@ -1,0 +1,58 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:03:57.628567",
+    "complex_id": "1000"
+  },
+  "basic_info": {
+    "complex_id": "1000",
+    "source_url": "https://new.land.naver.com/complexes/1000",
+    "extracted_at": "2025-07-17T22:03:52.863316",
+    "url": "https://new.land.naver.com/complexes/1000?ms=37.527524,127.052159,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:03:50.682Z",
+    "complexId": "1000"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매43억아파트105B/84m², 고/19층, 남향소유주 의뢰, 남향, 고층 한강조망, 대출 승계, 리모델링 철거 진행중",
+      "price": "43억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:52.874Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인건영 102동매매30억아파트105B/84m², 저/19층, 남향리모델링 추진으로 현제 철거진행중.",
+      "price": "30억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:52.874Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인건영 102동매매30억아파트105B/84m², 저/19층, 동향전담 매물 ,  이주완료, 리모델링 철거시작",
+      "price": "30억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:03:52.874Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 3,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1000_20250717_220357.png"
+  }
+}

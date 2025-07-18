@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:10:21.870840",
+    "complex_id": "1021"
+  },
+  "basic_info": {
+    "complex_id": "1021",
+    "source_url": "https://new.land.naver.com/complexes/1021",
+    "extracted_at": "2025-07-17T22:10:17.409738",
+    "url": "https://new.land.naver.com/complexes/1021?ms=37.567945,126.823849,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:10:16.081Z",
+    "complexId": "1021"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 6,000아파트82B/59m², 6/15층, 동향수리된상태,입주협의가능",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매10억 5,000아파트105/84m², 5/15층, 동향남향,보증금 40,000만원 세안고,26년 4월만기,9호선 급행 마곡나루",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 2,000아파트82B/59m², 2/15층, 동향샷시포함올수리,입주가능,9호선급행초역세권,깨끗한집",
+      "price": "8억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매10억 5,000아파트105/84m², 5/15층, 동향수리되어 깨끗 26년4월 만기",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 102동매매9억아파트81A/59m², 6/11층, 남향샷시포함 특올수리, 남향, 채광좋음, 깨끗한 집, 베란다폴딩도어설치",
+      "price": "9억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 3,000아파트82B/59m², 중/15층, 동향마곡나루역 최고입지의 아파트 전망트임 입주가",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 6,000아파트82B/59m², 중/15층, 동향특인테리어올수리,  남향집, 입주가능, 9호선 마곡나루역 급행  도보3분",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 102동매매8억 2,000아파트81A/59m², 저/11층, 남향",
+      "price": "8억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매9억아파트82B/59m², 6/15층, 남향M .특올수리 특역세권 특근접 생활편의시설 넘나 좋은 집.",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 2,000아파트82B/59m², 2/15층, 남향M .전세금으로 내집 장만 특급기회 초역세권을 찾으신다면 바로 이 집.",
+      "price": "8억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인신안(422) 101동매매8억 6,000아파트82B/59m², 12/15층, 동향M .특초역세권.초근접 생활편의시설.넘나 좋은집.",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.420Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체81A㎡82B㎡93㎡105㎡107㎡129㎡",
+      "price": null,
+      "area": "93㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:10:17.421Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신안(422) 101동매매8억 6,000아파트82B/59m², 6/15층, 동향수리된상태,입주협의가능매경부동산 제공마곡푸르지오공인중개사사무소확인매물 25.07.15.집주인신안(422) 101동매매8억 6,000아파트82B/59m², 6/15층, 동향수리되어 깨끗  마곡나루역3분 입주협의매경부동산 제공더조은공인중개사사무소확인매물 25.07.15.집주인신안(422) 101동매매10억 5,000아파트105/84m², 5/15층, 동향남향,보증금 40,000만원 세안고,26년 4월만기,9호선 급행 마곡나루매경부동산 제공한양공인중개사사",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:17.421Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1021_20250717_221021.png"
+  }
+}

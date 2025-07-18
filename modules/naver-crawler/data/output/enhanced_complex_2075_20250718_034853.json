@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:48:53.960164",
+    "complex_id": "2075"
+  },
+  "basic_info": {
+    "complex_id": "2075",
+    "source_url": "https://new.land.naver.com/complexes/2075",
+    "extracted_at": "2025-07-18T03:48:49.533571",
+    "url": "https://new.land.naver.com/complexes/2075?ms=37.35114,126.97932,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:48:47.995Z",
+    "complexId": "2075"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무궁화 102동매매4억 6,000아파트105/84m², 10/16층, 남향부분수리 깨끗 정상입주",
+      "price": "4억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무궁화 104동전세3억 2,000아파트105/84m², 3/16층, 남향내부수리깨끗,방1장판교체해줌,하시입주",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무궁화 104동매매4억 4,000아파트105/84m², 3/16층, 남향공실, 급매, 부분수리",
+      "price": "4억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인무궁화 102동매매3억아파트73/49m², 6/16층, 남향즉시입주",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인무궁화 104동매매4억 6,000아파트105/84m², 중/16층, 남동향욕실주방 부분수리 되어있음 외벽아님 조용한 동",
+      "price": "4억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "무궁화 104동전세3억 2,000아파트105/84m², 3/16층, 남동향샤시제외올수리, 조용깨끗",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "무궁화 104동매매4억 5,000아파트105/84m², 14/16층, 남향깨끗",
+      "price": "4억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "무궁화 102동매매3억아파트73/49m², 저/16층, 남동향깨끗, 갭투자,세안고 매매, 샷시수리, 보일러교체",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.547Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "무궁화 103동전세3억 2,500아파트105/84m², 15/16층, 남동향빠른입주협의,조용하고 공기좋음",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:48:49.548Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "무궁화 102동매매3억아파트73/49m², 6/16층, 남서향귀한 작은평 저렴한 매매입니다.",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.548Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "무궁화 102동매매3억 2,500아파트73/49m², 8/16층, 남동향깨끗, 입주협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.548Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "무궁화 104동월세3,000/90아파트105/84m², 14/16층, 남동향",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:48:49.548Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "무궁화 103동매매4억 5,000아파트105/84m², 12/16층, 남동향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.548Z"
+    },
+    {
+      "index": 112,
+      "selector": "[class*=\"item\"]",
+      "text": "무궁화 104동매매4억 3,000아파트105/84m², 14/16층, 남동향한국공인중개사협회 제공민들레공인중개사사무소등록일25.07.11.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:49.549Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2075_20250718_034853.png"
+  }
+}

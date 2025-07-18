@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:38:46.524032",
+    "complex_id": "1653"
+  },
+  "basic_info": {
+    "complex_id": "1653",
+    "source_url": "https://new.land.naver.com/complexes/1653",
+    "extracted_at": "2025-07-18T01:38:41.018940",
+    "url": "https://new.land.naver.com/complexes/1653?ms=37.612513,127.137118,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:38:40.011Z",
+    "complexId": "1653"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매5억 2,000아파트88B/72m², 9/15층, 동향급매,8호선초역세권,씽크대,욕실,신발장교체,보일러최근교체,입주협의",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인건영 105동매매6억아파트102B/83m², 4/18층, 남향8호선역세권. 샷시포함 내부 올수리. 교통편리.한샘 드레스룸있음.",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인건영 103동매매6억 3,000아파트102B/83m², 10/15층, 남향가장인기동,초역세권.샷시교체.중문,전체마루.주방.욕실수리",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인건영 105동매매6억아파트102B/83m², 13/18층, 남향8호선초역세권  특올수리 거실 작은방확장 입주",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매5억 8,000아파트102B/83m², 3/15층, 남향4년 완전 올수리 베란다 확장",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인건영 103동매매5억 9,000아파트102B/83m², 13/15층, 남향전망굿 올수리 상태깨끗 입주매물 초역세권",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인건영 105동매매5억 9,000아파트102B/83m², 1/18층, 남향강추,최근특올수리,8호선초역세권,입주협의",
+      "price": "5억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인건영 104동매매5억 7,000아파트102B/83m², 9/15층, 동향추천급매, 예전수리, 올확장, 8호선초역세권, 초중3분거리,생활권 교통굿",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매5억 5,000아파트88B/72m², 11/15층, 동향깨끗 입주 가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인건영 104동매매5억 7,500아파트102B/83m², 2/15층, 동향8호선 역세권 내부 샷시제외 올인테리어 세입자만기 올10월초",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매5억 8,500아파트102B/83m², 7/15층, 남향올수리. 입주일 협의가능,조정가",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매6억아파트102B/83m², 1/15층, 남향조정가능 최근 샷시포함 올수리함 거실폴딩도어 잠실방향 8호선 초역세권",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인건영 101동매매6억아파트102B/83m², 4/15층, 남향입주가능 남향 깨끗함",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.027Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체76㎡88B㎡88A㎡88C㎡102B㎡102A㎡",
+      "price": null,
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:38:41.028Z"
+    },
+    {
+      "index": 46,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인건영 101동매매5억 2,000아파트88B/72m², 9/15층, 동향급매,8호선초역세권,씽크대,욕실,신발장교체,보일러최근교체,입주협의부동산써브 제공현대홈타운공인중개사사무소확인매물 25.07.17.집주인건영 105동매매6억아파트102B/83m², 4/18층, 남향8호선역세권. 샷시포함 내부 올수리. 교통편리.한샘 드레스룸있음.부동산써브 제공한아름부동산컨설팅공인중개사확인매물 25.07.17.집주인건영 103동매매6억 3,000아파트102B/83m², 10/15층, 남향가장인기동,초역세권.샷시교체.중문,전체마루.주방.욕실수리부동산",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:41.028Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1653_20250718_013846.png"
+  }
+}

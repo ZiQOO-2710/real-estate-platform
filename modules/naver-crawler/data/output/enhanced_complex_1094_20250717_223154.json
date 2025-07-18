@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:31:54.248581",
+    "complex_id": "1094"
+  },
+  "basic_info": {
+    "complex_id": "1094",
+    "source_url": "https://new.land.naver.com/complexes/1094",
+    "extracted_at": "2025-07-17T22:31:51.007861",
+    "url": "https://new.land.naver.com/complexes/1094?ms=37.62358,127.082501,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:31:48.611Z",
+    "complexId": "1094"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태강 1003동월세5,000/100아파트69/49m², 4/15층, 남서향6호선초역세권대단지,샷시제외수리  ,보증금및월세조정가,공가 하시",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:31:51.020Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태강 1008동매매6억 5,500아파트83A/59m², 6/15층, 남향화랑대역과 공릉역의 더블 역세권,특수리의 폴딩도어,계단식",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인태강 1013동매매5억 4,000아파트69/49m², 13/15층, 남향6호선초역세권대단지,남향,올수리,초,중학교인접,구립체육관가까운동",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인태강 1019동매매6억 3,000아파트82B/59m², 9/14층, 남향남향 빠를수록좋아요",
+      "price": "6억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인태강 1003동매매5억 5,000아파트69/49m², 14/15층, 남서향샷시포함특올수리,주인거주,입주협의",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인태강 1018동매매5억 3,000아파트69/49m², 12/15층, 동향투자추천매물 최근샷시포함특올수리 동간거리 좋고 투자로 적극 추천",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인태강 1015동매매6억 5,000아파트83A/59m², 9/15층, 남향수리깨끗,남향,정상,주인거주",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인태강 1016동매매5억 2,000아파트69/49m², 8/15층, 동향정상,기본,화랑대역 역세권,입주협의",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인태강 1013동월세3,000/110아파트69/49m², 8/15층, 남서향6호선 화랑대역의 역세권,대단지",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인태강 1016동매매4억 8,000아파트69/49m², 3/15층, 동향공릉동대단지아파트,역세권,초중학교5분거리,생활편리,입주협의",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인태강 1013동매매5억 2,000아파트69/49m², 13/15층, 남서향올수리깨끗,남서향,화랑대역세권,입주또는주인전세가능",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인태강 1017동매매4억 9,000아파트69/49m², 12/15층, 동향전망좋은 동향탑층집.전세안고매매.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인태강 1019동매매6억 5,000아파트82B/59m², 8/14층, 남향역세권,남향의 특으로 올수리고급",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인태강 1014동매매5억 2,000아파트69/49m², 10/15층, 동향욕실포함수리,개방감있는뷰,입주협의",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:31:51.021Z"
+    },
+    {
+      "index": 59,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인태강 1003동월세5,000/100아파트69/49m², 4/15층, 남서향6호선초역세권대단지,샷시제외수리  ,보증금및월세조정가,공가 하시매경부동산 제공아이파크공인중개사사무소확인매물 25.07.17.집주인태강 1008동매매6억 5,500아파트83A/59m², 6/15층, 남향화랑대역과 공릉역의 더블 역세권,특수리의 폴딩도어,계단식매경부동산 제공샘물(02-976-5800)공인중개사사무소확인매물 25.07.17.집주인태강 1013동매매5억 4,000아파트69/49m², 13/15층, 남향6호선초역세권대단지,남향,올수리,초,중학교인접",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:31:51.022Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1094_20250717_223154.png"
+  }
+}

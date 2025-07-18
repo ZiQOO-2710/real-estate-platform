@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:17:50.344246",
+    "complex_id": "197"
+  },
+  "basic_info": {
+    "complex_id": "197",
+    "source_url": "https://new.land.naver.com/complexes/197",
+    "extracted_at": "2025-07-18T03:17:46.206474",
+    "url": "https://new.land.naver.com/complexes/197?ms=37.666213,127.059092,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:17:43.732Z",
+    "complexId": "197"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1204동매매4억 4,000아파트58A/41m², 10/15층, 남동향올수리, 정상입주, 채광굿, 마들역세권, 재건축 인기단지",
+      "price": "4억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1206동전세2억 3,000아파트61B/41m², 2/12층, 남향전체특올수리  로얄동 융무 초역세권 인기단지 LH 애완동물안됨",
+      "price": "2억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1204동월세1,000/60아파트58A/41m², 9/15층, 남향집상태 양호하고 저렴한 월세 빠른입주 가능 교통편리",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1207동매매5억 7,000아파트80/58m², 12/12층, 남향기본  하시입주 마들역 상가 인접 이용편리",
+      "price": "5억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1208동전세2억 1,000아파트58A/41m², 12/12층, 남향9월12일경.특올수리.LH.안됨.애완동물안됨",
+      "price": "2억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1202동매매5억 2,000아파트74/49m², 11/12층, 남향세안고,로얄동층 초역세권,인기단지 투자매물",
+      "price": "5억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1210동매매6억아파트85/61m², 3/15층, 남향정상,샷시욕실 로얄동층,인기단지 주인거주,저렴한 실입주매물",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1203동매매4억 2,000아파트58A/41m², 8/15층, 남향입주가능. 내부수리된 아주깨끗한 집.",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.220Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1209동매매5억 5,000아파트70/49m², 7/15층, 남향전세안고,전체올수리 로얄동층,인기단지 투자매물",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1201동매매5억아파트74/49m², 1/12층, 남향초역세권,특올수리,남향,층간소음무,재건축호재",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1202동매매4억 4,000아파트61B/41m², 11/12층, 남향올수리 정상입주 반듯한 B형구조의 남향집 역세권",
+      "price": "4억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "현장상계주공12단지 1214동월세5,000/125아파트92/66m², 11/15층, 남향올샷시,올타일,욕실등 전체특올수리 후 첫 입주,애완용동물 안됩니다.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1209동매매5억아파트70/49m², 1/15층, 남서향부분수리 늦은입주11월 이후 협의 입주 공원 학교 인접",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1208동매매4억 5,000아파트58A/41m², 10/12층, 남향특올수리 샷시 화장실 씽크대등 수리됨 월세안고가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1202동매매5억 3,000아파트74/49m², 9/12층, 남향특올수리 25000만세안고 가능",
+      "price": "5억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1213동매매6억 2,500아파트85/61m², 저/15층, 남향올수리, 갭투자 추천, 마들역세권, 복합정비구역, 재건축투자",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인상계주공12단지 1202동전세2억 5,000아파트74/49m², 12/12층, 남향올수리,마들역세권,학군우수,융자없음,10월20일이후",
+      "price": "2억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체58A㎡61B㎡70㎡74㎡80㎡85㎡92㎡",
+      "price": null,
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:17:46.221Z"
+    },
+    {
+      "index": 57,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인상계주공12단지 1204동매매4억 4,000아파트58A/41m², 10/15층, 남동향올수리, 정상입주, 채광굿, 마들역세권, 재건축 인기단지부동산뱅크 제공국제공인중개사사무소확인매물 25.07.17.집주인상계주공12단지 1206동전세2억 3,000아파트61B/41m², 2/12층, 남향전체특올수리  로얄동 융무 초역세권 인기단지 LH 애완동물안됨매경부동산 제공세일(937-8600)공인중개사사무소확인매물 25.07.17.집주인상계주공12단지 1204동매매4억 4,000아파트58A/41m², 10/15층, 남동향올수리,전자계약,입",
+      "price": "4억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:17:46.222Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_197_20250718_031750.png"
+  }
+}
