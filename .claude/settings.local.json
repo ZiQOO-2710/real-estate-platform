@@ -39,7 +39,21 @@
       "Bash(pip3 install:*)",
       "mcp__ide__executeCode",
       "Bash(echo:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(git rm:*)",
+      "Bash(git push:*)",
+      "Bash(jobs)",
+      "Bash(npm install:*)",
+      "Bash(npm start)",
+      "Bash(mkdir:*)",
+      "Bash(npm run dev:*)",
+      "Bash(pkill:*)",
+      "Bash(true)",
+      "Bash(open /tmp/test_map.html)",
+      "Bash(time sqlite3:*)",
+      "Bash(time curl:*)",
+      "Bash(nordvpn:*)",
+      "Bash(warp-cli:*)"
     ],
     "deny": []
   }

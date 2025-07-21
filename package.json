@@ -4,7 +4,9 @@
   "description": "부동산 개발자를 위한 지도 기반 시장 분석 플랫폼",
   "main": "index.js",
   "scripts": {
-    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "dev": "concurrently \"npm run dev:api\" \"npm run dev:dashboard\"",
+    "dev:api": "cd api && npm run dev",
+    "dev:dashboard": "cd dashboard && npm run dev",
     "dev:backend": "cd backend && npm run dev",
     "dev:frontend": "cd frontend && npm start",
     "build": "npm run build:backend && npm run build:frontend",
