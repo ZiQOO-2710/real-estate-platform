@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:38:48.989369",
+    "complex_id": "2184"
+  },
+  "basic_info": {
+    "complex_id": "2184",
+    "source_url": "https://new.land.naver.com/complexes/2184",
+    "extracted_at": "2025-07-18T20:38:43.716221",
+    "url": "https://new.land.naver.com/complexes/2184?ms=37.076552,127.063571,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:38:41.444Z",
+    "complexId": "2184"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인건영 107동매매2억아파트96/76m², 7/8층, 남동향리모델링되어있어 깨끗한집 즉시입주가능",
+      "price": "2억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인건영 106동매매1억 8,500아파트96/76m², 3/8층, 남향협의입주,샷시포함올수리,채광좋은정남향",
+      "price": "1억 8",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인건영 106동전세1억 7,000아파트96/76m², 3/8층, 남향협의입주,샷시포함올수리,채광좋은정남향",
+      "price": "1억 7",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "건영 108동전세1억 500아파트67A/53m², 1/7층, 남향샤시포함올리모델링,9월말입주",
+      "price": "1억 500",
+      "area": null,
+      "floor": "7층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "건영 111동월세500/45아파트67A/53m², 8/8층, 남향송탄역 도보권,생활편리 저렴한 월세",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "건영 111동매매1억 9,000아파트96/76m², 6/8층, 남향리모델링,주인거주",
+      "price": "1억 9",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "건영 106동월세2,000/70아파트96/76m², 5/8층, 남향샤시포함올리모델링,공실",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인건영 112동매매2억 2,000아파트105/84m², 9/9층, 남향최상층, 저렴한 가격, 어린이집 붙은자리",
+      "price": "2억 2",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "건영 106동월세500/50아파트67A/53m², 7/8층, 남향올수리,공실",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인건영 102동전세1억 6,000아파트105/84m², 6/10층, 남향샷시포함 올리모델링, lh가능",
+      "price": "1억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "건영 111동매매1억 9,000아파트96/76m², 7/8층, 남향지산동 건영아파트 30p 샷시포함 올리모델링 저렴한 매매 1억9천",
+      "price": "1억 9",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "건영 107동매매1억 8,300아파트96/76m², 1/8층, 남향지산동 건영아파트 30p 급매 1억8천3백 1층  올리모델링 전원뷰",
+      "price": "1억 8",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "건영 105동월세500/50아파트67A/53m², 2/9층, 남향지산동 건영아파트 21p 2층 월세 보증금 5백 월 50만원 올리모델",
+      "price": null,
+      "area": null,
+      "floor": "9층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "건영 106동전세1억 2,000아파트67A/53m², 8/8층, 남향올리모델링 입주협의",
+      "price": "1억 2",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "건영 111동월세1,000/80아파트96/76m², 7/8층, 남향지산동 건영아파트 30p 월세 보증금 천만원 월 80만원 7층 올수리",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "건영 105동매매1억 3,000아파트67A/53m², 6/9층, 남향공실 부분수리된 해잘 드는 남향",
+      "price": "1억 3",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "건영 109동매매1억 3,000아파트67A/53m², 6/6층, 남향",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "건영 112동매매1억 9,000아파트105/84m², 2/9층, 남향외부샤시교체한 급 매물이며 내부는 부분수리하여 상태는 깨끗합니다",
+      "price": "1억 9",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "건영 107동월세500/50아파트67A/53m², 4/8층, 남향지산동 건영아파트 21p 4층 월세 보증금 5백 월 50만원 9월입주",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:38:43.724Z"
+    },
+    {
+      "index": 54,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인건영 107동매매2억아파트96/76m², 7/8층, 남동향리모델링되어있어 깨끗한집 즉시입주가능 부동산써브 제공우리부동산공인중개사사무소확인매물 25.07.18.집주인건영 106동매매1억 8,500아파트96/76m², 3/8층, 남향협의입주,샷시포함올수리,채광좋은정남향매경부동산 제공소사벌반도행운공인중개사사무소확인매물 25.07.12.집주인건영 106동전세1억 7,000아파트96/76m², 3/8층, 남향협의입주,샷시포함올수리,채광좋은정남향매경부동산 제공소사벌반도행운공인중개사사무소확인매물 25.07.12.건영 108동전세1억 500",
+      "price": "2억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:43.725Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2184_20250718_203848.png"
+  }
+}

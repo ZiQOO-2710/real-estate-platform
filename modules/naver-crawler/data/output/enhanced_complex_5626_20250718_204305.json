@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:43:05.312884",
+    "complex_id": "5626"
+  },
+  "basic_info": {
+    "complex_id": "5626",
+    "source_url": "https://new.land.naver.com/complexes/5626",
+    "extracted_at": "2025-07-18T20:43:01.835061",
+    "url": "https://new.land.naver.com/complexes/5626?ms=36.349618,127.419082,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:43:00.515Z",
+    "complexId": "5626"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "한남 101동매매1억 9,000아파트100/84m², 8/12층, 남동향가격조절가능, 대전역 복합터미널이 가깝습니다.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.844Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한남 101동매매2억아파트100/84m², 저/12층, 남동향실사진o 리모델링 완료된 깨끗한 환경,저렴한 매가의 공동주택",
+      "price": "2억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.844Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한남 101동매매2억아파트100/84m², 4/12층, 남동향중문설치등완벽한리모델링 방3 욕실2 한남대인근 협의입주",
+      "price": "2억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.844Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "한남 101동매매2억아파트100/84m², 4/12층, 남향긴급매매.협의후 입주 가능",
+      "price": "2억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.844Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "한남 102동매매1억 5,000아파트75/59m², 고/12층, 남동향R동R층 전망좋고일조량풍부 주인이사용하여아주깨끗 협의입주",
+      "price": "1억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.844Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "영진로얄맨션면적100.1㎡90.68㎡ ~ 100.1㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "100.1㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "661만한남매매2억1.5억~2억면적100㎡75.23㎡ ~ 100.95㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "971만신동아파밀리에3단지매매3.2억2.85억~3.3억전세2.3억2.3억면적109㎡109.39㎡ ~ 112.33㎡매매매물만 보기31개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "953만신동아파밀리에1단지매매3.2억2.9억~3.5억월세-30만면적111㎡95.5㎡ ~ 111.06㎡매매매물만 보기53개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "715만오정나이스팰리스(도시형)매매1.6억1.6억면적74㎡74.82㎡ ~ 74.82㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억1",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "대호하이츠면적86.67㎡77.62㎡ ~ 94.03㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "86.67㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,044만신동아파밀리에4단지매매3억2.95억~3억면적95㎡95.5㎡ ~ 95.5㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "95㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "470만대덕(주상복합)매매1.85억1억~2.05억월세-60만면적130㎡70.7㎡ ~ 132.63㎡매매매물만 보기7개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보",
+      "price": "85억1",
+      "area": "130㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:43:01.845Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5626_20250718_204305.png"
+  }
+}

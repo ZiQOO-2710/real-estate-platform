@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:29:37.103423",
+    "complex_id": "1020"
+  },
+  "basic_info": {
+    "complex_id": "1020",
+    "source_url": "https://new.land.naver.com/complexes/1020",
+    "extracted_at": "2025-07-21T12:29:32.922649",
+    "url": "https://new.land.naver.com/complexes/1020?ms=37.57615,126.83803,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:29:31.252Z",
+    "complexId": "1020"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동매매8억 9,000아파트108/84m², 7/16층, 남동향YL . 조율가능 확장 및 특올수리 한샘키친 풀시스템에어컨",
+      "price": "8억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 104동매매8억 5,000아파트108/84m², 10/15층, 남동향중문, 샷시제외 올수리, 확장형, 깨끗한 집, 숲세권",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 103동매매9억 6,000아파트140/114m², 5/13층, 남서향초급매,샤시포함특올수리된 상태,주인거주",
+      "price": "9억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 102동매매8억 3,000아파트108/84m², 5/15층, 남서향가격 저렴한 매물",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동매매8억 8,000아파트108/84m², 14/16층, 동향수리되어 깨끗하고 ,작은방에서 한강뷰,야경과 풍경 맛집,입주가",
+      "price": "8억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동매매8억아파트108/84m², 저/16층, 동향",
+      "price": "8억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 102동매매9억 6,000아파트108/84m², 12/15층, 남서향마곡서울식물원,인천계양산까지전망최고 궁산 한강변 바로운동가능  수리함",
+      "price": "9억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 102동매매9억 6,000아파트108/84m², 2/15층, 남서향입주가능 마곡인근 한강변아파트 궁산 서울식물원근거리 바로한강출입 세안고",
+      "price": "9억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "마곡벽산 106동매매9억아파트108/84m², 10/15층, 남서향궁산뷰, 마곡 보타닉공원,한강 산책로 근접,입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동전세5억 5,000아파트108/84m², 13/16층, 남향샷시등 올수리 융자무 입주25년 2월말 매우 깨끗함",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 107동매매7억 8,000아파트84/59m², 고/17층, 남동향M. 집이 이렇게 좋은 이가격 실화냐.",
+      "price": "7억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 106동매매10억 5,000아파트140/114m², 중/15층, 남동향전망좋은 집, 한강나들목 개통으로 집 앞에서 한강 진출입가능",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 106동매매9억 5,000아파트108/84m², 저/15층, 남서향최근 특급리모델링, 최고급자재, 단열시공, 전망굿, 채광굿, 입주협의",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 108동전세4억 3,000아파트84/59m², 저/17층, 북동향전세대출 가능,무융자 조건,한강뷰 궁산 공원 조망",
+      "price": "4억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동전세5억 5,000아파트108/84m², 13/16층, 남동향샷시까지 최근 올수리 2월말희망 협의가능 보타닉공원뷰 신혼환영",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 103동매매8억 7,000아파트108/84m², 10/13층, 남향전망좋고 한강진입용이집상태보통 입주가  집보기쉬움",
+      "price": "8억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인마곡벽산 101동매매8억 7,000아파트108/84m², 10/16층, 남동향샷시포함 전체 특 올수리,확장형,한강뷰,입주가능",
+      "price": "8억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:29:32.927Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1020_20250721_122936.png"
+  }
+}

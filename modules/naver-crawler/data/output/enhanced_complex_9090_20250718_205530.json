@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:55:30.804130",
+    "complex_id": "9090"
+  },
+  "basic_info": {
+    "complex_id": "9090",
+    "source_url": "https://new.land.naver.com/complexes/9090",
+    "extracted_at": "2025-07-18T20:55:26.626951",
+    "url": "https://new.land.naver.com/complexes/9090?ms=37.20741,127.04548,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:55:25.600Z",
+    "complexId": "9090"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 405동매매3억 6,500아파트106/84m², 3/15층, 남동향로얄동으로 전면동, 부분수리로 깨끗하며 뷰 좋습니다.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 404동매매3억 9,000아파트106/84m², 14/15층, 남향올수리  전망굿   편의시설굿   초중고인접  투자자환영",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 405동매매4억 1,000아파트106/84m², 13/15층, 남동향올수리,구봉산뷰,일조량풍부,입주일협의",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 409동전세2억 8,000아파트94/75m², 7/15층, 남향수리하고첫입주   집상태좋음   편의시설굿   초중고인접",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 403동월세5,000/100아파트106/84m², 2/15층, 남향올수리   편의시설굿   초중고인접",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 409동매매3억 3,000아파트94/75m², 8/15층, 남동향급매, 세안고, 상가 이용 좋은동, 투자물건입니다.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 409동매매3억 5,500아파트94/75m², 12/15층, 남동향수리된물건으로 최고, 채광좋고 상가 정류장이용 좋습니다.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 406동전세2억 9,000아파트106/84m², 6/15층, 남향집상태좋음    편의시설굿   초중고인접",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 403동매매3억 7,000아파트106/84m², 9/15층, 남동향기본형으로 저렴한 물건, 빠른입주 환영합니다.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 402동매매3억 5,500아파트94/75m², 14/15층, 남동향로얄동,층,라인 긋,주인관리 깨끗,이사날자협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 403동월세5,000/100아파트106/84m², 2/15층, 남동향",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 409동매매3억 3,000아파트94/75m², 8/15층, 남향집상태좋음   편의시설굿   초중고인접",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 401동매매3억 4,000아파트94/75m², 4/15층, 남향시세보다저렴   바로입주가능   편의시설굿  초중고인접",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 407동매매3억 9,000아파트106/84m², 11/15층, 남향집상태좋음   편의시설굿   초중고인접",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 406동매매3억 8,000아파트106/84m², 12/15층, 남동향가격좋고,부분수리로 깨끗,중간라인,전망도 예쁘게 나옵니다",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 403동매매3억 8,000아파트106/84m², 4/15층, 남동향공실, 뷰 좋고 확장된 집, 수리된 이쁜집, 빠른입주 가능합니다.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 405동매매4억 500아파트106/84m², 13/15층, 남향수리된집   초중고인접  전망굿  투자자환영",
+      "price": "4억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인병점역에듀포레 406동매매3억 8,000아파트106/84m², 12/15층, 남향수리된집  투자자환영   편의시설굿   초중고인접",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.637Z"
+    },
+    {
+      "index": 47,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인병점역에듀포레 405동매매3억 6,500아파트106/84m², 3/15층, 남동향로얄동으로 전면동, 부분수리로 깨끗하며 뷰 좋습니다.부동산렛츠 제공에듀포레예공인중개사사무소확인매물 25.07.17.집주인병점역에듀포레 404동매매3억 9,000아파트106/84m², 14/15층, 남향올수리  전망굿   편의시설굿   초중고인접  투자자환영부동산써브 제공병점역에듀포레부동산랜드확인매물 25.07.16.집주인병점역에듀포레 405동매매4억 1,000아파트106/84m², 13/15층, 남동향올수리,구봉산뷰,일조량풍부,입주일협의부동산뱅크 ",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:26.638Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9090_20250718_205530.png"
+  }
+}

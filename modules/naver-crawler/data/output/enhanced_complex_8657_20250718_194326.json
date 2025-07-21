@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:43:26.870679",
+    "complex_id": "8657"
+  },
+  "basic_info": {
+    "complex_id": "8657",
+    "source_url": "https://new.land.naver.com/complexes/8657",
+    "extracted_at": "2025-07-18T19:43:21.828332",
+    "url": "https://new.land.naver.com/complexes/8657?ms=37.480486,126.806583,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:43:18.894Z",
+    "complexId": "8657"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대진 104동매매3억 7,000재건축83A/58m², 3/5층, 남향욕실,씽크대수리했음, 이사는협의가능함, 재건축진행중임",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대진 102동전세2억 1,000재건축74/55m², 2/5층, 남향",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대진 101동매매4억재건축79/60m², 1/5층, 남향초 중학교. 역곡역인근, 전체올수리, 밝은 남향, 즉시입주가능",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인대진 103동매매4억 2,000재건축82B/62m², 4/5층, 남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인대진 101동매매4억재건축79/60m², 5/5층, 남향역곡역이용, 초중학교인근, 남향,  정비구역지정",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대진 102동매매3억 2,000재건축74/55m², 4/5층, 남향재건축 추진중, 투자전세1억8천 안고,지하철1호선 역곡역 도보 10분",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대진 106동매매3억 5,000재건축77/58m², 5/5층, 남향역곡역초 중학교인근, 앞 트인 남향, 올수리, 이사협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "대진 104동매매2억 8,000재건축70/53m², 1/5층, 남향",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인대진 104동매매3억 4,000재건축70/53m², 2/5층, 남향역곡역, 초중학교인근, 완전올수리, 이사협의",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "대진 104동매매3억 2,000재건축70/53m², 3/5층, 남향재건축 구역 지정,지하철 1호선 역곡역 도보가능, 상태양호,이사협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "대진 106동매매3억 2,000재건축77/58m², 3/5층, 남향",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "대진 105동매매3억 7,000재건축85B/65m², 5/5층, 남향역세권재건축투자추천",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.836Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체70㎡74㎡77㎡79㎡82B㎡83A㎡85B㎡86A㎡94㎡",
+      "price": null,
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:21.837Z"
+    },
+    {
+      "index": 50,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인대진 104동매매3억 7,000재건축83A/58m², 3/5층, 남향욕실,씽크대수리했음, 이사는협의가능함, 재건축진행중임부동산써브 제공더존부동산공인중개사사무소확인매물 25.07.17.집주인대진 102동전세2억 1,000재건축74/55m², 2/5층, 남향부동산써브 제공참빛부동산공인중개사확인매물 25.07.15.집주인대진 101동매매4억재건축79/60m², 1/5층, 남향초 중학교. 역곡역인근, 전체올수리, 밝은 남향, 즉시입주가능매경부동산 제공스마트공인중개사사무소확인매물 25.07.14.집주인대진 103동매매4억 2,000재건",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.837Z"
+    },
+    {
+      "index": 80,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인대진 101동매매4억재건축79/60m², 3/5층, 남향역곡역, 초중학교인근, 재건축 정비구역지정,매경부동산 제공스마트공인중개사사무소확인매물 25.07.07.",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:21.837Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8657_20250718_194326.png"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:41:33.516901",
+    "complex_id": "633"
+  },
+  "basic_info": {
+    "complex_id": "633",
+    "source_url": "https://new.land.naver.com/complexes/633",
+    "extracted_at": "2025-07-18T20:41:28.270912",
+    "url": "https://new.land.naver.com/complexes/633?ms=37.509087,127.129216,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:41:25.655Z",
+    "complexId": "633"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대백조 101동매매13억아파트110/84m², 9/19층, 남서향남향 뷰도 시원 함  집 주인 거주 중입니다 02 409 9108 황금",
+      "price": "13억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대백조 102동매매6억 5,000아파트44/31m², 4/14층, 남서향올수리A급 입주협의가능 지하주차장 방이역세권입니다",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대백조 102동매매6억 7,000아파트44/31m², 10/14층, 남서향방이역세권 소형평형 특올수리 샷시 배관포함 즉시입주가능",
+      "price": "6억 7",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대백조 102동매매6억 7,000아파트44/31m², 10/14층, 남서향배관 및 보일러 포함 특A급 올수리. 남향.",
+      "price": "6억 7",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현대백조 101동매매12억아파트102A/78m², 6/19층, 남동향확장올수리3년차. 방3.화2. 실입주. 대현402 4582",
+      "price": "12억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대백조 101동월세4억/160아파트110/84m², 19/19층, 남서향주인직접, 비확장특올수리, 9월말협의, 초중고,학원가근접",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인현대백조 102동매매6억 5,000아파트44/31m², 4/14층, 남서향내부올수리 남향 에어컨 인덕션 샷시포함수리",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인현대백조 101동매매14억아파트102A/78m², 고/19층, 동향방이역세권,특올수리, 화장실2개 지하주차장 입주일정 협의가능합니다.",
+      "price": "14억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:41:28.278Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체44㎡102A㎡102B㎡104㎡110㎡140㎡",
+      "price": null,
+      "area": "44㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:41:28.279Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_633_20250718_204133.png"
+  }
+}

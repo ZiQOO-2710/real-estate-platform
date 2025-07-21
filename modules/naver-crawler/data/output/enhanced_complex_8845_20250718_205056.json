@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:50:56.113050",
+    "complex_id": "8845"
+  },
+  "basic_info": {
+    "complex_id": "8845",
+    "source_url": "https://new.land.naver.com/complexes/8845",
+    "extracted_at": "2025-07-18T20:50:52.894656",
+    "url": "https://new.land.naver.com/complexes/8845?ms=37.46533,126.71975,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:50:50.281Z",
+    "complexId": "8845"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인이삭 101동매매2억 2,000아파트77/59m², 2/13층, 동향B.E.S.T  올수리된 숲세권의  내부 깔끔한 A급입니다.이사협의",
+      "price": "2억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인이삭 101동매매3억 8,000아파트146/111m², 7/13층, 남향단독세대 .조용하고 숲세권의  공기맑은 자리.내부 수리된 추천매물이사협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인이삭 101동매매3억 5,000아파트146/111m², 5/13층, 남향남향 거실확장 작은방확장 올수리 일조채광좋고 조용한 위치입니다 이사협의가",
+      "price": "3억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매2억아파트81A/59m², 2/13층, 남향남향,집상태 양호하며,이사협의됩니다",
+      "price": "2억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매2억 1,000아파트81B/59m², 4/13층, 남향전세안고 매매.남향.숲세권.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매3억아파트104/84m², 6/13층, 남향B.E.S.T 급매.남향.외부샤시제외 올수리.폴딩도어.깔끔하고 이쁜집.",
+      "price": "3억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매3억 6,000아파트129/107m², 5/13층, 남향따뜻한 남향집. 빠른입주및 협의.작은방1확장.수리된 추천매물",
+      "price": "3억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매3억아파트104/84m², 13/13층, 남향032 472 99.99 남향.탑층.공기좋은 숲세권의 해잘들어오는집.이사",
+      "price": "3억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매4억 1,000아파트129/107m², 8/13층, 남향032 472 99.99 남향.수리된깔끔한집.해 볕 좋은집.이사협의",
+      "price": "4억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인이삭 101동매매3억 7,000아파트146/111m², 8/13층, 남향남향.단독세대.샤시제외 올수리된 깔끔한집.이사협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매2억 4,000아파트81B/59m², 3/13층, 남향복있는032 422 07.00 남향 부분수리 화장실 보일러교체함",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인이삭 102동매매3억아파트104/84m², 12/13층, 남향복있는032 422 07.00 일조좋은 남향 전체수리로 깔끔 이사협의",
+      "price": "3억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "이삭 101동매매3억 5,000아파트146/111m², 중/13층, 남향남향,숲세권 방4개,화장실 집상태양호함",
+      "price": "3억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체77㎡81B㎡81A㎡104㎡129㎡146㎡",
+      "price": null,
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인이삭 101동매매2억 2,000아파트77/59m², 2/13층, 동향B.E.S.T  올수리된 숲세권의  내부 깔끔한 A급입니다.이사협의매경부동산 제공25시햇빛마을(032-472-9999)부동산공인중개사사무소확인매물 25.07.18.집주인이삭 101동매매2억 2,000아파트77/59m², 2/13층, 동향아늑하고 기분좋은집 편안함이 느껴지는 저층 상태좋음알터 제공하늘공인중개사사무소확인매물 25.07.18.집주인이삭 101동매매3억 8,000아파트146/111m², 7/13층, 남향단독세대 .조용하고 숲세권의  공기맑은 자리.내부",
+      "price": "2억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:50:52.904Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8845_20250718_205055.png"
+  }
+}

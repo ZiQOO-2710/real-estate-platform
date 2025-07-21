@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:22:36.434209",
+    "complex_id": "14"
+  },
+  "basic_info": {
+    "complex_id": "14",
+    "source_url": "https://new.land.naver.com/complexes/14",
+    "extracted_at": "2025-07-21T12:22:32.336190",
+    "url": "https://new.land.naver.com/complexes/14?ms=37.561359,126.851355,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:22:29.722Z",
+    "complexId": "14"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 801동매매6억아파트56/41m², 11/15층, 남동향수리되어 깨끗 입주또는세안고",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매6억 2,000아파트56/41m², 6/15층, 남서향샤시 현관중문포함 특올수리 예쁜인테리어",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매6억 500아파트56/41m², 5/15층, 남향올수리, 방2화1, 에어컨, 브라인더, 주인거주,가양급행역세권, 남향",
+      "price": "6억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 802동매매6억아파트56/41m², 2/15층, 남서향부분수리  입주가능 9호선 가양급행역이용, 주변편의시설양호함,",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 802동전세3억아파트56/41m², 15/15층, 남향9호선 가양역 5분거리고 남향집으로 뷰가 좋아요.",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매5억 8,000아파트56/41m², 15/15층, 남향내부수리되고,9호선가양역 5분거리로 교통최우수",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 803동매매5억 7,000아파트56/41m², 4/15층, 남향전세안고 매매 가능합니다.9호선가양역 5분거리 초역세권입니다.",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매6억 500아파트56/41m², 5/15층, 남서향가양역세권 수리 깨끗 내부샤시교체 입주협의",
+      "price": "6억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 802동월세3,000/100아파트56/41m², 3/15층, 남향수리됨.9호선가양역 5분거리로 교통매우좋음.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 803동매매5억 7,000아파트56/41m², 4/15층, 남서향수리  상태양호  .9호선가양급행이용,주변 편의시설좋은편  초 중 근거리",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매6억 3,000아파트56/41m², 8/15층, 남서향올수리, 풀옵션, 월세 끼고 매매",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 802동매매5억 3,000아파트56/41m², 1/15층, 남향기본형 입주일자 협의가능 4월이후 희망.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동전세2억 8,000아파트56/41m², 12/15층, 남서향화장실 수리 된 상태 좋은 물건.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 801동매매6억 1,000아파트56/41m², 10/15층, 남동향실입주가능,가양역세권, 살기좋은 집, 깔끔, 올림픽대로 진출 용이",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 805동매매6억아파트56/41m², 8/15층, 남서향입주 물건, 화장실 수리 깨끗, 남향",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인등촌주공8단지 801동매매5억 5,000아파트56/41m², 2/15층, 남동향빠른입주 가능 상태깨 끗 가양급행역세권",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.342Z"
+    },
+    {
+      "index": 41,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인등촌주공8단지 801동매매6억아파트56/41m², 11/15층, 남동향수리되어 깨끗 입주또는세안고텐컴즈 제공이화공인중개사무소확인매물 25.07.19.집주인등촌주공8단지 805동매매6억 2,000아파트56/41m², 6/15층, 남서향샤시 현관중문포함 특올수리 예쁜인테리어매경부동산 제공등촌대림공인중개사사무소확인매물 25.07.21.집주인등촌주공8단지 805동매매6억 500아파트56/41m², 5/15층, 남향올수리, 방2화1, 에어컨, 브라인더, 주인거주,가양급행역세권, 남향부동산114 제공김상진부동산공인중개사사무소확인매물 25",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:22:32.343Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_14_20250721_122236.png"
+  }
+}

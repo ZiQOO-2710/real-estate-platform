@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:21:50.726768",
+    "complex_id": "5058"
+  },
+  "basic_info": {
+    "complex_id": "5058",
+    "source_url": "https://new.land.naver.com/complexes/5058",
+    "extracted_at": "2025-07-18T20:21:46.387675",
+    "url": "https://new.land.naver.com/complexes/5058?ms=35.21112,126.896797,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:21:44.160Z",
+    "complexId": "5058"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인쌍용 104동매매3억 1,000아파트120/96m², 18/18층, 남향최상층 남향 거실확장,작은방확장  샷시제외 전망최고 학군우수 협의입주",
+      "price": "3억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.393Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인쌍용 102동매매3억 1,500아파트120/96m², 20/20층, 남향남향 일조 전망좋음 층간소음없이 조용한집 주차편리 생활권편리합니다",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인쌍용 101동매매4억 4,500아파트158/132m², 14/17층, 남향최고급올리모델링외부샷시 단열재포함 화장실 도배 장판 주방협의후 입주가",
+      "price": "4억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인쌍용 101동매매4억 5,000아파트158/132m², 6/17층, 남향초급매 현재공실 고급리모델링거실확장,폴딩도어외입주시기협의가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인쌍용 103동매매3억 5,000아파트120/96m², 2/19층, 남향앞동 남향 가운데라인  작은방확장 내부리모델링 붙박이장 샷시제외 조정가",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인쌍용 103동매매3억 3,000아파트120/96m², 1/19층, 남향가운데라인,외부샷시교체,작은방확장,보일러교체,생활권편리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인쌍용 102동매매3억 5,000아파트120/96m², 9/20층, 남향선호하는동 남향 가운데라인 협의입주 조정가능 초중고학군우수",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인쌍용 104동매매3억 6,000아파트120/96m², 5/18층, 남향맨앞동 거실 확장됨 내부 깔끔 조망 좋음 쪽문 인접 학군 최상",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인쌍용 104동매매3억 5,000아파트120/96m², 10/18층, 남향앞동 남향 가운데라인 내부깨끗  즉시입주  조정가 일조전망좋음",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인쌍용 104동매매4억 3,700아파트120/96m², 11/18층, 남향LG샷시포함 최고급올리모델링,남향,학군최고,일조조망좋음,주변환경좋음",
+      "price": "4억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "쌍용 101동매매4억 2,000아파트158/132m², 12/17층, 남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:46.394Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5058_20250718_202150.png"
+  }
+}

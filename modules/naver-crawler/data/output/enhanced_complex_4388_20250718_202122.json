@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:21:22.101229",
+    "complex_id": "4388"
+  },
+  "basic_info": {
+    "complex_id": "4388",
+    "source_url": "https://new.land.naver.com/complexes/4388",
+    "extracted_at": "2025-07-18T20:21:16.052063",
+    "url": "https://new.land.naver.com/complexes/4388?ms=35.215436,126.836879,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:21:14.471Z",
+    "complexId": "4388"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인첨단두산1차 103동전세1억 2,000아파트71A/59m², 2/5층, 남향내부올리모델링 가운데라인 남향 관리상태최상 채광좋음",
+      "price": "1억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "첨단두산1차 106동매매1억 8,000아파트71A/59m², 4/5층, 남동향동위치좋음,가운데라인,내부깨끗,전세안고매매가능,투자적합",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인첨단두산1차 105동매매2억 1,000아파트71A/59m², 3/5층, 남향내부리모델링,가운데라인,초중고인접,편리한교육환경,임차인거주중,조정가능",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "첨단두산1차 104동매매1억 9,000아파트71A/59m², 4/5층, 남향가운데라인  앞시야좋음 내부깨긋 내부기본조정가",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "첨단두산1차 101동매매2억 1,000아파트72B/59m², 1/5층, 남향강추 내부올리모델링 생활권편리함 도배 씽크대 욕실 보일러교체",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "첨단두산1차 114동매매1억 7,000아파트72B/59m², 5/5층, 남향내부올리모델링 욕실2 씽크대 신발장 보일러 페인트 전등 도배 장판교체",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "첨단두산1차 109동매매2억 4,000아파트72B/59m², 5/5층, 남향200050안고가,가운데라인 채광좋음 욕실,전등,신발장,씽크대",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "첨단두산1차 109동월세2,000/50아파트72B/59m², 5/5층, 남향가경가시거리좋음,초중인접,스탠딩에어컨,버티컬",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "첨단두산1차 104동매매1억 9,000아파트71A/59m², 1/5층, 남향",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "첨단두산1차 115동매매1억 9,500아파트72B/59m², 5/5층, 남향5층 내부깨끗",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "첨단두산1차 112동매매2억 500아파트72B/59m², 4/5층, 남향샷시제외 올리모델링(2024)화장실2,씽크대.신발장,몰딩,도배,장판",
+      "price": "2억 500",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "첨단두산1차 116동매매2억아파트71A/59m², 4/5층, 남향가경양호,버스승강장가까움,화장실포함한올리모델링(전세안고매매가능)",
+      "price": "2억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:21:16.064Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4388_20250718_202121.png"
+  }
+}

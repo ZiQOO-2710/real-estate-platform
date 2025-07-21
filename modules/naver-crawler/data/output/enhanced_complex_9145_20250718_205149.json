@@ -1,0 +1,368 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:51:49.262484",
+    "complex_id": "9145"
+  },
+  "basic_info": {
+    "complex_id": "9145",
+    "source_url": "https://new.land.naver.com/complexes/9145",
+    "extracted_at": "2025-07-18T20:51:44.849749",
+    "url": "https://new.land.naver.com/complexes/9145?ms=37.486717,127.127225,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:51:43.175Z",
+    "complexId": "9145"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문정푸르지오2차 202동월세3억/150아파트80B/59m², 7/18층, 남향정남향 중간층으로 전망 굿 융자 없슴 도배,장판,씽크대 교체해줌 초중교",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:51:44.858Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인문정푸르지오2차 202동매매10억아파트80B/59m², 1/18층, 남향정남향  채광 좋은집.  초중고 인접.문정역역세권",
+      "price": "10억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.859Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "문정푸르지오2차 202동매매10억아파트80B/59m², 저/18층, 남향추천매물 남향의 해잘드는 저층 문정역세권 층간소음해방",
+      "price": "10억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.859Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인문정푸르지오2차 201동매매12억 5,000아파트114/84m², 고/16층, 남동향34. 추천매매. 로얄층. 채광우수. 8호선문정역세권. 초중고 인접.",
+      "price": "12억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.859Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "은성파크면적87.86㎡78.81㎡ ~ 87.86㎡단지정보",
+      "price": null,
+      "area": "87.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "크로바면적184.5㎡134.01㎡ ~ 184.5㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "184.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "트윈팰리스면적103.39㎡103.39㎡ ~ 250.13㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "103.39㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "엠카운티(도시형)면적41.16㎡41.16㎡ ~ 62.97㎡단지정보",
+      "price": null,
+      "area": "41.16㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,722만문정그린매매7억7억전세4.6억4.6억면적85㎡85.09㎡ ~ 85.09㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억7",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,471만문정한전현대매매10.5억10억~10.8억전세-5억면적100㎡67.5㎡ ~ 100.68㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,625만문정푸르지오2차매매12.5억10억~12.5억월세-1.5백면적114㎡80.08㎡ ~ 114.04㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,085만문정동아매매7억6.6억~10억전세4.6억4.6억~7.5억면적75㎡70.31㎡ ~ 110.29㎡매매매물만 보기26개 매물이 있습니다.전세매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,726만선경쉐르빌(106-15)매매8억8억면적97㎡97.81㎡ ~ 97.81㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억8",
+      "area": "97㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "동부화이트빌면적85.51㎡58.68㎡ ~ 91.64㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "85.51㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "문정역마에스트로(주상복합)월세25만25만면적52㎡52.04㎡ ~ 52.04㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "52㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,109만현대매매9.5억8.48억~9.5억면적101㎡88.77㎡ ~ 101.42㎡매매매물만 보기17개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,901만문정푸르지오1차매매13.1억12억~13.5억면적111㎡111.14㎡ ~ 111.14㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억12",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "다원펠리스(도시형)면적 - ㎡39.32㎡ ~ 101.25㎡단지정보",
+      "price": null,
+      "area": "39.32㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "보광(도시형)면적 - ㎡15.86㎡ ~ 66.4㎡단지정보",
+      "price": null,
+      "area": "15.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "보라뷰2차면적83.87㎡83.87㎡ ~ 83.87㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "83.87㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "제이제이파크(도시형)면적54.59㎡27.99㎡ ~ 63.49㎡단지정보",
+      "price": null,
+      "area": "54.59㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,385만인택스빌매매8.5억8.3억~11.1억면적83㎡83.43㎡ ~ 109.3㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,222만현대2차매매7.7억7.3억~11억면적79㎡72.5㎡ ~ 112.15㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억7",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "6,853만힐스테이트e편한세상문정매매17억14.5억~20억전세-6.5억월세-1.4백~2.5백면적82㎡68.78㎡ ~ 116.52㎡매매매물만 보기57개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "17억14",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "동성(도시형)면적 - ㎡20.49㎡ ~ 23.22㎡단지정보",
+      "price": null,
+      "area": "20.49㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "모던펠리스(도시형)면적 - ㎡36.68㎡ ~ 65.07㎡단지정보",
+      "price": null,
+      "area": "36.68㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "동부주택브리앙뜨(63-8)면적110.78㎡58.01㎡ ~ 128.85㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "110.78㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "드림팰리스면적65.85㎡65.84㎡ ~ 65.85㎡단지정보",
+      "price": null,
+      "area": "65.85㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,569만문정동궁리치웰(55-3)매매9.5억9.5억~11.3억면적88㎡88.72㎡ ~ 91.96㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 29,
+      "selector": "[class*=\"deal\"]",
+      "text": "보라뷰면적96.63㎡96.63㎡ ~ 97.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "96.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 30,
+      "selector": "[class*=\"deal\"]",
+      "text": "주성면적87.47㎡87.47㎡ ~ 95.75㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "87.47㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,530만선경쉐르빌(106-23)매매7.5억7.5억면적98㎡98.03㎡ ~ 98.03㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억7",
+      "area": "98㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    },
+    {
+      "index": 33,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,742만문정푸르지오3차매매12억12억면적106㎡106.36㎡ ~ 106.36㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억12",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:51:44.860Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 34,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9145_20250718_205149.png"
+  }
+}

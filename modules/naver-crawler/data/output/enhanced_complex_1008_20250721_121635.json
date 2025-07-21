@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:16:35.527192",
+    "complex_id": "1008"
+  },
+  "basic_info": {
+    "complex_id": "1008",
+    "source_url": "https://new.land.naver.com/complexes/1008",
+    "extracted_at": "2025-07-21T12:16:31.401893",
+    "url": "https://new.land.naver.com/complexes/1008?ms=37.625799,127.043084,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:13:26.230Z",
+    "complexId": "1008"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매4억 2,500아파트82/59m², 2/20층, 남동향0신혼추천 내부깨끗 입주협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.416Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신원 102동매매4억 5,000아파트82/59m², 12/20층, 북동향수리되어 깨끗",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매5억 5,000아파트107/84m², 20/20층, 남향전세안고 매매",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매4억 2,000아파트82/59m², 고/20층, 남동향일부수리됨,북서울꿈의숲인근,조용하고깨끗함,",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매6억아파트107/84m², 고/20층, 남동향북서울꿈의숲, 확트인뷰, 깨끗함",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매4억 2,000아파트82/59m², 고/20층, 남서향급매, 숲세권, 깨끗함",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신원 103동매매5억 8,000아파트107/84m², 고/20층, 남향확장, 샷시포함올수리, 채광 뷰 좋음",
+      "price": "5억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신원 101동매매4억 5,000아파트82/59m², 9/20층, 남향탁트인 뷰, 지하주차장엘베연결, 올수리, 세끼고 매매 동북선호재아파트",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.417Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신원 101동매매5억 8,500아파트107/84m², 고/20층, 남동향로얄동 꿈의 숲 전망",
+      "price": "5억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.418Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신원 102동매매4억 5,000아파트82/59m², 중/20층, 남동향숲세권, 깨끗한 집, 전세3억 가능,",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.418Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "신원 103동매매4억 2,000아파트82/59m², 중/20층, 남향남향 전망최고 로얄층",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.418Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신원 103동매매4억 2,500아파트82/59m², 2/20층, 남동향0신혼추천 내부깨끗 입주협의매경부동산 제공길음역딸기(02-911-8844)부동산공인중개사사무소확인매물 25.07.19.집주인신원 102동매매4억 5,000아파트82/59m², 12/20층, 북동향수리되어 깨끗부동산뱅크 제공태양부동산공인중개사사무소확인매물 25.07.16.집주인신원 103동매매5억 5,000아파트107/84m², 20/20층, 남향전세안고 매매매경부동산 제공하나(02-945-0999)공인중개사사무소확인매물 25.07.14.집주인신원 103동매매",
+      "price": "4억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.418Z"
+    },
+    {
+      "index": 90,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신원 103동매매5억 5,000아파트107/84m², 20/20층, 남동향세안고,조망굿,올수리알터 제공단지내코오롱공인중개사사무소확인매물 25.07.05.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:16:31.418Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1008_20250721_121635.png"
+  }
+}

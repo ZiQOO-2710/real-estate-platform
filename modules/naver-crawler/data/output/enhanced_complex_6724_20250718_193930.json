@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:39:30.826682",
+    "complex_id": "6724"
+  },
+  "basic_info": {
+    "complex_id": "6724",
+    "source_url": "https://new.land.naver.com/complexes/6724",
+    "extracted_at": "2025-07-18T19:39:27.958218",
+    "url": "https://new.land.naver.com/complexes/6724?ms=35.842341,128.709872,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:39:26.037Z",
+    "complexId": "6724"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매6억 5,000아파트220/185m², 10/17층, 남향햇살좋은남향,전세안고매매합니다.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매4억 9,000아파트141/115m², 16/17층, 남향남향,고층,이사맞춰드려요,수리한번한집,샷시제외",
+      "price": "4억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매4억 3,000아파트165/134m², 17/17층, 남향기본, 남향속집, 윗집층간소음걱겆없어요, 가격,이사날짜조정가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 101동월세1,000/650아파트81/59m², 6/18층, 남향내부수리해드려요, 년650만원 , 이사협의",
+      "price": null,
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 102동매매2억 1,500아파트81/59m², 5/17층, 남향방확장, 보일러교체 수리한번한집, 남향속집",
+      "price": "2억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 101동매매2억아파트81/59m², 6/18층, 남향급매, 남향, 기본집, 조용하고 살기좋은단지",
+      "price": "2억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 105동매매2억 1,500아파트81/59m², 1/17층, 남향방확장, 내외부샷시교체등 올수리한집, 이사협의, 가격조정가능",
+      "price": "2억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매6억 7,000아파트220/185m², 8/17층, 남향내외부샷시교체등 올리모델링한집, 조용하고 살기좋은단지, 조정가능",
+      "price": "6억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 101동매매2억 2,800아파트81/59m², 5/18층, 남향방확장, 전망나오는집. 이사협의",
+      "price": "2억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매4억 9,000아파트141/115m², 17/17층, 남향내부샷시포함 수리 한 깨끗한 집,초품아,인근 상권편리함,여러조건 조율",
+      "price": "4억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 102동매매2억 4,000아파트81/59m², 10/17층, 남향남향,속집,집깨끗,신매역역세권.학군우수,이사협의",
+      "price": "2억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 105동매매2억 3,000아파트81/59m², 9/17층, 남향남향,올리모델링되어집깔끔,중문,방1확장,금액조정가능",
+      "price": "2억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 105동매매2억 9,000아파트111/84m², 1/17층, 남향방확장,욕실1개수리 보일러교체등 부분수리,아이키우기좋은집,조정가능",
+      "price": "2억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 101동매매2억 5,000아파트81/59m², 14/18층, 남향전망라인,1년전LG안밖샷시교체,올수리된깨끗한집,전세안고매매",
+      "price": "2억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 105동매매2억 5,000아파트81/59m², 4/17층, 남향남향,완전특올수리,속집,이사항시가능,신매역역세권,매호초등",
+      "price": "2억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 101동매매2억 1,000아파트81/59m², 8/18층, 남향방확장, 욕실수리, 부분수리, 이사정상",
+      "price": "2억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인매호동서1차 106동매매4억아파트165/134m², 4/17층, 남향공실, 바깥샷시제외올수리",
+      "price": "4억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:27.969Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6724_20250718_193930.png"
+  }
+}

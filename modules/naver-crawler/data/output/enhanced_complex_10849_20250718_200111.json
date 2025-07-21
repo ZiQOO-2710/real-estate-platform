@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:01:11.194568",
+    "complex_id": "10849"
+  },
+  "basic_info": {
+    "complex_id": "10849",
+    "source_url": "https://new.land.naver.com/complexes/10849",
+    "extracted_at": "2025-07-18T20:01:07.355800",
+    "url": "https://new.land.naver.com/complexes/10849?ms=35.212243,129.030032,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:01:06.241Z",
+    "complexId": "10849"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 103동매매3억 3,000아파트113/84m², 20/26층, 남향욕실 싱크 LED조명 거실홀딩도어 교체 .",
+      "price": "3억 3",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 103동매매3억 4,000아파트113/84m², 19/26층, 남향4년전 욕실 싱크 및 내부올수리. 즉시입주가능.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 101동매매3억 9,500아파트127/99m², 16/25층, 남향급매 38판상 .수리후 첫입주.방2 거실확장. 전망 일조 최고.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 101동매매4억 3,000아파트113/84m², 18/25층, 남향조망 일조 좋은집  정남향 작은방 발코니 확장",
+      "price": "4억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 102동매매2억 3,000아파트79/59m², 26/26층, 동향탑층 옥탑방 확트인뻥뷰 컨디션좋음 조율가능 직접방문추천",
+      "price": "2억 3",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 103동매매3억 4,000아파트113/84m², 17/26층, 남향예전에 수리  거실 방 확장",
+      "price": "3억 4",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 102동매매2억 2,000아파트79/59m², 4/26층, 동향일부수리 깨끗합니다",
+      "price": "2억 2",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 103동매매3억아파트113/84m², 24/26층, 남향급매.34판상.광폭베란다의 넓은구조.역세권. 정남향고층 전망일조 굿.",
+      "price": "3억",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 101동매매4억아파트127/99m², 5/25층, 남향올확장형 정남향의뻥뷰 화단철거해서 넓은 전실과 발코니 직접방문추천",
+      "price": "4억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 103동전세2억 5,000아파트113/84m², 19/26층, 남향4년전 내부올수리. 즉시입주가능.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인신만덕쌍용예가 106동매매3억 4,000아파트113/84m², 25/26층, 남향절충가 입구동 전망트이고 거실 작은방 확장",
+      "price": "3억 4",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:01:07.368Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10849_20250718_200111.png"
+  }
+}

@@ -94,7 +94,7 @@ def get_region_code(city: str, district: str) -> Optional[str]:
     Returns:
         Optional[str]: 지역 코드 또는 None
     """
-    from .types import REGION_CODES
+    from .data_types import REGION_CODES
     
     if city in REGION_CODES and district in REGION_CODES[city]:
         return REGION_CODES[city][district]
@@ -110,7 +110,7 @@ def get_trade_type_code(trade_type: str) -> str:
     Returns:
         str: 거래 타입 코드
     """
-    from .types import TRADE_TYPE_CODES
+    from .data_types import TRADE_TYPE_CODES
     
     return TRADE_TYPE_CODES.get(trade_type, "A1")  # 기본값: 매매
 
@@ -124,7 +124,7 @@ def get_real_estate_type_code(estate_type: str) -> str:
     Returns:
         str: 부동산 타입 코드
     """
-    from .types import REAL_ESTATE_TYPE_CODES
+    from .data_types import REAL_ESTATE_TYPE_CODES
     
     return REAL_ESTATE_TYPE_CODES.get(estate_type, "APT")  # 기본값: 아파트
 

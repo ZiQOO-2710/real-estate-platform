@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:50:45.561626",
+    "complex_id": "5354"
+  },
+  "basic_info": {
+    "complex_id": "5354",
+    "source_url": "https://new.land.naver.com/complexes/5354",
+    "extracted_at": "2025-07-18T19:50:42.098390",
+    "url": "https://new.land.naver.com/complexes/5354?ms=35.798232,127.128568,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:50:40.460Z",
+    "complexId": "5354"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인쌍용3단지 301동매매1억 2,800아파트69/59m², 4/6층, 남서향전세안고 투자 가능 좋은 매매가",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인쌍용3단지 303동매매9,000아파트69/59m², 6/6층, 남서향기본상태 재건축추진중 이사협의가능",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인쌍용3단지 305동매매1억 1,000아파트69/59m², 6/6층, 남서향전체리모델링 완료  상태 채광최상  월세안고 매매   향후 투자가치 높음",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "쌍용3단지 304동매매1억 3,000아파트69/59m², 2/6층, 남서향거주편한 2층 상태기본 투자 추천",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "쌍용3단지 301동매매1억 3,000아파트69/59m², 5/6층, 남서향입주일협의 샷시포함 리모델링 각종편의 시설근접",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "쌍용3단지 305동매매1억 1,000아파트69/59m², 고/6층, 남서향전체리모델링, 재건축진행중, 투자가치높음,월세안고매매,",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "쌍용3단지 303동매매1억 1,000아파트69/59m², 2/6층, 남서향기본상태 선호하는2층  밝음 향후 재건축 투자로 적격",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "쌍용3단지 303동매매1억아파트69/59m², 6/6층, 남향재건축추진중으로 투자가치 높음, 전망좋고 총등학교, 마트, 버스정류장 유",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "쌍용3단지 302동전세7,000아파트69/59m², 고/6층, 남서향2년전 올리모델링으로 상태최상, 빠른입주가능",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "쌍용3단지 302동매매1억 1,500아파트69/59m², 고/6층, 남서향2년전 샷시포함 올리모델링으로 상태최상, 빠른입주가능",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인쌍용3단지 301동매매9,000아파트69/59m², 6/6층, 남서향월세안고 매매, 샷시포함 리모델링",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:50:42.109Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5354_20250718_195045.png"
+  }
+}

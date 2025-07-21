@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:27:32.610021",
+    "complex_id": "1018"
+  },
+  "basic_info": {
+    "complex_id": "1018",
+    "source_url": "https://new.land.naver.com/complexes/1018",
+    "extracted_at": "2025-07-21T12:27:28.913115",
+    "url": "https://new.land.naver.com/complexes/1018?ms=37.5496,126.86106,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:27:27.330Z",
+    "complexId": "1018"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태진아름 103동매매8억 1,000아파트105/84m², 1/10층, 남향9호선 등촌역 초역세권 방3화2 아파트 올수리O",
+      "price": "8억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.915Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태진아름 102동매매6억 6,000아파트83/59m², 4/10층, 동향교통편리하고 깨끗하게 관리 잘 한집",
+      "price": "6억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인태진아름 101동전세5억 5,000아파트105/84m², 5/8층, 동향등촌역 초역세권 올수리됨 실입주 생활권 최고",
+      "price": "5억 5",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인태진아름 101동매매8억 3,000아파트105/84m², 5/8층, 남동향등촌역세권   상태좋음   앞트인집 올수리한집  급매",
+      "price": "8억 3",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인태진아름 102동매매6억 6,000아파트83/59m², 중/10층, 남동향등촌역역세권,실입주가능, 깔끔관리,영일고인근,재래시장인근",
+      "price": "6억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인태진아름 102동매매8억 4,000아파트105/84m², 중/10층, 남동향등촌역 역세권에 깨끗하게 관리 잘한 집",
+      "price": "8억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "태진아름 101동매매9억 5,000아파트145/121m², 3/8층, 남향급매 남향 9호선등촌역역세권 빠른입주가능",
+      "price": "9억 5",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인태진아름 102동단기임대1,000/140아파트83/59m², 중/10층, 남동향3달 단기,등촌역역세권, 영일고인근,재래시장인근",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": null,
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인태진아름 101동매매8억 3,000아파트105/84m², 5/8층, 남서향급매 올수리 등촌역도보3분  잘빠진32형구조 영일고도보5분 정상입주",
+      "price": "8억 3",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:27:28.916Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1018_20250721_122732.png"
+  }
+}

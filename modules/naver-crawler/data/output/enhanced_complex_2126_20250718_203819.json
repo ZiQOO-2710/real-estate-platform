@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:38:19.241805",
+    "complex_id": "2126"
+  },
+  "basic_info": {
+    "complex_id": "2126",
+    "source_url": "https://new.land.naver.com/complexes/2126",
+    "extracted_at": "2025-07-18T20:38:16.223827",
+    "url": "https://new.land.naver.com/complexes/2126?ms=37.726948,127.050803,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:38:13.903Z",
+    "complexId": "2126"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신도4차 402동매매2억 9,500아파트85/59m², 15/21층, 동향세안고매매26년1월, 올수리샷시제외, 회룡역세권, 전망좋음.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신도4차 403동매매3억 5,000아파트108/84m², 19/22층, 남향전자계약즉시 입주  기본 정 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신도4차 403동매매3억 6,000아파트108/84m², 고/22층, 북동향중랑천영구뷰 깨끗 입주정상",
+      "price": "3억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "신도4차 402동매매2억 5,900아파트85/59m², 12/21층, 동향급매, 중량천뷰, 회룡역세권, 가격조정가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신도4차 402동매매2억 7,000아파트85/59m², 17/21층, 동향회룡역세권, 입주날짜협의, 잔금전수리가능, 전망좋음.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신도4차 402동매매2억 5,500아파트85/59m², 3/21층, 남동향급매.정상입주 및 세안고 매매가능 아주깨끗함.지인임.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "신도4차 402동매매2억 5,500아파트85/59m², 2/21층, 동향26년 7월경, 씽크대,신발장,화장실 등등 수리, 앞이 안막혔어요",
+      "price": "2억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.233Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "신도4차 402동매매2억 7,000아파트85/59m², 13/21층, 동향회룡역세권5분거리 부분수리 깨끗함 중량천 전망뷰 좋아요 날짜2달정도",
+      "price": "2억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.234Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "신도4차 403동매매3억 5,000아파트108/84m², 19/22층, 남서향회룡역세권 전망굿 기본 상태깨끗 정상입주",
+      "price": "3억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.234Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신도4차 402동매매2억 9,500아파트85/59m², 15/21층, 동향세안고매매26년1월, 올수리샷시제외, 회룡역세권, 전망좋음.부동산렛츠 제공큰바위공인중개사사무소확인매물 25.07.07.집주인신도4차 403동매매3억 5,000아파트108/84m², 19/22층, 남향전자계약즉시 입주  기본 정 남향 부동산써브 제공단지내센트럴탑공인중개사사무소확인매물 25.07.05.집주인신도4차 403동매매3억 6,000아파트108/84m², 고/22층, 북동향중랑천영구뷰 깨끗 입주정상매경부동산 제공하나센트럴자이(단지내)공인중개사사무소확인",
+      "price": "2억 9",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:38:16.234Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2126_20250718_203819.png"
+  }
+}

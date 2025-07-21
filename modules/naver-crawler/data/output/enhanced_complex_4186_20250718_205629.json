@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:56:29.317175",
+    "complex_id": "4186"
+  },
+  "basic_info": {
+    "complex_id": "4186",
+    "source_url": "https://new.land.naver.com/complexes/4186",
+    "extracted_at": "2025-07-18T20:56:23.813705",
+    "url": "https://new.land.naver.com/complexes/4186?ms=36.12924,128.323344,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:56:22.577Z",
+    "complexId": "4186"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동매매1억 2,500아파트80/59m², 16/16층, 남향기본집,금오산정상뷰",
+      "price": "1억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 101동매매1억 1,000아파트80/59m², 5/16층, 남동향생활권편리, 작은방확장, 보일러교체, 가격절충가능,이사협의",
+      "price": "1억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동월세700/42아파트80/59m², 6/16층, 남향생활권편리, 도배,도색등 해줌. 이사협의",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 103동매매1억 9,000아파트107/84m², 15/16층, 남서향확트인조망권,작은방확장,씽크대,보일러교체등일부리모델링,집상태깨끗",
+      "price": "1억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 107동매매1억 6,500아파트107/84m², 14/16층, 남향남향,작은방1확장 및 일부수리,속집,구조좋음,구미역,원남초등인접함,",
+      "price": "1억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동월세700/42아파트80/59m², 중/16층, 남향남향, 속집, 도배.도색.샷시코킹 완료, 교통 및 생활편리 등",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동매매1억 2,500아파트80/59m², 고/16층, 남향남향, 로얄층, 속집, 3년 전 싱크대.화장실 등 수리, 작은방 확장",
+      "price": "1억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 108동매매1억 6,500아파트107/84m², 16/16층, 동향거실확장이쁜데크설치, 거실,욕실리모델링완료, 뻥뷰, 층간소음없는집",
+      "price": "1억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동매매1억 1,700아파트80/59m², 14/16층, 남향안방붙박이장,부분리모델링,주인거주,집상태깨끗",
+      "price": "1억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 105동매매1억 5,000아파트107/84m², 저/16층, 남향로얄동, 집주인거주로 관리잘된집",
+      "price": "1억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 105동월세1,000/70아파트107/84m², 2/16층, 남향이사시기 조율가능,내부 올리모델링,햇볕잘들고 밝고조용함,쾌적한내부공간",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 102동매매1억 500아파트80/59m², 6/16층, 남향남향, 작은방 확장,가격일부절충,수리요함, 바로 앞 초등학교.공원 등",
+      "price": "1억 500",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인금오청구타운 107동매매1억 8,000아파트107/84m², 5/16층, 남향남향, 3년 전 샤시 포함 올리모델링, 가격일부절충, 교통및생활편리",
+      "price": "1억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "금오청구타운 103동매매1억 8,000아파트107/84m², 10/16층, 남서향절충가능, 이사협의가능",
+      "price": "1억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.824Z"
+    },
+    {
+      "index": 119,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인금오청구타운 102동매매1억 500아파트80/59m², 8/16층, 남향남향, 작은방 확장,가격절충, 바로 앞 초등학교.공원.마트.병원 등부동산뱅크 제공보금자리공인중개사사무소확인매물 25.06.23.",
+      "price": "1억 500",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:56:23.825Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4186_20250718_205629.png"
+  }
+}

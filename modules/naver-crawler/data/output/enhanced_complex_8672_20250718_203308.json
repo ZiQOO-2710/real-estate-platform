@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:33:08.327493",
+    "complex_id": "8672"
+  },
+  "basic_info": {
+    "complex_id": "8672",
+    "source_url": "https://new.land.naver.com/complexes/8672",
+    "extracted_at": "2025-07-18T20:33:04.559964",
+    "url": "https://new.land.naver.com/complexes/8672?ms=37.488521,126.788358,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:33:02.183Z",
+    "complexId": "8672"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 9,500아파트87B/59m², 3/12층, 북동향쓰리룸구조,올수리 되어있음,통베란다,심곡천산책로,재래시장등 위치좋은곳",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 9,500아파트95/65m², 7/12층, 남향원미초,심곡천,부천역도보가능,채광좋은집,입주협의",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 8,500아파트87B/59m², 2/12층, 북향급매.실입주가능.올수리 깨끗한집.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매3억 5,000아파트87B/59m², 5/12층, 북동향전체수리상태깨끗, 가격조정가능, 승강기교체됨, 날짜협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매3억 1,000아파트87B/59m², 4/12층, 북동향올수리, 전세안고매매, 가격조정가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "일해늘푸른(주상복합) 1동매매3억 1,000아파트95/65m², 10/12층, 남향상태깨끗, 가격조정가능, 채광좋은남향, 방3.욕실1, 날짜협의",
+      "price": "3억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 8,500아파트87B/59m², 2/12층, 북동향올수리, 부천역.소사역가까워 교통편리, 방3.욕실1, 날짜협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 9,000아파트95/65m², 중/12층, 남향실매물 실사진 소사역 부천역 더블역세권 방3 넓은거실 착한가격 초품빌",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "일해늘푸른(주상복합) 1동매매2억 9,500아파트87B/59m², 3/12층, 북향위치 좋은 아파트 매매입니다.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    },
+    {
+      "index": 39,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인일해늘푸른(주상복합) 1동매매2억 9,500아파트87B/59m², 3/12층, 북동향쓰리룸구조,올수리 되어있음,통베란다,심곡천산책로,재래시장등 위치좋은곳매경부동산 제공신두산공인중개사사무소확인매물 25.07.17.집주인일해늘푸른(주상복합) 1동매매2억 9,500아파트95/65m², 7/12층, 남향원미초,심곡천,부천역도보가능,채광좋은집,입주협의매경부동산 제공신두산공인중개사사무소확인매물 25.07.17.집주인일해늘푸른(주상복합) 1동매매2억 8,500아파트87B/59m², 2/12층, 북향급매.실입주가능.올수리 깨끗한집.부동산써브",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:33:04.572Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8672_20250718_203308.png"
+  }
+}

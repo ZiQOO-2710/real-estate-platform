@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:31:11.790144",
+    "complex_id": "5926"
+  },
+  "basic_info": {
+    "complex_id": "5926",
+    "source_url": "https://new.land.naver.com/complexes/5926",
+    "extracted_at": "2025-07-18T19:31:06.213928",
+    "url": "https://new.land.naver.com/complexes/5926?ms=37.748894,128.897739,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:31:04.519Z",
+    "complexId": "5926"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인노암신화 107동매매2억 3,000아파트106/84m², 9/13층, 남서향샷시교체 완료, 월세임대중, 내부컨디션 우수",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.223Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인노암신화 104동매매2억 3,500아파트106/84m², 2/15층, 남동향2년전 리모델링,최근 화장실리모델링.가격조정가능 합니다.",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.223Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인노암신화 104동매매2억 3,500아파트106/84m², 2/15층, 남향가격조정가 즉시입주가로얄동시내권 샷시,안방욕실 제외 올리모델링",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.223Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인노암신화 104동매매2억 3,000아파트106/84m², 9/15층, 남동향주인거주로 집상태양호함.즉시입주.거실에서 막힘없는조망권 중앙시장인근",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.223Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인노암신화 102동매매2억 4,000아파트106/84m², 3/13층, 남서향고급샷시포함올리모델링, 채광굿, 주인거주로 관리상태최상,매매가협의가능",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.223Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인노암신화 104동매매2억 5,000아파트106/84m², 5/15층, 남서향가격조정가,샷시포함올리모델링, 중문설치, 일조권좋음. 입주협의가",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인노암신화 107동매매2억 4,000아파트106/84m², 6/13층, 남서향강릉중앙시장도보권 채광개망감최고 주인거주관리상태좋아요 현공실",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인노암신화 107동매매2억 2,500아파트106/84m², 5/13층, 남서향싱크대교체. 맨앞동 탁트인 전망최고. 중간라인. 즉시입주가능",
+      "price": "2억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "노암신화 102동매매2억 2,000아파트106/84m², 2/13층, 남서향2년전 리모델링외부샷시제외",
+      "price": "2억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "노암신화 104동매매2억 3,000아파트106/84m², 3/15층, 남서향104동 3층 남서향 해잘듦 리모델링되어 내부깔끔함 방3 화2 입주협의가",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "노암신화 107동매매2억아파트106/84m², 8/13층, 남서향공실,기본형,조망막힘없이 확트인뷰",
+      "price": "2억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "노암신화 103동매매2억 2,000아파트106/84m², 2/14층, 남서향싱크대교체 욕실수리 LED전등 도어등 내부수리깨끗함. 남서향 중간라인",
+      "price": "2억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "노암신화 107동매매2억 3,500아파트106/84m², 11/13층, 남서향막힘없는 전망, 샷시전체교체, 베란다 타일교체, 작은방확장형",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    },
+    {
+      "index": 45,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인노암신화 107동매매2억 3,000아파트106/84m², 9/13층, 남서향샷시교체 완료, 월세임대중, 내부컨디션 우수부동산뱅크 제공내곡자이부동산 공인중개사사무소확인매물 25.07.18.집주인노암신화 104동매매2억 3,500아파트106/84m², 2/15층, 남동향2년전 리모델링,최근 화장실리모델링.가격조정가능 합니다.부동산렛츠 제공부동산랜드 공인중개사사무소확인매물 25.07.16.집주인노암신화 104동매매2억 3,500아파트106/84m², 2/15층, 남향가격조정가 즉시입주가로얄동시내권 샷시,안방욕실 제외 올리모델링 매경",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:31:06.224Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5926_20250718_193111.png"
+  }
+}

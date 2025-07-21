@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:45:17.375098",
+    "complex_id": "9301"
+  },
+  "basic_info": {
+    "complex_id": "9301",
+    "source_url": "https://new.land.naver.com/complexes/9301",
+    "extracted_at": "2025-07-18T20:45:13.649192",
+    "url": "https://new.land.naver.com/complexes/9301?ms=37.529116,126.676986,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:45:11.012Z",
+    "complexId": "9301"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현광 나동매매1억 3,000아파트53/41m², 5/6층, 남향주인거주  빠른입주가능",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현광 나동월세500/35아파트53/41m², 중/6층, 남향집상태보통 ,빠른입주가능",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현광 가동전세4,000아파트61/48m², 5/6층, 남향이사협의  오시는 분과 협의해서 일부수리 예정",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현광 나동월세300/35아파트53/41m², 2/6층, 남향남향 방2개 거실 있음 싱크대 교체함 외국인도 가능함  집 보기 편합니다",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현광 나동매매1억 4,000아파트53/41m², 중/6층, 남향집상태깨끗,세안고,재건축 진행예정단지.",
+      "price": "1억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현광 가동매매1억 8,000아파트61/48m², 중/6층, 남향세안고,집상태보통,샷시함.화장실부분수리,넓은평수,재건축진행예정단지",
+      "price": "1억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현광 가동매매1억 5,000아파트61/48m², 5/6층, 남향투자물건",
+      "price": "1억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "현광 나동전세4,000아파트53/41m², 고/6층, 남향바로입주가,월세5백에30도가능,도배장판,보일러,씽크교체,뒷산잇어 공기좋음",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,124만성광매매1.7억1.2억~2억월세35만30만~50만면적50㎡50.76㎡ ~ 50.76㎡매매매물만 보기7개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억1",
+      "area": "50㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "647만한성매매1.35억1.3억~1.9억전세5천5천월세40만28만~50만면적69㎡69.55㎡ ~ 69.55㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "970만동우2차매매1.35억1.15억~2억전세3천3천월세30만30만~35만면적46㎡46.26㎡ ~ 51.39㎡매매매물만 보기22개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "46㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,014만포레나루원시티매매6.7억5.15억~14억전세4억3.4억~6.5억월세1.4백1.3백~1.7백면적110㎡78.49㎡ ~ 116.3㎡매매매물만 보기240개 매물이 있습니다.전세매물만 보기20개 매물이 있습니다.월세매물만 보기38개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억5",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "873만현광매매1.4억1.3억~1.8억전세4천4천월세35만30만~35만면적53㎡53.69㎡ ~ 61.98㎡매매매물만 보기6개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,038만동우1차매매1.35억1.26억~1.7억월세30만30만~40만면적43㎡43.38㎡ ~ 52.5㎡매매매물만 보기45개 매물이 있습니다.월세매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "43㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "685만하나2차매매1.7억1.5억~2.9억전세1.3억1.3억월세65만60만~80만면적82㎡70.15㎡ ~ 102.24㎡매매매물만 보기94개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억1",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:45:13.658Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9301_20250718_204517.png"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:19:16.245829",
+    "complex_id": "11"
+  },
+  "basic_info": {
+    "complex_id": "11",
+    "source_url": "https://new.land.naver.com/complexes/11",
+    "extracted_at": "2025-07-21T12:19:11.757560",
+    "url": "https://new.land.naver.com/complexes/11?ms=37.565099,126.843069,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:19:09.594Z",
+    "complexId": "11"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 204동매매5억 5,000아파트56A/41m², 6/15층, 남서향2026년 1월잔금,남향,올수리,세안고,양천향교역세권,마곡지구도보출근.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.763Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 201동전세3억 2,000아파트56B/41m², 13/15층, 남향특올수리 트인뷰 밝은남향 9호선 양천향교역 마곡인근 에어컨 냉장고 옵션",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 203동매매5억 6,000아파트56A/41m², 3/15층, 남서향세안고 내부올수리 CJ 부지개발호재 5.9호선이용 마곡인근  서울식물원",
+      "price": "5억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 202동매매5억 7,000아파트56A/41m², 1/15층, 남동향입주가 최근특올수리 샷시포함  CJ 부지개발호재 5.9호선이용가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 203동매매6억아파트56A/41m², 9/15층, 남서향입주가능",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 205동월세2,000/100아파트56A/41m², 6/15층, 남동향수리 이사날짜협의가  마곡인근  5.9호선이용 엔쌔백화점, 주변편의시설",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 202동전세3억아파트56A/41m², 7/15층, 남동향수리되어 깨끗,확트인뷰,9호선역세권,마곡인접",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 202동전세3억아파트56A/41m², 7/15층, 남서향올수리.깨끗.829",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 204동매매5억 5,000아파트56A/41m², 중/15층, 남향",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 201동매매6억아파트56B/41m², 5/15층, 남서향수리,입주가 5.9호선이용가능 CJ부지개발호재,마곡인근 엔씨백화점이용",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 201동매매6억아파트56B/41m², 11/15층, 남향올수리, 로얄층, 입주협의, 관리잘됨, 남향 공원뷰, 양천향교 발산역세권",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 205동전세2억 9,000아파트56B/41m², 15/15층, 남동향전체올수리,9월입주협의,신혼부부추천,9호선역세권",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 201동매매6억아파트56B/41m², 11/15층, 남서향세안고  마곡인근  CJ 부지개발호재 5.9호선이용가능  엔씨백화점이용",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 206동매매7억 5,000아파트70/49m², 15/15층, 남서향세안고,마곡인근.5.9호선이용 엔씨백화점이용  마곡상권이용가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인등촌주공2단지 205동매매6억아파트56A/41m², 15/15층, 남동향올수리,전세안고 마곡인근.5.9호선이용 NC백화점이용 CJ부지개발호재",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:19:11.764Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_11_20250721_121916.png"
+  }
+}

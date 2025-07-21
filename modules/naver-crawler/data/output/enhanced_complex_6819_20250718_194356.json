@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:43:56.421541",
+    "complex_id": "6819"
+  },
+  "basic_info": {
+    "complex_id": "6819",
+    "source_url": "https://new.land.naver.com/complexes/6819",
+    "extracted_at": "2025-07-18T19:43:51.657418",
+    "url": "https://new.land.naver.com/complexes/6819?ms=37.691535,127.88477,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:43:50.184Z",
+    "complexId": "6819"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:51.669Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "543만엔젤2차매매1.1억1.1억면적67㎡67.46㎡ ~ 67.46㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억1",
+      "area": "67㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "489만세종매매1.05억6천~1.05억면적71㎡39.44㎡ ~ 71.28㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억6",
+      "area": "71㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "우일궁전(주상복합)면적101.31㎡72.92㎡ ~ 177.62㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "101.31㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "BH리버팰리스(주상복합)면적66.69㎡66.69㎡ ~ 66.69㎡단지정보",
+      "price": null,
+      "area": "66.69㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "우일강변면적91.6㎡91.6㎡ ~ 150.86㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "91.6㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "라온빌(도시형)면적 - ㎡63.63㎡ ~ 67.27㎡단지정보",
+      "price": null,
+      "area": "63.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "안정스위트타워(주상복합)면적96.28㎡95.61㎡ ~ 165.5㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "96.28㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "동일면적85.58㎡85.58㎡ ~ 171.17㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "85.58㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "거림하이츠빌면적133.52㎡103.42㎡ ~ 158.39㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "133.52㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "우일2차면적101.46㎡101.08㎡ ~ 101.46㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "101.46㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "미진엔젤면적123.93㎡33.13㎡ ~ 123.93㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "123.93㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "토우전세7천7천면적76㎡76.59㎡ ~ 76.59㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "BH리버팰리스(도시형)월세75만75만면적56㎡56.28㎡ ~ 56.28㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "467만우일매매1.2억1.2억면적85㎡85.65㎡ ~ 85.65㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:43:51.670Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6819_20250718_194356.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:23:35.603425",
+    "complex_id": "3667"
+  },
+  "basic_info": {
+    "complex_id": "3667",
+    "source_url": "https://new.land.naver.com/complexes/3667",
+    "extracted_at": "2025-07-18T20:23:31.036537",
+    "url": "https://new.land.naver.com/complexes/3667?ms=37.310608,126.837617,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:23:28.178Z",
+    "complexId": "3667"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현장주공그린빌8단지 809동매매5억 2,000아파트93D/75m², 15/15층, 동향막힘없는전망올수리 첫입주 인기타입 공실비번",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.048Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 809동매매5억아파트93A/75m², 15/15층, 남향수리된탑층 전망채광굿 세안고 갭투추천",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.048Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 804동매매5억 9,000아파트104A/84m², 4/15층, 남향방1확장 올수리 남향 이사협의",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 809동매매5억 2,000아파트93D/75m², 고/15층, 동향즉시입주,탁트인 조망,작은방2개확장,욕실,주방,무드등,탄성코트하고 첫입주",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 804동매매6억아파트104A/84m², 13/15층, 남향최근수리,26년3월25일 전세만기",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 811동매매6억 1,000아파트104A/84m², 9/10층, 북향중문,수리잘되어있음,남향,빠른이사가능",
+      "price": "6억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 802동매매5억 4,000아파트93B/75m², 10/15층, 남향남향 좋은구조 이사협의 방1확장",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공그린빌8단지 803동월세2억/70아파트104A/84m², 6/15층, 남향남향 일부수리 9월12일 이사",
+      "price": "2억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공그린빌8단지 803동전세3억 7,000아파트104A/84m², 6/15층, 서향남향 일부수리됨 9월12일 이사",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공그린빌8단지 808동전세3억 8,000아파트104B/84m², 5/15층, 남향올수리, 방1확장, 남향,애완동물불가, 이사협의 가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "주공그린빌8단지 808동매매6억 4,000아파트104B/84m², 11/15층, 남향남향.수리됨약5년.방1확장",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공그린빌8단지 808동전세3억 6,000아파트104B/84m², 1/15층, 남향바로입주 수리해 드리며  층간소음없이 마음껏 아이 키울수있음",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체93A㎡93C㎡93D㎡93B㎡93E㎡93F㎡104B㎡104A㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:23:31.049Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3667_20250718_202335.png"
+  }
+}

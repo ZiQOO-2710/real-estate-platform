@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:52:26.868125",
+    "complex_id": "8533"
+  },
+  "basic_info": {
+    "complex_id": "8533",
+    "source_url": "https://new.land.naver.com/complexes/8533",
+    "extracted_at": "2025-07-18T20:52:21.296466",
+    "url": "https://new.land.naver.com/complexes/8533?ms=37.349303,126.979572,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:52:19.195Z",
+    "complexId": "8533"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 101동전세3억 3,000아파트106/84m², 10/22층, 남향남향 깨끗하고  조망권 좋습니다",
+      "price": "3억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 103동매매4억 5,000아파트74/59m², 1/21층, 남향막힘없는 전면동,  층간소음걱정없음,  입주 또는 전세안고 가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 101동매매5억아파트106/84m², 중/22층, 남향정남향 조망권 좋고 깨끗합니다",
+      "price": "5억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 103동월세5,000/100아파트74/59m², 저/21층, 남향전망좋음,  깨끗하고 일부수리됨 ,  입주일 협의가능",
+      "price": null,
+      "area": null,
+      "floor": "21층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 103동매매4억 5,000아파트74/59m², 저/21층, 남향샷시포함  최근  올수리 ,  전면동으로  전망좋음",
+      "price": "4억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "민들레베스파트 102동매매4억 7,000아파트74/59m², 6/22층, 남향조용하고 깨끗함.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "민들레베스파트 101동매매5억아파트106/84m², 10/22층, 남향남향 깨끗함  입주가",
+      "price": "5억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "민들레베스파트 103동매매4억 5,000아파트74/59m², 6/21층, 남서향올수리1년 샷시까지  채광좋음",
+      "price": "4억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "민들레베스파트 104동매매5억 8,000아파트144/115m², 저/22층, 남향입주협의, 에어컨, 붙박이장, 대리석식탁",
+      "price": "5억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 102동매매4억 4,000아파트74/59m², 1/22층, 남향층간소음 걱정없는 1층 , 인동선 수혜지역 아파트로 추천, 전세안고 매매",
+      "price": "4억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "민들레베스파트 103동매매4억 5,000아파트74/59m², 12/21층, 남서향10월초입주가능,올수리,거실,방1확장",
+      "price": "4억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "민들레베스파트 104동매매5억 7,000아파트144/115m², 7/22층, 동향급매 깨끗",
+      "price": "5억 7",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "민들레베스파트 101동매매5억 3,000아파트106/84m², 21/22층, 남향수리됨. 11월초입주 가능",
+      "price": "5억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "민들레베스파트 105동매매5억 3,000아파트106/84m², 12/21층, 남서향2년전 샷시포함 올수리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인민들레베스파트 103동매매4억 3,000아파트74/59m², 저/21층, 남서향세안고 일부수리",
+      "price": "4억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "민들레베스파트 105동매매5억아파트106/84m², 15/21층, 남향화장실,싱크대,도배  수리된 집",
+      "price": "5억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:52:21.306Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8533_20250718_205226.png"
+  }
+}

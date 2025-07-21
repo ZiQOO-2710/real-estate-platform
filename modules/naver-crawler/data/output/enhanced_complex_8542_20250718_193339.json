@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:33:39.089418",
+    "complex_id": "8542"
+  },
+  "basic_info": {
+    "complex_id": "8542",
+    "source_url": "https://new.land.naver.com/complexes/8542",
+    "extracted_at": "2025-07-18T19:33:34.630939",
+    "url": "https://new.land.naver.com/complexes/8542?ms=37.532544,126.727409,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:33:32.845Z",
+    "complexId": "8542"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대3차 302동매매3억 8,000아파트106/84m², 1/17층, 남향샤시까지 특올수리 아이들키우기 좋아요 이사협의 조금조정가",
+      "price": "3억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대3차 302동매매3억 3,000아파트97B/77m², 3/17층, 남향작전초,중,고,된밭공원,작전시장,작전역10분거리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대3차 302동매매3억 3,000아파트97B/77m², 16/17층, 남향월세17,00050 안고매매 작전초,중,고,된밭공원,샷시까지올수리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대3차 302동매매3억 8,000아파트106/84m², 17/17층, 남향작전초,중,고,된밭공원,작전역7분거리",
+      "price": "3억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동매매4억아파트106/84m², 3/17층, 남향샤시포함 특올수리 이사협의",
+      "price": "4억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동매매2억 5,000아파트74/59m², 11/17층, 동향역세권 초중고인근 샤시포함 올수리 전세끼고매매",
+      "price": "2억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동매매2억 7,000아파트74/59m², 9/17층, 동향작전초,중,고,된밭공원,작전역7분거리",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대3차 303동매매3억 4,000아파트95A/76m², 3/14층, 남향작전초,중,고,된밭공원,샷시까지올수리,작전역7분거리",
+      "price": "3억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동매매2억 5,000아파트74/59m², 중/17층, 동향샷시포함 특올수리. 갭투자추천",
+      "price": "2억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동매매2억 2,500아파트74/59m², 13/17층, 동향특급매,역세권,로얄층,깨끗함",
+      "price": "2억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인현대3차 301동월세2,000/80아파트74/59m², 11/17층, 동향작전초,중,고,된밭공원,작전시장, 일부수리되있음",
+      "price": null,
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "현대3차 301동매매3억 6,000아파트106/84m², 1/17층, 남향",
+      "price": "3억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:33:34.638Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8542_20250718_193338.png"
+  }
+}

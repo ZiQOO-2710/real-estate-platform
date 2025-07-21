@@ -1,0 +1,278 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:48:25.891641",
+    "complex_id": "8045"
+  },
+  "basic_info": {
+    "complex_id": "8045",
+    "source_url": "https://new.land.naver.com/complexes/8045",
+    "extracted_at": "2025-07-18T19:48:20.678796",
+    "url": "https://new.land.naver.com/complexes/8045?ms=35.129106,126.79478,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:48:19.627Z",
+    "complexId": "8045"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인호반2차 205동매매7,500아파트56/39m², 13/13층, 남동향실거주와 임대차수익 둘 다 가능한 아파트, 내부 깨끗, 조망좋음",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인호반2차 205동매매7,100아파트56/39m², 1/13층, 남동향일조좋음 내부아주깨끗 조정가 입주협의가",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "호반2차 205동월세500/35아파트56/39m², 13/13층, 동향내부깨끗 즉시입주가능 층간소음 없음 생활권편리",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "호반2차 203동매매1억 4,700아파트78/59m², 5/13층, 남향내부수리, 생활권편리, 가운데라인",
+      "price": "1억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "호반2차 203동매매1억 3,700아파트78/59m², 13/13층, 남향남향, 생활권편리, 꼭대기층",
+      "price": "1억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "호반2차 203동매매1억 4,700아파트78/59m², 5/13층, 남서향가운데라인 새시제외 내부리모델링 내부아주깨끗 8월말입주가",
+      "price": "1억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "호반2차 205동매매8,500아파트56/39m², 10/13층, 남동향부분리모델링 내부아주깨끗 생활권편리(전세가능)",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.690Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "690만도산대주파크빌2차매매2.4억2.2억~2.8억월세70만70만면적115㎡115.07㎡ ~ 115.07㎡매매매물만 보기10개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억2",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "미르채(민간임대)전세1.63억1.63억면적99㎡99.46㎡ ~ 99.46㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "63억1",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "623만호반2차매매1.47억7.1천~1.47억월세-35만면적78㎡56.23㎡ ~ 78.61㎡매매매물만 보기7개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "47억7",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "서라면적80.77㎡74.92㎡ ~ 80.77㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "80.77㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼라미주면적43.79㎡43.79㎡ ~ 43.79㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "43.79㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "618만카이스트빌2차매매2억2억~2.4억면적107㎡107.59㎡ ~ 107.59㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "318만청암매매5천5천면적52㎡52.63㎡ ~ 52.63㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "52㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼라극동전세6.5천6.5천월세36만35만~38만면적56㎡56.61㎡ ~ 56.61㎡전세매물만 보기1개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "327만도산무등매매8.7천8.7천~9천면적88㎡88.93㎡ ~ 88.93㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "437만대덕매매7천7천~1.25억전세5천5천월세32만30만~35만면적53㎡53.23㎡ ~ 80.65㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "925만송정역숲안애매매3.05억2.9억~3.1억면적109㎡109.51㎡ ~ 109.51㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억2",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "334만호반청암빌라트매매9천9천월세45만45만면적89㎡89.91㎡ ~ 89.91㎡매매매물만 보기4개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "449만도산호반1차매매1.1억9.7천~1.35억월세40만40만면적81㎡81.29㎡ ~ 81.29㎡매매매물만 보기12개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억9",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "652만서경매매1.5억1.3억~1.5억월세80만80만면적76㎡76.53㎡ ~ 76.53㎡매매매물만 보기3개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "카이스트빌면적54.7㎡46.3㎡ ~ 61.34㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "54.7㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "685만도산대주파크빌1차매매2.3억2.2억~2.8억월세60만60만면적111㎡111.09㎡ ~ 111.09㎡매매매물만 보기14개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "517만우미매매1.25억1.2억~1.35억월세50만50만면적80㎡80.86㎡ ~ 80.86㎡매매매물만 보기3개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억1",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:48:20.691Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 25,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8045_20250718_194825.png"
+  }
+}

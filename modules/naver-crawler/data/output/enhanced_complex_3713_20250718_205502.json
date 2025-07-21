@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:55:02.779718",
+    "complex_id": "3713"
+  },
+  "basic_info": {
+    "complex_id": "3713",
+    "source_url": "https://new.land.naver.com/complexes/3713",
+    "extracted_at": "2025-07-18T20:54:57.790371",
+    "url": "https://new.land.naver.com/complexes/3713?ms=37.301808,127.073334,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:54:56.611Z",
+    "complexId": "3713"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4701동매매7억 9,000아파트109/79m², 5/17층, 남동향로얄동, 인테리어, 상현역 도보8분, 인접신대광교호수공원, 시립도서관",
+      "price": "7억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4704동매매8억아파트109/79m², 10/20층, 남서향특올수리 조용한동 로얄층 상현역7 초중고 도서관 호수공원",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4705동매매8억 2,000아파트109/79m², 17/20층, 남동향특 올수리  입구동 로알층  신분당선 초중고",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4702동월세7,000/165아파트109/79m², 7/19층, 남서향올수리 상현역7 초중고 도서관 호수공원",
+      "price": null,
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4703동매매8억 3,000아파트109/79m², 12/20층, 남동향특올수리 트인뷰 채광굿 상현역7 초중고 도서관 호수공원",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4707동매매8억아파트109/79m², 18/20층, 남동향특올수리 폴딩도어 상현역7 초중고 도서관 세안고",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4705동월세2억/110아파트109/79m², 15/20층, 남동향부분수리 신분당선  초중고  도서관",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4707동매매8억아파트109/79m², 15/20층, 남동향로얄동  로얄층  확트인전망  상현역7 초중고 도서관 호수공원",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4701동전세4억 8,000아파트109/79m², 중/17층, 남동향로얄동 로얄층 상현역7 초중고 도서관 호수공원",
+      "price": "4억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4705동매매7억 8,000아파트109/79m², 중/20층, 남동향수리 입구동  상현역7 초중고 도서관",
+      "price": "7억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4703동매매7억 7,000아파트109/79m², 13/20층, 남동향일부수리  깨꿋한집 상현역7분 도서관 호수공원",
+      "price": "7억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인광교상현마을현대 4705동매매8억 2,000아파트109/79m², 17/20층, 남서향언제든지집보실수있어요,특올수리로얄동로얄층,상현역인접,붙박이장",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.797Z"
+    },
+    {
+      "index": 73,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인광교상현마을현대 4705동매매8억 2,000아파트109/79m², 10/20층, 남동향특  올수리 삿시까지  상현역6분  입구동 초중고부동산114 제공단지내(031-264-6500)안심공인중개사사무소확인매물 25.07.17.",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:54:57.798Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3713_20250718_205502.png"
+  }
+}

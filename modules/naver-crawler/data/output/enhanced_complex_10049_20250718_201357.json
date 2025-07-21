@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:13:57.337999",
+    "complex_id": "10049"
+  },
+  "basic_info": {
+    "complex_id": "10049",
+    "source_url": "https://new.land.naver.com/complexes/10049",
+    "extracted_at": "2025-07-18T20:13:54.476753",
+    "url": "https://new.land.naver.com/complexes/10049?ms=35.84465,128.547539,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:13:52.349Z",
+    "complexId": "10049"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인황실 102동매매1억 8,000재건축72/58m², 고/4층, 남향급매  신청사확정",
+      "price": "1억 8",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인황실 105동매매2억 1,000재건축72/58m², 1/5층, 남향세안고매매  재건축추진중",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인황실 101동매매1억 7,000재건축72/58m², 2/4층, 남향이사협의 초등 중등 고등학교 가까이 있습니다.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인황실 105동매매1억 8,500재건축72/58m², 중/5층, 남향급매 신청사 인접  원화 경화 5분거리  재건축 진행중",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인황실 105동전세5,000재건축72/58m², 중/5층, 남향좋은층 집 깨끗  원화  경화  5분거리",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인황실 101동매매1억 9,900재건축72/58m², 중/4층, 남향신청사  원화 경화 감삼역  두류공원  재건축  진행중",
+      "price": "1억 9",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "황실 103동매매2억 6,000재건축72/58m², 4/5층, 남향재건축추진중 두류공원이용편리 이사협의",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "황실 101동전세5,000재건축72/58m², 1/4층, 남향집 깨끗  즉시이사 다리 아프신분  좋습니다",
+      "price": null,
+      "area": null,
+      "floor": "4층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "황실 103동월세500/20재건축72/58m², 2/5층, 남향씽크대교체",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "황실 102동매매2억 5,000재건축72/58m², 2/4층, 남향세입자안고",
+      "price": "2억 5",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "황실 102동월세200/20재건축72/58m², 4/4층, 남향공실, 재건축진행중",
+      "price": null,
+      "area": null,
+      "floor": "4층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:13:54.487Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "황실 103동매매2억 2,000재건축72/58m², 5/5층, 남향상태깨끗, 이사협의",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.488Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인황실 102동매매1억 8,000재건축72/58m², 고/4층, 남향급매  신청사확정매경부동산 제공동아공인중개사사무소확인매물 25.07.16.집주인황실 105동매매2억 1,000재건축72/58m², 1/5층, 남향세안고매매  재건축추진중매경부동산 제공새터공인중개사사무소확인매물 25.07.08.집주인황실 101동매매1억 7,000재건축72/58m², 2/4층, 남향이사협의 초등 중등 고등학교 가까이 있습니다.부동산뱅크 제공유명공인중개사확인매물 25.06.30.집주인황실 105동매매1억 8,500재건축72/58m², 중/5층, 남향",
+      "price": "1억 8",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:13:54.488Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10049_20250718_201357.png"
+  }
+}

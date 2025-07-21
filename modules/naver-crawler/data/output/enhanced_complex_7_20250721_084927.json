@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T08:49:27.791807",
+    "complex_id": "7"
+  },
+  "basic_info": {
+    "complex_id": "7",
+    "source_url": "https://new.land.naver.com/complexes/7",
+    "extracted_at": "2025-07-21T08:49:22.674699",
+    "url": "https://new.land.naver.com/complexes/7?ms=37.563653,126.843589,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-20T23:49:20.528Z",
+    "complexId": "7"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인부영 102동매매9억아파트105/80m², 12/15층, 남향급매.정상입주",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인부영 107동매매9억 5,000아파트105/80m², 12/15층, 남향정상입주,9호선역세권,마곡지구도보출근편함,초등학교초근접단지.",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인부영 105동매매9억 5,000아파트105/80m², 14/15층, 남서향최근샷시교체수리 마곡인근 엔씨백화점 CJ 부지개발호재 5.9호선이용",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인부영 105동매매8억 8,000아파트105/80m², 2/15층, 남향정상입주,상태양호,9.5호선이용가능,마곡지구도보출근.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인부영 104동매매9억 8,000아파트105/80m², 11/15층, 남서향가격조절 입주가  리모델링추진중 마곡인근  CJ 부지개발호재 5.9호선",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인부영 103동매매11억 5,000아파트105/80m², 14/15층, 남향리모델링진행중,최근 올수리, 내부상태 굿, 더불역세권, 마곡인근 지역",
+      "price": "11억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인부영 104동매매8억 9,000아파트105/80m², 1/15층, 남향세안고,상태양호,9.5호선이용가능,마곡지구도보5분출근.",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인부영 102동매매9억 5,000아파트105/80m², 2/15층, 남서향입주가능 마곡인근 수리됨 ,5호선 9호선 더블역세권,NC백화점마곡상권이용",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인부영 101동월세4억 2,000/15아파트105/80m², 13/13층, 남서향4억5천도가능함,8월중순9월중순입주가,집상태양호,9.5호선역세권",
+      "price": "4억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인부영 104동전세4억 7,000아파트105/80m², 7/15층, 남서향즉시 입주가능 집상태양호  마곡인근 엔씨백화점이요 지하철5.9호선이용가능",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인부영 106동전세4억 7,000아파트105/80m², 고/15층, 남서향싼전세 이사날짜협의  5.9호선이용 주변편의시설 마곡인근 깨끗",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-20T23:49:22.680Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인부영 102동매매10억아파트105/80m², 7/15층, 남서향수리 입주가능  리모델링추진중  CJ 부지개발호재 5.9호선이용가능",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인부영 105동매매10억아파트105/80m², 4/15층, 남서향입주가능.리모델링추진중, 마곡인근 5.9호선이용가능 엔씨백화점이용",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인부영 106동매매10억아파트105/80m², 중/15층, 남향남향  깔끔하게 올수리된집   현재리모델링 추진중  정상입주",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인부영 102동매매9억 5,000아파트105/80m², 9/15층, 남서향입주가 세안고 CJ 부지개발호재  5.9호선이용가능  리모델링추진중",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인부영 104동매매9억 8,000아파트105/80m², 8/15층, 남서향리모델리추진중,올수리, 마곡인근 5.9호선이용 CJ부지개발호재 .세안고",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인부영 103동매매8억 9,000아파트105/80m², 1/15층, 남향리모델링 진행, 올수리, 주인전세4.5억가능,입주가능, 밝음, 육아 최상",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인부영 106동전세4억 7,000아파트105/80m², 11/15층, 남서향지하철5.9호선이용가능,수리돼서깨끗,방3화2,마곡인접",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-20T23:49:22.681Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_7_20250721_084927.png"
+  }
+}

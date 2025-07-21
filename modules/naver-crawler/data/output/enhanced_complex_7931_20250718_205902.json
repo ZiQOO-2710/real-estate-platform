@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:59:02.245987",
+    "complex_id": "7931"
+  },
+  "basic_info": {
+    "complex_id": "7931",
+    "source_url": "https://new.land.naver.com/complexes/7931",
+    "extracted_at": "2025-07-18T20:58:57.026860",
+    "url": "https://new.land.naver.com/complexes/7931?ms=35.171919,129.178808,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:58:54.807Z",
+    "complexId": "7931"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 107동매매6억 4,000아파트105/84m², 11/18층, 남동향",
+      "price": "6억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 110동전세2억 1,000아파트75/56m², 13/19층, 남동향입주협의.방1확장.깨끗하고예쁜집.조용한동.채광굿.전세대출및보증보험가입가능",
+      "price": "2억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 101동매매4억 1,000아파트75/56m², 1/24층, 남동향입구동.라인좋으면올수리된집거실 방확장역세권접근성과 편리성좋음",
+      "price": "4억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 110동매매4억 1,500아파트75/56m², 19/19층, 남동향기본라인좋고.층간 소음 없는 집장산역5분거리",
+      "price": "4억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 110동전세2억 2,500아파트75/56m², 1/19층, 남동향즉입 내외부샤시포함 올수리완료후 첫입주",
+      "price": "2억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 106동매매7억 2,000아파트159/134m², 1/23층, 남동향주인거주.입주협의.정원같은뷰.샤시교체.배관교체",
+      "price": "7억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 105동매매7억 9,000아파트182/155m², 20/23층, 남동향",
+      "price": "7억 9",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.036Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 103동매매7억 3,000아파트124/101m², 19/22층, 남동향입주일협의가능.입구동으로선호.하루종일밝은집",
+      "price": "7억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.037Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인해운대화목타운 102동매매7억 5,000아파트159/134m², 3/22층, 남동향접근성굿 문 열자마자 만나는 완벽한 인프라 방거실 확장 장산역까지 2분",
+      "price": "7억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:58:57.037Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_7931_20250718_205902.png"
+  }
+}

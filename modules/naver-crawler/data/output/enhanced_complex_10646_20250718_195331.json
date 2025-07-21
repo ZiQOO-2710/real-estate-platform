@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:53:31.564783",
+    "complex_id": "10646"
+  },
+  "basic_info": {
+    "complex_id": "10646",
+    "source_url": "https://new.land.naver.com/complexes/10646",
+    "extracted_at": "2025-07-18T19:53:27.722959",
+    "url": "https://new.land.naver.com/complexes/10646?ms=37.586805,126.923012,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:53:25.501Z",
+    "complexId": "10646"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매9억아파트152A/128m², 10/15층, 남향올수리되어있고 .충암,명지.서부선.정남향.트인뷰",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.732Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매8억 5,000아파트152B/128m², 1/15층, 남서향올리모델링 충암,명지 학세권 발망치걱정없어요 빠른입주가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매6억 9,000아파트104/84m², 7/15층, 남향가성비 뛰어난 대주피오레 아파트",
+      "price": "6억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매7억아파트104/84m², 9/15층, 동향 로얄층  급매,기본형, 충암초중고인근아파트, 서부경전철내년착공예정",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매6억 9,000아파트104/84m², 중/15층, 동향w충암초중고w 명지중고 조망좋고w 가송바뛰어난 아파트",
+      "price": "6억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 102동매매9억아파트152A/128m², 10/15층, 남향급매, 특올리모델링으로 한번 보면 반할 집,채광조망 굿, 서부선, 갭투",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "대주피오레 101동전세5억 5,000아파트152B/128m², 7/15층, 남향정남향,충암초중고인접,서부경전철추진중,숲세권, 씽크대교체,화장실수리",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "대주피오레 102동매매10억 5,000아파트183/145m², 3/15층, 남향남향 완전올수리 대가족 방5화2 서부경전철수혜 소유주거주중 전망좋음",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인대주피오레 101동매매9억아파트152A/128m², 3/15층, 남향가격 저렴한 대형 평형 매매",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체78㎡88㎡104㎡130㎡152A㎡152B㎡183㎡",
+      "price": null,
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:53:27.733Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인대주피오레 101동매매9억아파트152A/128m², 10/15층, 남향올수리되어있고 .충암,명지.서부선.정남향.트인뷰매경부동산 제공봄봄단지내(02-305-3300)공인중개사사무소확인매물 25.07.18.집주인대주피오레 101동매매8억 5,000아파트152B/128m², 1/15층, 남서향올리모델링 충암,명지 학세권 발망치걱정없어요 빠른입주가능매경부동산 제공금나무부동산공인중개사사무소확인매물 25.07.18.집주인대주피오레 101동매매6억 9,000아파트104/84m², 7/15층, 남향가성비 뛰어난 대주피오레 아파트매경부동산 제",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:53:27.734Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10646_20250718_195331.png"
+  }
+}

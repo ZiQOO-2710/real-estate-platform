@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:10:14.512741",
+    "complex_id": "407"
+  },
+  "basic_info": {
+    "complex_id": "407",
+    "source_url": "https://new.land.naver.com/complexes/407",
+    "extracted_at": "2025-07-18T20:10:09.156500",
+    "url": "https://new.land.naver.com/complexes/407?ms=37.539927,126.954462,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:10:07.966Z",
+    "complexId": "407"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 103동전세10억아파트168/147m², 1/15층, 남향전체올수리해서 전망탁트임.생활편한동,",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:10:09.162Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 108동매매15억 5,000아파트130/112m², 14/15층, 남향",
+      "price": "15억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 105동매매16억 5,000아파트148/128m², 8/15층, 남향대단지 로얄동 로얄층 남향 올수리 입주협의",
+      "price": "16억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 111동월세4억/55아파트94/68m², 13/15층, 남서향공덕역이 도보 2분거리에 있는 입구동의 가장 선호하는 매물입니다.",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 104동매매13억아파트94/68m², 11/16층, 남향남향, 올수리,주인거주,입주협의",
+      "price": "13억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 111동월세4억/55아파트94/68m², 13/15층, 남향대단지 남향 씽크대 화장실수리 도배장판 깨끗 공덕역3분 경의선숲길3분",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 110동매매14억아파트106/79m², 15/15층, 동향예비진단투자 전망뷰이남산특.공덕역입구동.최고로얄동.",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 110동매매13억 5,000아파트106/79m², 2/15층, 남향예안진통과, 올수리, 입주가능, 입구동, 공덕역세권",
+      "price": "13억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 104동매매13억아파트94/68m², 8/16층, 남향올수리특, 입주가능, 남향, 투자추천",
+      "price": "13억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 111동매매13억아파트94/68m², 6/15층, 남서향예안진통과, 올수리특, 입주협의, 투자추천",
+      "price": "13억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 103동전세10억아파트168/147m², 저/15층, 남향실사진 보세요 공덕역 역세권 대단지 샷시포함 올수리 입주협의가능",
+      "price": "10억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 101동전세4억 7,000아파트75/54m², 고/15층, 남동향신혼추천  8월말부터가능  입주협의 깔끔 공덕역이용편리",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 110동매매14억 5,000아파트106/79m², 중/15층, 남동향공덕역 역세권,올수리,입주가능,채광좋은집",
+      "price": "14억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인도화현대1차 101동매매10억 8,000아파트75/54m², 2/15층, 남서향24  월세  안고  매매",
+      "price": "10억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:10:09.163Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_407_20250718_201014.png"
+  }
+}

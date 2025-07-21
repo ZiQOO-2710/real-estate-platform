@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:39:05.555437",
+    "complex_id": "952"
+  },
+  "basic_info": {
+    "complex_id": "952",
+    "source_url": "https://new.land.naver.com/complexes/952",
+    "extracted_at": "2025-07-18T19:39:00.884411",
+    "url": "https://new.land.naver.com/complexes/952?ms=37.488974,127.145043,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:38:57.932Z",
+    "complexId": "952"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 506동전세4억 7,000아파트81/59m², 2/15층, 동향",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:39:00.895Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 502동매매11억 5,000아파트114/84m², 11/15층, 남향남향   확장수리    전망좋고 밝은집",
+      "price": "11억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.895Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 504동매매8억 5,000아파트81/59m², 2/15층, 남향올수리,남향",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.895Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 503동매매9억아파트81/59m², 중/15층, 동향주인직접 거주 역세권 로얄동 로얄층",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.895Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 506동월세5,000/150아파트81/59m², 7/15층, 동향올수리 10월협의",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 501동매매9억 5,000아파트81/59m², 고/12층, 동향샷시까지 최근특올수리 거실확장 입주가",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "거여5단지 503동매매9억아파트81/59m², 8/15층, 동향귀한입주물  로얄동로얄층 초중고인접",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 502동매매12억아파트114/84m², 고/15층, 남향유초중고교근접  공원 체육문화회관",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인거여5단지 506동매매8억 9,000아파트81/59m², 저/15층, 동향위례신도시인접 생활권 깨끗합니다",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "거여5단지 506동월세5,000/150아파트81/59m², 고/15층, 남향녹지남향  수리됨",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인거여5단지 506동전세4억 7,000아파트81/59m², 2/15층, 동향매경부동산 제공카카오공인중개사사무소확인매물 25.07.17.집주인거여5단지 506동전세4억 7,000아파트81/59m², 2/15층, 동향싱크대 수리깨끗 상태굿 9월중 협의부동산뱅크 제공부동산플러스거여단지공인중개사사무소확인매물 25.07.15.집주인거여5단지 502동매매11억 5,000아파트114/84m², 11/15층, 남향남향   확장수리    전망좋고 밝은집부동산뱅크 제공부동산플러스거여단지공인중개사사무소확인매물 25.07.15.집주인거여5단지 506",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    },
+    {
+      "index": 114,
+      "selector": "[class*=\"item\"]",
+      "text": "공인중개사협회매물거여5단지 502동매매12억아파트114/84m², 12/15층, 남향유초중고교근접  공원 체육문화회관한국공인중개사협회 제공거여단지내공인중개사사무소등록일25.07.10.",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:00.896Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_952_20250718_193905.png"
+  }
+}

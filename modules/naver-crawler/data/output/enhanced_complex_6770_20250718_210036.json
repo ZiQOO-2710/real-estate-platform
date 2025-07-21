@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T21:00:36.369224",
+    "complex_id": "6770"
+  },
+  "basic_info": {
+    "complex_id": "6770",
+    "source_url": "https://new.land.naver.com/complexes/6770",
+    "extracted_at": "2025-07-18T21:00:32.998433",
+    "url": "https://new.land.naver.com/complexes/6770?ms=35.194501,128.565638,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T12:00:31.318Z",
+    "complexId": "6770"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마산현대 나동매매1억 4,500아파트118/84m², 5/9층, 남동향도배 장판 LED조명 올 리모델링, 즉시입주, 관공서 대형마트 생활권최상",
+      "price": "1억 4",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.006Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마산현대 나동매매1억 5,000아파트118/84m², 중/9층, 남향샤시제외 내부수리, 즉시 입주, 남향, 관공서 인근 생활권 최상",
+      "price": "1억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.006Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "마산현대 가동매매2억 3,000아파트168/124m², 중/11층, 남향남향으로 따뜻.수리된집.보일러2년전 교체.배관수리.문턱없앰.예쁜집.",
+      "price": "2억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.006Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "마산현대 나동매매1억 6,000아파트118/84m², 7/9층, 남동향\r\n생활권편리한위치 리모델링 관리상태좋음 즉시입주가능 절충가능",
+      "price": "1억 6",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.006Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인마산현대 나동매매1억 4,500아파트118/84m², 5/9층, 남동향도배 장판 LED조명 올 리모델링, 즉시입주, 관공서 대형마트 생활권최상매경부동산 제공엄지척부동산중개사무소확인매물 25.07.09.집주인마산현대 나동매매1억 4,500아파트118/84m², 5/9층, 남동향싱크대 신발장 LED등 교체등 리모델링되어 집상태 교통권 학군 좋음매경부동산 제공국민공인중개사사무소확인매물 25.07.08.집주인마산현대 나동매매1억 5,000아파트118/84m², 중/9층, 남향샤시제외 내부수리, 즉시 입주, 남향, 관공서 인근 생활권 ",
+      "price": "1억 4",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.006Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "대은시티빌(도시형)면적49.43㎡49.43㎡ ~ 65.52㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "49.43㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "979만경동메르빌매매3.2억2.35억~5.5억면적108㎡80.04㎡ ~ 148.37㎡매매매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "724만신한토탈매매1.73억1.73억~2.3억전세-1.6억면적79㎡79.33㎡ ~ 130.4㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "73억1",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "590만80시영(삼우)매매7.5천6천~8.2천월세35만35만면적42㎡42.81㎡ ~ 42.81㎡매매매물만 보기4개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "42㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "470만대동한마음매매1.45억1.45억면적102㎡102.34㎡ ~ 102.35㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억1",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "406만마산현대매매1.45억1.45억~2.3억면적118㎡118.42㎡ ~ 168.93㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억1",
+      "area": "118㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "371만신월(경남)매매2.4억1.5억~2.4억면적214㎡93.51㎡ ~ 214.61㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "214㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "빌라맨숀면적87.93㎡87.93㎡ ~ 87.93㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "87.93㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "대광품안애면적104.87㎡104.54㎡ ~ 104.87㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "104.87㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "620만남명세비앙매매2.1억2.1억~2.3억전세1.85억1.8억~1.9억면적112㎡112.14㎡ ~ 112.14㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "668만중앙우방매매2.1억2.1억~2.9억전세1.9억1.9억~3.4억면적104㎡104.93㎡ ~ 172.83㎡매매매물만 보기17개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "811만경동메르빌2차매매2.6억2.1억~3.5억월세80만80만면적106㎡80.19㎡ ~ 106.88㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억2",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "441만완월서광매매1.2억1.2억~1.85억면적90㎡90.68㎡ ~ 128.24㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "90㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T12:00:33.007Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6770_20250718_210036.png"
+  }
+}
