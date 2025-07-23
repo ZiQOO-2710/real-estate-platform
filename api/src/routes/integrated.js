@@ -192,6 +192,30 @@ router.get('/market-analysis', async (req, res) => {
 })
 
 /**
+ * GET /api/integrated/debug/coordinates
+ * 좌표 데이터 진단 (개발용)
+ */
+router.get('/debug/coordinates', async (req, res) => {
+  try {
+    await initializeService()
+
+    const coordinatesReport = await generateCoordinatesReport()
+    
+    res.json({
+      debug_info: coordinatesReport,
+      timestamp: new Date().toISOString()
+    })
+
+  } catch (error) {
+    console.error('좌표 진단 실패:', error)
+    res.status(500).json({
+      error: 'Internal server error', 
+      message: '좌표 데이터 진단에 실패했습니다.'
+    })
+  }
+})
+
+/**
  * POST /api/integrated/data-sync
  * 데이터 동기화 트리거 (관리자용)
  */
@@ -365,6 +389,99 @@ async function getMarketAnalysis(params) {
       '최근 3개월 거래량이 전년 동기 대비 15% 증가'
     ]
   }
+}
+
+/**
+ * 좌표 데이터 진단 리포트 생성
+ */
+async function generateCoordinatesReport() {
+  return new Promise((resolve, reject) => {
+    const queries = {
+      total_complexes: `SELECT COUNT(*) as count FROM apartment_complexes`,
+      
+      with_coordinates: `
+        SELECT COUNT(*) as count 
+        FROM apartment_complexes 
+        WHERE latitude IS NOT NULL AND longitude IS NOT NULL
+      `,
+      
+      valid_coordinates: `
+        SELECT COUNT(*) as count 
+        FROM apartment_complexes 
+        WHERE latitude IS NOT NULL AND longitude IS NOT NULL 
+          AND latitude BETWEEN 33.0 AND 39.0 
+          AND longitude BETWEEN 124.0 AND 132.0
+      `,
+      
+      coordinate_samples: `
+        SELECT id, name, latitude, longitude, sido, sigungu 
+        FROM apartment_complexes 
+        WHERE latitude IS NOT NULL AND longitude IS NOT NULL 
+        ORDER BY id LIMIT 10
+      `,
+      
+      null_coordinates: `
+        SELECT COUNT(*) as count 
+        FROM apartment_complexes 
+        WHERE latitude IS NULL OR longitude IS NULL
+      `,
+      
+      invalid_coordinates: `
+        SELECT COUNT(*) as count 
+        FROM apartment_complexes 
+        WHERE latitude IS NOT NULL AND longitude IS NOT NULL
+          AND (latitude < 33.0 OR latitude > 39.0 OR longitude < 124.0 OR longitude > 132.0)
+      `
+    }
+
+    const results = {}
+    const executeQuery = (key, query) => {
+      return new Promise((resolve, reject) => {
+        integrationService.db.all(query, [], (err, rows) => {
+          if (err) reject(err)
+          else resolve({ key, data: rows })
+        })
+      })
+    }
+
+    Promise.all(Object.entries(queries).map(([key, query]) => executeQuery(key, query)))
+      .then(queryResults => {
+        queryResults.forEach(({ key, data }) => {
+          results[key] = key === 'coordinate_samples' ? data : data[0]
+        })
+
+        const report = {
+          summary: {
+            total_complexes: results.total_complexes.count,
+            with_coordinates: results.with_coordinates.count,
+            valid_coordinates: results.valid_coordinates.count,
+            null_coordinates: results.null_coordinates.count,
+            invalid_coordinates: results.invalid_coordinates.count,
+            coordinate_coverage: ((results.with_coordinates.count / results.total_complexes.count) * 100).toFixed(1) + '%',
+            coordinate_validity: results.with_coordinates.count > 0 ? 
+              ((results.valid_coordinates.count / results.with_coordinates.count) * 100).toFixed(1) + '%' : '0%'
+          },
+          samples: results.coordinate_samples,
+          recommendations: []
+        }
+
+        // 권장사항 생성
+        if (results.null_coordinates.count > 0) {
+          report.recommendations.push(`${results.null_coordinates.count}개 단지의 좌표 데이터가 누락되었습니다.`)
+        }
+        
+        if (results.invalid_coordinates.count > 0) {
+          report.recommendations.push(`${results.invalid_coordinates.count}개 단지의 좌표가 한국 범위를 벗어났습니다.`)
+        }
+        
+        if (results.valid_coordinates.count === results.with_coordinates.count && results.with_coordinates.count > 0) {
+          report.recommendations.push('모든 좌표 데이터가 유효합니다. ✅')
+        }
+
+        resolve(report)
+      })
+      .catch(reject)
+  })
 }
 
 module.exports = router

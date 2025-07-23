@@ -8,7 +8,7 @@ const fs = require('fs').promises
 const path = require('path')
 
 class DataIntegrationService {
-  constructor(dbPath = '/Users/seongjunkim/projects/real-estate-platform/api/data/integrated_real_estate.db') {
+  constructor(dbPath = '/Users/seongjunkim/projects/real-estate-platform/api/data/master_integrated_real_estate.db') {
     this.dbPath = dbPath
     this.db = null
     this.COORDINATE_THRESHOLD = 0.0001 // 약 11m
@@ -902,9 +902,29 @@ class DataIntegrationService {
       offset = 0
     } = searchParams
 
+    // 📍 좌표 데이터 안정성을 위해 쿼리 개선
     let query = `
       SELECT DISTINCT
-        ac.*,
+        ac.id,
+        ac.complex_code,
+        ac.name,
+        ac.name_variations,
+        ac.latitude,
+        ac.longitude,
+        ac.address_jibun,
+        ac.address_road,
+        ac.address_normalized,
+        ac.sido,
+        ac.sigungu,
+        ac.eup_myeon_dong,
+        ac.completion_year,
+        ac.total_households,
+        ac.total_buildings,
+        ac.area_range,
+        ac.data_sources,
+        ac.confidence_score,
+        ac.created_at,
+        ac.updated_at,
         COUNT(DISTINCT cl.id) as listing_count,
         AVG(cl.price_sale) as avg_listing_price,
         AVG(tr.deal_amount) as avg_transaction_price
@@ -913,7 +933,10 @@ class DataIntegrationService {
         AND cl.status = 'active' AND cl.deal_type = ?
       LEFT JOIN transaction_records tr ON ac.id = tr.apartment_complex_id 
         AND tr.deal_type = ?
-      WHERE 1=1
+      WHERE ac.latitude IS NOT NULL 
+        AND ac.longitude IS NOT NULL
+        AND ac.latitude BETWEEN 33.0 AND 39.0
+        AND ac.longitude BETWEEN 124.0 AND 132.0
     `
     
     const params = [dealType, dealType]

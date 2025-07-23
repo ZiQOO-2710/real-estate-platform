@@ -164,4 +164,4 @@ test_*.py
 # === 크롤링 결과 ===
 real_estate_crawling.db
 crawling_progress.json
-*.db-journal
+*.db-journal\n# Large backup files\n*.tar.gz
