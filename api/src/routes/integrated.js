@@ -75,21 +75,40 @@ router.get('/complexes/:id', async (req, res) => {
   try {
     await initializeService()
 
-    const complexId = parseInt(req.params.id)
-    const complexDetails = await integrationService.getComplexWithDetails(complexId)
-
+    const idParam = req.params.id
+    let complexDetails = null
+    
+    // 숫자 ID인 경우
+    if (/^\d+$/.test(idParam)) {
+      const complexId = parseInt(idParam)
+      complexDetails = await integrationService.getComplexWithDetails(complexId)
+    } 
+    // 복합 ID인 경우 (단지명_좌표_가격 형태)
+    else {
+      const parts = idParam.split('_')
+      if (parts.length >= 3) {
+        const complexName = parts[0]
+        const longitude = parseFloat(parts[1])
+        const latitude = parseFloat(parts[2])
+        
+        // 이름과 좌표로 단지 검색
+        complexDetails = await findComplexByNameAndCoordinates(complexName, longitude, latitude)
+      }
+    }
+    
     if (!complexDetails) {
       return res.status(404).json({
         error: 'Not found',
-        message: '해당 단지를 찾을 수 없습니다.'
+        message: '해당 단지를 찾을 수 없습니다.',
+        debug: { requested_id: idParam }
       })
     }
 
     // 관련 매물 조회
-    const listings = await getComplexListings(complexId)
+    const listings = await getComplexListings(complexDetails.id)
     
     // 관련 실거래 조회 (최근 2년)
-    const transactions = await getComplexTransactions(complexId, 24)
+    const transactions = await getComplexTransactions(complexDetails.id, 24)
 
     // 가격 분석
     const priceAnalysis = calculatePriceAnalysis(listings, transactions)
@@ -389,6 +408,32 @@ async function getMarketAnalysis(params) {
       '최근 3개월 거래량이 전년 동기 대비 15% 증가'
     ]
   }
+}
+
+/**
+ * 이름과 좌표로 단지 찾기
+ */
+async function findComplexByNameAndCoordinates(complexName, longitude, latitude) {
+  return new Promise((resolve, reject) => {
+    const query = `
+      SELECT 
+        id, name, sido, sigungu, dong, jibun_address, road_address,
+        latitude, longitude, total_households, total_buildings,
+        completion_year, building_type, heating_type,
+        parking_spaces, highest_floor, lowest_floor,
+        data_source, created_at, updated_at
+      FROM apartment_complexes 
+      WHERE name = ? 
+        AND ABS(latitude - ?) < 0.001 
+        AND ABS(longitude - ?) < 0.001
+      LIMIT 1
+    `
+
+    integrationService.db.get(query, [complexName, latitude, longitude], (err, row) => {
+      if (err) reject(err)
+      else resolve(row || null)
+    })
+  })
 }
 
 /**

@@ -43,19 +43,24 @@ router.get('/coordinates', async (req, res) => {
           params.push(`%${filterTerm}%`, `%${filterTerm}%`, `%${filterTerm}%`)
         }
 
-        // 성능 최적화: 실제 MOLIT DB 스키마에 맞는 쿼리 (JSON에서 아파트명 추출)
+        // JSON에서 필요한 모든 필드 추출
         const transactionQuery = `
           SELECT 
             json_extract(api_data, '$.aptNm') as apt_name,
             json_extract(api_data, '$.umdNm') as dong_name,
+            json_extract(api_data, '$.buildYear') as construction_year,
+            json_extract(api_data, '$.dealAmount') as deal_amount,
+            json_extract(api_data, '$.excluUseAr') as area,
+            json_extract(api_data, '$.floor') as floor,
             region_code,
             region_name,
-            deal_amount,
             deal_year,
             deal_month,
             road_name,
             legal_dong,
-            jibun
+            jibun,
+            latitude,
+            longitude
           FROM apartment_transactions 
           WHERE json_extract(api_data, '$.aptNm') IS NOT NULL 
             AND json_extract(api_data, '$.aptNm') != ''
@@ -86,6 +91,14 @@ router.get('/coordinates', async (req, res) => {
                   apt_name: row.apt_name,
                   dong_name: row.dong_name,
                   region_code: row.region_code,
+                  region_name: row.region_name,
+                  construction_year: row.construction_year,
+                  area: row.area,
+                  floor: row.floor,
+                  road_name: row.road_name,
+                  legal_dong: row.legal_dong,
+                  latitude: row.latitude,
+                  longitude: row.longitude,
                   transaction_count: 0,
                   total_price: 0,
                   prices: [],
@@ -161,24 +174,37 @@ router.get('/coordinates', async (req, res) => {
       return {
         id: `molit_fast_${index + 1}`,
         name: complex.apt_name,
-        latitude: estimatedCoords?.latitude || null,
-        longitude: estimatedCoords?.longitude || null,
+        apartment_name: complex.apt_name,
+        latitude: complex.latitude || estimatedCoords?.latitude || null,
+        longitude: complex.longitude || estimatedCoords?.longitude || null,
         address: fullAddress,
         sido: regionInfo.sido || complex.region_name?.split(' ')[0] || null,
         sigungu: regionInfo.sigungu || complex.region_name?.split(' ')[1] || null,
         dong: complex.dong_name,
+        region_name: complex.region_name || realRegionName,
+        legal_dong: complex.legal_dong || complex.dong_name,
+        road_name: complex.road_name,
+        // JSON에서 추출한 실제 데이터
+        completion_year: complex.construction_year,
+        construction_year: complex.construction_year,
+        area: complex.area,
+        area_exclusive: complex.area,
+        floor: complex.floor,
+        // 거래 정보
+        deal_amount: complex.avg_price || null,
+        deal_type: '매매',
+        deal_date: complex.latest_deal,
+        // 통계 정보
         total_households: null, // MOLIT 데이터에는 없음
         total_buildings: null,
-        completion_year: null,
-        // 최적화된 97만건 거래 데이터
         transaction_count: complex.transaction_count,
         avg_transaction_price: complex.avg_price > 0 ? 
           Math.round(complex.avg_price / 10000) : null, // 억원 단위
         latest_transaction_date: complex.latest_deal,
         earliest_transaction_date: complex.earliest_deal,
-        source: '97만건_MOLIT_최적화',
+        source: 'molit',
         transaction_source: '977388건_실제_거래데이터',
-        coordinate_source: 'region_code_mapping',
+        coordinate_source: complex.latitude ? 'exact_match' : 'region_code_mapping',
         data_source: '97만건_실거래_성능최적화'
       }
     })

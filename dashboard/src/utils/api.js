@@ -471,5 +471,13 @@ export const useMolitCoordinatesSummary = () => {
   })
 }
 
+// apiRequest 객체 추가 (새로운 훅에서 사용)
+export const apiRequest = {
+  get: (url, config = {}) => api.get(url, config),
+  post: (url, data, config = {}) => api.post(url, data, config),
+  put: (url, data, config = {}) => api.put(url, data, config),
+  delete: (url, config = {}) => api.delete(url, config),
+}
+
 export { api }
 export default api

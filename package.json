@@ -60,9 +60,11 @@
   },
   "homepage": "https://github.com/your-username/real-estate-platform#readme",
   "devDependencies": {
+    "@supabase/mcp-server-supabase": "^0.4.5",
     "concurrently": "^8.2.0",
     "husky": "^8.0.3",
-    "lint-staged": "^13.2.3"
+    "lint-staged": "^13.2.3",
+    "supabase": "^2.31.8"
   },
   "engines": {
     "node": ">=18.0.0",

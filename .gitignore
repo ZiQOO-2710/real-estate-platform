@@ -165,3 +165,5 @@ test_*.py
 real_estate_crawling.db
 crawling_progress.json
 *.db-journal\n# Large backup files\n*.tar.gz
+*.tar.gz
+*.csv

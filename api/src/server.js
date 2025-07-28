@@ -116,6 +116,9 @@ const molitCoordsImprovedRoutes = require('./routes/molit-coords-improved')
 const molitUltraFastRoutes = require('./routes/molit-ultra-fast');
 const molitCoordsUpdatedRoutes = require('./routes/molit-coordinates-updated');
 const molitMapRoutes = require('./routes/molit-map');
+const supabaseMapRoutes = require('./routes/supabase-map');
+const realEstateTransactionsRoutes = require('./routes/real-estate-transactions');
+const coordinatesMapRoutes = require('./routes/coordinates-map');
 
 app.use('/api/complexes', complexesRoutes);
 app.use('/api/listings', listingsRoutes);
@@ -133,6 +136,9 @@ app.use('/api/molit-coords-improved', molitCoordsImprovedRoutes)
 app.use('/api/molit-ultra-fast', molitUltraFastRoutes);
 app.use('/api/molit-coordinates-updated', molitCoordsUpdatedRoutes);
 app.use('/api/molit-map', molitMapRoutes);
+app.use('/api/supabase-map', supabaseMapRoutes);
+app.use('/api/real-estate-transactions', realEstateTransactionsRoutes);
+app.use('/api/coordinates-map', coordinatesMapRoutes);
 
 // 루트 경로
 app.get('/', (req, res) => {
@@ -149,7 +155,8 @@ app.get('/', (req, res) => {
       search: '/api/search',
       integrated: '/api/integrated',
       naver: '/api/naver',
-      molit: '/api/molit'
+      molit: '/api/molit',
+      'real-estate-transactions': '/api/real-estate-transactions'
     }
   });
 });
