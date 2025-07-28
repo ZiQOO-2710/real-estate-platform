@@ -169,3 +169,4 @@ crawling_progress.json
 *.csv
 *.tar.gz
 *.csv
+backup/
