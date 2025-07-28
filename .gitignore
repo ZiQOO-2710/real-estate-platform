@@ -167,3 +167,5 @@ crawling_progress.json
 *.db-journal\n# Large backup files\n*.tar.gz
 *.tar.gz
 *.csv
+*.tar.gz
+*.csv
