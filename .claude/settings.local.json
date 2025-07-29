@@ -39,7 +39,8 @@
       "Bash(pip3 install:*)",
       "mcp__ide__executeCode",
       "Bash(echo:*)",
-      "Bash(git checkout:*)"
+      "Bash(git checkout:*)",
+      "Bash(claude mcp:*)"
     ],
     "deny": []
   }

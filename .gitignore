@@ -161,6 +161,10 @@ test_*.js
 *_test.html
 test_*.py
 
+# === 임베디드 Git 저장소 ===
+SuperClaude/
+real-estate-platform/
+
 # === 크롤링 결과 ===
 real_estate_crawling.db
 crawling_progress.json
