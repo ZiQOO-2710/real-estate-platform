@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:35:16.554465",
+    "complex_id": "1490"
+  },
+  "basic_info": {
+    "complex_id": "1490",
+    "source_url": "https://new.land.naver.com/complexes/1490",
+    "extracted_at": "2025-07-18T00:35:11.496264",
+    "url": "https://new.land.naver.com/complexes/1490?ms=37.65408,126.835377,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:35:09.350Z",
+    "complexId": "1490"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 802동매매5억 5,000아파트135/114m², 14/16층, 남향3호선 원당역 도보8분 햇살가득 남향, 호재만발, 교통및 생활편리",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 802동매매5억 1,000아파트135/114m², 4/16층, 남향급매, 수리는 필요, 즉시입주가능, 원당역도보가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 803동매매5억 5,000아파트135/114m², 7/16층, 남향전세안고,외부샷시교체됨,햇살맛집,원당역도보가,성사혁신지구인접",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 801동매매4억 6,000아파트104/84m², 1/16층, 남향샷시포함특올수리,남향의중간라인,전철역세권,주인세대거주,입주날짜협의",
+      "price": "4억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 802동매매4억 9,000아파트135/114m², 저/16층, 남향세안고 집장만,남향,원당역도보가,원당시장이용편리",
+      "price": "4억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 803동매매5억 5,000아파트135/114m², 중/16층, 남향샷시최근교체,깨끗,남향의중간라인,원당역도보가,전세안고",
+      "price": "5억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "신원당8단지삼보 803동매매5억 3,000아파트135/114m², 8/16층, 남향샷시등수리아주깨끗 전세입자거주 남향 주변어울림누리및 대중교통이용편리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "신원당8단지삼보 801동매매4억 5,500아파트104/84m², 저/16층, 남향전세안고 미리집장만, 수리깨끗, 3호선원당역도보가",
+      "price": "4억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인신원당8단지삼보 801동매매5억 3,000아파트104/84m², 3/16층, 남향내부올수리된남향,주인거주,원당역도보가,대곡소사선개통,원당시장이용편리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:35:11.500Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1490_20250718_003516.png"
+  }
+}

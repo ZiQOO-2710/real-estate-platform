@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:38:24.642442",
+    "complex_id": "1652"
+  },
+  "basic_info": {
+    "complex_id": "1652",
+    "source_url": "https://new.land.naver.com/complexes/1652",
+    "extracted_at": "2025-07-18T01:38:20.612906",
+    "url": "https://new.land.naver.com/complexes/1652?ms=37.59062,127.1394,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:38:19.069Z",
+    "complexId": "1652"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 103동매매5억 7,000아파트71/51m², 5/18층, 동향샷시포함최근올수리.신혼추천. 8호선초역세권",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.626Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 102동매매5억 9,000아파트71/51m², 6/18층, 남향샤시포함 최근 특올수리 넘 예쁜집이예요 동간거리 넓은 남향이라 햇살가득",
+      "price": "5억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 105동매매6억 6,000아파트86/62m², 12/17층, 남향빠른입주가능, 욕실수리",
+      "price": "6억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 103동매매5억 3,000아파트71/51m², 4/18층, 동향입주가능 초역세권아파트",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 105동매매6억 6,000아파트86/62m², 8/17층, 남향입주.최근샷시포함 확장 특올수리.",
+      "price": "6억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 102동매매5억 6,000아파트71/51m², 11/18층, 남향급매매,세안고27년11월,욕실수리,남향",
+      "price": "5억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 102동매매6억아파트71/51m², 10/18층, 남향세안고, 올수리, 학원가, 역세권 , 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 105동매매7억아파트86/62m², 17/17층, 남향확장.샷시포함최근올수리. 주인거주. 생활인프라최고위치",
+      "price": "7억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 101동매매8억 5,000아파트105/84m², 10/18층, 남향8호선역세권.유명학원인접.초중고인접.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 103동매매5억 5,000아파트71/51m², 2/18층, 서향샷시포함,특올수리,주인거주 남향 장자호수역세권",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 102동매매6억아파트71/51m², 17/18층, 남향확장. 샷시포함최근특올수리.8호선초역세권.생활인프라최고위치",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 105동매매6억 8,000아파트86/62m², 15/17층, 남향하시입주.내부깨끗.수리기간드림.8호선초역세권.생활인프라최고",
+      "price": "6억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인대림한숲 103동매매6억아파트71/51m², 9/18층, 동향특.특올수리,숲전망,초중인접,지하철도보5분,인프라형성잘된지역",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인대림한숲 103동매매5억 7,000아파트71/51m², 5/18층, 동향샷시포함최근올수리.신혼추천. 8호선초역세권아실 제공하나부동산서비스공인중개사사무소확인매물 25.07.17.네이버에서 보기집주인대림한숲 102동매매5억 9,000아파트71/51m², 6/18층, 남향샤시포함 최근 특올수리 넘 예쁜집이예요 동간거리 넓은 남향이라 햇살가득매경부동산 제공대림한숲공인중개사사무소확인매물 25.07.17.집주인대림한숲 105동매매6억 6,000아파트86/62m², 12/17층, 남향빠른입주가능, 욕실수리텐컴즈 제공25시부동산공인중개사사무",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.627Z"
+    },
+    {
+      "index": 65,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인대림한숲 102동매매5억 7,000아파트71/51m², 2/18층, 남향입주가  최근특올수리 동간거리 넓은 남향이라 햇살가득매경부동산 제공대림한숲공인중개사사무소확인매물 25.07.17.",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:38:20.628Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1652_20250718_013824.png"
+  }
+}

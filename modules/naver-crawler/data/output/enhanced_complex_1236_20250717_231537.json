@@ -1,0 +1,68 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:15:37.103507",
+    "complex_id": "1236"
+  },
+  "basic_info": {
+    "complex_id": "1236",
+    "source_url": "https://new.land.naver.com/complexes/1236",
+    "extracted_at": "2025-07-17T23:15:33.731271",
+    "url": "https://new.land.naver.com/complexes/1236?ms=37.58238,126.96343,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:15:31.359Z",
+    "complexId": "1236"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:33.746Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "세종면적308.53㎡171.88㎡ ~ 308.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "308.53㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:15:33.746Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "효자전세2.3억2.3억면적56㎡56.53㎡ ~ 56.53㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:15:33.746Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,271만신현매매9.5억9.5억면적96㎡96.94㎡ ~ 96.94㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "96㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:33.746Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 4,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1236_20250717_231536.png"
+  }
+}

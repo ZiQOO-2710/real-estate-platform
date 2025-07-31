@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T18:08:25.542288",
+    "complex_id": "7913"
+  },
+  "basic_info": {
+    "complex_id": "7913",
+    "source_url": "https://new.land.naver.com/complexes/7913",
+    "extracted_at": "2025-07-17T18:08:21.297254",
+    "url": "https://new.land.naver.com/complexes/7913?ms=35.0875,129.066449,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T09:08:19.959Z",
+    "complexId": "7913"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 2,500아파트101/70m², 4/25층, 남향출입구 동이라 접근성 좋아요,초등학교가 바로옆,가성비좋은 집,절충가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 500아파트84/59m², 4/25층, 남향절충가능,싱크대,화장실,보일러교체,즉시입주",
+      "price": "1억 500",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 5,000아파트105/84m², 4/25층, 남향급매,초등학교바로옆,절충가능",
+      "price": "1억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 8,700아파트105/84m², 18/25층, 남향올수리로 추가 수리 비용 부담 없이 새집 같은 컨디션,절충가능",
+      "price": "1억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 1,000아파트84/59m², 15/25층, 동향오션뷰,초등학교인접,빠른입주가능",
+      "price": "1억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 4,000아파트101/70m², 7/25층, 남향급매,초등학교 근처,입구라인접근성편리,도배,장판새로함,즉시입주",
+      "price": "1억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 1,500아파트84/59m², 24/25층, 남향탑층,샤시교체,중문 등 수리 잘 된 집입니다.좋은 가격.남향 햇살좋아요",
+      "price": "1억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 8,000아파트105/84m², 23/25층, 남동향가격조율됨",
+      "price": "1억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 1,500아파트84/59m², 12/25층, 남향가격절충,남향,싱크대새로함,깨끗,빠른입주가능",
+      "price": "1억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 2,000아파트84/59m², 5/25층, 동향절충가능,바다전망,중문,싱크대,신발장,타일,보일러,화장실올수리,깨끗해요",
+      "price": "1억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인미주 102동매매1억 6,000아파트105/84m², 1/12층, 남향올수리,층간소음걱적없는1층,가까운초등학교",
+      "price": "1억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 300아파트84/59m², 16/25층, 남동향오륙도 오션뷰 초품아 아파트",
+      "price": "1억 300",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인미주 101동매매1억 8,500아파트105/84m², 19/25층, 남향샤시는 3년전 교체,내부 깨끗.남향 햇살 최고의 로얄층 로얄라인.초품아",
+      "price": "1억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "미주 101동매매1억 3,000아파트101/70m², 10/25층, 남향출입구 가까운동,접근성좋아요",
+      "price": "1억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "미주 101동전세1억 2,000아파트101/70m², 18/25층, 남동향샤시외 올수리,즉시입주가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "미주 101동매매1억 2,000아파트101/70m², 18/25층, 남향급매,접근성 좋은라인,탑층으로 입구 넓은공간활용가능,단독세대,깨끗해요",
+      "price": "1억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "미주 101동매매1억 1,500아파트84/59m², 11/25층, 동향시원한 오션뷰,앞베란다 샷시 교체,절충가능",
+      "price": "1억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "미주 101동전세1억 2,000아파트101/70m², 18/25층, 남향완젼올수리한 귀한전세 초등학교2분거리,교통편리,",
+      "price": "1억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:08:21.319Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_7913_20250717_180825.png"
+  }
+}

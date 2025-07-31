@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:03:49.045333",
+    "complex_id": "1542"
+  },
+  "basic_info": {
+    "complex_id": "1542",
+    "source_url": "https://new.land.naver.com/complexes/1542",
+    "extracted_at": "2025-07-18T01:03:43.876546",
+    "url": "https://new.land.naver.com/complexes/1542?ms=37.61628,126.846116,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:03:41.493Z",
+    "complexId": "1542"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인소만2단지신안 202동매매4억 6,000아파트103A/84m², 1/15층, 남향급매.강매역5분.1층.방3.화2.바로입주가능.",
+      "price": "4억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:03:43.886Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인소만2단지신안 202동매매4억 6,000아파트103A/84m², 1/15층, 남서향아이키우기 좋은 1층 빠른입주가능",
+      "price": "4억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:03:43.886Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인소만2단지신안 201동매매5억아파트103B/84m², 15/15층, 남서향주인거주로 올수리된 컨디션 최상, 해가 잘드는 채광좋은 집, 강매역 8분",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:03:43.886Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인소만2단지신안 202동매매4억 9,000아파트103A/84m², 10/15층, 남서향앗. 확 트인 전망. 파격적인 가격. 결로1도 없이 뽀송한 상태.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:03:43.886Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인소만2단지신안 202동매매5억아파트103A/84m², 4/15층, 남서향역세권, 대중교통편리, 주인거주 깨끗한집, 정상입주",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:03:43.886Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1542_20250718_010348.png"
+  }
+}

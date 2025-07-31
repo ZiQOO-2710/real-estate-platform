@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:31:34.124606",
+    "complex_id": "1827"
+  },
+  "basic_info": {
+    "complex_id": "1827",
+    "source_url": "https://new.land.naver.com/complexes/1827",
+    "extracted_at": "2025-07-18T02:31:31.581426",
+    "url": "https://new.land.naver.com/complexes/1827?ms=37.298151,126.974534,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:31:28.843Z",
+    "complexId": "1827"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인천록 6동매매2억 4,500아파트56/44m², 4/5층, 남향ALL  인테리어된집  완전 깨끗함 천록에서는 절대후회할수없는집",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인천록 6동매매2억 4,500아파트56/44m², 중/5층, 남향방2 화장실1, 샷시까지 올수리되어 깔끔. 임차인은 26년3월만기임.",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인천록 2동매매2억 7,500아파트75/62m², 저/5층, 남향1층 매물, 집주인 거주중,입주는 협의입니다.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인천록 8동매매2억 2,000아파트56/44m², 4/5층, 남향정상입주,주인거주로 관리잘된집",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "천록 2동매매3억 2,000아파트75/62m², 2/5층, 남향올수리, 남향,대학교 초근접,좋은 투자매물",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "천록 2동매매2억 7,500아파트75/62m², 1/5층, 남향1층이라서 편하네요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "천록 7동매매2억 6,000아파트56/44m², 5/5층, 남향최근 욕실수리2025.7월만기월세끼고 투자환영올수리",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인천록 1동매매2억 9,500아파트75/62m², 저/5층, 남향깔끔하게 수리된 집, 집주인 거주중, 추천매물입니다.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "천록 3동매매2억 5,000아파트56/44m², 2/5층, 남향층 좋고 위치좋은 아파트입니다월세끼고",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "천록 3동월세1,000/70아파트56/44m², 1/5층, 남향일부수리,집깨끗해요.빠른입주 가능합니다 7월21일후",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "천록 1동매매2억 8,300아파트75/62m², 5/5층, 남향현재 임차인 거주중이지만 2026년년 1월초  정상 입주 가능합니다",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인천록 3동매매2억 5,000아파트56/44m², 1/5층, 남향전세안고,올리모델링,금액조정가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "천록 9동전세1억 5,000아파트56/44m², 3/5층, 남향샷시포함올수리되어 깔끔합니다.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "천록 9동매매2억 4,000아파트56/44m², 3/5층, 남향9월 정상 입주 협의깨끗한 로얄층현재 임차인거주로 만기 9월26일",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "천록 9동월세1,000/90아파트56/44m², 2/5층, 남향8월17일 입주가능수리,기본옵션있어요세탁기.냉장고,가스렌지,에어컨",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:31:31.596Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1827_20250718_023133.png"
+  }
+}

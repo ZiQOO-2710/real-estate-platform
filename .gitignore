@@ -161,7 +161,23 @@ test_*.js
 *_test.html
 test_*.py
 
+# === 임베디드 Git 저장소 ===
+SuperClaude/
+real-estate-platform/
+
 # === 크롤링 결과 ===
 real_estate_crawling.db
 crawling_progress.json
 *.db-journal
+
+# === 대용량 데이터 파일 (GitHub 제한) ===
+*.json
+!package*.json
+!tsconfig*.json
+!*.config.json
+!CLAUDE.md
+molit_transactions_full.json
+supabase_full_complexes.json
+backend/supabase_full_complexes.json
+etl/full_scale_matches_part_*.json
+etl/expanded/*.json

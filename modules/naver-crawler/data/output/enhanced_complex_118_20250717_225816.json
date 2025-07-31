@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:58:16.132945",
+    "complex_id": "118"
+  },
+  "basic_info": {
+    "complex_id": "118",
+    "source_url": "https://new.land.naver.com/complexes/118",
+    "extracted_at": "2025-07-17T22:58:11.423751",
+    "url": "https://new.land.naver.com/complexes/118?ms=37.50274,126.860827,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:58:08.943Z",
+    "complexId": "118"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인서울가든 4동매매7억 3,000아파트103/84m², 7/13층, 남향재건축호재. 선호하는 라인. 내부깔끔. 입주협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인서울가든 5동매매7억아파트103/84m², 9/13층, 남향주인거주 .입주 협의",
+      "price": "7억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인서울가든 1동매매5억아파트74/54m², 12/13층, 동향세안고 매매 입주일협의",
+      "price": "5억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인서울가든 2동매매5억 5,000아파트82/64m², 6/13층, 동향전세승계조건의 매매입니다",
+      "price": "5억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인서울가든 3동매매6억아파트96B/64m², 6/13층, 동향재건축 진행 중, 즉시 입주 가능",
+      "price": "6억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인서울가든 1동매매5억 3,000아파트74/54m², 2/13층, 동향특올수리, 갭2.3으로 투자매물입니다.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인서울가든 2동매매5억 5,000아파트82/64m², 4/13층, 남동향세안고, 최근특수리, 가성비, 투자가치 좋음",
+      "price": "5억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인서울가든 3동월세1억 5,000/60아파트96B/64m², 중/13층, 동향올수리 깨끗 주인거주 9월10일부터  입주협의",
+      "price": "1억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인서울가든 2동매매5억 3,000아파트82/64m², 1/13층, 동향채광좋은 1층. 조용하고 아늑한집. 입주협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "서울가든 5동매매7억 5,000아파트103/84m², 13/13층, 남향입주일협의",
+      "price": "7억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "서울가든 2동매매5억 7,000아파트82/64m², 8/13층, 남동향재건축호재. 주인거주. 입주협의",
+      "price": "5억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인서울가든 2동매매5억 6,000아파트82/64m², 3/13층, 동향25 수리잘됨 전세안고 매매",
+      "price": "5억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인서울가든 2동매매5억 6,000아파트82/64m², 13/13층, 동향재건축호재.조망확보. 내부깔끔. 주인거주",
+      "price": "5억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    },
+    {
+      "index": 67,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인서울가든 3동매매6억아파트96B/64m², 7/13층, 동향재건축추진중  특올수리  로얄층 입주가능매경부동산 제공세양청마루공인중개사사무소확인매물 25.07.14.",
+      "price": "6억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:58:11.430Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_118_20250717_225815.png"
+  }
+}

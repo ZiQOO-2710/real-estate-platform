@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:38:39.578361",
+    "complex_id": "6138"
+  },
+  "basic_info": {
+    "complex_id": "6138",
+    "source_url": "https://new.land.naver.com/complexes/6138",
+    "extracted_at": "2025-07-18T19:38:35.872377",
+    "url": "https://new.land.naver.com/complexes/6138?ms=36.36214,127.346516,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:38:34.650Z",
+    "complexId": "6138"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인다솔 103동매매4억아파트137/115m², 10/12층, 남향막힘없는남향.샷시까지올리모델링.초등학교.생활편리시설굿.",
+      "price": "4억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.881Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인다솔 102동매매2억 9,000아파트104/84m², 저/12층, 남향탁트인남향.초등학교인접.생활시설편리.입주협의가능",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인다솔 101동매매2억 5,000아파트89/69m², 중/11층, 남향채광좋은남향.생활시설편리.초등학교인근.협의입주가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "다솔 102동매매2억 8,500아파트104/84m², 10/12층, 남향급매 남향으로 전망좋고 상태 아주 양호한 아파트",
+      "price": "2억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인다솔 102동매매2억 9,000아파트104/84m², 3/12층, 남향전망좋고 깔끔한 남향 교통편리.초등학교.충남대학교인근",
+      "price": "2억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인다솔 102동전세2억 2,000아파트104/84m², 저/12층, 남향귀한전세.탁트인남향.초등학교인접.생활시설편리.빠른입주가능.",
+      "price": "2억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "다솔 101동매매2억 5,000아파트89/69m², 4/11층, 남향인기좋은 조용한동으로 햇볕잘드는집입니다. 내부수리깔끔한상태 협의입주",
+      "price": "2억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:38:35.882Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6138_20250718_193839.png"
+  }
+}

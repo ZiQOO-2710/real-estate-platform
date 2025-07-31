@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:57:42.790512",
+    "complex_id": "2103"
+  },
+  "basic_info": {
+    "complex_id": "2103",
+    "source_url": "https://new.land.naver.com/complexes/2103",
+    "extracted_at": "2025-07-18T03:57:37.401749",
+    "url": "https://new.land.naver.com/complexes/2103?ms=37.727692,127.057999,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:57:36.013Z",
+    "complexId": "2103"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 507동매매2억 8,000아파트82B/59m², 5/20층, 남향올수리세안고 초중고도보10분 단지앞광역버스1,7호선근거리 교통주거환경굿",
+      "price": "2억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.423Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 501동매매2억 5,000아파트69C/49m², 2/15층, 남향올수리, 정류장인접, 1호선및경전철 도보가능, 입주협의, 절충가",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.424Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 502동매매2억 6,500아파트80E/59m², 15/15층, 남향수리되어 꺠끗, 입주협의, 탑층선호자추천",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.424Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 503동매매3억아파트82A/59m², 2/18층, 남향샷시포함 올수리 거실과 작은방 확장 정상입주",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 505동매매2억 2,000아파트66/49m², 14/15층, 남향주인거주, 수리되어깨끗, 입주협의",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 501동전세1억 6,000아파트69C/49m², 15/15층, 남향추천매물 수리된집",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 512동매매2억 2,700아파트71B/49m², 10/20층, 남동향수리깨끗, 전망굿, 정류장인접, 1호선및경전철 도보가능",
+      "price": "2억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 513동매매2억 5,000아파트71B/49m², 1/20층, 남동향샷시포함 올수리, 정류장인접, 1호선및경전철 도보가능, 입주협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 510동매매2억 3,000아파트82A/59m², 1/18층, 동향샷시외 올수리 중문설치, 상태좋음 입주일협의가능",
+      "price": "2억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 506동전세1억 6,000아파트69A/49m², 2/18층, 남향상태깨끗. 조용한남향동. 경전철역세권. 조용히살기좋아요.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 502동매매2억 6,000아파트80E/59m², 12/15층, 남향정남향 샷시외 올수리 방1확장 주인거주 상태굿 입주일 협의가능",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 509동매매2억 4,500아파트82B/59m², 20/20층, 남향정남향 트인뷰 부분수리 입주협의 가능",
+      "price": "2억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 511동매매2억 6,300아파트82B/59m², 2/20층, 남향로얄동, 트인뷰,햇볕이 좋은 남향,교통이용편리",
+      "price": "2억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 511동매매3억아파트82B/59m², 19/20층, 남향로얄동, 트인뷰로 햇볕 좋음. 남향.교통이용편리.초중고인접",
+      "price": "3억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인장암주공5단지 512동매매2억 4,000아파트71B/49m², 20/20층, 남서향탑층, 수리상태좋음, 교통이용편리",
+      "price": "2억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:57:37.425Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체66㎡69A㎡69C㎡71B㎡80E㎡82B㎡82A㎡83D㎡85C㎡",
+      "price": null,
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:57:37.426Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2103_20250718_035742.png"
+  }
+}

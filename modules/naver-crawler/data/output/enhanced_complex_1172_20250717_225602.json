@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:56:02.539488",
+    "complex_id": "1172"
+  },
+  "basic_info": {
+    "complex_id": "1172",
+    "source_url": "https://new.land.naver.com/complexes/1172",
+    "extracted_at": "2025-07-17T22:55:58.294158",
+    "url": "https://new.land.naver.com/complexes/1172?ms=37.560626,127.049578,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:55:55.947Z",
+    "complexId": "1172"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "사근벽산 101동매매8억 1,000아파트108/84m², 1/19층, 동향사근동벽산아파트 32타입 매매",
+      "price": "8억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.307Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "사근벽산 101동매매9억아파트108/84m², 17/19층, 동향조 망 권 굿  사 통 팔 달 주변 개발 추진 지역",
+      "price": "9억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.308Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "사근벽산 101동매매9억아파트108/84m², 고/19층, 동향전 세입 자  안고 매도. 입 주일을 2026년 10월",
+      "price": "9억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.308Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "제이앤피빌(도시형)면적 - ㎡29.62㎡ ~ 110.63㎡단지정보",
+      "price": null,
+      "area": "29.62㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,678만사근벽산매매8.75억8.1억~9억면적108㎡108.08㎡ ~ 108.08㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억8",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "드림시드면적102.45㎡102.45㎡ ~ 151.34㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "102.45㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "청계더하임면적37.72㎡29.55㎡ ~ 54.58㎡단지정보",
+      "price": null,
+      "area": "37.72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "인암빌(도시형)면적26.54㎡24.25㎡ ~ 45.66㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "26.54㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,184만중앙하이츠매매10.5억8.3억~11.3억전세6.2억4.65억~6.2억면적109㎡85.86㎡ ~ 109.53㎡매매매물만 보기14개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "어반큐브(민간임대,도시형)면적50.17㎡25.18㎡ ~ 50.17㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "50.17㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,938만하이츠매매8억7.4억~9억전세4.5억4.5억~4.8억면적90㎡90㎡ ~ 90㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억7",
+      "area": "90㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:55:58.309Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1172_20250717_225602.png"
+  }
+}

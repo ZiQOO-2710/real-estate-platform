@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:11:48.866478",
+    "complex_id": "1417"
+  },
+  "basic_info": {
+    "complex_id": "1417",
+    "source_url": "https://new.land.naver.com/complexes/1417",
+    "extracted_at": "2025-07-18T00:11:44.905033",
+    "url": "https://new.land.naver.com/complexes/1417?ms=37.49823,126.76712,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:11:42.100Z",
+    "complexId": "1417"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무지개동신 1202동매매5억 5,000아파트104/84m², 2/25층, 남향방3화2개,남향으로 2층이지만 채광굿,부분수리,깨끗,정상이사협의",
+      "price": "5억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.918Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무지개동신 1207동전세3억 2,000아파트78/59m², 11/12층, 남향융자무 현재 신혼거주라 깔끔한 컨디션 추천매물입니다",
+      "price": "3억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무지개동신 1204동매매6억 2,000아파트104/84m², 10/20층, 남향전체샷시 포함 특올수리. 중앙공원 뷰. 25년10월 입주가능",
+      "price": "6억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "무지개동신 1202동매매5억 3,000아파트104/84m², 1/25층, 남향강추,주인거주로 관리잘된집,깨끗,조용한동,아이들 키우기 좋아요,남향",
+      "price": "5억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "무지개동신 1208동매매6억 3,000아파트104/84m², 5/12층, 남향조용한 최고로얄동,완전최근전체특올수리.정상",
+      "price": "6억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "무지개동신 1208동월세1억 5,000/100아파트104/84m², 10/12층, 남향전체샷시포함 특올수리,조용한 최고로얄동,조정가",
+      "price": "1억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "무지개동신 1204동매매5억 4,000아파트104/84m², 1/20층, 남향작은방확장,아주깨끗,정상",
+      "price": "5억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "무지개동신 1202동전세3억 7,000아파트104/84m², 1/25층, 남향언제든지 입주가능,도배장판교체조건,깨끗",
+      "price": "3억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "무지개동신 1203동매매5억 8,000아파트104/84m², 7/15층, 남향거실확장,앞 뷰가 너무예뻐요,정상",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인무지개동신 1201동매매6억 5,000아파트104/84m², 16/25층, 남향수리됨,정상입주빨리도가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "무지개동신 1208동월세1억/120아파트104/84m², 5/12층, 남향내부올수리함 샷시는 뒷베란다쪽만설치예정,언제든지 입주가",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:11:44.919Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1417_20250718_001148.png"
+  }
+}

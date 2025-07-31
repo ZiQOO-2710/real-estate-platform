@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:58:30.906153",
+    "complex_id": "1525"
+  },
+  "basic_info": {
+    "complex_id": "1525",
+    "source_url": "https://new.land.naver.com/complexes/1525",
+    "extracted_at": "2025-07-18T00:58:26.433428",
+    "url": "https://new.land.naver.com/complexes/1525?ms=37.39676,127.121798,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:58:24.042Z",
+    "complexId": "1525"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인아름5단지풍림 508동월세4억/95아파트95/75m², 18/22층, 남향2억5천에155,3억에135.샷시포함.특올수리.에어컨.탄천뷰.빠른입주가",
+      "price": "4억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:58:26.443Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인아름5단지풍림 501동매매23억아파트158/134m², 12/15층, 남향47. GTX성남역 전체 창호교체 거실발코니확장 올수리 세안고",
+      "price": "23억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 504동매매15억아파트76/59m², 5/10층, 동향GTX초역세,최근확장완벽수리,앞뒤전망굿,정상입주",
+      "price": "15억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 512동전세8억 5,000아파트158/134m², 9/10층, 동향샷시포함특올수리 융무,공원뷰,GTX,경강선더블역세 하시입주",
+      "price": "8억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 515동매매22억아파트192/163m², 13/20층, 남향급매,탄천전망,gtx초역세권, 올수리, 세안고,",
+      "price": "22억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 502동매매16억 3,000아파트95/75m², 3/22층, 남향샷시포함 특올수리,주세안고 가능",
+      "price": "16억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 513동전세9억아파트158/134m², 1/15층, 남향샷시포함 전체 화이트 특인테리어 정남향 1층 GTX 매송중학군",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 510동매매17억 3,000아파트123/101m², 4/11층, 동향전망좋은집,세안고,탄천과공원인접gtx등4역세권",
+      "price": "17억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 508동전세6억 3,000아파트95/75m², 14/22층, 남향내부특올수리, 정상입주, 장기거주가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 505동매매19억 5,000아파트158/134m², 10/15층, 남향GTX초역세권 입주 올수리",
+      "price": "19억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "아름5단지풍림 512동월세1억/290아파트158/134m², 9/10층, 동향이사일 협의 자유롭고 관리 잘된 공원 옆 로얄동 로얄층입니다.전세도 가능",
+      "price": "1억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:58:26.444Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1525_20250718_005830.png"
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:34:38.051410",
+    "complex_id": "9738"
+  },
+  "basic_info": {
+    "complex_id": "9738",
+    "source_url": "https://new.land.naver.com/complexes/9738",
+    "extracted_at": "2025-07-18T19:34:34.826204",
+    "url": "https://new.land.naver.com/complexes/9738?ms=37.546666,126.924368,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:34:33.563Z",
+    "complexId": "9738"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 102동매매14억아파트104/84m², 1/25층, 남동향상수역세권.화이톤 올리모델링.높은 지대 필로티 1층외부서 3층 높이",
+      "price": "14억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 104동매매18억아파트136/114m², 19/25층, 남서향41추천매물 로얄층 한강뷰 특올수리 최상 주인거주 초역세권",
+      "price": "18억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 104동매매18억아파트136/114m², 19/25층, 남향상수역세권.올수리 최상.한강조망 밤섬 조망 뛰어남.입주 가능",
+      "price": "18억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 104동매매18억아파트136/114m², 22/25층, 남서향41p 로얄동 로얄3호라인 초고층의 한강뷰밤섬뷰 최상 주인거주 초역세권",
+      "price": "18억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 104동매매18억아파트136/114m², 22/25층, 남서향41P 차원이 다른 3호라인 파노라마 한강밤섬뷰 여의도뷰 남향 주인거주",
+      "price": "18억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인상수두산위브 102동매매14억아파트104/84m², 1/25층, 남향32 올수리 상태최상 초역세권 입주협의",
+      "price": "14억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:34:34.835Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9738_20250718_193437.png"
+  }
+}

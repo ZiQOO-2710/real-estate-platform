@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:40:00.791215",
+    "complex_id": "1119"
+  },
+  "basic_info": {
+    "complex_id": "1119",
+    "source_url": "https://new.land.naver.com/complexes/1119",
+    "extracted_at": "2025-07-17T22:39:56.366534",
+    "url": "https://new.land.naver.com/complexes/1119?ms=37.682636,127.049803,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:39:55.254Z",
+    "complexId": "1119"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매4억 8,000아파트102C/84m², 1/15층, 남향샷시포함 특올수리됨  전세안고 매매가능.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 3,000아파트102C/84m², 10/15층, 남향awesome딱트인뷰, 올수리 도봉산역1.7호선 도보5분거리.주인거주",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 3,000아파트102C/84m², 8/15층, 동향Awesome 도봉역1호선, 끝장나는 중랑천뷰, 조용한단지 집주인거주깨끗",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 3,000아파트102C/84m², 1/15층, 남향awesome 도봉역1호선도보5분, 특급 올수리.층간소음",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 2,000아파트102C/84m², 6/15층, 동향추천 전망우수 특올수리",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 5,000아파트101A/84m², 11/15층, 남향샷시포함 최근특올수리,남향,극동제일좋은구조",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 1,000아파트102C/84m², 4/15층, 남향올수리된 남향,빠른입주,또는정상",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매4억 7,000아파트102C/84m², 3/15층, 남향급매,주인거주로 깨끗,남향",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 7,000아파트102C/84m², 고/15층, 남향1호선 도봉역 1.7호선도봉산역 도보5분awesome 올수리,집주인거주",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 7,000아파트102C/84m², 13/15층, 남향특올수리, 정상입주, 주인거주, 역세권, 도봉역도보10분, 천세권",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억아파트102C/84m², 고/15층, 남동향PLUS 신혼부부 강추, 주인거주로 깨끗관리, 주변 편의시설 굿, 뻥뷰",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "극동 1동매매5억 3,000아파트102C/84m², 1/15층, 남동향정상.특올수리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:39:56.378Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1119_20250717_224000.png"
+  }
+}

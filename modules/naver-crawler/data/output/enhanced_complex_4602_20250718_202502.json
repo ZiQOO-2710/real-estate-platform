@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:25:02.265632",
+    "complex_id": "4602"
+  },
+  "basic_info": {
+    "complex_id": "4602",
+    "source_url": "https://new.land.naver.com/complexes/4602",
+    "extracted_at": "2025-07-18T20:24:59.370716",
+    "url": "https://new.land.naver.com/complexes/4602?ms=34.79729,126.403269,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:24:57.622Z",
+    "complexId": "4602"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인유달 3동매매6,500아파트98B/84m², 4/5층, 남향첫입주,샷시포함 올인테리어됨, 보일러교체완료,즉시입주",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "유달 1동전세3,000아파트56/45m², 1/5층, 서향맨앞동,즉시입주",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "유달 5동매매8,000아파트102/84m², 고/5층, 남동향리모델링되어있습니다",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인유달 1동매매3,500아파트56/45m², 3/5층, 서향샷시 등 수리됨,빠른입주가능, 집상태 좋음. 중층",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "유달 5동월세1,000/50아파트102/84m², 4/5층, 남향샷시까지 리모델링해서 집상태 좋아요, 즉시입주집바로 볼수 있어요",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "유달 3동매매5,500아파트98B/84m², 고/5층, 남동향",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "유달 2동매매3,500아파트56/45m², 고/5층, 서향싱태좋은집.수리됨.사이드조망.집구경상시.가격협의조정.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "유달 5동매매8,500아파트102/84m², 4/5층, 남동향샷시.욕실.씽크대.방문.LED교체.입주협의.집구경상시.가격협으조정",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인유달 3동매매6,500아파트98B/84m², 4/5층, 남향첫입주,샷시포함 올인테리어됨, 보일러교체완료,즉시입주매경부동산 제공하이공인중개사사무소확인매물 25.07.17.유달 3동매매6,500아파트98B/84m², 4/5층, 남향샷슈까지 올리모델링했음 보일러교체완료 리모델링후 첫입주 공실 즉시입주가능한경부동산 제공복방공인중개사사무소확인매물 25.07.17.유달 1동전세3,000아파트56/45m², 1/5층, 서향맨앞동,즉시입주부동산써브 제공기찬공인중개사사무소확인매물 25.07.17.유달 5동매매8,000아파트102/84m², 고",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.380Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "342만영성써니빌매매1.2억1.2억면적116㎡116.95㎡ ~ 116.95㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "116㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "258만대화파크매매6.7천6.5천~6.9천면적86㎡82.68㎡ ~ 86.35㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "성원보금자리면적84.27㎡81.68㎡ ~ 84.76㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "84.27㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "311만동아매매9.5천8.7천~1.73억면적101㎡101.94㎡ ~ 156.99㎡매매매물만 보기11개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "73억",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "207만유달매매3.5천3.5천~8.5천전세3천3천월세-50만면적56㎡56.3㎡ ~ 102.39㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "936만용해동광신프로그레스매매3억2.75억~4.9억전세-3억월세-1.3백면적106㎡102.55㎡ ~ 145.95㎡매매매물만 보기24개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼호맨션월세52만50만~55만면적103㎡103.91㎡ ~ 103.91㎡월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "성지베스트빌면적75.35㎡75.35㎡ ~ 75.35㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "75.35㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:24:59.381Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4602_20250718_202502.png"
+  }
+}

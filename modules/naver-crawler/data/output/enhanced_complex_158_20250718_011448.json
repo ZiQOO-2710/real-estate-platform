@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:14:48.452521",
+    "complex_id": "158"
+  },
+  "basic_info": {
+    "complex_id": "158",
+    "source_url": "https://new.land.naver.com/complexes/158",
+    "extracted_at": "2025-07-18T01:14:43.658404",
+    "url": "https://new.land.naver.com/complexes/158?ms=37.496667,126.846862,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:14:41.495Z",
+    "complexId": "158"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매6억 4,000아파트153A/113m², 21/22층, 남향남향으로 전망 탁 트이고 채광 우수, 주인거주로 집관리잘함.",
+      "price": "6억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 8,500아파트114/84m², 16/22층, 남향전망탁트이고 깔끔. 수리하고 주인거주로 관리잘됨",
+      "price": "5억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 8,000아파트114/84m², 고/22층, 남향소유주 의뢰 전세안고 갭투 내부 양호 전망 굿 오류역세권 가격협의 공동가",
+      "price": "5억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매6억 7,000아파트153A/113m², 고/22층, 남향초역세권.고층.남향.샷시보일러 교체.실입주가능",
+      "price": "6억 7",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 1,000아파트114/84m², 1/22층, 남동향역세권 입주일협의",
+      "price": "5억 1",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매4억 2,000아파트80/59m², 2/22층, 남향해잘드는 남향집, 샤시까지 올수리로 깨끗",
+      "price": "4억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 8,000아파트114/84m², 5/22층, 남향역세권,남향으로 채광좋아요,입주협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 8,000아파트114/84m², 8/22층, 남향수리되어 깔끔하고  주인거주로 입주협의가능함",
+      "price": "5억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매6억 8,000아파트155B/114m², 21/22층, 남향역세권 남향 막힘없는 전망 뷰맛집 특올수리 집주인 거주 관리 잘된 집",
+      "price": "6억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매6억 6,000아파트155B/114m², 고/22층, 남서향｜지하철 1호선 오류동역 초역세권｜리모델링으로 시설 최상",
+      "price": "6억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 5,000아파트114/84m², 2/22층, 남향남향집,주차장엘베연결,교통편리함",
+      "price": "5억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인라인 101동매매5억 1,000아파트114/84m², 1/22층, 남향세안고 매매 부분수리되어있고 관리잘된 내부",
+      "price": "5억 1",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.673Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인라인 101동매매6억 4,000아파트153A/113m², 21/22층, 남향남향으로 전망 탁 트이고 채광 우수, 주인거주로 집관리잘함.부동산써브 제공오성공인중개사확인매물 25.07.17.집주인라인 101동매매5억 8,500아파트114/84m², 16/22층, 남향전망탁트이고 깔끔. 수리하고 주인거주로 관리잘됨부동산써브 제공오성공인중개사확인매물 25.07.12.집주인라인 101동매매6억 4,000아파트153A/113m², 21/22층, 남향급매 역세권 남향 햇볕 잘들고 채광 좋은집 중문설치 싱크대교체매경부동산 제공포레스트부동산공",
+      "price": "6억 4",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:14:43.674Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_158_20250718_011448.png"
+  }
+}

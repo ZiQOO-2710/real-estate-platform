@@ -39,7 +39,13 @@
       "Bash(git push:*)",
       "WebFetch(domain:www.data.go.kr)",
       "Bash(taskkill:*)",
-      "Bash(playwright install:*)"
+      "Bash(playwright install:*)",
+      "Bash(git clone:*)",
+      "Bash(pip3 install:*)",
+      "mcp__ide__executeCode",
+      "Bash(echo:*)",
+      "Bash(git checkout:*)",
+      "Bash(claude mcp:*)"
     ],
     "deny": []
   }

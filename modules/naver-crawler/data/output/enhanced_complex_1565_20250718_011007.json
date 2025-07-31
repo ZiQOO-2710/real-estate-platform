@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:10:07.703254",
+    "complex_id": "1565"
+  },
+  "basic_info": {
+    "complex_id": "1565",
+    "source_url": "https://new.land.naver.com/complexes/1565",
+    "extracted_at": "2025-07-18T01:10:03.152379",
+    "url": "https://new.land.naver.com/complexes/1565?ms=37.633053,126.834788,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:10:01.744Z",
+    "complexId": "1565"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1201동매매5억 7,000아파트77/59m², 20/20층, 남향특수리됨,히든폴딩도어,하시입주가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1204동전세3억 6,000아파트77/59m², 3/15층, 동향올수리, 밝고 좋아요, 협의입주, 지하철5분거리, 역세권",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1205동매매5억 7,000아파트77/59m², 4/15층, 남향화정동옥빛12단지,샷시포함한샘특인테리어,입주협의가능,백양초,중,이마트편리",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1202동매매5억아파트77/59m², 1/19층, 남향대형마트 및 지하철역 3분, 남향, 깨끗,중문과 붙박이장 설치, 주인거주",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1204동전세3억 9,000아파트77/59m², 13/15층, 동향북한산전망뷰,화정역앞,이마트앞",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "옥빛12단지신덕가든 1204동매매5억 3,500아파트77/59m², 3/15층, 동향정상입주,화정역 도보5분,방과 거실확장,전체올수리,정원전망",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1204동매매4억 8,000아파트77/59m², 1/15층, 동향아주깨끗,공원전망, 2층같은높이,주인거주로 이사협의가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.156Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1205동매매5억아파트77/59m², 3/15층, 동향수리되어깨끗함,세끼고매매,",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1204동매매5억 5,000아파트77/59m², 5/15층, 동향24계단식.전망최고.주인거주하고계심",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1203동매매5억 2,000아파트77/59m², 16/18층, 남향화정역5분거리  정남향 세안고 로얄동",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1205동매매5억 7,000아파트77/59m², 4/15층, 동향샤시포함 특수리, 정상입주, 주인 거주, 확장, 중문, 초역세권, 학세권",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "옥빛12단지신덕가든 1202동매매5억아파트77/59m², 1/19층, 동향정상입주,화정역 도보5분,내부샤시포함올수리,주인거주",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인옥빛12단지신덕가든 1201동매매5억 6,000아파트77/59m², 8/20층, 남향",
+      "price": "5억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    },
+    {
+      "index": 71,
+      "selector": "[class*=\"item\"]",
+      "text": "옥빛12단지신덕가든 1204동매매5억 7,500아파트77/59m², 13/15층, 동향정상입주,화정역 도보5분,거실 중문및 방확장 전체 특올수리 후 첫입주부동산뱅크 제공썬부동산공인중개사사무소확인매물 25.07.17.",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:10:03.157Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1565_20250718_011007.png"
+  }
+}

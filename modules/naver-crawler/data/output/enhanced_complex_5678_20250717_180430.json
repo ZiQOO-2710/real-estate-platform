@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T18:04:30.441663",
+    "complex_id": "5678"
+  },
+  "basic_info": {
+    "complex_id": "5678",
+    "source_url": "https://new.land.naver.com/complexes/5678",
+    "extracted_at": "2025-07-17T18:04:26.247571",
+    "url": "https://new.land.naver.com/complexes/5678?ms=35.793557,127.135278,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T09:04:24.802Z",
+    "complexId": "5678"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인코오롱 5동매매1억 6,200아파트93/73m², 8/16층, 남향배관교체,기본집,입주일 협의 가능",
+      "price": "1억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인코오롱 7동매매2억 8,000아파트159/134m², 2/17층, 남향5년전 수리. 작은방 한곳 확장. 7월 입주 협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인코오롱 7동매매2억 8,000아파트159/134m², 7/17층, 남향상태좋음, 사이드아님, 부분리모델링,남향, 입주일협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인코오롱 4동매매1억 8,500아파트93/73m², 고/16층, 남향화이트톤 올리모델링 샤시 중문포함,최근 도배,보일러 교체,전망최상",
+      "price": "1억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인코오롱 7동전세2억 9,000아파트159/134m², 3/17층, 남향대형평수 저렴한 가격 입주협의가능 집상태 양호",
+      "price": "2억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "코오롱 11동매매4억 500아파트217/188m², 중/18층, 남향올 리모델링 된 집으로 상태 최상",
+      "price": "4억 500",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "코오롱 6동매매1억 9,300아파트105/84m², 5/17층, 남향상태양호, 조용한집, 즉시입주가능",
+      "price": "1억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "코오롱 11동매매4억아파트217/188m², 12/18층, 남향부분리모델링.입주일 협의.교통 편익시설 좋음",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:26.256Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5678_20250717_180430.png"
+  }
+}

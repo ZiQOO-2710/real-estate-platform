@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:02:23.916196",
+    "complex_id": "1387"
+  },
+  "basic_info": {
+    "complex_id": "1387",
+    "source_url": "https://new.land.naver.com/complexes/1387",
+    "extracted_at": "2025-07-18T00:02:19.103197",
+    "url": "https://new.land.naver.com/complexes/1387?ms=37.67078,126.7565,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:02:17.762Z",
+    "complexId": "1387"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문촌15단지부영 1507동매매3억 6,000아파트69/49m², 12/12층, 남서향입주협의, 기본",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1504동매매2억 7,000아파트56/40m², 11/11층, 남서향샷시포함특올수리,세안고,GTX초스피드,서울역15분,한수학군,주엽역",
+      "price": "2억 7",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1507동매매3억 6,000아파트69/49m², 4/12층, 남서향입주협의.최근올수리특.공원동.주엽도보역세권.집이 예뻐요",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1506동전세2억 1,000아파트69/49m², 5/12층, 남동향9월6일확정, 시설깨끗,주엽역약7분,gtx약12분,한수초중약5분",
+      "price": "2억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인문촌15단지부영 1507동매매3억 6,000아파트69/49m², 고/12층, 남서향주엽역 코앞. 학군 좋고 학원 밀집, 컨디션 좋음.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1504동월세1,000/75아파트56/40m², 11/11층, 남서향 9월15일후 내외부샷시포함특올수리.",
+      "price": null,
+      "area": null,
+      "floor": "11층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1506동매매3억 5,000아파트69/49m², 5/12층, 남동향샷시포함올수리된집 전망좋은동 전세들어있음",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1501동월세1,000/70아파트56/40m², 5/11층, 남서향전체수리해줌  남향  주엽역5분거리",
+      "price": null,
+      "area": null,
+      "floor": "11층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1504동매매2억 6,000아파트56/40m², 1/11층, 남서향밝은1층 주엽역 도보5분거리 샷시포함올수리",
+      "price": "2억 6",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1507동매매3억 6,000아파트69/49m², 4/12층, 남서향남향 공원동  내부전체올수리됨  주인거주  입주가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1501동매매2억 9,000아파트56/40m², 7/11층, 남서향수리잘됨 전망좋음 주엽역.gtx도보가능",
+      "price": "2억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1506동매매3억 5,000아파트69/49m², 3/12층, 남동향올수리됨  급매 전망좋음 주엽역5분거리",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1501동전세1억 7,000아파트56/40m², 11/11층, 남서향정상. 수리깨끗. 층간소음걱정무. 주엽역 도보역세권",
+      "price": "1억 7",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1503동매매2억 9,000아파트56/40m², 10/11층, 남서향전세안고. 내외부샷시포함특수리 더불역세권",
+      "price": "2억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1503동매매2억 8,000아파트56/40m², 9/11층, 남서향전세안고. 수리깪끗.주엽역도보역세권. GTX수혜단지",
+      "price": "2억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1506동전세2억 2,000아파트69/49m², 6/12층, 남동향정상. 올수리깨끗. 주엽역도보역세권",
+      "price": "2억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "문촌15단지부영 1505동매매2억 7,000아파트56/40m², 9/15층, 남동향샷시포함올수리월세안고",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:02:19.116Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1387_20250718_000223.png"
+  }
+}

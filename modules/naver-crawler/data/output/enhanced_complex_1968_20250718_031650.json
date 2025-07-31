@@ -1,0 +1,238 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:16:50.398053",
+    "complex_id": "1968"
+  },
+  "basic_info": {
+    "complex_id": "1968",
+    "source_url": "https://new.land.naver.com/complexes/1968",
+    "extracted_at": "2025-07-18T03:16:47.248017",
+    "url": "https://new.land.naver.com/complexes/1968?ms=37.331508,126.850001,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:16:46.011Z",
+    "complexId": "1968"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 201동전세2억 7,000아파트103/84m², 9/15층, 남서향틔여있어 전망 좋은동이며 샷시포함 올수리됨. 이사협의.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.261Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 217동매매3억아파트88B/68m², 5/5층, 남서향",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 202동전세2억 7,000아파트103/84m², 13/15층, 남향모든대출 협조가, 샷시포함 올수리됨",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 201동매매4억아파트103/84m², 3/15층, 남서향급매공실,키보관.올수리외부샤시제외",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 206동전세1억 6,500아파트83/63m², 5/5층, 남서향샷시포함  올리모델링됨, 상태굿,  이사협의",
+      "price": "1억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 204동매매4억 8,000아파트140/118m², 2/15층, 남서향착한가격, 거실 아주 넓음,샷시 교체됨. 상태양호, 이사협의.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 212동매매3억 2,500아파트88A/68m², 4/5층, 남서향투자매물  전세안고 매매  가격절충가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "안산현대2차 204동매매4억 8,000아파트140/118m², 2/15층, 남향입주물,  샷시포함 올수리, 앞베란다확장 폴링도어",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "안산현대2차 203동매매4억 8,000아파트143/122m², 1/15층, 남향급매,샷슈및수리됨,급매, 이사협의",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 202동매매4억 5,000아파트103/84m², 13/15층, 남서향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 205동매매2억 8,000아파트83/63m², 4/5층, 남서향샷시포함 올수리.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "안산현대2차 204동매매4억 8,000아파트140/118m², 9/15층, 남향공실, 샷시포함 올수리 잘되어있어요",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "안산현대2차 204동매매4억 8,000아파트140/118m², 9/15층, 남서향샤시포함 올수리 막힘없는 뷰와 햇살좋은집 즉시입주가능 매매금액 절충가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인안산현대2차 213동매매3억 5,000아파트88A/68m², 2/5층, 남서향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "안산현대2차 205동전세1억 8,000아파트83/63m², 2/5층, 남서향",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "안산현대2차 213동전세2억 1,000아파트88A/68m², 4/5층, 남서향샷시포함 올수리 해드립니다  .",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "안산현대2차 204동매매5억 2,000아파트140/118m², 4/15층, 남서향샤시교체 수리됨 전망아주좋음",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "안산현대2차 204동매매6억아파트140/118m², 12/15층, 남서향샤시포함올수리 이사가능",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "안산현대2차 203동매매5억 5,000아파트143/122m², 14/15층, 남서향샤시포함 올수리됨",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체83㎡87㎡88A㎡88B㎡103㎡140㎡143㎡",
+      "price": null,
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    },
+    {
+      "index": 60,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인안산현대2차 201동전세2억 7,000아파트103/84m², 9/15층, 남서향틔여있어 전망 좋은동이며 샷시포함 올수리됨. 이사협의.매경부동산 제공현대공인중개사사무소확인매물 25.07.16.집주인안산현대2차 217동매매3억아파트88B/68m², 5/5층, 남서향매경부동산 제공현대공인중개사사무소확인매물 25.07.14.집주인안산현대2차 202동전세2억 7,000아파트103/84m², 13/15층, 남향모든대출 협조가, 샷시포함 올수리됨부동산써브 제공정보공인중개사사무소확인매물 25.07.14.집주인안산현대2차 201동매매4억아파트",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:16:47.262Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 21,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1968_20250718_031650.png"
+  }
+}

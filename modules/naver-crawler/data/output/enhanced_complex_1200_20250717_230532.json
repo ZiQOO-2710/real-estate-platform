@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:05:32.583022",
+    "complex_id": "1200"
+  },
+  "basic_info": {
+    "complex_id": "1200",
+    "source_url": "https://new.land.naver.com/complexes/1200",
+    "extracted_at": "2025-07-17T23:05:29.523937",
+    "url": "https://new.land.naver.com/complexes/1200?ms=37.523207,126.876365,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:05:27.306Z",
+    "complexId": "1200"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인목동삼익 103동매매17억 5,000아파트144/114m², 12/21층, 남향특올수리 주인거주  12월부터  오목교역세권 편리한지하주차장 목동초목동중",
+      "price": "17억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:05:29.537Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "목동삼익 103동매매15억아파트112/84m², 12/21층, 남향남향 올수리 목동초 목동중배정 오목교역5분 조용하고 강추",
+      "price": "15억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:05:29.537Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "목동삼익 101동매매14억 7,000아파트112/84m², 4/11층, 남향정상입주,오목교역도보3분,목동초중학군,베란다 작은방 확장,주차편리,남향",
+      "price": "14억 7",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:05:29.538Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "목동삼익 102동월세3억/100아파트85A/59m², 11/21층, 남향 오목교초역세권,남향, 방3, 도배 장판해드림,주차편리,비율조정가",
+      "price": "3억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:05:29.538Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "목동삼익 103동매매15억 5,000아파트144/114m², 1/21층, 남향올수리, 급매물로 추천, 오목교역 5분, 남향, 목동학군",
+      "price": "15억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:05:29.538Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "목동삼익 101동매매17억아파트144/114m², 11/11층, 남향남향이며 수리잘되고 목동초중학교 배정 오목교역이 가깝고 주인거주주차연결됨",
+      "price": "17억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:05:29.538Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1200_20250717_230532.png"
+  }
+}

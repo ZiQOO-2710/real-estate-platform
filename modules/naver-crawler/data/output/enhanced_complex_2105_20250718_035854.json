@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:58:54.627487",
+    "complex_id": "2105"
+  },
+  "basic_info": {
+    "complex_id": "2105",
+    "source_url": "https://new.land.naver.com/complexes/2105",
+    "extracted_at": "2025-07-18T03:58:49.426024",
+    "url": "https://new.land.naver.com/complexes/2105?ms=37.744328,127.06085,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:58:47.561Z",
+    "complexId": "2105"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 6동매매3억아파트104/84m², 16/18층, 남동향욕실. 씽크. 정상입주",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 1동월세3,000/100아파트104/84m², 8/18층, 남향올수리,이사하시,남향,전망굿",
+      "price": null,
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 6동매매2억 7,500아파트104/84m², 7/18층, 남동향빠른입주가능 주인거주",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 1동매매2억 6,500아파트104/84m², 2/18층, 남동향주인거주라 상태 깨끗, 수리, 교통편리",
+      "price": "2억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 5동매매2억 8,000아파트104/84m², 6/18층, 남동향급매.  기본. 앞동 전망굿. 하시",
+      "price": "2억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신성,벽산 7동매매2억 7,000아파트88/72m², 12/18층, 남동향내부수리한번,방1확장,올마루,완전깨끗",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 4동매매2억 5,500아파트88/72m², 1/16층, 남동향샷시포함 특올수리. 트인 남향동,  날자조정가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.446Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "신성,벽산 4동전세2억 3,000아파트104/84m², 3/16층, 남동향수리됨 샷시 제외,안방화장실 제외,키번호,공실",
+      "price": "2억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "신성,벽산 3동매매2억 8,500아파트104/84m², 3/17층, 남동향사시까지 올수리,보일러 교체,빠른입주가능,키보관",
+      "price": "2억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "신성,벽산 4동매매3억아파트104/84m², 12/16층, 남동향최선호동,전망 좋아요,날짜협의가능.주인거주",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 7동매매2억 4,000아파트88/72m², 2/18층, 남향입주협의, 화장실등 수리한번 되었어요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 6동매매2억 7,500아파트104/84m², 7/18층, 남향수리한번 되었어요. 깔끔",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 5동매매2억 8,000아파트104/84m², 6/18층, 남향급매,  빠른입주가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인신성,벽산 1동매매3억아파트104/84m², 3/18층, 남향샷시제외 올수리되어서 상태 아주 좋아요",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인신성,벽산 6동매매3억아파트104/84m², 16/18층, 남동향욕실. 씽크. 정상입주매경부동산 제공으뜸공인중개사사무소확인매물 25.07.17.집주인신성,벽산 1동월세3,000/100아파트104/84m², 8/18층, 남향올수리,이사하시,남향,전망굿이실장플러스 제공벽산공인중개사사무소확인매물 25.07.17.집주인신성,벽산 6동매매2억 7,500아파트104/84m², 7/18층, 남동향빠른입주가능 주인거주 부동산써브 제공삼도공인중개사사무소확인매물 25.07.16.집주인신성,벽산 1동매매2억 6,500아파트104/84m², 2/1",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:58:49.447Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2105_20250718_035854.png"
+  }
+}

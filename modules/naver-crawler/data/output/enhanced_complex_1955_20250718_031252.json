@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:12:52.524394",
+    "complex_id": "1955"
+  },
+  "basic_info": {
+    "complex_id": "1955",
+    "source_url": "https://new.land.naver.com/complexes/1955",
+    "extracted_at": "2025-07-18T03:12:48.674584",
+    "url": "https://new.land.naver.com/complexes/1955?ms=37.321812,126.843868,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:12:47.247Z",
+    "complexId": "1955"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인예술인 6동매매4억 2,000재건축111A/84m², 4/15층, 남향난방배관교체함 아주깨끗함 남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인예술인 5동전세2억 5,000재건축111A/84m², 5/15층, 남향전체올수리.10월말협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인예술인 2동매매3억 7,000재건축96A/73m², 12/15층, 남향전세2억안고매매. 수리됨",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인예술인 10동매매3억 5,500재건축96A/73m², 3/15층, 남향급매물. 공실. 로얄동. 남향. 화장실,씽크대수리",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인예술인 12동매매3억 3,000재건축82B/61m², 15/20층, 동향수리된집 깨끗 틔인전망. 입주하시가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인예술인 11동매매3억재건축81A/61m², 4/15층, 동향전세1억4천만원 세안고매매",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인예술인 2동매매3억 7,000재건축96B/73m², 13/15층, 남향배관수리.이사협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인예술인 3동매매4억 3,000재건축111A/84m², 10/15층, 남향남향이며 수리됨  좋은층 좋은라인 이사협의",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.679Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인예술인 3동매매4억 1,000재건축111A/84m², 15/15층, 남향월세안고 이사협의  올수리됨 재건축추진중",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인예술인 11동매매3억 6,000재건축81A/61m², 중/15층, 동향로얄동, 로얄층, 관리상태 굿, 재건축 추진중",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인예술인 7동매매4억재건축111A/84m², 1/15층, 남향수리됨.이사협의",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인예술인 8동월세3,000/65재건축81A/61m², 10/15층, 동향수리됨 빠른이사가능 이사협의",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인예술인 12동매매3억 5,500재건축101/75m², 9/20층, 남향부분수리깨끗. 생활권편리한동. 입주",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인예술인 11동매매4억 3,000재건축111A/84m², 8/15층, 남향선호도좋은로얄동. 입주가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "예술인 12동월세2,000/70재건축82B/61m², 15/20층, 동향급월세.전체수리.내부깨끗.전망좋음.입주가능.이사협의",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "예술인 9동전세2억 2,000재건축96A/73m², 7/15층, 동향확장올수리 이사협의",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체69㎡81A㎡82B㎡96A㎡96B㎡101㎡111A㎡111B㎡114C㎡",
+      "price": null,
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:12:48.680Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1955_20250718_031252.png"
+  }
+}

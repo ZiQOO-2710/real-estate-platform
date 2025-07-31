@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:15:55.168188",
+    "complex_id": "1776"
+  },
+  "basic_info": {
+    "complex_id": "1776",
+    "source_url": "https://new.land.naver.com/complexes/1776",
+    "extracted_at": "2025-07-18T02:15:51.809705",
+    "url": "https://new.land.naver.com/complexes/1776?ms=37.269728,126.956665,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:15:50.335Z",
+    "complexId": "1776"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동매매2억 6,000아파트78/59m², 9/17층, 서향내부 일부 수리되고 깨끗함.전세안고 투자",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.822Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 102동매매3억 5,500아파트105/84m², 9/17층, 서향샷시제외 올수리.상태좋음",
+      "price": "3억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.822Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 103동매매3억 5,000아파트105/84m², 3/18층, 남향샷시제외 올수리됨.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.822Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 102동매매3억 5,000아파트105/84m², 8/17층, 서향부분수리 세안고",
+      "price": "3억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.822Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 104동매매4억 5,000아파트140/118m², 9/18층, 남향샤시 제외 올수리, 남향, 집주인 거주로 관리 잘됨, 가격 조정가능.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 104동전세3억아파트140/118m², 2/18층, 남향44방4개최근완전올수리샷시포함주인세대입주협의사항",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 104동매매4억 6,000아파트140/118m², 2/18층, 남향가칭 호매실역 도보 10분이내,초,중,고 도보 가능,수변 공원 가까운 곳",
+      "price": "4억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동매매3억아파트78/59m², 12/17층, 서향샷시제외올수리된 집상태 최상.입주협의",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동매매2억 7,500아파트78/59m², 10/17층, 서향초,중,고 도보 가능,초등학교 뷰로 앞이 막히지 않아 환하고 햇살 가득",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동전세1억 7,000아파트78/59m², 4/17층, 남서향25 수리함  입주협의  10월15일이후가능",
+      "price": "1억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동매매3억아파트78/59m², 6/17층, 서향올수리되어  컨디션 최고,월세안고",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 101동매매2억 8,000아파트78/59m², 8/17층, 서향일부수리된 깨끗한집. 입주 협의.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인삼익1차 104동매매5억아파트140/118m², 중/18층, 남향올수리샷시제외된 깨끗한집",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.823Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1776_20250718_021555.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:42:04.144086",
+    "complex_id": "1665"
+  },
+  "basic_info": {
+    "complex_id": "1665",
+    "source_url": "https://new.land.naver.com/complexes/1665",
+    "extracted_at": "2025-07-18T01:42:01.476742",
+    "url": "https://new.land.naver.com/complexes/1665?ms=37.347998,126.945888,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:41:59.008Z",
+    "complexId": "1665"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인두산 104동매매4억 3,000아파트95/84m², 9/10층, 남향남향, 방1확장형, 주인거주 입주물 입니다.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.490Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인두산 101동매매3억 8,000아파트95/84m², 1/15층, 남향어르신거주좋고아이들키우기좋고,주변생활인프라좋고,당정역근접",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인두산 104동매매4억 6,000아파트95/84m², 8/10층, 남향입주물, 비확장 특올수리,채광좋은 남향입주물",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인두산 103동매매3억 5,000아파트81/71m², 2/10층, 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인두산 102동매매4억아파트81/71m², 10/15층, 남향남향 구조좋은 아파트 샷시교체 정상입주",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인두산 103동매매4억 3,000아파트95/84m², 8/10층, 남향깨끗,거실뷰막힘없는정남향,생활권최상",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인두산 105동매매3억아파트70/54m², 9/9층, 동향올수리해서 아주깨끗함  방2 거실  탑층  정상입주",
+      "price": "3억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "두산 102동매매4억아파트81/71m², 9/15층, 남향부분수리됨 생활편의시설 가까이있어 편리함 정상입주",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "두산 101동매매4억 5,000아파트95/84m², 저/15층, 남향샷시제외올수리,정상입주물",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인두산 105동매매3억 2,000아파트70/54m², 2/9층, 동향욕실.샷시포함 올수리 ,역세권,조정가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "두산 101동매매4억 8,000아파트95/84m², 3/15층, 남향남향,외부샷시올수리,주인거주특깨끗,정상",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인두산 102동매매4억아파트81/71m², 중/15층, 남향입주협의 샷시포함 올수리특 예쁜집",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인두산 101동매매4억 2,000아파트95/84m², 15/15층, 남향남향  급매 넓은구조  작은방확장 층간소음없는 탑층 정상입주",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:42:01.491Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1665_20250718_014203.png"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:25:55.827535",
+    "complex_id": "7583"
+  },
+  "basic_info": {
+    "complex_id": "7583",
+    "source_url": "https://new.land.naver.com/complexes/7583",
+    "extracted_at": "2025-07-18T20:25:52.193792",
+    "url": "https://new.land.naver.com/complexes/7583?ms=35.105784,128.807019,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:25:49.907Z",
+    "complexId": "7583"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인풍림 111동매매1억 3,900아파트76/59m², 3/15층, 남동향샷시교체.올수리.첫입주",
+      "price": "1억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인풍림 112동매매1억 3,500아파트76/59m², 15/15층, 남동향올확장 수리된 전망.채광좋은 인기.로얄동 조용한 탑층 즉시입주",
+      "price": "1억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인풍림 106동매매1억 2,000아파트76/59m², 10/15층, 남동향추천, 인기동 중문 씽크대등 수리된 주인거주 아주 깨끗한집.이사협의",
+      "price": "1억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인풍림 111동매매1억 3,900아파트76/59m², 3/15층, 남향올수리 후 첫 입주 학교,공원 인근 , 입구동,",
+      "price": "1억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인풍림 111동매매1억 2,500아파트76/59m², 11/15층, 남향추천, 올수리된 깨끗한 유일한정남향집 주인거주 컨디션굿 조망.채광굿",
+      "price": "1억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인풍림 113동매매9,800아파트76/59m², 4/15층, 남동향기본집 로얄동 공원뷰",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인풍림 107동매매1억아파트76/59m², 1/15층, 남동향인기동 남향 지대높은저층 씽크대 신발장 전등 몰딩등 관리잘된 깨끗한집",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인풍림 112동매매1억 3,500아파트76/59m², 15/15층, 남향거실,방1확장,수리된집,공원뷰,즉시입주",
+      "price": "1억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.204Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인풍림 112동매매1억 1,000아파트76/59m², 14/15층, 남동향로열동이며 최고의 조망권 갖춘  아파트입니다",
+      "price": "1억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인풍림 113동매매1억 700아파트76/59m², 12/15층, 남동향추천급매, 앞동 인기동 남향 방확장 씽크대 욕실등 수리많이된 급매물",
+      "price": "1억 700",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인풍림 114동매매1억 1,000아파트76/59m², 8/15층, 남동향즉시입주.앞동으로 개방감굿.보일러.씽크대.LED등교체.",
+      "price": "1억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인풍림 112동매매1억 1,500아파트76/59m², 2/15층, 남동향입구동으로저층이라도일조량굿보일러교체기본이지만상태양호",
+      "price": "1억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인풍림 101동매매1억 500아파트76/59m², 9/15층, 남동향추천급매. 작은방확장 붙박이장 보일러 LED교체 가격절충가 즉시입주",
+      "price": "1억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인풍림 106동매매1억 2,000아파트76/59m², 7/15층, 남동향입구방확장,공용화장실수리.씽크대사용감유.LED.신발장교체.절충가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인풍림 110동매매1억 1,000아파트76/59m², 5/15층, 남서향세입자1억안고 만기26년3월",
+      "price": "1억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인풍림 108동매매1억아파트76/59m², 3/15층, 남동향추천급매, 씽크대 화장실등 부분수리 관리잘된 깨끗한집.트임굿 주차굿",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:25:52.205Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_7583_20250718_202555.png"
+  }
+}

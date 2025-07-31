@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:31:52.179782",
+    "complex_id": "1286"
+  },
+  "basic_info": {
+    "complex_id": "1286",
+    "source_url": "https://new.land.naver.com/complexes/1286",
+    "extracted_at": "2025-07-17T23:31:46.935373",
+    "url": "https://new.land.naver.com/complexes/1286?ms=37.551453,127.027479,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:31:44.210Z",
+    "complexId": "1286"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인벽산 103동전세5억아파트78/59m², 4/17층, 동향신혼부부추천.공원조망.화이트톤 올수리",
+      "price": "5억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:46.948Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인벽산 202동전세6억아파트108A/84m², 14/20층, 남동향32 올수리  컨디션굿  공원조망   입주협의가능",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인벽산 206동매매15억아파트108A/84m², 6/20층, 남동향32 올수리 입주가능 리모델링진행중 현대삼성시공사확정",
+      "price": "15억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인벽산 101동전세6억아파트108A/84m², 4/16층, 동향방3 욕실2, 컨디션 깔끔, 싱크교체 예정,  공원조망, 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인벽산 108동매매14억아파트110B/84m², 11/20층, 서향리모델링 추진중.올수리 된 집. 세안고 매매",
+      "price": "14억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인벽산 111동월세5억/80아파트141/114m², 2/20층, 남향42 탁트인남향  실내깔끔 입주협의가능 7억전세가능",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인벽산 301동매매15억아파트141/114m², 2/20층, 남향42 트인남향 입주가능 리모델링 진행중 현대 삼성시공사확정",
+      "price": "15억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인벽산 111동매매16억아파트141/114m², 6/20층, 남향입주,올수리올확장,개방감좋은로얄라인,지하주차장연결",
+      "price": "16억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인벽산 207동매매15억아파트108A/84m², 7/20층, 남향공동o, 정남향, 최상 특올수리, 입주가능, 서울시건축심의통과",
+      "price": "15억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인벽산 301동매매17억아파트141/114m², 14/20층, 남향입주가능. 올확장 특올수리. 탁트인 한강뷰. 채광과 개방감 최고",
+      "price": "17억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:31:46.949Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1286_20250717_233151.png"
+  }
+}

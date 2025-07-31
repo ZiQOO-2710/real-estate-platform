@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:06:38.283778",
+    "complex_id": "101"
+  },
+  "basic_info": {
+    "complex_id": "101",
+    "source_url": "https://new.land.naver.com/complexes/101",
+    "extracted_at": "2025-07-17T22:06:34.394103",
+    "url": "https://new.land.naver.com/complexes/101?ms=37.528446,127.085625,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:06:32.792Z",
+    "complexId": "101"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동매매12억아파트93A/81m², 7/13층, 남향입주가능 남향  초중고등학교인접 한강시민공원",
+      "price": "12억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동월세2억/150아파트94C/82m², 1/13층, 동향내부 환하고 밝음 ,깔끔 초중고 한강공원인접",
+      "price": "2억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동매매12억아파트93A/81m², 11/13층, 남향남향, 한강조망 가능, 내부 컨디션 좋음, 실입주가능, 입주협의",
+      "price": "12억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동전세5억 4,000아파트93A/81m², 5/13층, 남향추천 전세. 협의 입주가능.한강공원근접. 남향 .상태 깨끗함.",
+      "price": "5억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동매매12억아파트93A/81m², 중/13층, 남향실거주, 갭투자 가능 한강변 아파트",
+      "price": "12억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동매매12억 5,000아파트93B/82m², 고/13층, 남동향수리함.  탁 트인 한강조망   추천매물.",
+      "price": "12억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인현대강변 101동매매12억아파트93A/81m², 6/13층, 남향한강변 입주가능 날짜협의 초중고 한강시민공원 인접",
+      "price": "12억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:06:34.408Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_101_20250717_220638.png"
+  }
+}

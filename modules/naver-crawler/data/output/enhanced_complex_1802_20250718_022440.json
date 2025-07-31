@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:24:40.457188",
+    "complex_id": "1802"
+  },
+  "basic_info": {
+    "complex_id": "1802",
+    "source_url": "https://new.land.naver.com/complexes/1802",
+    "extracted_at": "2025-07-18T02:24:35.059832",
+    "url": "https://new.land.naver.com/complexes/1802?ms=37.24983,127.07129,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:24:32.143Z",
+    "complexId": "1802"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현대 729동매매10억 5,000아파트199/164m², 2/20층, 남동향빠른입주가능 영일초 가까움",
+      "price": "10억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.072Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "현대 723동매매9억 8,000아파트162/134m², 2/19층, 남서향날짜협의 생활권 교통좋음",
+      "price": "9억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.072Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "현대 726동월세3억 5,000/150아파트162/134m², 7/20층, 남서향인기동, 빠른입주 가능, 도배 칠해드려요",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:24:35.072Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대 730동매매9억 5,000아파트120/99m², 12/18층, 남서향날짜협의가능 샤시까지 특올수리 인기동",
+      "price": "9억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.072Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대 727동월세2억/170아파트199/164m², 20/20층, 남동향날짜협의가능 조용한 인기동 전망좋음 일부수리 깨끗",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:24:35.073Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "현대 726동매매10억 5,000아파트162/134m², 15/20층, 남서향인기동 기본",
+      "price": "10억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.073Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "현대 722동매매8억 5,000아파트120/99m², 4/19층, 남동향수리된집 입주날짜 협의   영통역3분",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.073Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "현대 723동매매11억 5,000아파트162/134m², 14/19층, 남서향주인거주중 날짜협의가능  샤시포함 수리됨 깨끗",
+      "price": "11억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.073Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대 726동매매11억아파트162/134m², 저/20층, 남서향인기동 언제든 입주가능",
+      "price": "11억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:35.073Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1802_20250718_022440.png"
+  }
+}

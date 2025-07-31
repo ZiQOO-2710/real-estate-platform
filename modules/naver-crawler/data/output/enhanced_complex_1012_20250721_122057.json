@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:20:57.959765",
+    "complex_id": "1012"
+  },
+  "basic_info": {
+    "complex_id": "1012",
+    "source_url": "https://new.land.naver.com/complexes/1012",
+    "extracted_at": "2025-07-21T12:20:54.405719",
+    "url": "https://new.land.naver.com/complexes/1012?ms=37.560918,126.856953,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:20:53.011Z",
+    "complexId": "1012"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 106동매매9억 5,000아파트80/59m², 9/21층, 남동향급매 싱크대 화장실수리 9호선가양급행역 올림픽대로출퇴근",
+      "price": "9억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.411Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 108동매매10억 7,000아파트108/84m², 12/16층, 남서향입주가능, 작은방 확장, 수리되어 깨끗, 가양 급행 초역세권",
+      "price": "10억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 103동매매10억 6,000아파트108/84m², 8/20층, 남향9호선가양급행, 올수리, 세안고",
+      "price": "10억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 104동전세6억아파트108/84m², 14/20층, 남서향가양급행역, 부분수리,  햇볕잘드는 남향, 이사협의",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 108동매매11억 9,000아파트108/84m², 4/16층, 남향9호선 가양역급행 초역세권 한강도보10분 남향 방1개확장  입주협의",
+      "price": "11억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 108동매매11억 9,000아파트108/84m², 4/16층, 남서향9호선급행초역세권.주인거주.방3욕실2.올수리욕실제외.방1확장",
+      "price": "11억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 105동매매9억 2,000아파트80/59m², 2/21층, 남동향9호선가양급행초역세, 올확장,특수리 삿시포함,입주",
+      "price": "9억 2",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 106동매매9억 3,000아파트80/59m², 중/21층, 남동향9호선가양급횅초역세, 올수리, 입주가",
+      "price": "9억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 108동매매10억 6,000아파트108/84m², 중/16층, 남향9호선가양급행초역세, 수리됨, 세안고",
+      "price": "10억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 105동전세4억 3,000아파트80/59m², 중/21층, 남동향9호선가양급행초역세, 신혼강추,주인임대사업자임",
+      "price": "4억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인강나루현대 102동매매9억 5,000아파트80/59m², 9/20층, 남서향9호선가양급행, 2년전특올수리 및 확장, 남향, 초역세권",
+      "price": "9억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "강나루현대 107동매매8억 8,000아파트80/59m², 3/17층, 남서향9호선급행역, 올수리, 로얄동, 세안고, 햇볕잘드는남향",
+      "price": "8억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.412Z"
+    },
+    {
+      "index": 88,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인강나루현대 103동매매10억 7,000아파트108/84m², 11/20층, 남향9호선가양급행, 올확장, 올수리 ,세안고매경부동산 제공강나루현대공인중개사사무소확인매물 25.07.14.",
+      "price": "10억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:20:54.413Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1012_20250721_122057.png"
+  }
+}

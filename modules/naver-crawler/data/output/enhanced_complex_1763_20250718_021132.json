@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:11:32.489867",
+    "complex_id": "1763"
+  },
+  "basic_info": {
+    "complex_id": "1763",
+    "source_url": "https://new.land.naver.com/complexes/1763",
+    "extracted_at": "2025-07-18T02:11:27.384769",
+    "url": "https://new.land.naver.com/complexes/1763?ms=37.25418,127.033714,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:11:24.894Z",
+    "complexId": "1763"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신안풍림 302동매매5억아파트121A/101m², 11/14층, 남향주인거주,판상형,남향,채광좋고뷰좋은집,초중고인접",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "신안풍림 304동매매5억 2,000아파트159B/134m², 2/13층, 남향전세안고 화장실 2개 교체 초중고가 바로 옆에 있으며 평생교육관 도보 이",
+      "price": "5억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "신안풍림 302동월세1억/100아파트121A/101m², 13/14층, 남서향지하철, 광역버스, 학군까지 완벽 조합, 넉넉한 36p 월세",
+      "price": "1억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "신안풍림 302동매매5억아파트121A/101m², 11/14층, 남서향부분수리, 주인거주 깔끔하게 관리, 광역버스이용, 입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "신안풍림 308동매매4억 3,000아파트121B/101m², 1/14층, 남향수리됨.깨끗.일조권좋음.아이들키우기 좋은집. 세안고25.7월",
+      "price": "4억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신안풍림 308동매매5억 3,000아파트121B/101m², 11/14층, 남향거실 방1확장   화장실교체   샷시제외    동층최고    주인분거주",
+      "price": "5억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "신안풍림 302동매매5억아파트121A/101m², 2/14층, 남향샷시제외 올수리됨.깨끗.조용하고 일조권좋음.입주또는 세안고도 가능",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "신안풍림 306동매매6억아파트159A/134m², 7/14층, 남향 조용한동 라인좋음 주인이 관리잘한집 우수한초중고평생교육관 매권역인접",
+      "price": "6억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "신안풍림 307동전세3억 4,000아파트121B/101m², 1/14층, 남향공실 일조권좋음.아이들키우기 좋은집.언제든입주가능.초중고 매탄권선역 인접",
+      "price": "3억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "신안풍림 304동매매6억아파트159B/134m², 7/13층, 남향앞동조망권최고,주방거실확장 매탄권선역역세권아파트,정상입주",
+      "price": "6억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "신안풍림 303동매매6억 8,000아파트159B/134m², 11/14층, 남향",
+      "price": "6억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "신안풍림 306동매매5억 5,000아파트159A/134m², 중/14층, 남향전체올수리된집.세안고 26.3월조망권좋음.조용함.권선고  바로앞",
+      "price": "5억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "신안풍림 307동매매5억아파트121B/101m², 14/14층, 남향주인거주   집상태최상   권선고가바로앞    초중고5분   지하철역10",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "신안풍림 302동매매5억 3,000아파트121A/101m², 13/14층, 남서향조용하고 밝은집, 내부 샷시, 에어컨, 안방붙박이장, 입주 조율",
+      "price": "5억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "신안풍림 301동매매5억 3,000아파트121A/101m², 14/14층, 남향최근특올수리된집.조망권좋음.세안고26.5월초중고 매권역 인접.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "신안풍림 306동매매6억 5,000아파트159A/134m², 1/14층, 남향전용부분수리   거실 주방쪽샷시교체   화장실2교체   밖에샷시교체제외",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "신안풍림 302동매매5억아파트121A/101m², 고/14층, 남향주인거주 관리 잘한 집 효정초 남수원중 권선고 인접",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "신안풍림 303동매매5억 9,000아파트159B/134m², 6/14층, 남향앞뒤 확트인 최상의 조망. 리모델링됨,주인거주  깨끗.전철,광역버스 편리",
+      "price": "5억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:11:27.399Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1763_20250718_021132.png"
+  }
+}

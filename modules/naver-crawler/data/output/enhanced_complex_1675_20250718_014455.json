@@ -1,0 +1,538 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:44:55.071784",
+    "complex_id": "1675"
+  },
+  "basic_info": {
+    "complex_id": "1675",
+    "source_url": "https://new.land.naver.com/complexes/1675",
+    "extracted_at": "2025-07-18T01:44:51.100365",
+    "url": "https://new.land.naver.com/complexes/1675?ms=37.527458,126.811735,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:44:48.420Z",
+    "complexId": "1675"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "부촌1차 나동매매1억 7,500재건축64/48m², 1/5층, 남향 가로주택정비사업 진행중",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.113Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "부촌1차 가동매매1억 200재건축52/38m², 4/5층, 남향52A타입 남향 배정",
+      "price": "1억 200",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.113Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "O2(주상복합)면적 - ㎡91.04㎡ ~ 122.82㎡단지정보",
+      "price": null,
+      "area": "91.04㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,354만한솔매매4.3억4.3억면적105㎡105.3㎡ ~ 105.3㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억4",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,734만스타르네상스(도시형)매매3.2억3.2억면적61㎡61.21㎡ ~ 61.21㎡매매매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "2억3",
+      "area": "61㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,581만동제이지안(101동)매매4.4억4.4억면적92㎡92.31㎡ ~ 92.31㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "92㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "890만협성매매1.4억1.4억전세1.2억1.2억면적52㎡52.02㎡ ~ 52.02㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "52㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "962만상우매매2.3억2.3억면적79㎡79.58㎡ ~ 79.58㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "79㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,541만청광플러스원매매4.8억4.7억~5억전세3.95억3.7억~4.2억면적103㎡103.68㎡ ~ 106.16㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,052만한오매매2.45억2.4억~2.5억면적77㎡77.9㎡ ~ 77.9㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억2",
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "써미트(주상복합)면적77.62㎡74.4㎡ ~ 86.59㎡단지정보",
+      "price": null,
+      "area": "77.62㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "이스트힐탑전세2.48억2.48억~2.7억면적64㎡64.51㎡ ~ 64.51㎡전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "48억2",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "849만천경(372-2)매매1.9억1.9억면적74㎡74.33㎡ ~ 74.33㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억1",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,709만다온스카이(주상복합)매매4.86억4.3억~4.86억전세4.81억3.97억~4.82억면적94㎡80.72㎡ ~ 94.62㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보",
+      "price": "86억4",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼우(310-11)면적50.25㎡50.25㎡ ~ 50.25㎡단지정보",
+      "price": null,
+      "area": "50.25㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,121만현대매매2억2억면적59㎡59.39㎡ ~ 59.39㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억2",
+      "area": "59㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "새한면적83.24㎡70.65㎡ ~ 176.21㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "83.24㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,703만해강로디안매매3.76억3.76억면적73㎡73.76㎡ ~ 73.76㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "76억3",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,881만테라탑펠리스Ⅱ(주상복합)매매4.95억4.95억~7.85억월세1.5백1백~1.5백면적87㎡87.19㎡ ~ 113.05㎡매매매물만 보기5개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억4",
+      "area": "87㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,951만삼화아르떼파크매매4.25억3.2억~4.7억면적72㎡57.99㎡ ~ 82.05㎡매매매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억3",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,002만인성매매2억1.55억~2.45억월세-50만면적66㎡55.31㎡ ~ 74.23㎡매매매물만 보기11개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,198만서원매매2.5억2.1억~2.6억전세1.4억1.4억~1.5억월세75만75만면적69㎡69.33㎡ ~ 69.33㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억2",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,665만에덴펠리체매매4.28억3.98억~4.28억면적85㎡79.12㎡ ~ 85.98㎡매매매물만 보기6개 매물이 있습니다.단지정보",
+      "price": "28억3",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,066만태양매매2억1.9억~3억전세-1.3억면적62㎡59.01㎡ ~ 78.96㎡매매매물만 보기15개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "62㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,513만해주1차매매3.8억3.8억~5.9억면적83㎡83.48㎡ ~ 118.2㎡매매매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억3",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 29,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,621만동광모닝스카이1차매매5.1억4.95억~5.4억전세4.3억4.3억면적104㎡104.77㎡ ~ 104.77㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억4",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 30,
+      "selector": "[class*=\"deal\"]",
+      "text": "프로방스타운(주상복합)면적87.03㎡57.58㎡ ~ 87.03㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "87.03㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"deal\"]",
+      "text": "건우면적65.35㎡64.63㎡ ~ 65.35㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "65.35㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 32,
+      "selector": "[class*=\"deal\"]",
+      "text": "이루미면적80.26㎡80.26㎡ ~ 80.26㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "80.26㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 33,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼원면적74㎡59.75㎡ ~ 74.0㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 34,
+      "selector": "[class*=\"deal\"]",
+      "text": "당진정우면적68.68㎡68.68㎡ ~ 68.68㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "68.68㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.115Z"
+    },
+    {
+      "index": 35,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,653만채움매매4.2억4억~4.2억면적84㎡84.5㎡ ~ 88.3㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억4",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 37,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,653만이스트힐뷰매매3.75억3.3억~3.87억면적75㎡56.03㎡ ~ 75.34㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억3",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,271만엘리트매매3억3억전세2.39억2.39억~2.5억면적78㎡78.14㎡ ~ 85.43㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억3",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 39,
+      "selector": "[class*=\"deal\"]",
+      "text": "775만대진매매1.5억1.5억월세70만70만면적64㎡64.19㎡ ~ 64.19㎡매매매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"deal\"]",
+      "text": "누리애펠리체(주상복합)면적76.23㎡61.13㎡ ~ 87.44㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "76.23㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 41,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,503만하늘정원매매4.5억4.5억면적99㎡99.5㎡ ~ 99.5㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"deal\"]",
+      "text": "763만대성(273-6)매매1.5억1.5억~2.2억면적65㎡65.44㎡ ~ 65.44㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 45,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,126만오화매매3.1억3.1억전세-1.2억면적91㎡62.23㎡ ~ 91.8㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억3",
+      "area": "91㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"deal\"]",
+      "text": "보강쉐르빌면적41.57㎡41.57㎡ ~ 103.71㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "41.57㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"deal\"]",
+      "text": "도양라비앙면적86.93㎡86.93㎡ ~ 86.93㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "86.93㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 52,
+      "selector": "[class*=\"deal\"]",
+      "text": "명품하우스(도시형)면적 - ㎡53.23㎡ ~ 63.72㎡단지정보",
+      "price": null,
+      "area": "53.23㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 53,
+      "selector": "[class*=\"deal\"]",
+      "text": "건일면적57.48㎡57.48㎡ ~ 57.48㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "57.48㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 54,
+      "selector": "[class*=\"deal\"]",
+      "text": "하임하우즈면적76.88㎡52.77㎡ ~ 83.27㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "76.88㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 56,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,337만르네상스1차매매3.6억3.6억~3.8억면적89㎡89.04㎡ ~ 89.04㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억3",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 60,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,489만동제이지안(201동)매매4.55억3.98억~4.6억면적101㎡89.89㎡ ~ 117.33㎡매매매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "55억3",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 61,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,796만해강타운1차매매4.4억4.4억면적81㎡81.08㎡ ~ 81.08㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 62,
+      "selector": "[class*=\"deal\"]",
+      "text": "913만삼두매매1.57억1.55억~1.6억전세1.17억1.1억~1.6억월세55만45만~60만면적57㎡57.16㎡ ~ 69.34㎡매매매물만 보기2개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "57억1",
+      "area": "57㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 63,
+      "selector": "[class*=\"deal\"]",
+      "text": "893만문화(산27-1)매매1.35억1.25억~1.5억월세40만35만~45만면적50㎡50.43㎡ ~ 58.72㎡매매매물만 보기10개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억1",
+      "area": "50㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    },
+    {
+      "index": 64,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,476만서림매매2.5억1.7억~2.5억월세-60만면적56㎡53.7㎡ ~ 62.18㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:44:51.116Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 51,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1675_20250718_014454.png"
+  }
+}

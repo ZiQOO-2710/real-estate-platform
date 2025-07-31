@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:01:33.695283",
+    "complex_id": "1725"
+  },
+  "basic_info": {
+    "complex_id": "1725",
+    "source_url": "https://new.land.naver.com/complexes/1725",
+    "extracted_at": "2025-07-18T02:01:29.310667",
+    "url": "https://new.land.naver.com/complexes/1725?ms=37.448393,127.17072,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:01:26.832Z",
+    "complexId": "1725"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 3,000아파트78/59m², 10/13층, 남향남향  욕실 및 부분수리 내부깨끗 빠른이사가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.324Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 2,000아파트78/59m², 3/13층, 남향저렴한가격.남향. 넓은발코니.날짜협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 3,000아파트78/59m², 10/13층, 남동향거실확장 화장실수리 빠른입주가능 트인전망 버스정류장5분편리함 착한가격",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매6억아파트99/84m², 3/11층, 남향샀시포함 올리모델링 이사협의 중문  채광굿",
+      "price": "6억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 8,000아파트78/59m², 13/13층, 남향남향 초중고도보5분 내부깨끗 입주일협의 또는 전세안고 갭투자가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 6,000아파트78/59m², 9/13층, 남향남 향  내부상태 깨끗해요",
+      "price": "4억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 3,000아파트78/59m², 고/13층, 남동향거실확장 ,화장실수리 관리상태좋음  즉시입주  저렴한가격",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매4억 3,000아파트78/59m², 고/13층, 남향주인거주로 관리잘된집 밝고 깔끔해요 화장실 주방수리 집보기 쉬워요",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매5억 8,000아파트99/84m², 9/11층, 남향거실 작은방1확장 탁트인뷰 채광굿 주인거주 입주일협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "현대 102동매매5억아파트78/59m², 5/13층, 남향올리모델링 입주협의 가능하며 역전세 가능. 주변에 초중고 학군좋아요",
+      "price": "5억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매5억 2,000아파트88/68m², 8/11층, 남향반전세임차인거주중, 수리된 집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매6억 2,000아파트103/84m², 12/13층, 남향특올수리 초중고도보5분 학세권 이사협의",
+      "price": "6억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:01:29.325Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1725_20250718_020133.png"
+  }
+}

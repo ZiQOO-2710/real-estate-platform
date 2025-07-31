@@ -1,0 +1,338 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:37:18.889089",
+    "complex_id": "383"
+  },
+  "basic_info": {
+    "complex_id": "383",
+    "source_url": "https://new.land.naver.com/complexes/383",
+    "extracted_at": "2025-07-18T20:37:13.424752",
+    "url": "https://new.land.naver.com/complexes/383?ms=37.505977,127.114503,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:37:10.939Z",
+    "complexId": "383"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한양1차 7동전세5억아파트88/64m², 고/12층, 남향귀한전세매물,올수리.직접의뢰매물",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:37:13.438Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한양1차 2동매매22억 5,000아파트171/158m², 1/12층, 남동향지분많은 재건축단지  수리잘됨 정원조망 좋음",
+      "price": "22억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한양1차 7동전세5억아파트88/64m², 9/12층, 남향",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "한양1차 2동매매26억아파트171/158m², 2/12층, 남동향",
+      "price": "26억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "한양1차 7동월세5,000/180아파트88/64m², 1/12층, 남서향더블역세권, 수리.깨끗 정상입주 협의",
+      "price": null,
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한양1차 2동매매26억아파트171/158m², 고/12층, 남동향내부 올수리되어 컨디션 좋은 매물 입주협의",
+      "price": "26억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체88㎡113㎡129㎡148B㎡148A㎡171㎡",
+      "price": null,
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 47,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한양1차 7동전세5억아파트88/64m², 고/12층, 남향귀한전세매물,올수리.직접의뢰매물매경부동산 제공켈리 공인중개사사무소확인매물 25.07.18.한양1차 2동매매22억 5,000아파트171/158m², 1/12층, 남동향지분많은 재건축단지  수리잘됨 정원조망 좋음부동산써브 제공화랑공인중개사확인매물 25.07.18.한양1차 7동전세5억아파트88/64m², 9/12층, 남향부동산써브 제공베스트공인중개사사무소확인매물 25.07.18.한양1차 2동매매26억아파트171/158m², 2/12층, 남동향매경부동산 제공나라공인확인매물 25",
+      "price": "5억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:37:13.439Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "현진빌리지(128-6,도시형)면적42.97㎡42.97㎡ ~ 44.64㎡단지정보",
+      "price": null,
+      "area": "42.97㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "동광팰리스(86-1,도시형)면적19.8㎡19.8㎡ ~ 30.58㎡단지정보",
+      "price": null,
+      "area": "19.8㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,306만더헤리움(도시형)매매6억6억면적60㎡60.67㎡ ~ 60.67㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "6억6",
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "6,056만한양2차매매24억24억~29억전세7억7억면적131㎡131.05㎡ ~ 172.06㎡매매매물만 보기7개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "24억24",
+      "area": "131㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,660만더테라(도시형)매매6.2억6.2억면적56㎡56.34㎡ ~ 56.34㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "2억6",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,026만한양1차매매26억22.5억~26억전세-5억월세-1.8백면적171㎡88.65㎡ ~ 171.68㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "26억22",
+      "area": "171㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "동광팰리스(143-1,도시형)면적33.9㎡32.44㎡ ~ 53.88㎡단지정보",
+      "price": null,
+      "area": "33.9㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,349만송파석촌역한양LEEPS(도시형)매매1.35억1.35억~2.5억면적19㎡19.86㎡ ~ 33.99㎡매매매물만 보기5개 매물이 있습니다.단지정보",
+      "price": "35억1",
+      "area": "19㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "힐스빌면적78.91㎡46.69㎡ ~ 137.03㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "78.91㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "7,130만가락삼익맨숀매매22억21.9억~30억전세4.2억3.8억~4.5억월세80만80만면적102㎡102.8㎡ ~ 174.65㎡매매매물만 보기76개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "22억21",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "에스탑(118-2)면적127.5㎡115.98㎡ ~ 127.5㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "127.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "에스아이팰리스레이크잠실월세1.65백1.65백면적25㎡25.63㎡ ~ 25.63㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "25㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,272만에스탑(20-10)매매9.8억9.8억전세8.5억8.5억월세1.7백1.7백면적99㎡99.36㎡ ~ 99.36㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "8억9",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,500만인텍스빌2차매매9억9억면적85㎡85.7㎡ ~ 85.7㎡매매매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억9",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "6,369만송파삼성래미안매매21억19.5억~26억전세6.8억6.8억면적109㎡109.94㎡ ~ 191.52㎡매매매물만 보기18개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "21억19",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "위례캐슬빌면적96.2㎡87.55㎡ ~ 96.2㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "96.2㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "경일면적119.97㎡69.47㎡ ~ 130.24㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "119.97㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,132만송파포트힐한샘인사이드1매매8억8억~9억면적64㎡64.3㎡ ~ 69.07㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억8",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,360만온누리매매6.2억6.2억~6.5억면적61㎡61.01㎡ ~ 61.01㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억6",
+      "area": "61㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,014만아쿠아드카사스매매6.2억6억~6.4억면적68㎡68.52㎡ ~ 68.52㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억6",
+      "area": "68㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,570만한양파크뷰2매매13.5억13.5억면적125㎡125.91㎡ ~ 125.91㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억13",
+      "area": "125㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "미성맨션전세4.5억4.5억면적89㎡89.16㎡ ~ 89.16㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:37:13.440Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 31,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_383_20250718_203718.png"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:17:08.966899",
+    "complex_id": "124"
+  },
+  "basic_info": {
+    "complex_id": "124",
+    "source_url": "https://new.land.naver.com/complexes/124",
+    "extracted_at": "2025-07-17T23:17:04.428452",
+    "url": "https://new.land.naver.com/complexes/124?ms=37.498536,126.863141,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:17:01.622Z",
+    "complexId": "124"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "메종드88(주상복합)면적 - ㎡20.63㎡ ~ 25.89㎡단지정보",
+      "price": null,
+      "area": "20.63㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,034만조양휴캐슬(도시형)매매4억4억면적65㎡65.74㎡ ~ 65.74㎡매매매물만 보기6개 매물이 있습니다.단지정보",
+      "price": "4억4",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,944만더헤리츠매매6.5억6.5억~6.95억면적73㎡73㎡ ~ 86.43㎡매매매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "5억6",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,180만우성현대매매6억4.85억~7.5억전세3.7억3.7억~4억월세-80만면적91㎡78.39㎡ ~ 104.45㎡매매매물만 보기23개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억4",
+      "area": "91㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,261만동아한신매매7.25억6억~11억전세5억5억면적106㎡82.24㎡ ~ 165.83㎡매매매물만 보기31개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억6",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,871만삼명매매3억2.9억~3억전세1.3억1.1억~1.4억월세40만40만면적53㎡53.85㎡ ~ 53.89㎡매매매물만 보기5개 매물이 있습니다.전세매물만 보기8개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,275만영화매매7.5억5.7억~11억월세1.6백60만~1.6백면적109㎡85.86㎡ ~ 173.12㎡매매매물만 보기41개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,781만삼환로즈빌매매9억8억~11억면적107㎡83.24㎡ ~ 129.54㎡매매매물만 보기26개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억8",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "예담스테이개봉역월세1백1백면적31㎡31.77㎡ ~ 31.77㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "31㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,595만신원프라자(주상복합)매매4.1억4억~5억면적85㎡85.87㎡ ~ 93.6㎡매매매물만 보기25개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억4",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,310만신개봉삼환매매5.8억5억~7.5억면적83㎡83.99㎡ ~ 108.19㎡매매매물만 보기24개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:17:04.443Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_124_20250717_231708.png"
+  }
+}

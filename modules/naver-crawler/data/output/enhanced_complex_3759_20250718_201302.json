@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:13:02.224700",
+    "complex_id": "3759"
+  },
+  "basic_info": {
+    "complex_id": "3759",
+    "source_url": "https://new.land.naver.com/complexes/3759",
+    "extracted_at": "2025-07-18T20:12:56.934810",
+    "url": "https://new.land.naver.com/complexes/3759?ms=37.538782,127.116639,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:12:55.590Z",
+    "complexId": "3759"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 102동매매13억아파트109/84m², 6/19층, 북서향거실, 작은방 확장 한강조망 아주밝고 조용한 집.",
+      "price": "13억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 101동매매12억아파트109/84m², 10/18층, 서향올수리  입주 한강뷰   거실  작은방 베란다 확장",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 102동매매14억 2,000아파트142/114m², 14/19층, 북서향특 올수리 북한산 워커힐 한강이 한눈에 짝.",
+      "price": "14억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 101동매매12억아파트109/84m², 중/18층, 서향올수리ok리버뷰ok확장ok정상입주ok",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신성노바빌 101동매매8억 5,000아파트83/59m², 1/18층, 남향남향에 입주가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 101동매매9억 7,000아파트83/59m², 10/18층, 남향완전 특급 올수리 확트인뷰",
+      "price": "9억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 102동매매14억 2,000아파트142/114m², 고/19층, 북동향영구 한강뷰 l 올수리 확장 l 주인거주 실입주가능",
+      "price": "14억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 101동매매12억아파트109/84m², 9/18층, 서향한강정면조망",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "신성노바빌 101동매매9억아파트83/59m², 17/18층, 남향한강조망,롯데타워뷰.남향",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인신성노바빌 102동매매14억 5,000아파트142/114m², 중/19층, 북서향소유주 직접의뢰 최고 한강뷰 발코니확장 내부 수리 양호 빠른입주 공동가능",
+      "price": "14억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "신성노바빌 101동매매9억아파트83/59m², 17/18층, 남서향거실확장 롯데타워조망 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:12:56.943Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3759_20250718_201302.png"
+  }
+}

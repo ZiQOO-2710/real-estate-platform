@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:17:37.574701",
+    "complex_id": "1044"
+  },
+  "basic_info": {
+    "complex_id": "1044",
+    "source_url": "https://new.land.naver.com/complexes/1044",
+    "extracted_at": "2025-07-17T22:17:33.433904",
+    "url": "https://new.land.naver.com/complexes/1044?ms=37.4772,126.95186,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:17:32.404Z",
+    "complexId": "1044"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인건영6차 103동매매6억 2,000아파트68/49m², 12/19층, 남동향",
+      "price": "6억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인건영6차 103동매매6억 3,000아파트68/49m², 10/19층, 동향서울대입구역세권, 입주가능,샷시포함올수리,편리한생활인프라,신혼부부추천",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "건영6차 102동전세5억 6,000아파트105/82m², 3/19층, 동향역도보5분 기본 수리됨 방3 화2 내부 깔끔 역도보6분",
+      "price": "5억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "건영6차 101동매매9억 8,000아파트105/82m², 저/19층, 동향",
+      "price": "9억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "건영6차 103동매매7억 3,000아파트82/59m², 고/19층, 동향서울대입구역 6분, 올수리, 방3 화장실1, 세안고 매매",
+      "price": "7억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "건영6차 103동매매6억 3,000아파트68/49m², 중/19층, 동향전망좋은 입주가능한 관악구청 인근 아파트",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "건영6차 103동매매6억 3,000아파트68/49m², 중/19층, 서향건영 아파트 매매  관악구 추천 매물",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "건영6차 101동전세7억 5,000아파트137/107m², 6/19층, 동향서울대입구역세권,서울대,관악구청인근,깨끗한 방4 화2",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "건영6차 101동매매11억 3,000아파트137/107m², 고/19층, 동향서울대입구 건영아파트 방4,욕실2개 수리된 집",
+      "price": "11억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.447Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1044_20250717_221737.png"
+  }
+}

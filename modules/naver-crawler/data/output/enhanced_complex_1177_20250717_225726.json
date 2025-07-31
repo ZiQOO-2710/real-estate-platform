@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:57:26.528465",
+    "complex_id": "1177"
+  },
+  "basic_info": {
+    "complex_id": "1177",
+    "source_url": "https://new.land.naver.com/complexes/1177",
+    "extracted_at": "2025-07-17T22:57:23.283318",
+    "url": "https://new.land.naver.com/complexes/1177?ms=37.53587,127.05289,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:57:20.810Z",
+    "complexId": "1177"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "한강한신 101동전세7억재건축112/84m², 고/19층, 동향한강변 베란다확장 샷시교체됨",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:57:23.297Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한강한신 101동매매37억재건축112/84m², 중/19층, 남향성수2지구 탁트인한강뷰 실거주가능",
+      "price": "37억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.297Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한강한신 101동전세7억재건축112/84m², 중/19층, 남향주인거주로 깨끗합니다",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:57:23.297Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억1,233만청구강변(101동)매매35억35억전세5.5억4.61억~6.3억월세1백1백면적103㎡103.91㎡ ~ 103.91㎡매매매물만 보기3개 매물이 있습니다.전세매물만 보기18개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억1",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "9,889만강변임광매매35억30억~35억전세-3.5억~4.6억월세3.5백90만~3.5백면적117㎡82.91㎡ ~ 117.79㎡매매매물만 보기5개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억30",
+      "area": "117㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,510만성수두산위브매매18.5억16억~28억전세-9.5억~12.5억월세-1백~3.3백면적111㎡106.88㎡ ~ 179.46㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.월세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억16",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억921만한강한신매매37억37억전세7억7억면적112㎡112.21㎡ ~ 112.21㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억921",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "강변청구(102동)전세3.5억3.5억면적76㎡76.56㎡ ~ 76.56㎡전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "강변현대면적101.17㎡97.25㎡ ~ 104.81㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "101.17㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,973만대명루첸매매17억15.95억~18억전세6.8억6.05억~7억면적113㎡113.5㎡ ~ 113.5㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "17억15",
+      "area": "113㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "성수동양면적107.43㎡80.27㎡ ~ 112.77㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "107.43㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억2,094만강변금호타운매매30억30억전세4.5억4.5억~5억면적82㎡82.53㎡ ~ 105.26㎡매매매물만 보기1개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:57:23.299Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1177_20250717_225726.png"
+  }
+}

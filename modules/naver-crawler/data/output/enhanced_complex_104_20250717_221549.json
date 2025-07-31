@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:15:49.815760",
+    "complex_id": "104"
+  },
+  "basic_info": {
+    "complex_id": "104",
+    "source_url": "https://new.land.naver.com/complexes/104",
+    "extracted_at": "2025-07-17T22:15:44.821834",
+    "url": "https://new.land.naver.com/complexes/104?ms=37.493791,126.86068,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:15:42.248Z",
+    "complexId": "104"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상우 101동매매6억 5,000아파트116/96m², 3/24층, 남향욕실 싱크대수리 입주협의 정남향 햇살가득해요",
+      "price": "6억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.832Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매5억아파트87/59m², 7/24층, 남향초역세권. 남향. 주인거주의뢰. 입주협의. 기본형",
+      "price": "5억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매5억 6,000아파트87/59m², 19/24층, 남향개봉역 초역세권 남향 올수리 전망 굿",
+      "price": "5억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인상우 101동매매6억 2,000아파트116/96m², 18/24층, 남향개봉초역세권 남향 넓은구조",
+      "price": "6억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인상우 101동매매6억 3,000아파트116/96m², 8/24층, 남향35급매 개봉역급행5분 정남향이라 채광좋아요",
+      "price": "6억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인상우 101동매매6억 6,000아파트116/96m², 16/24층, 남향남향  넓은구조  깨끗 입주협의",
+      "price": "6억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매6억아파트87/59m², 15/24층, 남향r개봉초역세권 올수리 세안고 정남향 투자 굿입니다",
+      "price": "6억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매5억 1,000아파트87/59m², 3/24층, 남향25 남향 상태좋은 초역세권 아파트",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인상우 101동매매6억 6,000아파트103/84m², 16/24층, 남향특올수리 정남향 전망채광굿",
+      "price": "6억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매5억 1,000아파트87/59m², 4/24층, 남향초역세권 급매 정남향 햇살가득 입주가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인상우 102동매매5억아파트87/59m², 7/24층, 남동향개봉역 역세권 로얄동 로얄층 전망좋은집 입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.833Z"
+    },
+    {
+      "index": 50,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인상우 102동매매5억 1,000아파트87/59m², 1/24층, 남향초역세권. 남향. 주인거주의뢰. 입주협의. 기본형매경부동산 제공현대공인중개사사무소확인매물 25.07.17.",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:15:44.834Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_104_20250717_221549.png"
+  }
+}

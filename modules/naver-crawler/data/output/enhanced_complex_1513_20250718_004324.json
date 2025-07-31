@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:43:24.407552",
+    "complex_id": "1513"
+  },
+  "basic_info": {
+    "complex_id": "1513",
+    "source_url": "https://new.land.naver.com/complexes/1513",
+    "extracted_at": "2025-07-18T00:43:21.035434",
+    "url": "https://new.land.naver.com/complexes/1513?ms=37.690359,126.769321,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:43:18.581Z",
+    "complexId": "1513"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 105동매매2억아파트84/59m², 17/20층, 동향25형  월세안고 .   26년1월까지",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 104동매매2억 1,500아파트84/59m², 4/20층, 남동향추천.2달여유,샷시제외전체올수리 되어 상태최상,라인굿",
+      "price": "2억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 103동매매3억 7,000아파트132/105m², 13/20층, 남향강추.남향,바닥,도배.led, 주방.부분수리되어 상태최상.최고라인.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 105동매매2억 1,000아파트84/59m², 15/20층, 남향올수리되어 깨끗한집 세안고 매매, 일산역도보가능, 초중고교인접,남향",
+      "price": "2억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 102동매매3억아파트109A/84m², 9/20층, 남향일부수리, 관리잘된집, 일산역도보권, 남향, 라인 굿",
+      "price": "3억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 105동매매2억아파트84/59m², 12/20층, 남동향강추,뻥뚫린 전망,로얄층,원하는대로 수리하심 됩니다.입주협의해요.",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 101동매매3억 1,000아파트109A/84m², 9/20층, 동향따뜻하 고  밝은 집 주인 거주 예전 수리  정상입주",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 101동매매3억 7,000아파트149/120m², 8/20층, 남향남향이라 밝고 환하며 주인이 거주하여 상태 깨끗하며 입주 가능합니다",
+      "price": "3억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 102동전세2억 5,000아파트109A/84m², 9/20층, 남향도배와 화장실 새로수리, 일산역도보권, 남향으로 밝고 따뜻 난방비절감",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 102동매매3억 2,000아파트109A/84m², 18/20층, 남향올수리.정상",
+      "price": "3억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 101동매매3억 5,000아파트149/120m², 19/20층, 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 104동매매2억 500아파트84/59m², 10/20층, 동향일산,탄현역 도보,초,중 통학편리,수리됨, 주인거주 깨끗해요",
+      "price": "2억 500",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인에이스10차 101동매매3억아파트109A/84m², 5/20층, 남동향정상,일부수리",
+      "price": "3억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.056Z"
+    },
+    {
+      "index": 45,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인에이스10차 105동매매2억아파트84/59m², 17/20층, 동향25형  월세안고 .   26년1월까지부동산써브 제공대원부동산공인중개사사무소확인매물 25.07.17.집주인에이스10차 104동매매2억 1,500아파트84/59m², 4/20층, 남동향추천.2달여유,샷시제외전체올수리 되어 상태최상,라인굿매경부동산 제공홈타운공인중개사사무소확인매물 25.07.17.집주인에이스10차 103동매매3억 7,000아파트132/105m², 13/20층, 남향강추.남향,바닥,도배.led, 주방.부분수리되어 상태최상.최고라인.매경부동산 제공홈타운",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:21.057Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1513_20250718_004324.png"
+  }
+}

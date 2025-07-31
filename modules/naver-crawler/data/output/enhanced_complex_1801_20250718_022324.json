@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:23:24.036028",
+    "complex_id": "1801"
+  },
+  "basic_info": {
+    "complex_id": "1801",
+    "source_url": "https://new.land.naver.com/complexes/1801",
+    "extracted_at": "2025-07-18T02:23:19.484867",
+    "url": "https://new.land.naver.com/complexes/1801?ms=37.247705,127.058831,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:23:17.766Z",
+    "complexId": "1801"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:23:19.499Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "분양계획망포역푸르지오르마크분양가가격 미정가격 미정면적 - ㎡0.0㎡ ~ 0.0㎡아파트 615세대민간분양 - ㎡분양계획2025.08",
+      "price": null,
+      "area": "0.0㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:23:19.499Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,941만삼성,태영매매6.4억5.3억~7억전세-3.7억~4.3억월세70만70만~1.5백면적109㎡107.82㎡ ~ 109.96㎡매매매물만 보기101개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억5",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:23:19.499Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,942만벽적골8단지두산,우성,한신매매4.7억3.9억~5.5억전세2.9억2.5억~3.3억월세1.12백50만~1.2백면적80㎡80.39㎡ ~ 80.54㎡매매매물만 보기169개 매물이 있습니다.전세매물만 보기19개 매물이 있습니다.월세매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:23:19.499Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,085만벽적골롯데매매4.1억3.2억~5.4억전세-2.3억~3.5억월세1백1백~1.15백면적65㎡50.57㎡ ~ 79.46㎡매매매물만 보기40개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억3",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:23:19.499Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1801_20250718_022323.png"
+  }
+}

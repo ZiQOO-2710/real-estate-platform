@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:46:18.160487",
+    "complex_id": "1333"
+  },
+  "basic_info": {
+    "complex_id": "1333",
+    "source_url": "https://new.land.naver.com/complexes/1333",
+    "extracted_at": "2025-07-17T23:46:14.670919",
+    "url": "https://new.land.naver.com/complexes/1333?ms=37.538472,127.13314,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:46:12.698Z",
+    "complexId": "1333"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매6억 2,000아파트60/44m², 5/12층, 서향내부상태좋음, 중간층, 입주협의",
+      "price": "6억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.682Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매8억 5,000아파트83/60m², 7/9층, 남향입주 방2화1 샷시및올수리 강동역세권",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매6억 2,000아파트60/44m², 중/12층, 남서향강동역세권 인접한 현대아파트 저렴한 급매. 입주 가능",
+      "price": "6억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매8억 5,000아파트83/60m², 7/9층, 남동향급매. 강동역. 실입주. 내부 컨디션 A급. 깔끔하게 관리 잘된 2룸",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매8억 5,000아파트83/60m², 7/9층, 남서향주인거주중 내부완전깔끔",
+      "price": "8억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인현대 102동매매8억 3,000아파트83/60m², 중/9층, 남향강동역5분, 지분12P, 수리함, 남향, 햇살 좋음",
+      "price": "8억 3",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대 102동매매9억아파트93/68m², 고/9층, 남향남향으로 내부깔끔. 강동역5분거리로 교통편리함.",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:46:14.683Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1333_20250717_234617.png"
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:23:17.145421",
+    "complex_id": "1064"
+  },
+  "basic_info": {
+    "complex_id": "1064",
+    "source_url": "https://new.land.naver.com/complexes/1064",
+    "extracted_at": "2025-07-17T22:23:14.063485",
+    "url": "https://new.land.naver.com/complexes/1064?ms=37.508501,126.853738,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:23:11.065Z",
+    "complexId": "1064"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한성 A동매매4억 2,000아파트97A/78m², 3/5층, 북서향소규모재건축 조합설인인가. 입주가능함. 조건협의가.",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한성 B동매매3억 7,000아파트84B/64m², 1/5층, 남향수리필요 재건축확정 투자 입주 모두 가능함",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한성 A동전세1억 8,000아파트88/68m², 4/5층, 남향시세보다 저렴 남향 수리되어깨끗 1029입주",
+      "price": "1억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한성 B동매매3억 8,000아파트85D/66m², 4/5층, 남동향올수리 재건축추진중 조합설립 입주가능 깨끗 좋아요",
+      "price": "3억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한성 A동매매4억 1,000아파트88/68m², 2/5층, 남향올수리 남향 재건축추진중 조합설립 깨끗 좋아요",
+      "price": "4억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인한성 B동매매4억아파트91B/70m², 3/5층, 남서향세안고 매매. 입주도가 . 구조 좋은 매물임",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "한성 B동매매4억아파트91A/70m², 고/5층, 남동향수리잘되고 햇빛 잘들어오는 전망좋은집 정상",
+      "price": "4억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한성 B동매매3억 7,000아파트84B/64m², 1/5층, 남동향급매,  입주가능,   반전세안고 매매도 가능",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.073Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체83A㎡84B㎡84C㎡85D㎡88㎡90C㎡91A㎡91B㎡94㎡97A㎡97B㎡",
+      "price": null,
+      "area": "88㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:23:14.074Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한성 A동매매4억 2,000아파트97A/78m², 3/5층, 북서향소규모재건축 조합설인인가. 입주가능함. 조건협의가.매경부동산 제공명문공인중개사사무소확인매물 25.07.08.집주인한성 B동매매3억 7,000아파트84B/64m², 1/5층, 남향수리필요 재건축확정 투자 입주 모두 가능함매경부동산 제공대우푸르지오공인중개사사무소확인매물 25.07.03.집주인한성 A동전세1억 8,000아파트88/68m², 4/5층, 남향시세보다 저렴 남향 수리되어깨끗 1029입주매경부동산 제공대신공인중개사사무소확인매물 25.07.03.집주인한성 B동",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.074Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,412만하이리빙(주상복합)매매4.7억4.7억면적110㎡110.2㎡ ~ 110.2㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억4",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "예주유니츠면적96.74㎡96.74㎡ ~ 98.57㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "96.74㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,478만한성매매3.8억3.7억~4.2억전세-1.8억면적85㎡84.22㎡ ~ 97.2㎡매매매물만 보기8개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억3",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,653만그랜드매매3.85억3.7억~5.9억전세2.8억2.8억~3.3억월세1백1백면적77㎡77.19㎡ ~ 113.32㎡매매매물만 보기5개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "85억3",
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "청솔우성월세1백1백면적111㎡111.55㎡ ~ 111.55㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,235만한일유앤아이매매7.1억5.85억~9억전세-4억~4.3억면적105㎡78.7㎡ ~ 136.47㎡매매매물만 보기33개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억5",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,911만삼익2차매매6.3억4.7억~9억전세-5.3억면적109㎡84.72㎡ ~ 143.35㎡매매매물만 보기45개 매물이 있습니다.전세매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억4",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "진성면적84.31㎡66.02㎡ ~ 84.31㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "84.31㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,694만신트리4단지매매6.6억5.2억~8억전세3.9억3.3억~4억월세95만5만~1.2백면적81㎡66.66㎡ ~ 81.33㎡매매매물만 보기122개 매물이 있습니다.전세매물만 보기60개 매물이 있습니다.월세매물만 보기24개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억5",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "예인(주상복합)면적76.62㎡57.54㎡ ~ 88.88㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "76.62㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "다미안3차(도시형)면적71.07㎡57.27㎡ ~ 97.12㎡단지정보",
+      "price": null,
+      "area": "71.07㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,709만고척파크푸르지오매매9.2억9.15억~14.3억전세4.9억4.7억~7억월세1.2백90만~1.6백면적82㎡82.22㎡ ~ 139.42㎡매매매물만 보기31개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.월세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억9",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,837만삼익1단지매매6억4.4억~7.6억전세-5억면적108㎡84.6㎡ ~ 147.3㎡매매매물만 보기29개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억4",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:23:14.075Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 24,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1064_20250717_222316.png"
+  }
+}

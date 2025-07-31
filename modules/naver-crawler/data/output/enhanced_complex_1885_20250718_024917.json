@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:49:17.879887",
+    "complex_id": "1885"
+  },
+  "basic_info": {
+    "complex_id": "1885",
+    "source_url": "https://new.land.naver.com/complexes/1885",
+    "extracted_at": "2025-07-18T02:49:13.674300",
+    "url": "https://new.land.naver.com/complexes/1885?ms=37.335081,126.749289,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:49:11.118Z",
+    "complexId": "1885"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무진 109동전세1억 4,000아파트65/54m², 5/5층, 남서향올수리,신혼집,전세대출되는집",
+      "price": "1억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:49:13.687Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "무진 106동월세2,000/80아파트77/59m², 6/10층, 남동향도배 장판 씽크대 새로해드림 빠른입주가능",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무진 105동매매2억 4,000아파트77/59m², 5/10층, 남서향추천매물 입주가능한 조용한동 중간층 엘리베이터O",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "무진 103동매매2억 5,000아파트77/59m², 3/10층, 남서향깨끗함   남서향  협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "무진 106동매매2억 4,000아파트77/59m², 10/10층, 남동향내부수리,층간소음 없고 해잘드는 탑층입니다",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "무진 101동매매2억 4,000아파트77/59m², 1/10층, 남서향올수리, 이사일협의 조정가능",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "무진 110동매매2억 2,000아파트65/54m², 4/5층, 남서향올수리한집,아주깨끗함.",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "무진 109동매매2억 1,000아파트65/54m², 1/5층, 남서향올수리했음,세안고.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "무진 105동월세2,000/80아파트77/59m², 10/10층, 남서향올수리 9월이후 입주가능",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "무진 105동매매2억 6,000아파트77/59m², 10/10층, 남서향올수리 9월이후 입주가능",
+      "price": "2억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "무진 101동매매2억 4,000아파트77/59m², 5/10층, 남서향급메물,공실,동간거리넓어서 채광좋음",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "무진 110동매매2억 1,500아파트65/54m², 2/5층, 남서향수리된깨끗한집.입주가",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "무진 104동매매2억 7,000아파트77/59m², 7/10층, 남동향수리된 아주깨끗함,세안고.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "무진 108동매매2억 1,500아파트65/54m², 2/5층, 남서향올수리된 깨끗한집.조정가.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "무진 111동매매2억 2,000아파트65/54m², 2/3층, 남서향예전수리했던집,빠른입주가.",
+      "price": "2억 2",
+      "area": null,
+      "floor": "3층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인무진 109동전세1억 4,000아파트65/54m², 5/5층, 남서향올수리,신혼집,전세대출되는집매경부동산 제공유천 공인중개사사무소확인매물 25.07.07.무진 106동월세2,000/80아파트77/59m², 6/10층, 남동향도배 장판 씽크대 새로해드림 빠른입주가능매경부동산 제공영남랜드 공인중개사사무소확인매물 25.07.10.무진 106동월세2,000/80아파트77/59m², 6/10층, 남동향도배,장판,씽크대 수리해줍니다 기숙사가능매경부동산 제공명성 공인중개사사무소확인매물 25.07.04.집주인무진 105동매매2억 4,000아",
+      "price": "1억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:49:13.688Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1885_20250718_024917.png"
+  }
+}

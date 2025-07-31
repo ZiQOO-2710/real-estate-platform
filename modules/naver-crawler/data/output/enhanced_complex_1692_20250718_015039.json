@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:50:39.392837",
+    "complex_id": "1692"
+  },
+  "basic_info": {
+    "complex_id": "1692",
+    "source_url": "https://new.land.naver.com/complexes/1692",
+    "extracted_at": "2025-07-18T01:50:35.930981",
+    "url": "https://new.land.naver.com/complexes/1692?ms=37.479488,126.804705,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:50:34.867Z",
+    "complexId": "1692"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 6동매매4억아파트80/66m², 3/4층, 남향지분넓어투자굿  전세안고",
+      "price": "4억",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 5동매매3억 8,000아파트71/58m², 2/4층, 남향올수리됨 붙박이장 한샘가구  중문 남향 주인거주  이사일협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 6동매매3억 6,000아파트80/66m², 2/4층, 남향특올수리함.남향.주인거주 깔끔하게 관리.금액조정가능.교통편리.이사협의가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 2동매매3억 1,000아파트62/50m², 1/4층, 남향특올수리됨지분넓어투자굿  이사협의",
+      "price": "3억 1",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 5동매매3억 5,500아파트74/61m², 3/4층, 남향22. 방3.화1. 전체수리. 밝고환한 남향집. 주인거주. 입주협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 1동매매3억 3,000아파트62/50m², 3/4층, 남향19.월세안고. 조정가능. 남향. 조정가능. 화이트올수리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 6동매매3억 5,000아파트80/66m², 4/4층, 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.942Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "역곡조공1차 5동매매3억 5,000아파트74/61m², 4/4층, 남향",
+      "price": "3억 5",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.943Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인역곡조공1차 2동매매3억 6,000아파트74/61m², 4/4층, 남향22. 샷시까지 올수리 했어요. 남향, 재건축시 지분많아 투자굿",
+      "price": "3억 6",
+      "area": null,
+      "floor": "4층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:35.943Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1692_20250718_015039.png"
+  }
+}

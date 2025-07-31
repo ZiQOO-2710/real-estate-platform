@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:17:15.389410",
+    "complex_id": "1782"
+  },
+  "basic_info": {
+    "complex_id": "1782",
+    "source_url": "https://new.land.naver.com/complexes/1782",
+    "extracted_at": "2025-07-18T02:17:11.068731",
+    "url": "https://new.land.naver.com/complexes/1782?ms=37.267004,127.042728,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:17:08.825Z",
+    "complexId": "1782"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동남(810-2) 3동매매3억아파트71/49m², 6/15층, 남향9월 입주협의 샷시포함 수리",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동매매2억 9,000아파트71/49m², 9/15층, 남향올수리,집상태 깨끗하며,채광 아주 좋음,전세안고",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동매매2억 9,000아파트71/49m², 7/15층, 남향샷시포함수리,햇살좋고 뷰 좋음,정상입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동매매3억아파트71/49m², 10/15층, 남향전체올수리전세안고",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동전세1억 8,000아파트71/49m², 15/15층, 남향단독보유 샷시포함수리됨 전세대출가능 9월초부터입주",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "동남(810-2) 3동매매2억 9,000아파트71/49m², 15/15층, 남향샷시포함수리됨전망짱 주인거주 정상입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "동남(810-2) 3동매매2억 5,000아파트71/49m², 1/15층, 남향필로티2층,공원동,리모델링 건축심의 완료,전세안고,",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동매매2억 9,000아파트71/49m², 8/15층, 남향올수리로 깨끗.입주는 협의가능해요",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "동남(810-2) 1동전세1억 8,000아파트71/49m², 1/15층, 남향무융자O,버팀목 및 각종 대출 가능, 리모델링 완료된 아파트 전세",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "동남(810-2) 1동매매2억 7,000아파트71/49m², 1/15층, 남향소유자 실 거주, 최근 화장실 및 전체 리모델링 완료, 깨끗하게 관리된",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "동남(810-2) 3동매매2억 7,000아파트71/49m², 2/15층, 남향전체올수리 투자성좋음 실금액 9000만원",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "동남(810-2) 4동매매3억 1,000아파트71/49m², 3/15층, 남향올 인테리어 전세보증금22,000만원2027년2월25일만기",
+      "price": "3억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "동남(810-2) 2동매매2억 8,000아파트71/49m², 4/15층, 남향부분수리 정상입주협의가능 주인거주 조합원임",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "동남(810-2) 4동매매2억 7,000아파트71/49m², 15/15층, 남향층간소음 없으며,밝고 환한집,입주 협의해요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "동남(810-2) 1동매매3억아파트71/49m², 13/15층, 남향2년전세안고,샷시포함올수리로 상태깨끗해요",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:17:11.084Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1782_20250718_021715.png"
+  }
+}

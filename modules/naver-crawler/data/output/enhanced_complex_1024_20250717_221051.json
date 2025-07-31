@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:10:51.183793",
+    "complex_id": "1024"
+  },
+  "basic_info": {
+    "complex_id": "1024",
+    "source_url": "https://new.land.naver.com/complexes/1024",
+    "extracted_at": "2025-07-17T22:10:45.941434",
+    "url": "https://new.land.naver.com/complexes/1024?ms=37.572144,126.822051,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:10:44.844Z",
+    "complexId": "1024"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매6억 8,000아파트77/59m², 13/15층, 동향욕실,씽크대 수리,입주가능,9호선 급행 마곡나루역 이용",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매7억아파트77/59m², 15/15층, 동향올수리.입주협의.실입주가능",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매7억 9,000아파트89/59m², 7/15층, 서향특올수리,시스템에어컨2대,주인거주,깔끔하게관리된집,로얄층,입주협의가능",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매7억 3,000아파트77/59m², 3/15층, 동향특올리모델링, 샷시포함, 올확장, 실물사진, 마곡나루역, 신혼부부추천.",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매7억 5,000아파트77/59m², 11/15층, 동향주인거주중,샤시까지 특올수리,거실확장,작은방 확장,9호선  급행 마곡나루",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인마곡삼성 101동매매7억아파트77/59m², 10/15층, 동향주인거주중,상태 깨끗하고,9호선 급행 마곡나루역,공항철도 이용",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:10:45.953Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1024_20250717_221051.png"
+  }
+}

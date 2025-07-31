@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:49:23.113064",
+    "complex_id": "1346"
+  },
+  "basic_info": {
+    "complex_id": "1346",
+    "source_url": "https://new.land.naver.com/complexes/1346",
+    "extracted_at": "2025-07-17T23:49:19.404190",
+    "url": "https://new.land.naver.com/complexes/1346?ms=37.565331,126.855765,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:49:16.949Z",
+    "complexId": "1346"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 303동매매8억 3,000아파트66/49m², 9/15층, 남향샷시포함 전체 특올수리  조용한남향집,입주협의",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.417Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 308동매매6억 5,000아파트51/39m², 8/15층, 남향1년전 완전특올수리, 베란다확장, 붙박이장설치, 남향, 가양역역세권",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 312동매매7억 6,000아파트66/49m², 4/15층, 남향올수리,입주협의,생활권,교통편리",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 310동매매6억아파트51/39m², 3/15층, 남향샷시포함전체올수리,아주깨끗,입주",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 303동매매7억 2,000아파트66/49m², 1/15층, 남향급매, 특올수리, 옵션 붙박이장 인덕션, 깨끗하게 관리잘됨",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 303동매매8억 3,000아파트66/49m², 9/15층, 남서향입주 최근 샤시포함 특 올수리",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 308동매매6억 5,000아파트51/39m², 8/15층, 남서향샷시포함 최근완전특올수리 햇빛쨍쨍  한강변아파트 9호선 가양급행역이용",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 311동매매6억 3,000아파트51/39m², 6/15층, 남향샷시포함 올수리 , 빠른입주도 가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 304동매매5억 7,000아파트45/34m², 5/15층, 남동향샷시까지 올수리",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 305동매매6억 3,000아파트51/39m², 8/15층, 남향샷시포함 올수리 복도 한강조망 ,일조권좋아요,입주가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 301동매매5억 7,000아파트45/34m², 5/15층, 남향수리된집 입주협의,남향,교통,생활권 편리",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인강변3단지 308동매매6억 5,000아파트51/39m², 6/15층, 남서향샷시포함 올수리 ,세안고.입주협의",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.418Z"
+    },
+    {
+      "index": 76,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인강변3단지 312동매매7억 6,000아파트66/49m², 4/15층, 남서향올수리, 입주협의,에어컨옵션,매경부동산 제공(주)우대빵부동산중개법인 강서지점확인매물 25.07.17.",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.419Z"
+    },
+    {
+      "index": 124,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인강변3단지 310동매매6억아파트51/39m², 1/15층, 남서향샷시포함 올수리 깨끗, 입주가능 협의, 남향우리집부동산 제공3단지공인중개사사무소확인매물 25.07.14.",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:19.419Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1346_20250717_234922.png"
+  }
+}

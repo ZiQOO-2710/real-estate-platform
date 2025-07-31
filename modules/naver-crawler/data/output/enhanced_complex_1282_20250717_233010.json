@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:30:10.382945",
+    "complex_id": "1282"
+  },
+  "basic_info": {
+    "complex_id": "1282",
+    "source_url": "https://new.land.naver.com/complexes/1282",
+    "extracted_at": "2025-07-17T23:30:05.932609",
+    "url": "https://new.land.naver.com/complexes/1282?ms=37.61436,127.07355,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:30:03.665Z",
+    "complexId": "1282"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매5억 7,000아파트87/59m², 10/19층, 남동향중랑천 확트인 조망  , 올수리 급매 잘 관리된 집, 전세 안고 매매",
+      "price": "5억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.945Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 101동매매7억아파트109/84m², 3/19층, 남향급매협상 남향 밝고넓은 실거주 갭투 태릉67더블역세권 먹골역 장미공원",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 101동매매6억 3,000아파트87/59m², 16/19층, 서향고층환상적인중랑천뷰 3룸 주인거주깔끔 태릉역67더블역세권6분 먹골역7분",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 101동매매5억 7,000아파트87/59m², 7/19층, 서향중랑천장미공원뷰맛집 로얄층 주인거주 협의가능 태릉먹골67더블역6분 먹골역",
+      "price": "5억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매7억 5,000아파트150/114m², 7/19층, 동향전세안고 매매, 태릉입구,먹골역 역세권  방4,거실,주방,욕실2,베란다",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매5억 7,000아파트87/59m², 5/19층, 서향협상가능 전체샷시교체 부분수리 중랑천뷰맛집 3룸 먹골역태릉역67더블역5분",
+      "price": "5억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매6억 1,000아파트87/59m², 고/19층, 서향환상적인중랑천뷰맛집 3룸 주인거주 태릉역 67더블역6분 먹골역7분 이마트",
+      "price": "6억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매7억 4,000아파트150/114m², 저/19층, 동향급매저렴한가격,6.7호선더블역세권,입주협의,앞으로 전망좋음",
+      "price": "7억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "묵동한국 101동매매6억 3,000아파트87/59m², 중/19층, 서향더블역세권, 여러방향 버스노선, 다양한 편의시설, 더블산책로",
+      "price": "6억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "묵동한국 102동매매7억 5,000아파트109/84m², 고/19층, 서향근저당 X, 더블역세권, 더블산책로, 다양한 편의시설, 여러방향 버스노선",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "묵동한국 102동매매7억 3,000아파트109/84m², 17/19층, 남향남향으로 채광.전망 굿, 역세권먹골역,태릉입구, 즉시 입주가능",
+      "price": "7억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 101동매매7억아파트109/84m², 저/19층, 남향중랑천 장미공원 인접으로  장미향기 가득 자연친화적인 아파트",
+      "price": "7억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동전세4억아파트87/59m², 중/19층, 서향6,7호선5분 전망최상 집상태굿, 입주12월중순",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매7억 5,000아파트150/114m², 중/19층, 남향7호선 역세권,중랑천이 인접해 있어서 산책과 운동하기 좋아요",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인묵동한국 102동매매8억아파트150/114m², 13/19층, 남향샷시확장전체올수리 방4화2 로얄층남향채광 먹골태릉67더블역6분 장미공원",
+      "price": "8억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.946Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인묵동한국 102동매매5억 7,000아파트87/59m², 10/19층, 남동향중랑천 확트인 조망  , 올수리 급매 잘 관리된 집, 전세 안고 매매아실 제공엄지부동산공인중개사사무소확인매물 25.07.16.네이버에서 보기집주인묵동한국 101동매매7억아파트109/84m², 3/19층, 남향급매협상 남향 밝고넓은 실거주 갭투 태릉67더블역세권 먹골역 장미공원매경부동산 제공베스트 공인중개사사무소확인매물 25.07.11.집주인묵동한국 101동매매6억 3,000아파트87/59m², 16/19층, 서향고층환상적인중랑천뷰 3룸 주인거주깔끔 태릉",
+      "price": "5억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:05.947Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1282_20250717_233010.png"
+  }
+}

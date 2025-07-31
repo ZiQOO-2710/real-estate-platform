@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:47:55.733931",
+    "complex_id": "1879"
+  },
+  "basic_info": {
+    "complex_id": "1879",
+    "source_url": "https://new.land.naver.com/complexes/1879",
+    "extracted_at": "2025-07-18T02:47:52.815470",
+    "url": "https://new.land.naver.com/complexes/1879?ms=37.380797,127.126016,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:47:50.056Z",
+    "complexId": "1879"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한양 312동전세8억 4,000아파트198/164m², 5/16층, 남서향60. 서현역역세권 샷포확장올수리 방5화3 전망 굿  즉시입주가",
+      "price": "8억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한양 315동월세6억 9,000/80아파트164/134m², 5/16층, 남동향50.샷시포함 전체특올수리.초역세권 조용한로얄동.전세대출가능.항시입주",
+      "price": "6억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한양 301동매매13억 4,000아파트73/59m², 4/5층, 북향22.특급정보바로확인클릭올수리샷시공원전망",
+      "price": "13억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한양 323동매매18억 7,000아파트111B/84m², 9/30층, 남서향33 입주가능, 중간라인, 수리됨,탁트힌전망,강추",
+      "price": "18억 7",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한양 313동전세9억아파트164/134m², 4/16층, 남서향오래된 특올수리입니다",
+      "price": "9억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인한양 316동전세7억 1,500아파트111B/84m², 2/30층, 남서향33, 서현초역세권 샷시포함특올수리 깨끗 트인뷰 서현초중고학군 생활편리",
+      "price": "7억 1",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한양 301동매매13억 4,000아파트73/59m², 4/5층, 남서향샷시 창호 및 분배기 포함 특올수리 주인세대 거주 사진 참조",
+      "price": "13억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인한양 313동전세8억아파트164/134m², 2/16층, 남서향50,방4,아담한 전망에 수리되어 있고 저렴한 전세, 빠른 입주 가능",
+      "price": "8억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인한양 324동매매26억아파트198/164m², 14/30층, 남서향",
+      "price": "26억",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인한양 312동전세11억아파트198/164m², 14/16층, 남서향올수리후 첫 임대 되는 공원뷰 로얄동 로얄층입니다.기타 조건조율 가능.",
+      "price": "11억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인한양 323동매매18억 5,000아파트111B/84m², 2/30층, 남서향특올수리 되어 있으며 아늑한 전망 세안고도 가능합니다",
+      "price": "18억 5",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한양 332동매매8억 8,000아파트48/35m², 7/15층, 남동향14.강추.방2.샷시포함 주인특수리.입주 또는 주인 전세나월세도 가능",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "한양 326동매매14억아파트80/59m², 15/15층, 남서향샷시포함전체특올수리.세안고.특전망.최고역세권",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:47:52.831Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체39㎡48㎡73㎡80㎡110A㎡111B㎡121㎡157㎡164㎡181㎡198㎡200㎡228㎡260B㎡260A㎡",
+      "price": null,
+      "area": "39㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:47:52.832Z"
+    },
+    {
+      "index": 82,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인한양 312동전세8억 4,000아파트198/164m², 5/16층, 남서향60. 서현역역세권 샷포확장올수리 방5화3 전망 굿  즉시입주가매경부동산 제공오늘공인중개사사무소확인매물 25.07.17.집주인한양 315동월세6억 9,000/80아파트164/134m², 5/16층, 남동향50.샷시포함 전체특올수리.초역세권 조용한로얄동.전세대출가능.항시입주부동산뱅크 제공시범21세기공인중개사사무소확인매물 25.07.17.집주인한양 301동매매13억 4,000아파트73/59m², 4/5층, 북향22.특급정보바로확인클릭올수리샷시공원전망텐컴즈 제",
+      "price": "8억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:47:52.832Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1879_20250718_024755.png"
+  }
+}

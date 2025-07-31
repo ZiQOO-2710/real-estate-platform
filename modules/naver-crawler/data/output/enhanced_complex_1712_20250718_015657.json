@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:56:57.840781",
+    "complex_id": "1712"
+  },
+  "basic_info": {
+    "complex_id": "1712",
+    "source_url": "https://new.land.naver.com/complexes/1712",
+    "extracted_at": "2025-07-18T01:56:53.465738",
+    "url": "https://new.land.naver.com/complexes/1712?ms=37.477252,126.781391,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:56:50.741Z",
+    "complexId": "1712"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인부천극동 5동매매2억 9,000아파트73/69m², 7/10층, 남향재건축추진중인 역세권 남향 아파트",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.479Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인부천극동 2동전세2억 1,000아파트93B/86m², 5/10층, 남향올수리,역세권,햇볕잘드는남향,이사협의,생활인프라우수",
+      "price": "2억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인부천극동 7동전세2억 6,000아파트107A/102m², 10/10층, 남향역세권 수리되어 깨끗함 조망좋은 32형 남향 아파트 전세보증가능",
+      "price": "2억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인부천극동 5동월세2,000/70아파트73/69m², 1/10층, 남향역세권남향아파트,올수리되어집깨끗함,9월26일입주가능",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인부천극동 5동매매3억 1,000아파트73/69m², 8/10층, 남향역세권아파트,재건축진행중,투자물건,세안고매매",
+      "price": "3억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인부천극동 2동매매3억 6,000아파트93B/86m², 5/10층, 남향올수리,역세권,햇볕잘드는남향,실입주가능,금액조정가능,로얄층,이사협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인부천극동 2동매매3억 5,000아파트93B/86m², 8/10층, 남향역세권,남향집,재건축진행중,투자물건,입주협의,로얄층",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인부천극동 7동매매4억 6,000아파트107A/102m², 6/10층, 남향역세권,재건축추진중,남향집으로집깨끗함,주인거주,투자물건",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인부천극동 6동매매3억아파트73/69m², 2/10층, 남향부천역도보7분,남향집,세안고매매,재건축진행중,투자물건,집깨끗함",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인부천극동 5동매매3억아파트73/69m², 10/10층, 남향역세권재건축아파트,남향집으로집깨끗함,투자물건,이사협의",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "부천극동 1동전세2억 2,000아파트93A/85m², 6/10층, 남향깨끗하게 수리된전망좋은라인임,이사협의,대출상환조건",
+      "price": "2억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "부천극동 7동매매4억 9,000아파트107A/102m², 8/10층, 남향부천역 도보8분거리. 남향으로 전망좋고 배관공사까지 올수리됨. 이사협의",
+      "price": "4억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "부천극동 7동매매4억 6,500아파트107A/102m², 5/10층, 남향역세권으로 재건축추진중입니다",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인부천극동 5동전세1억 9,000아파트73/69m², 7/10층, 남향역세권,남향으로 로얄층,샷시교체되고 내부깨끗합니다.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "부천극동 5동매매3억아파트73/69m², 고/10층, 남향",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:56:53.480Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체73㎡93B㎡93A㎡93C㎡106B㎡107A㎡112B㎡113A㎡",
+      "price": null,
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:56:53.481Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1712_20250718_015657.png"
+  }
+}

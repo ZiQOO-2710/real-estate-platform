@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:20:42.278645",
+    "complex_id": "1250"
+  },
+  "basic_info": {
+    "complex_id": "1250",
+    "source_url": "https://new.land.naver.com/complexes/1250",
+    "extracted_at": "2025-07-17T23:20:38.305554",
+    "url": "https://new.land.naver.com/complexes/1250?ms=37.606377,127.09739,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:20:36.382Z",
+    "complexId": "1250"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억아파트84/59m², 2/18층, 동향정상입주,샷시까지 수리,깨끗.",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억 7,000아파트84/59m², 14/18층, 남동향지하주차장공간넉넉,생활인프라좋음",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매8억 3,000아파트143/114m², 저/18층, 남향신내동 매인스트릿 인프라 좋은 아파트 일부 수리 남향으로 햇볕좋고 경전철",
+      "price": "8억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동전세3억 6,000아파트84/59m², 저/18층, 남향샷시포함내부올수리,생활권 편리한단지",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "동성7차 701동월세2억 4,000/30아파트84/59m², 16/18층, 남향깨끗 해 잘 들고 바람 잘 통하는 밝은 남향 집",
+      "price": "2억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억아파트84/59m², 14/18층, 남향남향 수리깨끗 전망좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억 5,000아파트84/59m², 11/18층, 남향남향 삼성무풍에어컨 옵션 관리상태좋음",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.316Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억아파트84/59m², 고/18층, 남향올수리 후 관리 상태가 양호 합니다",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.317Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동성7차 701동매매5억아파트84/59m², 8/18층, 동향동성7차 풀옵션 수리되어 있습니다.",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.317Z"
+    },
+    {
+      "index": 39,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인동성7차 701동매매5억아파트84/59m², 2/18층, 동향정상입주,샷시까지 수리,깨끗.부동산써브 제공한국공인중개사사무소확인매물 25.07.17.집주인동성7차 701동매매5억 7,000아파트84/59m², 14/18층, 남동향지하주차장공간넉넉,생활인프라좋음매경부동산 제공원탑 공인중개사사무소확인매물 25.07.10.집주인동성7차 701동매매8억 3,000아파트143/114m², 저/18층, 남향신내동 매인스트릿 인프라 좋은 아파트 일부 수리 남향으로 햇볕좋고 경전철매경부동산 제공롯데공인중개사사무소확인매물 25.07.15.집주인",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:20:38.317Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1250_20250717_232042.png"
+  }
+}

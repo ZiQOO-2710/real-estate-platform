@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:04:57.291705",
+    "complex_id": "1739"
+  },
+  "basic_info": {
+    "complex_id": "1739",
+    "source_url": "https://new.land.naver.com/complexes/1739",
+    "extracted_at": "2025-07-18T02:04:52.604613",
+    "url": "https://new.land.naver.com/complexes/1739?ms=37.44505,127.151748,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:04:50.568Z",
+    "complexId": "1739"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한신 2동매매7억 5,000아파트83/60m², 중/15층, 남향입주 투자 가능. 관리잘 된 깨끗한 집. 재건축추천단지",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한신 2동매매7억 5,000아파트83/60m², 7/15층, 남동향입주 가능, 올수리된 집, 공원, 편의 시설 인접 단지",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한신 2동매매7억 5,000아파트83/60m², 7/15층, 남향신흥역10분,남향,트인뷰,주인거주 깨끗,입주가능,투자가능,협의환영",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한신 1동매매7억아파트83/60m², 고/15층, 남향SKY25, 역세권, 환하고 밝은집, 내부깔끔. 올수리. 세안고매매.",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "한신 3동월세2억 2,000/70아파트101A/84m², 6/15층, 남동향한신아파트 3동 반전세 2억2천보증금 70만원 월세",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한신 6동매매8억 8,000아파트101A/84m², 고/15층, 남동향세안고 깨끗 로얄층 역세권 공원앞 재건축추천단지",
+      "price": "8억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한신 6동전세4억 8,000아파트101A/84m², 저/15층, 남동향샷시포함 올수리된집 중간층 역세권 공원앞단지",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한신 2동월세1억/100아파트83/60m², 중/15층, 남동향샷시포함올수리 역세권 공원앞 쾌적한 단지추천",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한신 1동전세4억 8,000아파트101A/84m², 고/15층, 남동향 특올수리 매물 역세권 공원 생활편의시설 등 최고입지",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "한신 1동매매7억아파트83/60m², 중/15층, 남서향역세권 깨끗한집 세안고 재건축투자단지",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "한신 1동매매7억 8,000아파트103B/84m², 중/15층, 남향수리깨끗한집 로얄층 입주가능",
+      "price": "7억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "한신 1동매매9억아파트101A/84m², 중/15층, 남동향상태좋은집 역세권 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "한신 3동매매8억 5,000아파트101A/84m², 고/15층, 남동향로얄층 공원앞 역세권 재건축투자단지",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "한신 2동매매7억아파트83/60m², 고/15층, 남동향로얄층 역세권 입주가능 재건축투자단지",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "한신 2동매매7억 6,000아파트83/60m², 3/15층, 남향올수리,입주가,투자가,신흥역5분,협의환영",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "한신 2동매매7억아파트83/60m², 고/15층, 남서향역세권 입지 최고 한신 전체 수리됨 투자가능",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:04:52.615Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1739_20250718_020457.png"
+  }
+}

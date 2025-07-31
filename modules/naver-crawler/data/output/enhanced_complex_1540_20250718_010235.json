@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:02:35.261265",
+    "complex_id": "1540"
+  },
+  "basic_info": {
+    "complex_id": "1540",
+    "source_url": "https://new.land.naver.com/complexes/1540",
+    "extracted_at": "2025-07-18T01:02:29.644541",
+    "url": "https://new.land.naver.com/complexes/1540?ms=37.61746,126.84529,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:02:28.586Z",
+    "complexId": "1540"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 106동매매2억 7,000아파트62/45m², 7/14층, 남향수리깨끗,로얄동,정상,강매역 버스중앙차로 상권근접",
+      "price": "2억 7",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 102동매매2억 7,000아파트62/45m², 11/15층, 남서향향이좋아 볕이 잘들고 수리되어 정상입주가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 106동전세2억아파트62/45m², 2/14층, 남서향정상입주 남향집 교통편리 출퇴근 편리해요 서울중앙로버스도보3분강매역9",
+      "price": "2억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 107동매매2억 7,500아파트62/45m², 4/13층, 남서향내부 올수리 조정가 즉시입주가 강매역 도보6분 신혼추천 광역버스3분",
+      "price": "2억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 104동전세2억 2,000아파트62/45m², 4/15층, 남향수리 깨끗, 정상입주",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 104동매매2억 8,000아파트62/45m², 12/15층, 남향샤시포함 특올수리, 강매역도보 8분거리, 버스전용 중앙로이용 편리",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 102동매매2억 7,000아파트62/45m², 10/15층, 남서향갭 12,300만원. 매수자분들께 확실한 조정해드려요,",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 104동매매2억 9,500아파트62/45m², 6/15층, 남향올수리깨끗,붙박이장,남향집,강매역5분거리입니다.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 103동매매2억 7,000아파트62/45m², 6/15층, 남서향정상입주 협의 아주깨끗 버스중앙차로 강매역도보 교통편리",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 106동매매2억 9,500아파트62/45m², 8/14층, 남향다른집외부샤시수리 올수리했어요. 정상입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 105동매매2억 8,000아파트62/45m², 8/15층, 남서향소액 갭투자9,000만원 최신 특올수리 화이트톤으로 환한 집",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 102동매매2억 6,000아파트62/45m², 3/15층, 남서향초급매 12월입주가 혹은 반전세 갭투자도 가능",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 106동매매3억 3,000아파트62/45m², 4/14층, 남향샷시포함 특올수리.전세안고. 강매역5분.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 101동매매2억 7,000아파트62/45m², 10/15층, 남향트인 측전망. 정남향. 수리되어 관리된 집. 조율가",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인소만1단지부영 102동매매2억 7,000아파트62/45m², 6/15층, 남서향컨디션굿 입주협의해요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:29.658Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1540_20250718_010235.png"
+  }
+}

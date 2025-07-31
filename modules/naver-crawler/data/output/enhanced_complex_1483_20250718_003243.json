@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:32:43.526258",
+    "complex_id": "1483"
+  },
+  "basic_info": {
+    "complex_id": "1483",
+    "source_url": "https://new.land.naver.com/complexes/1483",
+    "extracted_at": "2025-07-18T00:32:38.721284",
+    "url": "https://new.land.naver.com/complexes/1483?ms=37.388325,126.964657,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:32:37.049Z",
+    "complexId": "1483"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 203동전세4억아파트81/59m², 5/15층, 동향초원2대림천일 확장수리 입주협의 귀인초학군",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 203동매매7억 5,000아파트81/59m², 12/15층, 동향샤시포함특올수리 세안고 귀인초",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 207동매매12억 5,000아파트106/84m², 6/15층, 남향확장올수리. 입주물",
+      "price": "12억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 202동매매7억 8,000아파트81/59m², 7/13층, 동향내부수리 세안고",
+      "price": "7억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 204동매매8억 5,000아파트81/59m², 13/15층, 남동향로얄동 로얄층, 세안고 미리 선점, 적극 협의 가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 211동매매10억 6,000아파트106/84m², 2/15층, 서향초원2대림천일 세안고 최근샷시포함올수리 귀인초",
+      "price": "10억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 203동매매7억 7,000아파트81/59m², 11/15층, 동향세안고 샷시포함 전체 올수리 27년1월 입주물",
+      "price": "7억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 212동매매12억아파트106/84m², 13/15층, 남향초원2대림천일 입주 외부샷시포함특올수리 귀인초학군",
+      "price": "12억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 211동매매10억 5,000아파트106/84m², 10/15층, 서향세안고,전망트임,학원가인접,귀인초학군",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 211동매매10억 6,000아파트106/84m², 2/15층, 남향샷시포함 올수리 세안고 투자로",
+      "price": "10억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 201동매매7억 5,000아파트81/59m², 중/13층, 동향입주가능함 귀인초.평촌중",
+      "price": "7억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 211동매매10억 5,000아파트106/84m², 중/15층, 서향내부수리 귀인초학군  세안고",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인초원2단지대림 201동매매7억 8,000아파트81/59m², 9/13층, 남향초원2대림천일 입주 외부샷시포함특올수리 전망좋아요",
+      "price": "7억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.736Z"
+    },
+    {
+      "index": 49,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인초원2단지대림 203동전세4억아파트81/59m², 5/15층, 동향초원2대림천일 확장수리 입주협의 귀인초학군부동산뱅크 제공천일공인중개사사무소확인매물 25.07.17.집주인초원2단지대림 203동매매7억 5,000아파트81/59m², 12/15층, 동향샤시포함특올수리 세안고 귀인초 매경부동산 제공학사공인중개사사무소확인매물 25.07.17.집주인초원2단지대림 207동매매12억 5,000아파트106/84m², 6/15층, 남향확장올수리. 입주물매경부동산 제공평촌이젠공인중개사사무소확인매물 25.07.16.집주인초원2단지대림 202동매매",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:32:38.737Z"
+    },
+    {
+      "index": 123,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인초원2단지대림 202동매매7억 8,000아파트81/59m², 중/13층, 동향샷시포함 올수리, 세끼고매경부동산 제공평촌이젠공인중개사사무소확인매물 25.07.11.",
+      "price": "7억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:38.737Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1483_20250718_003243.png"
+  }
+}

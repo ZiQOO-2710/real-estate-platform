@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T18:04:11.281789",
+    "complex_id": "4567"
+  },
+  "basic_info": {
+    "complex_id": "4567",
+    "source_url": "https://new.land.naver.com/complexes/4567",
+    "extracted_at": "2025-07-17T18:04:07.974822",
+    "url": "https://new.land.naver.com/complexes/4567?ms=35.108781,126.894273,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T09:04:06.184Z",
+    "complexId": "4567"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼익 101동매매1억 200아파트79/59m², 15/20층, 동향부분리모델링 내부깨끗 조망트임  생활권편리",
+      "price": "1억 200",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼익 103동매매2억 9,500아파트134/113m², 15/20층, 동향내부상태 깨끗한 집 매매가격 착함",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼익 107동매매1억 8,000아파트104/84m², 20/20층, 남향최상층 매매로 하시입주가능합니다",
+      "price": "1억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼익 103동전세2억 5,000아파트134/113m², 15/20층, 동향전망좋음 내부올리모델링 2순환도로진입용이, 교통,생활권편리 이사날자협의가",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼익 102동매매1억 2,400아파트79/59m², 8/20층, 동향내부올리모델링,가운데라인,내부상태좋음,전세안고가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "삼익 103동전세2억 7,000아파트134/113m², 15/20층, 남향2년전최신올리모델내부상태최상,남향,가운데라인",
+      "price": "2억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "삼익 103동월세3,000/115아파트134/113m², 15/20층, 남향2년전최신올리모델링내부최상,남향,가운데라인,즉시입주",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼익 106동매매1억 2,000아파트79/59m², 2/20층, 동향매매가격저렴 현세입자거주전세안고가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼익 101동매매1억 4,500아파트79/59m², 3/20층, 동향최근올리모델링,새시교체,가운데라인,내부상태좋음,",
+      "price": "1억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼익 102동매매1억 1,500아파트79/59m², 14/20층, 남향남향,부분리모델화장실교체2년,가운데라인,방3,화2",
+      "price": "1억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "삼익 101동월세3,500/25아파트79/59m², 5/20층, 동향내부상태깨끗.교통편리.장기거주가능함",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "삼익 103동매매3억 3,500아파트134/113m², 15/20층, 남향내부올리모델링 조망좋음 생활권편리 즉시입주가(전세 2억7000만가능)",
+      "price": "3억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "삼익 103동전세2억아파트134/113m², 11/20층, 남동향급 빠른입주가 광주대인근",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T09:04:07.988Z"
+    },
+    {
+      "index": 46,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인삼익 101동매매1억 200아파트79/59m², 15/20층, 동향부분리모델링 내부깨끗 조망트임  생활권편리매경부동산 제공에스원공인중개사사무소확인매물 25.07.11.집주인삼익 103동매매2억 9,500아파트134/113m², 15/20층, 동향내부상태 깨끗한 집 매매가격 착함부동산써브 제공효천사랑중개사사무소확인매물 25.07.10.집주인삼익 107동매매1억 8,000아파트104/84m², 20/20층, 남향최상층 매매로 하시입주가능합니다매경부동산 제공롯데공인중개사사무소확인매물 25.07.05.삼익 103동전세2억 5,000아",
+      "price": "1억 200",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:04:07.989Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4567_20250717_180411.png"
+  }
+}

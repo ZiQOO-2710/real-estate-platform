@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:02:08.212623",
+    "complex_id": "1539"
+  },
+  "basic_info": {
+    "complex_id": "1539",
+    "source_url": "https://new.land.naver.com/complexes/1539",
+    "extracted_at": "2025-07-18T01:02:05.112051",
+    "url": "https://new.land.naver.com/complexes/1539?ms=37.61625,126.843987,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:02:03.976Z",
+    "complexId": "1539"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1005동매매3억 5,000아파트74/59m², 8/13층, 남서향급매 전망 좋고 해 잘들어요 강매역 광역버스 도보가능 7월부터입주협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1005동매매3억 4,500아파트74/59m², 6/13층, 남서향초급매 예전 수리 깨끗 강매역 역세권  광역버스 도보3분 전망좋아요",
+      "price": "3억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1005동매매5억 2,000아파트106B/84m², 9/13층, 남서향빠른입주 및 협의입주,주인거주하여 수리되서 아주깨끗 관리잘한집이예요",
+      "price": "5억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1004동매매5억 6,000아파트106B/84m², 2/15층, 남향내외풀샷시 최신 특올수리 앞트인 정원뷰 강매역 7분 버스중앙로 2분",
+      "price": "5억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1004동매매5억 2,500아파트106B/84m², 3/15층, 남서향샷시포함 특올수리 파격 초급매. 초록초록 예쁜 정원뷰",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1004동매매5억 6,000아파트106B/84m², 2/15층, 남서향하이엔드 인테리어  업체  시공으로 완벽한 특올수리. 정원뷰",
+      "price": "5억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1003동매매3억 8,000아파트74/59m², 11/15층, 남서향샷시포함올수리 확트인전망 교통이편리중앙로도보5분강매역10",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1005동매매5억아파트106B/84m², 2/13층, 남서향거실폭이넑은밝고환한집교통편리 서울행광역버스도보3분경의중앙선강매역",
+      "price": "5억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "소만10단지동성 1004동매매3억 8,000아파트74/59m², 3/15층, 남서향넓은 거실과  여유로운 주방 있는 집으로 오세요.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "소만10단지동성 1003동매매3억 5,000아파트74/59m², 3/15층, 남향 갭투자굿.올수리되어 관리잘된매물.강매역 접근성굿",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인소만10단지동성 1002동매매3억 8,000아파트74/59m², 14/15층, 남향최근 올수리로  깔끔. 소액 갭투자 추천. 신혼거주중으로 관리된 집",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:02:05.126Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1539_20250718_010208.png"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:38:28.151422",
+    "complex_id": "2034"
+  },
+  "basic_info": {
+    "complex_id": "2034",
+    "source_url": "https://new.land.naver.com/complexes/2034",
+    "extracted_at": "2025-07-18T03:38:24.287241",
+    "url": "https://new.land.naver.com/complexes/2034?ms=37.3817,126.95104,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:38:21.636Z",
+    "complexId": "2034"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매3억 9,500아파트78/59m², 고/18층, 남동향세안고. 범계역.평촌학원가도보권.탁트인뷰.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매3억 9,500아파트78/59m², 중/18층, 남향입주물, 주인세대, 씽크화 수리완료",
+      "price": "3억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "흥화 1동매매4억 5,000아파트78/59m², 13/18층, 남향특올수리, 범계역 및 평촌학원가 도보 가능,  인근 초,중학교 위치",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "흥화 1동매매5억아파트111B/84m², 8/18층, 남향도배.씽크대.화장실.거실 수리.범계역.평촌학원가도보권",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "흥화 1동매매5억아파트111B/84m², 8/18층, 남동향범계역, 평촌학원가 도보가능, 도배, 싱크대, 화장실, 거실 수리",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매5억아파트111A/84m², 14/18층, 동향관악산,청계산 뻥뷰,로얄층,광폭베란다,평촌학원가 도보9분,올수리,전자계약",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매5억 1,000아파트111A/84m², 고/18층, 동향입주협의가능,상가인접동으로 생활편리,채광,환기우수",
+      "price": "5억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매4억 8,000아파트111A/84m², 10/18층, 동향수리되어진 깔끔한 주인세대",
+      "price": "4억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인흥화 1동매매4억 2,000아파트78/59m², 6/18층, 남향샤시포함 특올수1년6개월거실확장, 세입자만기25.10.27",
+      "price": "4억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "흥화 1동매매5억 5,000아파트111B/84m², 저/18층, 남향입주물 관리잘된집 초등학교 도서관접근성우수 범계역 학원가도보",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "흥화 1동매매4억아파트78/59m², 4/18층, 남향주인거주 부분수리. 호계초중학교 도보거리. 생활편리 위치",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:38:24.302Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2034_20250718_033827.png"
+  }
+}

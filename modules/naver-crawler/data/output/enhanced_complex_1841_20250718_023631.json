@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:36:31.416263",
+    "complex_id": "1841"
+  },
+  "basic_info": {
+    "complex_id": "1841",
+    "source_url": "https://new.land.naver.com/complexes/1841",
+    "extracted_at": "2025-07-18T02:36:27.020771",
+    "url": "https://new.land.naver.com/complexes/1841?ms=37.272379,127.037755,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:36:24.935Z",
+    "complexId": "1841"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "신미주 1동매매3억 8,000아파트109/84m², 3/11층, 남서향내부 수리되어 깨끗한 집, 날짜 협의 가능",
+      "price": "3억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 4,000아파트76/59m², 4/11층, 남동향급매, 즉시 입주 가능, 공실, 수리기간 드려요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 8,000아파트76/59m², 2/11층, 남동향SS샷시포함올수리 디딤돌 거실확장 신혼부부추천 수리할것없음 주인거주",
+      "price": "2억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 3,500아파트76/59m², 1/11층, 남동향SS10월입주협의 1층 아이키우기좋은집",
+      "price": "2억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "신미주 1동매매3억 4,000아파트76/59m², 중/11층, 남동향SS 주인거주 집상태굿 날짜협의 샷시외수리 깨끗해요",
+      "price": "3억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "신미주 1동매매4억아파트109/84m², 고/11층, 남서향SS 주인거주 날짜협의 부분수리 깨끗함 보러오세요",
+      "price": "4억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 6,000아파트76/59m², 8/11층, 남동향빠른입주 가능, 올수리하여 깨끗하고 전망 좋은집",
+      "price": "2억 6",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 4,500아파트76/59m², 9/11층, 남동향SS급매 주인거주 날짜협의 보일러교체 로얄층 뷰좋음",
+      "price": "2억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "신미주 1동매매2억 5,000아파트76/59m², 9/11층, 남서향급매, 깨끗. 보일러교체. 매여울초학군, 인동선예정투자거주 굿.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.033Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"item\"]",
+      "text": "신미주 1동매매3억 8,000아파트109/84m², 3/11층, 남서향내부 수리되어 깨끗한 집, 날짜 협의 가능선방 제공좋은집공인중개사사무소확인매물 25.07.16.신미주 1동매매2억 4,000아파트76/59m², 4/11층, 남동향급매, 즉시 입주 가능, 공실, 수리기간 드려요선방 제공좋은집공인중개사사무소확인매물 25.07.16.신미주 1동매매2억 8,000아파트76/59m², 2/11층, 남동향SS샷시포함올수리 디딤돌 거실확장 신혼부부추천 수리할것없음 주인거주매경부동산 제공세종공인중개사사무소확인매물 25.07.16.신미주 1동매",
+      "price": "3억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:36:27.034Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1841_20250718_023631.png"
+  }
+}

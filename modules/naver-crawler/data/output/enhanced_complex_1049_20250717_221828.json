@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:18:28.269676",
+    "complex_id": "1049"
+  },
+  "basic_info": {
+    "complex_id": "1049",
+    "source_url": "https://new.land.naver.com/complexes/1049",
+    "extracted_at": "2025-07-17T22:18:23.151298",
+    "url": "https://new.land.naver.com/complexes/1049?ms=37.491223,126.925051,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:18:20.680Z",
+    "complexId": "1049"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매8억 1,000아파트116A/84m², 14/23층, 서향강추35.착한가격,황금라인,공원힐링뷰,공동환영,보라매초,신림선2분",
+      "price": "8억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매9억아파트116A/84m², 22/23층, 서향추천35,사진포함,층고확장.신축급리모델링,공원힐링뷰,황금라인,공동환영",
+      "price": "9억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매6억 8,000아파트83/59m², 23/23층, 서향추천25,금액조율可,부분리모델링,공원힐링뷰,공동환영,신림선.병원2분",
+      "price": "6억 8",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매6억 5,000아파트83/59m², 16/23층, 서향l 25 적극추천O l 깔끔수리.부분공원뷰,완벽생활.공동O.보라매초",
+      "price": "6억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매9억아파트117B/84m², 10/23층, 북향",
+      "price": "9억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인해태보라매타워(주상복합) 1동매매6억 9,000아파트83/59m², 21/23층, 서향／25 주인직접O／올수리된.부분공원뷰.세심한관리.공동O.편리한생활권",
+      "price": "6억 9",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:23.165Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1049_20250717_221828.png"
+  }
+}

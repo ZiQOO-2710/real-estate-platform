@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:59:44.663506",
+    "complex_id": "9358"
+  },
+  "basic_info": {
+    "complex_id": "9358",
+    "source_url": "https://new.land.naver.com/complexes/9358",
+    "extracted_at": "2025-07-18T19:59:40.809600",
+    "url": "https://new.land.naver.com/complexes/9358?ms=37.427162,126.667089,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:59:38.461Z",
+    "complexId": "9358"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동남 가동매매1억 500아파트52B/40m², 6/6층, 남향날짜협의가능,깨끗해요",
+      "price": "1억 500",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.819Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동남 가동매매1억 3,000아파트52B/40m², 2/6층, 남향로얄층",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "동남 가동월세300/47아파트52B/40m², 5/6층, 남향수리되엇어요",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인동남 가동매매1억 2,000아파트52B/40m², 6/6층, 남동향입주가능",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "동남 나동월세1,000/43아파트48/36m², 1/6층, 남향귀한 1층월세,깨끗해여",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "동남 나동전세6,000아파트51A/39m², 6/6층, 남향올수리 깨끗하고 조용해요",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "동남 나동매매1억 1,000아파트51A/39m², 6/6층, 남향올수리급매 갭투자추천",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "동남 가동매매1억 2,000아파트52B/40m², 5/6층, 남향배관까지 올수리",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "동남 가동매매1억 2,500아파트48/36m², 4/6층, 남향올수리됨 청학역예정지3분",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    },
+    {
+      "index": 94,
+      "selector": "[class*=\"item\"]",
+      "text": "동남 가동매매1억 3,000아파트52B/40m², 3/6층, 남향수리됨,로얄층한경부동산 제공학산공인중개사사무소확인매물 25.06.20.",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:59:40.820Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9358_20250718_195944.png"
+  }
+}

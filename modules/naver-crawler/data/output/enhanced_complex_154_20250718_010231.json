@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:02:31.393714",
+    "complex_id": "154"
+  },
+  "basic_info": {
+    "complex_id": "154",
+    "source_url": "https://new.land.naver.com/complexes/154",
+    "extracted_at": "2025-07-18T01:02:27.046296",
+    "url": "https://new.land.naver.com/complexes/154?ms=37.49228,127.062918,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:02:25.739Z",
+    "complexId": "154"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 10동전세16억아파트148/127m², 13/15층, 남향45   올수리 남향로얄층 채광우수 학군교육환경우수",
+      "price": "16억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 3동전세15억 5,000아파트157/146m², 2/15층, 남향48  로얄동 올수리 조용하고 채광좋음 남향 대치초 대청중",
+      "price": "15억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 8동전세16억아파트182/160m², 8/15층, 남향55 대형평수 로얄층 올수리 전망채광우수",
+      "price": "16억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 10동월세14억/80아파트148/127m², 13/15층, 남향45,주인직접,특올수리,양재천조망,구조굿",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 11동전세12억 5,000아파트102B/84m², 15/15층, 동향31, 선경 귀한 전세",
+      "price": "12억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 3동전세15억아파트157/146m², 2/15층, 남동향선48,소유주거래업소,정원전망,가장좋은동",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인선경1,2차 5동전세15억아파트137/128m², 15/15층, 남향42남향 올수리 주차편리 교통편리 교육환경 최고",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:02:27.060Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체101A㎡102B㎡137㎡148㎡157㎡182㎡186㎡",
+      "price": null,
+      "area": "137㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:02:27.061Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_154_20250718_010231.png"
+  }
+}

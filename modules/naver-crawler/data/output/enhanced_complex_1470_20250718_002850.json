@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:28:50.238921",
+    "complex_id": "1470"
+  },
+  "basic_info": {
+    "complex_id": "1470",
+    "source_url": "https://new.land.naver.com/complexes/1470",
+    "extracted_at": "2025-07-18T00:28:46.065505",
+    "url": "https://new.land.naver.com/complexes/1470?ms=37.379627,126.956172,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:28:44.434Z",
+    "complexId": "1470"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 705동매매7억 1,000아파트102/84m², 4/15층, 남향올수리,9월입주협의",
+      "price": "7억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매6억 7,000아파트95/76m², 11/14층, 남동향학군, 교통좋은 평촌, 조망권트임. 샷시포함 특수리됨, 입주물",
+      "price": "6억 7",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 706동매매5억아파트66/53m², 11/14층, 남동향학원가 근접한 조용한 로얄동,  세안고 매매, 샷시포함 전체올수리",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매6억 7,000아파트95/76m², 11/14층, 남향전체샷시포함특올수리,입주물,화장실2개,범계역학원가이용편리",
+      "price": "6억 7",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 705동전세4억 2,000아파트102/84m², 4/15층, 남동향학원가 근접한 로얄동, 수리깨끗함",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 705동매매7억 1,000아파트102/84m², 4/15층, 남동향학원가 도보권,  로얄동, 층, 깨끗한 입주물",
+      "price": "7억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매5억아파트66/53m², 9/14층, 남동향샷시포함 올수리 세끼고 투자매물",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 705동전세4억 2,000아파트102/84m², 4/15층, 남향올수리,9월입주협의",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 701동매매7억 3,000아파트102/84m², 3/15층, 남향수리깨끗,입주,평촌학원가,로얄동",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 706동매매5억아파트66/53m², 11/14층, 남향급매 특올수리 로얄동 갭투자로 최고 가성비짱 바로이집으로 투자하세요",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매5억아파트66/53m², 9/14층, 남향특올수리 갭투자최고 이집 놓치지 마세요.",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매5억아파트66/53m², 6/14층, 남동향샤시포함 전체 올수리, 입주물, 중간층으로 소음 적어요",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인무궁화건영 704동매매5억아파트66/53m², 6/14층, 남향전체샷시포함특올수리,귀한입주물,주인거주관리잘된집,상태좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:46.074Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1470_20250718_002850.png"
+  }
+}

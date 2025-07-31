@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:49:48.042880",
+    "complex_id": "1347"
+  },
+  "basic_info": {
+    "complex_id": "1347",
+    "source_url": "https://new.land.naver.com/complexes/1347",
+    "extracted_at": "2025-07-17T23:49:43.516470",
+    "url": "https://new.land.naver.com/complexes/1347?ms=37.563341,126.859656,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:49:42.139Z",
+    "complexId": "1347"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 601동매매7억 5,000아파트64/49m², 1/12층, 남서향샷시포함수리됨,가양급행역이용",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.527Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 605동매매8억 1,000아파트64/49m², 6/15층, 남서향샷시포함 예전 올수리,로얄동입니다",
+      "price": "8억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 607동월세5,000/100아파트74A/58m², 2/15층, 남동향생활권 편한동입니다",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 613동매매9억 1,000아파트75B/58m², 9/15층, 남동향최근  샷시포함 올수리.전망트인로얄동입니다",
+      "price": "9억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 604동전세2억 6,000아파트51/39m², 10/14층, 남동향샷시포함올수리, 내부깔끔, 로얄층, 9호선급행역세권, 입주협의",
+      "price": "2억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 604동매매6억 5,000아파트51/39m², 11/14층, 남동향전세안고 깨끗",
+      "price": "6억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 613동매매8억 1,000아파트75B/58m², 1/15층, 남동향샷시제외올수리 가영역급행 아이키우기좋은1층 한강공원인접 세안고",
+      "price": "8억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 615동매매7억아파트51/39m², 11/15층, 남향입주가능, 세안고 투자도 가능, 샷시포함 예전 올수리, 남향, 복도한강뷰",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 607동매매7억 9,000아파트74A/58m², 1/15층, 남동향빠른입주도가능,생활권편한동, 한강산책로인접",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 610동월세8,000/130아파트64/49m², 13/15층, 남동향전체올수리 ,최고급 신혼가전 모든 옵션있어요.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 604동월세5,000/85아파트51/39m², 4/14층, 남동향1억에 65도 가능, 샷시 포함 전체 올수리, 옵션있음, 도배해드려요",
+      "price": "1억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 601동매매7억 5,000아파트64/49m², 1/12층, 남향빠른입주가능, 샷시포함 올수리, 남향, 아이 키우기 좋은 층",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 615동매매8억 7,000아파트64/49m², 8/15층, 남동향전세안고 샷시포함올수리 한강뷰",
+      "price": "8억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인가양6단지 605동매매8억 9,000아파트64/49m², 12/15층, 남서향최근올수리 확장되어 있어요.신혼부부 거주로 컨디션 최상.",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.528Z"
+    },
+    {
+      "index": 55,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인가양6단지 601동매매7억 5,000아파트64/49m², 1/12층, 남서향샷시포함수리됨,가양급행역이용매경부동산 제공금강부동산공인중개사사무소확인매물 25.07.17.집주인가양6단지 605동매매8억 1,000아파트64/49m², 6/15층, 남서향샷시포함 예전 올수리,로얄동입니다매경부동산 제공금강부동산공인중개사사무소확인매물 25.07.17.집주인가양6단지 607동월세5,000/100아파트74A/58m², 2/15층, 남동향생활권 편한동입니다매경부동산 제공금강부동산공인중개사사무소확인매물 25.07.17.집주인가양6단지 605동매매",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:43.529Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1347_20250717_234947.png"
+  }
+}

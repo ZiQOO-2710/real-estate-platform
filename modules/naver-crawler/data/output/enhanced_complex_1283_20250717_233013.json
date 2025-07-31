@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:30:13.521906",
+    "complex_id": "1283"
+  },
+  "basic_info": {
+    "complex_id": "1283",
+    "source_url": "https://new.land.naver.com/complexes/1283",
+    "extracted_at": "2025-07-17T23:30:10.430708",
+    "url": "https://new.land.naver.com/complexes/1283?ms=37.543863,127.147505,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:30:08.573Z",
+    "complexId": "1283"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 512동매매9억 8,000재건축69A/62m², 12/12층, 남서향삼익파크 재건축, 대우써밋듀포레라는 이름의 고급단지로 변신 예정",
+      "price": "9억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 507동매매14억재건축104C/97m², 고/12층, 남향조합원승계  조합원분양신청중  확장형 수리되어있음",
+      "price": "14억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 511동매매9억 8,000재건축70C/63m², 저/12층, 남향",
+      "price": "9억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 505동매매8억 3,000재건축61A/57m², 저/12층, 남향내부올수리, 현세입자있어 입주안됨",
+      "price": "8억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 512동매매10억재건축69A/62m², 고/12층, 남동향",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 506동전세3억재건축77/72m², 중/12층, 남동향수리됨 입주협의 굽은다리역7분 재건축할때까지 거주가능",
+      "price": "3억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 502동매매15억재건축141A/130m², 중/12층, 남향입주가능한 매물이며 분양신청한 재건축 매물입니다. 추천",
+      "price": "15억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 510동매매8억 5,000재건축63B/59m², 중/12층, 동향19형 급매.방2화1.사업시행인가고시 완료.2026년말이주예정",
+      "price": "8억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 512동전세2억 5,000재건축69A/62m², 고/12층, 남동향",
+      "price": "2억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 510동전세3억재건축85/79m², 고/12층, 남향특 올수리 입주가능 조합원승계가능",
+      "price": "3억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 510동매매12억재건축85/79m², 고/12층, 남향25p 분양신청전,특올수리 입주o,조건협의,최대10억보증보험가입",
+      "price": "12억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 513동매매17억재건축159/130m², 고/12층, 남동향",
+      "price": "17억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 508동매매13억 5,000재건축103A/95m², 중/12층, 남동향재건축사업시행인가, 굽은다리역세권",
+      "price": "13억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 512동월세2억/20재건축70D/63m², 1/12층, 동향아파트 단지정원조망 입주협의 재건축 진행중",
+      "price": "2억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 512동월세1억/70재건축70D/63m², 1/12층, 남서향 단지숲 전망최고  입주협의",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "삼익파크맨숀 512동전세2억 5,000재건축69A/62m², 11/12층, 남동향재건축예정아파트라 전세가 시세대비 저럼합니다.이주일 미확정,2룸 대출가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인삼익파크맨숀 513동매매13억 5,000재건축107/88m², 고/12층, 남향조합원분양신청중   내부수리되었음  조합원승계  입주가능",
+      "price": "13억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체59A㎡60B㎡60C㎡60D㎡61A㎡61C㎡63B㎡69A㎡70C㎡70D㎡71B㎡77㎡78A㎡78C㎡79B㎡85㎡103A㎡103B㎡103C㎡104A㎡104C㎡105B㎡105D㎡105E㎡107㎡141A㎡141C㎡142D㎡142B㎡148㎡159㎡163A㎡163㎡164B㎡164㎡166㎡",
+      "price": null,
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    },
+    {
+      "index": 83,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인삼익파크맨숀 512동매매9억 8,000재건축69A/62m², 12/12층, 남서향삼익파크 재건축, 대우써밋듀포레라는 이름의 고급단지로 변신 예정부동산포스 제공대우써밋공인중개사사무소확인매물 25.07.14.집주인삼익파크맨숀 507동매매14억재건축104C/97m², 고/12층, 남향조합원승계  조합원분양신청중  확장형 수리되어있음부동산포스 제공스타공인중개사사무소확인매물 25.07.16.집주인삼익파크맨숀 511동매매9억 8,000재건축70C/63m², 저/12층, 남향부동산뱅크 제공파크공인중개사사무소확인매물 25.07.16.집주인삼",
+      "price": "9억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:30:10.435Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1283_20250717_233013.png"
+  }
+}

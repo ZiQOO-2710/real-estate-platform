@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:45:57.005589",
+    "complex_id": "1332"
+  },
+  "basic_info": {
+    "complex_id": "1332",
+    "source_url": "https://new.land.naver.com/complexes/1332",
+    "extracted_at": "2025-07-17T23:45:52.056847",
+    "url": "https://new.land.naver.com/complexes/1332?ms=37.51065,127.038175,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:45:49.063Z",
+    "complexId": "1332"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인경남논현 1동월세6억/50아파트113C/84m², 고/8층, 서향",
+      "price": "6억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:45:52.070Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "경남논현 1동전세7억아파트113C/84m², 고/8층, 남향입주협의 내부 수리된 깔끔한 집 9호선,학동초 인근",
+      "price": "7억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "경남논현 1동월세8,000/280아파트112A/83m², 중/8층, 남향올화이트 컨디션굿 귀한월세 아파트",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "경남논현 1동월세8,000/280아파트112A/83m², 4/8층, 동향상태 좋음",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "경남논현 1동월세8,000/280아파트112A/83m², 중/8층, 남동향내부깨끗 주차편리",
+      "price": null,
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인경남논현 1동매매14억 6,000아파트112A/83m², 중/8층, 남향주인의뢰 34A l 3룸 2욕실 아파트 l 더블역세권",
+      "price": "14억 6",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "경남논현 1동전세7억 3,000아파트112A/83m², 중/8층, 남동향",
+      "price": "7억 3",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "경남논현 1동매매13억아파트79/59m², 고/8층, 남서향내부 컨디션 우수 로얄층 채광 굿 조용한 주거지 입주협의",
+      "price": "13억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "경남논현 1동매매13억아파트79/59m², 고/8층, 남동향",
+      "price": "13억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:45:52.071Z"
+    },
+    {
+      "index": 41,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인경남논현 1동월세6억/50아파트113C/84m², 고/8층, 서향공실클럽 제공주식회사원에디션강남부동산중개법인확인매물 25.07.12.경남논현 1동전세7억아파트113C/84m², 고/8층, 남향입주협의 내부 수리된 깔끔한 집 9호선,학동초 인근선방 제공더원공인중개사사무소확인매물 25.07.17.경남논현 1동월세8,000/280아파트112A/83m², 중/8층, 남향올화이트 컨디션굿 귀한월세 아파트부동산뱅크 제공글로니공인중개사사무소확인매물 25.07.15.경남논현 1동월세8,000/280아파트112A/83m², 4/8층, 동향상태",
+      "price": "6억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:45:52.072Z"
+    },
+    {
+      "index": 99,
+      "selector": "[class*=\"item\"]",
+      "text": "경남논현 1동전세7억 2,000아파트112A/83m², 중/8층, 남향부동산뱅크 제공더큰공인중개사사무소확인매물 25.06.26.",
+      "price": "7억 2",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:45:52.072Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1332_20250717_234556.png"
+  }
+}

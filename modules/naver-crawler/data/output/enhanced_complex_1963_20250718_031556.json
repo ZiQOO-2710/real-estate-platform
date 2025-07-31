@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:15:56.901567",
+    "complex_id": "1963"
+  },
+  "basic_info": {
+    "complex_id": "1963",
+    "source_url": "https://new.land.naver.com/complexes/1963",
+    "extracted_at": "2025-07-18T03:15:53.642839",
+    "url": "https://new.land.naver.com/complexes/1963?ms=37.329957,126.843401,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:15:51.395Z",
+    "complexId": "1963"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 202동매매2억 3,700아파트70/49m², 3/15층, 동향급매물 세안고 투자 투자 컨디션 양호",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.655Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 207동매매2억 6,000아파트70/49m², 14/15층, 남동향수리 깔끔 컨디션 굿 세안고 투자및 입주 협의가",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 206동매매2억 5,000아파트70/49m², 14/15층, 남동향세안고 투자 컨디션 양호 채광및 전망굿",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "주공2단지 203동매매2억 6,500아파트70/49m², 8/15층, 남향입주 가능한 남향집입니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "주공2단지 202동매매2억 8,000아파트70/49m², 10/15층, 남향샷시포함 올수리된 깨끗한집 햇살좋은집 입주협의 조정가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "주공2단지 207동매매2억 7,000아파트70/49m², 4/15층, 남동향올수리 컨디션 굿  이사 협의가",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "주공2단지 206동매매2억 5,000아파트70/49m², 15/15층, 남동향수리 컨디션 양호 투자및 입주가",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 208동매매2억 8,000아파트70/49m², 15/15층, 동향세안고 투자 올수리 컨디션 굿 고층선호 강추",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공2단지 208동전세1억 6,500아파트70/49m², 2/15층, 동향깔끔한 투룸 아파트전세입니다.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 207동매매2억 8,000아파트70/49m², 6/15층, 남동향세안고 투자 수리 집상태 양호 조정가",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공2단지 201동매매2억 9,000아파트70/49m², 12/15층, 남향세안고 투자 집상태 양호 정남향동",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공2단지 205동매매2억 4,200아파트70/49m², 1/15층, 남동향전체올수리  이쁜집  전세안고",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인주공2단지 204동매매2억 5,000아파트70/49m², 5/15층, 동향집상태 깨끗 컨디션 양호 이사 협의가",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공2단지 208동매매2억 8,000아파트70/49m², 7/15층, 동향입주 가능한 수리된 집입니다. 입주일은 협의입니다.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "주공2단지 205동매매2억 7,000아파트70/49m², 7/15층, 남동향 올수리 컨디션 굿 로얄동 로얄층 이사 협의",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.656Z"
+    },
+    {
+      "index": 122,
+      "selector": "[class*=\"item\"]",
+      "text": "주공2단지 207동매매2억 7,000아파트70/49m², 3/15층, 남동향샷시포함 깔끔 올수리 컨디션 굿 이사 협의 저층선호 강추매경부동산 제공별공인중개사사무소확인매물 25.06.30.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:15:53.657Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1963_20250718_031556.png"
+  }
+}

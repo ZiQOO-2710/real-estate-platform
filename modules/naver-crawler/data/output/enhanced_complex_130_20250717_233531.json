@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:35:31.739361",
+    "complex_id": "130"
+  },
+  "basic_info": {
+    "complex_id": "130",
+    "source_url": "https://new.land.naver.com/complexes/130",
+    "extracted_at": "2025-07-17T23:35:27.056855",
+    "url": "https://new.land.naver.com/complexes/130?ms=37.490902,126.889401,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:35:24.888Z",
+    "complexId": "130"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매4억 9,500아파트77A/57m², 11/11층, 동향",
+      "price": "4억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.070Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 5,000아파트79B/57m², 9/11층, 동향더블역세권 올수리 올리모델링",
+      "price": "5억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.070Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인극동 3동매매4억 9,000아파트72/52m², 6/11층, 남서향",
+      "price": "4억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.070Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매6억 3,000아파트110/82m², 3/11층, 남동향2.7호선 더블역세권 재래시장 대형병원 관공서인접생활편리함.",
+      "price": "6억 3",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.070Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인극동 4동매매4억 4,000아파트68A/50m², 1/11층, 서향싱크대 샷시 완전 올수리 깔끔하고 컨디션 좋은 집",
+      "price": "4억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인극동 4동매매4억 8,000아파트68A/50m², 9/11층, 남서향2.7호선 더블역세권 재래시장 대형병원 관공서인접하여 생활하기 편리함.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 5,000아파트77A/57m², 고/11층, 동향입주협의 샷 시 싱크대 수리됨 깨끗한 집",
+      "price": "5억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "극동 1동매매6억 5,000아파트113B/82m², 9/11층, 남동향전체올수리 깨끗,로얄층,더블역세권,정상입주가능합니다.,협의가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매5억 9,000아파트113B/82m², 1/11층, 남동향2.7호선 더블역세권 올수리됨.",
+      "price": "5억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인극동 1동전세4억아파트113B/82m², 4/11층, 남동향임대인이 올수리 해주고 입주합니다.",
+      "price": "4억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "극동 4동매매4억 4,000아파트68A/50m², 3/11층, 남서향올수리 2,7호선이용 투룸에거실 신혼부부굿 투자굿 즉시입주협의",
+      "price": "4억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "극동 3동매매6억 4,000아파트112A/82m², 9/11층, 남동향가격절충가능",
+      "price": "6억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "극동 3동매매6억 4,000아파트112A/82m², 7/11층, 남동향특올수리,베란다 확장",
+      "price": "6억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매4억 5,000아파트70B/52m², 5/11층, 남동향",
+      "price": "4억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "극동 4동매매4억 5,000아파트68A/50m², 저/11층, 동향아이키우기 좋은 방2 아파트 매매",
+      "price": "4억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매6억 2,000아파트113B/82m², 1/11층, 남서향특올수리, 1층, 방3, 아이있는 가정에 추천",
+      "price": "6억 2",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체68A㎡70B㎡72㎡77A㎡79B㎡110㎡111C㎡112A㎡113B㎡",
+      "price": null,
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인극동 2동매매4억 9,500아파트77A/57m², 11/11층, 동향부동산써브 제공극동부동산공인중개사사무소확인매물 25.07.16.집주인극동 1동매매5억 5,000아파트79B/57m², 9/11층, 동향더블역세권 올수리 올리모델링매경부동산 제공주식회사우대빵부동산중개센터 강서지점확인매물 25.07.16.집주인극동 3동매매4억 9,000아파트72/52m², 6/11층, 남서향부동산써브 제공극동부동산공인중개사사무소확인매물 25.07.14.집주인극동 2동매매6억 3,000아파트110/82m², 3/11층, 남동향2.7호선 더블역세권 ",
+      "price": "4억 9",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:35:27.071Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_130_20250717_233531.png"
+  }
+}

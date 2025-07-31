@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:00:44.033233",
+    "complex_id": "9895"
+  },
+  "basic_info": {
+    "complex_id": "9895",
+    "source_url": "https://new.land.naver.com/complexes/9895",
+    "extracted_at": "2025-07-18T20:00:39.057699",
+    "url": "https://new.land.naver.com/complexes/9895?ms=37.49648,126.79012,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:00:36.262Z",
+    "complexId": "9895"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대화파크 101동매매3억 8,000아파트105/82m², 3/13층, 동향사진유, 공원뷰로 막힘없고 입주가능한 집.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.066Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대화파크 101동매매3억아파트80/59m², 10/13층, 동향세끼고 원미산뷰가 좋고 시야를 가림이 없어서 좋아요",
+      "price": "3억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.066Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인대화파크 101동매매3억 2,000아파트80/59m², 12/13층, 동향세안고매매,샷시포함올리모델링,신혼부부추천,막힘없는 뻥뷰",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.066Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인대화파크 101동매매4억 3,000아파트105/82m², 4/13층, 동향방3욕실2, 샷시포함 올수리한 세대, 세안고 매매",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.066Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "대화파크 101동매매3억 8,000아파트108/84m², 4/13층, 남향급매 세안고 재래시장과 공원인근, 남향 아파트,구조 좋음",
+      "price": "3억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.067Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "대화파크 101동매매3억 500아파트80/59m², 4/13층, 동향대화아파트, 3룸1화, 통발코니, 공원품, 원미산뷰, 이사협의",
+      "price": "3억 500",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.067Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "대화파크 101동매매3억 2,000아파트80/59m², 중/13층, 동향",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:00:39.067Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_9895_20250718_200043.png"
+  }
+}

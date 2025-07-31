@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:17:37.224720",
+    "complex_id": "1045"
+  },
+  "basic_info": {
+    "complex_id": "1045",
+    "source_url": "https://new.land.naver.com/complexes/1045",
+    "extracted_at": "2025-07-17T22:17:33.589962",
+    "url": "https://new.land.naver.com/complexes/1045?ms=37.489795,126.955715,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:17:32.074Z",
+    "complexId": "1045"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성현동아 109동매매10억 9,000아파트141/114m², 13/24층, 남향43, 입주협의, 내부샷시포함올수리, 전망굿, 초중고인접, 교통주차편리",
+      "price": "10억 9",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.598Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성현동아 104동매매7억 5,000아파트86/59m², 7/24층, 남서향26,전세승계조건, 일부수리 , 교통및주차편리, 초중고인접",
+      "price": "7억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.598Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인성현동아 104동매매7억 6,500아파트86/59m², 17/24층, 남서향26, 최근내부특올수리, 전세승계조건, 교통편리, 초중고인접,근린공원인접",
+      "price": "7억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.598Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인성현동아 104동매매7억 6,500아파트86/59m², 9/24층, 남서향입주추천, 내부수리깨끗, 교통편리, 초중고인접, 상도근린공원인접",
+      "price": "7억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인성현동아 109동매매9억 7,000아파트141/114m², 3/24층, 남향43,입주협의, 남향, 관악산전망굿, 내부올수리, 교통편리, 초중고인접",
+      "price": "9억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인성현동아 108동매매12억아파트141/114m², 17/24층, 남서향43, 로얄층,확장된 올수리, 탁트인 삼성산뷰, 전세승계조건",
+      "price": "12억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인성현동아 104동전세4억 5,000아파트86/59m², 3/24층, 남서향26, 조정가, 화장실 싱크대등 내부수리깨끗,  초록뷰 전망굿, 교통편리",
+      "price": "4억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인성현동아 109동매매11억 5,000아파트141/114m², 20/24층, 남향43,  로얄층, 탁트인 관악산전망 최고, 초중고인접, 교통편리",
+      "price": "11억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인성현동아 102동매매7억 5,000아파트86/59m², 7/24층, 남서향신혼 실입주추천,일부수리, 교통,주차,상가이용편리, 초중고인접",
+      "price": "7억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인성현동아 107동매매9억 5,000아파트108/84m², 22/24층, 남서향33, 입주협의, 교통편리, 초중고인접, 관악산삼성산전망최고, 탑층",
+      "price": "9억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인성현동아 107동매매9억 7,000아파트108/84m², 11/24층, 남향33,입주협의,남향로얄동로얄층, 관악산전망굿, 내부올수리, 초중고인접",
+      "price": "9억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인성현동아 107동매매9억 3,000아파트108/84m², 14/24층, 남서향급매 삼성산뷰 즉시입주 교통.공원 이용편리 초.중.고 인접",
+      "price": "9억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인성현동아 104동전세4억 4,000아파트86/59m², 13/24층, 남서향26, 신혼추천, 내부올수리,  교통편리, 초중고인접, 상도근린공원인접",
+      "price": "4억 4",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인성현동아 106동매매9억 6,000아파트108/84m², 15/24층, 남향내부상태 굿, 초등학교 근접, 남향으로 관악산 조망권",
+      "price": "9억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인성현동아 103동매매10억 6,000아파트141/114m², 4/22층, 남향43, 남향, 6층높이 탁트인 전망, 상가교통편리, 상도근린공원",
+      "price": "10억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인성현동아 102동매매7억 6,000아파트86/59m², 24/24층, 남서향내부상태 굿, 이사일정 협의 가능, 교통편리",
+      "price": "7억 6",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인성현동아 108동매매10억 3,000아파트141/114m², 3/24층, 남서향43, 전망굿 ,내부샷시포함 전체올수리, 교통편리, 초중고인접",
+      "price": "10억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인성현동아 107동매매9억 5,000아파트108/84m², 17/24층, 남서향33. 로얄층, 탁트인 관악산전망, 초중고인접, 교통편리",
+      "price": "9억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:17:33.599Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1045_20250717_221737.png"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:51:36.653106",
+    "complex_id": "1155"
+  },
+  "basic_info": {
+    "complex_id": "1155",
+    "source_url": "https://new.land.naver.com/complexes/1155",
+    "extracted_at": "2025-07-17T22:51:32.650532",
+    "url": "https://new.land.naver.com/complexes/1155?ms=37.54293,126.932648,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:51:29.779Z",
+    "complexId": "1155"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매13억 9,000아파트87/59m², 18/25층, 남향고층 밤섬한강조망 남향 입주협의",
+      "price": "13억 9",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.661Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매12억 8,000아파트87/59m², 6/25층, 남향전세승계,한강조망탁월,안전진단통과,GS건설시공사,면적증가",
+      "price": "12억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.661Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 101동전세9억 5,000아파트149/114m², 8/24층, 남향입주가능 고층 한강조망 최상 올수리 내부상태 최상 리모델링 사업 진행중",
+      "price": "9억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:32.661Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동전세6억 3,000아파트87/59m², 20/25층, 남향남향으로 한강밤섬조망되며 입주협의,",
+      "price": "6억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:32.661Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매12억아파트87/59m², 5/25층, 동향4년전 올수리샷시포함 미확장 매도인이 전세로 거주가능, 상태좋음",
+      "price": "12억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.661Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 101동매매21억아파트149/114m², 7/24층, 남향남향으로 한강밤섬조망되며 입주협의,리모델링사업 진행중.",
+      "price": "21억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동전세5억 5,000아파트87/59m², 2/25층, 남향빠른입주협의,남향,한강조망,올수리,거실확장형",
+      "price": "5억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동전세6억 5,000아파트87/59m², 18/25층, 남향남향으로 한강밤섬조망되며 특올수리했으며 입주는 9월말.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매12억아파트87/59m², 9/25층, 동향정상입주 리모델링진행중 안전진단통과 입지최고 상태양호",
+      "price": "12억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매12억아파트87/59m², 4/25층, 남동향깔끔하고 조용한 한강부분조망 전세안고 리모진행중",
+      "price": "12억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매13억아파트87/59m², 14/25층, 남동향신축급올수리. 폴딩도어. 집순이인테리어. 로얄층",
+      "price": "13억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인밤섬현대 102동매매13억아파트87/59m², 6/25층, 남서향한강밤섬뷰,올수리,입주,한강공원앞,광흥창역 도보거리",
+      "price": "13억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:32.662Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1155_20250717_225136.png"
+  }
+}

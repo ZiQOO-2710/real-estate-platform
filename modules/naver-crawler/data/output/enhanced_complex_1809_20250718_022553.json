@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:25:53.663438",
+    "complex_id": "1809"
+  },
+  "basic_info": {
+    "complex_id": "1809",
+    "source_url": "https://new.land.naver.com/complexes/1809",
+    "extracted_at": "2025-07-18T02:25:48.044893",
+    "url": "https://new.land.naver.com/complexes/1809?ms=37.25826,127.07886,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:25:46.082Z",
+    "complexId": "1809"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인청명마을주공 401동매매4억아파트83B/59m², 1/20층, 남동향AAA샷시포함특올수리.초역세권.숲세권.",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인청명마을주공 405동매매4억 3,000아파트82A/59m², 19/20층, 남동향전망좋은 공실 매물,즉시입주, 청명역 앞 초역세권 아파트,라운드 뷰 최고",
+      "price": "4억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "청명마을주공 401동매매4억 5,000아파트83B/59m², 20/20층, 남동향층간소음 걱정없고 환상적인 산뷰, 청명역.광역버스 3분이내, 부분수리",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "청명마을주공 403동매매4억 5,000아파트83B/59m², 2/20층, 남서향막힘없는 정원 전망, 부분수리, 청명역.광역버스 3분이내",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "청명마을주공 409동매매4억 5,000아파트83B/59m², 18/18층, 남서향세안고, 깨끗, 일조량풍부",
+      "price": "4억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "청명마을주공 402동매매3억 9,000아파트68/49m², 13/20층, 남서향청명역 광역버스 3분이내, 내부인테리어, 단지 정원 뷰",
+      "price": "3억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "청명마을주공 405동매매4억 3,000아파트82A/59m², 19/20층, 남서향청명역 가까운동, 산 전망, 내부 인테리어, 어제든지 이사가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "청명마을주공 411동매매5억아파트83B/59m², 11/18층, 남동향입주협의  전체수리 전망 아주좋고 라인 좋습니다",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "청명마을주공 406동매매4억 9,000아파트83B/59m², 10/18층, 남동향외부샤시 및 내부수리,  뻥뷰,  입주협의가능",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "청명마을주공 402동매매5억아파트83B/59m², 12/20층, 남서향정상입주, 올수리외부샷시제외 처역세권",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "청명마을주공 402동매매4억 7,500아파트83B/59m², 4/20층, 남서향하시입주 전체올수리 중문 작은방붙박이장 청명역2분거리",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "청명마을주공 406동매매5억아파트83B/59m², 6/18층, 남서향세안고투자 만기26년4월 거실방확1장 일샷시주인용올수리 중문 터닝도어설치",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "청명마을주공 402동월세2억/45아파트83B/59m², 5/20층, 남서향초 역세권 아파트, 단지 전망, 환하고 조용한 동, 청명역 약3분거리,",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "청명마을주공 405동매매4억아파트83B/59m², 1/20층, 남서향정상 올수리 주인거주 청명역",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "청명마을주공 405동매매5억아파트83B/59m², 15/20층, 남동향기본상태, 조용하고 산전망 좋음. 청명역 근접, 교통편리",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "청명마을주공 408동매매4억 8,500아파트83B/59m², 10/18층, 남동향청명역 초역세권 청명산전망 가운데라인",
+      "price": "4억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:25:48.055Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1809_20250718_022553.png"
+  }
+}

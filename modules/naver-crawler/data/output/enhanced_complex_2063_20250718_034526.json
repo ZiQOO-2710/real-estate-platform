@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:45:26.123261",
+    "complex_id": "2063"
+  },
+  "basic_info": {
+    "complex_id": "2063",
+    "source_url": "https://new.land.naver.com/complexes/2063",
+    "extracted_at": "2025-07-18T03:45:22.610123",
+    "url": "https://new.land.naver.com/complexes/2063?ms=37.369695,127.126283,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:45:19.987Z",
+    "complexId": "2063"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 601동매매18억 5,000아파트154/131m², 2/16층, 남동향급매.수내초인근.수내중학군.주차공간많고.생활편리동.매매가조정가",
+      "price": "18억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 306동월세6억/100아파트123/101m², 5/16층, 남동향방4.화2.샷시포함.특올수리.수내초중학군.보증금.조정가.8월9일입주",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 307동월세4억/140아파트103B/84m², 1/20층, 남서향32.샷시포함.확장.특올수리.풀옵션.수내초중학군.깨끗한집.",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 305동매매20억아파트154/131m², 7/16층, 남동향특올수리.수내초중학군.로얄동.로얄층.생활편리동.불곡산.전망",
+      "price": "20억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 605동전세5억아파트71/59m², 5/5층, 남서향방3.화1.수내초중학군.예전수리.기본수리.도배.장판.해드림",
+      "price": "5억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 306동매매18억아파트123/101m², 12/16층, 남동향37.특올수리.수내초중학군.8억세안고.특전망.",
+      "price": "18억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 104동전세10억 3,000아파트192/163m², 2/15층, 남서향60.방확장.안방붙박이장.도배.장판.화장실.싱크대수리.해드림.",
+      "price": "10억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 202동매매19억아파트154/131m², 7/16층, 남동향48.특급정보바로확인클릭올수리",
+      "price": "19억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 310동매매20억아파트154/131m², 15/20층, 남동향48.입주특급정보바로확인클릭올수리확장샷시불곡산전망",
+      "price": "20억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 402동매매18억아파트103A/84m², 22/22층, 남동향32.입주특급정보바로확인클릭올수리샷시수내초앞",
+      "price": "18억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인푸른벽산,신성,쌍용 401동전세7억 5,000아파트103A/84m², 7/22층, 남동향32.특급정보바로확인클릭올수리확장샷시수내초옆",
+      "price": "7억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "푸른벽산,신성,쌍용 503동매매23억아파트208/176m², 15/16층, 남동향복층 확장특올수리  세안고 전망특 생활시설이용편리동",
+      "price": "23억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "푸른벽산,신성,쌍용 304동전세7억아파트103B/84m², 8/10층, 남서향올수리됨  동간거리길어시원한전망  정상입주",
+      "price": "7억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "푸른벽산,신성,쌍용 314동전세4억 6,000아파트71/59m², 4/5층, 남동향샷시포함확장완벽수리.10월중입주협의",
+      "price": "4억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:45:22.620Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체71㎡103B㎡103A㎡123㎡154㎡169㎡192㎡208㎡",
+      "price": null,
+      "area": "71㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:45:22.621Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2063_20250718_034525.png"
+  }
+}

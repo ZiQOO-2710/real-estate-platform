@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:51:21.186532",
+    "complex_id": "2083"
+  },
+  "basic_info": {
+    "complex_id": "2083",
+    "source_url": "https://new.land.naver.com/complexes/2083",
+    "extracted_at": "2025-07-18T03:51:16.834384",
+    "url": "https://new.land.naver.com/complexes/2083?ms=37.344599,126.979523,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:51:15.444Z",
+    "complexId": "2083"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인포은 103동매매4억 9,000아파트107N/84m², 9/18층, 남서향올수리 깨끗  앞이 트인동. 로얄동 로얄호  늦은 입주환영.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "포은 105동전세3억 3,000아파트107S/84m², 11/17층, 남동향수리됨,살기좋은집,전망굿",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "포은 103동전세3억 5,500아파트107N/84m², 11/18층, 남서향수리됨,상태굿",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "포은 102동전세3억 3,000아파트107S/84m², 6/18층, 남동향샤시외 올수리",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "포은 102동매매5억 3,000아파트107S/84m², 12/18층, 남동향수리됨.매도인역전세가능",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "포은 103동매매5억 5,000아파트107N/84m², 17/18층, 남서향",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "포은 104동전세3억 3,000아파트107N/84m², 9/18층, 남동향깨끗",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "포은 101동매매5억 2,000아파트107S/84m², 저/18층, 남동향수리되고 아늑한집",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "포은 101동전세3억 3,000아파트107S/84m², 11/18층, 남동향올수리,전망 굿",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "포은 101동매매5억아파트107S/84m², 3/18층, 남동향인동선역세권,상태양호,",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "포은 105동전세3억 3,000아파트107S/84m², 중/17층, 남동향올수리.전망,일조권좋음",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "포은 103동매매5억 2,000아파트107N/84m², 6/18층, 서향샷시포함 수리 3년됨.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "포은 104동매매5억아파트107N/84m², 중/18층, 남동향채광최고 초등학교  인접. 깨끗하고  전망 최고 좋음",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.846Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인포은 103동매매4억 9,000아파트107N/84m², 9/18층, 남서향올수리 깨끗  앞이 트인동. 로얄동 로얄호  늦은 입주환영.매경부동산 제공삼성래미안공인중개사사무소확인매물 25.07.11.포은 105동전세3억 3,000아파트107S/84m², 11/17층, 남동향수리됨,살기좋은집,전망굿매경부동산 제공원효공인중개사사무소확인매물 25.07.09.포은 103동전세3억 5,500아파트107N/84m², 11/18층, 남서향수리됨,상태굿매경부동산 제공포은공인중개사확인매물 25.07.09.포은 102동전세3억 3,000아파트107",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.847Z"
+    },
+    {
+      "index": 80,
+      "selector": "[class*=\"item\"]",
+      "text": "포은 103동매매5억 5,000아파트107N/84m², 11/18층, 남서향수리됨매경부동산 제공포은공인중개사확인매물 25.07.01.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:51:16.847Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2083_20250718_035121.png"
+  }
+}

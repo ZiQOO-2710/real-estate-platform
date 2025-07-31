@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:57:48.305373",
+    "complex_id": "1910"
+  },
+  "basic_info": {
+    "complex_id": "1910",
+    "source_url": "https://new.land.naver.com/complexes/1910",
+    "extracted_at": "2025-07-18T02:57:43.003671",
+    "url": "https://new.land.naver.com/complexes/1910?ms=37.35182,126.73468,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:57:40.253Z",
+    "complexId": "1910"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 403동매매2억 5,000아파트77B/59m², 9/10층, 남서향올수리해서 깨끗해요.역세권.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 405동매매2억 3,000아파트75/59m², 1/10층, 남서향초급매. 계단식 좋은 구조. 씽크대,중문 등 수리.조정가.",
+      "price": "2억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 403동매매2억 7,000아파트78A/59m², 6/10층, 남서향내부 올수리해서 깨끗해요.전망 좋아요.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 410동매매3억 7,000아파트106/84m², 10/10층, 남서향올수리해서 깨끗해요.초급매.역세권.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 413동매매2억 4,000아파트72/59m², 3/5층, 동향올수리해서 깨끗해요.초급매.역세권.조정가.",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 405동매매2억 6,000아파트75/59m², 3/10층, 남서향계단식.넓고 좋은 구조.초급매.조정가.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 408동매매2억 4,500아파트75/59m², 1/10층, 남서향올수리해서 깨끗해요.초급매.조정가.역세권",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 403동매매2억 7,000아파트77B/59m², 8/10층, 남서향트인전망  시화병원 중앙도서관 인접 초중품아 즉시입주 조정가",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 401동매매2억 8,000아파트77B/59m², 4/10층, 남동향최근 완전 특 올 수리해서 깨끗해요.거실확장.샷시포함.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 408동매매3억 5,000아파트106/84m², 8/10층, 남서향기본",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 406동매매3억 6,000아파트106/84m², 중/10층, 남동향올수리해서 깨끗해요.초급매.조정가.역세권.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 412동매매2억 4,000아파트72/59m², 중/5층, 남서향특올수리 이사협의가능",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 406동매매3억 1,000아파트106/84m², 1/10층, 남동향예전올수리 깨끗 조정가",
+      "price": "3억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 404동매매2억 7,000아파트78A/59m², 8/10층, 남동향최근올수리. 양베란다. 엄청 깨끗합니다. 이사협의.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인주공4단지 403동매매2억 1,800아파트77B/59m², 2/10층, 남서향부분수리 11월이사",
+      "price": "2억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.017Z"
+    },
+    {
+      "index": 55,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인주공4단지 403동매매2억 5,000아파트77B/59m², 9/10층, 남서향올수리해서 깨끗해요.역세권.매경부동산 제공부동산랜드(아주점)공인중개사사무소확인매물 25.07.17.집주인주공4단지 405동매매2억 3,000아파트75/59m², 1/10층, 남서향초급매. 계단식 좋은 구조. 씽크대,중문 등 수리.조정가.매경부동산 제공부동산랜드(아주점)공인중개사사무소확인매물 25.07.17.집주인주공4단지 403동매매2억 7,000아파트78A/59m², 6/10층, 남서향내부 올수리해서 깨끗해요.전망 좋아요.매경부동산 제공부동산랜드(아",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:43.018Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1910_20250718_025748.png"
+  }
+}

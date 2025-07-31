@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:31:34.255599",
+    "complex_id": "1022"
+  },
+  "basic_info": {
+    "complex_id": "1022",
+    "source_url": "https://new.land.naver.com/complexes/1022",
+    "extracted_at": "2025-07-21T12:31:31.081057",
+    "url": "https://new.land.naver.com/complexes/1022?ms=37.577333,126.817407,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:31:29.171Z",
+    "complexId": "1022"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 103동전세4억 8,000아파트108A/84m², 6/15층, 동향수리,어깨긋 화장실수리예정 빠른입주가,",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 102동매매6억 9,000아파트108A/84m², 4/15층, 남향숲세권,내부수리되어깨끗,남향,정곡초인접,올림픽대로진입용이",
+      "price": "6억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 102동매매7억 2,000아파트108A/84m², 15/15층, 남향남향 내부올수리 깔끔 채광굿 트인뷰 엘베에서지하주차장연결 입주협의",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 103동전세4억 5,000아파트108A/84m², 6/15층, 남향숲세권 마곡업무지구 근접 역세권 하시 동향 뻥뷰",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 101동매매7억 9,000아파트108A/84m², 9/15층, 남향특올수리, 주인거주, 남향, 입주조율",
+      "price": "7억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 101동전세5억 5,000아파트108A/84m², 9/15층, 남향특올수리, 주인거주, 남향, 입주일 협의가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:31.086Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 101동전세4억 8,000아파트108A/84m², 6/15층, 남향남향,내부수리양호, 안심전세대출가능, 방화역도보7분, 88도로진입양호.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:31.087Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인마곡한숲대림 101동매매5억 9,000아파트76B/59m², 3/15층, 동향입주가능,내부올수리,5호선방화역7분거리,88도로진입양호.",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:31.087Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1022_20250721_123134.png"
+  }
+}

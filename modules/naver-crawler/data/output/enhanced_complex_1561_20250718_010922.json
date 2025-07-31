@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:09:22.039017",
+    "complex_id": "1561"
+  },
+  "basic_info": {
+    "complex_id": "1561",
+    "source_url": "https://new.land.naver.com/complexes/1561",
+    "extracted_at": "2025-07-18T01:09:17.686636",
+    "url": "https://new.land.naver.com/complexes/1561?ms=37.632305,126.827424,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:09:15.013Z",
+    "complexId": "1561"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 804동매매3억 5,000아파트68/50m², 4/20층, 남향올수리, 입주일협의, 밝고따뜻한 남향, 트인전망, 조용한단지중앙",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 806동매매3억 6,500아파트68/50m², 6/20층, 남향샷시포함전체올수리, 전세안고, 밝고따뜻한남향, 조용한단지중앙,트인전망",
+      "price": "3억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 805동매매3억 4,000아파트68/50m², 2/20층, 남향최근전체올수리, 따뜻한남향, 전세안고투자, 리모델링주택조합인가",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 803동매매4억 3,000아파트81/60m², 1/17층, 남향햇살좋은남향, 밝게트인전망, 입주일자협의가능 , 초중학교5분이내",
+      "price": "4억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 808동매매3억 6,500아파트68/50m², 14/17층, 남향월세안고,샷시,중문포함 올수리,로얄동,로얄층,초역세권",
+      "price": "3억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 802동매매3억 3,000아파트68/50m², 3/14층, 동향밝게트인전망, 화정초중학교가까움, 수리되어깨끗",
+      "price": "3억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 805동매매3억 500아파트68/50m², 1/20층, 남향급매,수리,정상,학교인접,편의시설접근성우수.어린이도서관인접.",
+      "price": "3억 500",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 805동매매3억 5,000아파트68/50m², 7/20층, 남향햇살좋은 남향, 밝게트인 전망, 수리깨끗해요",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 806동매매3억 5,000아파트68/50m², 3/20층, 남향공실,수리된집,빠른입주,가능해요.구경오세요.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 804동매매3억 7,000아파트68/50m², 19/20층, 남향최근전체올수리깨끗해요, 햇살좋은남향, 밝게트인전망",
+      "price": "3억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 808동매매3억 7,000아파트68/50m², 17/17층, 남향전망 좋아요, 탑층, 주인 거주",
+      "price": "3억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 810동매매3억 7,000아파트68/50m², 5/17층, 남향예전수리,중간라인집,탁트인뷰,주인거주해서 관리잘된집.햇빛하루종일잘들어요.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 802동매매3억 1,000아파트68/50m², 1/14층, 동향역세권 저렴 입주 조정가.조용하고 초중고 가까운동.마트 병원 중심상권 옆",
+      "price": "3억 1",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 808동매매3억 5,000아파트68/50m², 3/17층, 남향지하철 역과 가까운 초역세권동, 세안고 투자하기 좋음, 연락주세요",
+      "price": "3억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 804동매매3억 8,000아파트68/50m², 20/20층, 남향화정역별빛8,내부 올인테리어,입주협의화정초,중,고,교,학세권,대곡역",
+      "price": "3억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인별빛8단지부영 801동매매4억 6,000아파트81/60m², 11/17층, 남향역세권, 선호동, 올수리, 월세안고, 투자추천",
+      "price": "4억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:09:17.699Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1561_20250718_010921.png"
+  }
+}

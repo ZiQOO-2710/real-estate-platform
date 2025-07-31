@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:15:00.043031",
+    "complex_id": "1035"
+  },
+  "basic_info": {
+    "complex_id": "1035",
+    "source_url": "https://new.land.naver.com/complexes/1035",
+    "extracted_at": "2025-07-17T22:14:55.403416",
+    "url": "https://new.land.naver.com/complexes/1035?ms=37.553298,126.875447,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:14:53.002Z",
+    "complexId": "1035"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동매매10억아파트102G/84m², 5/14층, 남동향최근한샘올수리o거실폴딩도어o사선한강조망o중문o올림픽대로바로진입o강력추천",
+      "price": "10억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대1차 104동매매9억 5,000아파트101B/84m², 12/14층, 남향귀한구조o수리된집샷시제외o9월초입주o",
+      "price": "9억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동매매10억아파트102G/84m², 5/14층, 남향한샘으로 올수리,샤시.화장실.주인거주,입주가능",
+      "price": "10억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동매매11억아파트101C/84m², 12/14층, 남향입주가,남향,부분수리로깨끗,후면한강조망",
+      "price": "11억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동매매10억아파트102G/84m², 13/14층, 남동향한강전망   초중교 도보 7분이내   한강산책로 도보 이용",
+      "price": "10억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대1차 102동매매11억아파트101C/84m², 4/13층, 남향정상입주 거실주방확장 입주날짜협의 염동초염창중",
+      "price": "11억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대1차 104동매매9억 5,000아파트101C/84m², 6/14층, 남동향정상 샷시포함올수리 학군우수",
+      "price": "9억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대1차 104동매매9억 5,000아파트102G/84m², 11/14층, 남서향남향  샷시포함올수리  초,중학군우수  88도로 진출입용이함  한강공원",
+      "price": "9억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.414Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동전세5억 5,000아파트101C/84m², 10/14층, 남서향9월15일이후o샷시제외 수리됨 깨끗o트였어요o학군우수",
+      "price": "5억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동전세5억 5,000아파트101C/84m², 6/14층, 남서향후면 한강조망  남향 부분 샷시  도배새로해줌 밝고환해요 햇볕",
+      "price": "5억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인현대1차 101동매매10억아파트101C/84m², 2/12층, 남동향주인거주로 올수리 했어요 아이키우기 좋은단지 염창둘레길있어요",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인현대1차 101동매매10억아파트101C/84m², 5/12층, 남서향염창동 우수학군,주인거주로 상태좋음,입주협의가능",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인현대1차 103동매매8억 3,000아파트101C/84m², 1/14층, 남서향급매,남향,올수리,초,중,최우수학군인접,한강공원이용",
+      "price": "8억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인현대1차 102동매매10억아파트101C/84m², 12/13층, 남서향남향 탑층 한강조망 샤시 교체 도배 베란다 단열  칠 시공 한강 운동편리",
+      "price": "10억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대1차 104동매매9억 5,000아파트101B/84m², 12/14층, 남동향올수리 염동초염창중학군우수",
+      "price": "9억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체101C㎡101B㎡101A㎡102G㎡102E㎡102F㎡103D㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:14:55.415Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1035_20250717_221459.png"
+  }
+}

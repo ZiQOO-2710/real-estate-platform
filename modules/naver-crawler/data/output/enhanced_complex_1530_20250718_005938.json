@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:59:38.359627",
+    "complex_id": "1530"
+  },
+  "basic_info": {
+    "complex_id": "1530",
+    "source_url": "https://new.land.naver.com/complexes/1530",
+    "extracted_at": "2025-07-18T00:59:35.805450",
+    "url": "https://new.land.naver.com/complexes/1530?ms=37.616396,126.831344,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:59:34.496Z",
+    "complexId": "1530"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 901동매매5억 9,500아파트158/134m², 4/15층, 남향샷시포함올수리,인덕션,식기세척기,안방붙박이장,태양광설치,행신역7분입니다",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 905동매매5억 6,000아파트123/101m², 4/15층, 동향저렴하게 나온 매물 잡으셔서 내 집 마련의 꿈을 이루세요",
+      "price": "5억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 905동매매6억 1,000아파트123/101m², 15/15층, 동향행신역 도보 이용편리, 올수리되어 12월 입주가능,",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 906동매매6억아파트123/101m², 13/15층, 동향올수리깨끗,정상입주,행신역세권입니다.",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 902동매매5억 9,800아파트158/134m², 6/15층, 남향남향올수리,입주일협의가능,행신역세권입니다.",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 902동매매6억 4,000아파트158/134m², 11/15층, 남향외부샷시포함올수리,전망좋은남향,주인거주,정상입주",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 906동전세4억 8,000아파트123/101m², 10/15층, 동향샷시빼고 올수리, 상태좋음, 날짜 조정가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 905동매매5억 5,000아파트123/101m², 중/15층, 동향",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 902동매매6억아파트158/134m², 1/15층, 남향남향 올수리 정상입주",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 905동전세4억 3,000아파트123/101m², 8/15층, 동향올수리 정상입주",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 907동매매5억 8,000아파트123/101m², 고/15층, 동향탁트인 북한산전망,정상입주,행신역세권입니다.",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인무원9단지기산 901동매매6억 1,000아파트158/134m², 15/15층, 남향채광좋은 남향집. 깔끔한 내부.입주협의가능",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "무원9단지기산 903동월세2억 5,000/135아파트158/134m², 2/11층, 남향행신전철역도보7분 남향 올수리 정상입주 날짜협의가능함",
+      "price": "2억 5",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "무원9단지기산 905동매매6억 2,000아파트123/101m², 13/15층, 동향행신역과 초중고인접.아주깨끗.정상",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "무원9단지기산 903동매매6억아파트158/134m², 2/11층, 남향예전수리  남향  앞트인동 조정가",
+      "price": "6억",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:59:35.815Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1530_20250718_005938.png"
+  }
+}

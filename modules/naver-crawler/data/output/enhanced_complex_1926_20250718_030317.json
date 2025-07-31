@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:03:17.103133",
+    "complex_id": "1926"
+  },
+  "basic_info": {
+    "complex_id": "1926",
+    "source_url": "https://new.land.naver.com/complexes/1926",
+    "extracted_at": "2025-07-18T03:03:11.743498",
+    "url": "https://new.land.naver.com/complexes/1926?ms=37.298091,126.865342,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:03:08.935Z",
+    "complexId": "1926"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 1동매매5억 1,000아파트106(고층)/84m², 9/15층, 남향샷시포함수리되어있고 임차중25년6월 실거주도 투자도 굿",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 1동매매5억 1,000아파트106(고층)/84m², 1/15층, 남향초코아 층간소음걱정X 역세권이라 교통 걱정X 상록초입학",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 9동매매2억 6,000아파트57(저층)/45m², 4/5층, 남향공실, 상태양호,",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 5동전세3억 5,000아파트153(고층)/127m², 7/15층, 남향샤시포함 올수리. 조망, 일조권 좋음. 교통. 상권이용 편리함.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 7동매매2억 5,000아파트57(저층)/45m², 5/5층, 남향샷시포함올수리, 이사일협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 4동매매3억 8,500아파트95(고층)/75m², 14/15층, 남향남향  상록수역 도보거리  학군좋고  채광아주 좋고 샷시포함 수리됨",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "우성(에버그린우성) 10동매매3억 5,000아파트73(저층)/59m², 1/5층, 남향신축급 인테리어집,신혼부부 완전강추",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 12동매매3억 2,000아파트73(저층)/59m², 4/5층, 남향샷시포함  부분수리됨  남향  로얄동  상록수역 도보가능  상태좋음",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 13동매매2억 2,000아파트57(저층)/45m², 5/5층, 남향급매, 월세 승계조건 상태좋아요",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 14동매매3억 2,000아파트73(저층)/59m², 5/5층, 남향로얄동 로얄호 실거주or 세안고가능 하루종일 볕 잘들고 따뜻합니다",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인우성(에버그린우성) 1동전세3억아파트106(고층)/84m², 9/15층, 남향샷시포함수리되어있고 이사협의",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "우성(에버그린우성) 2동매매5억 3,000아파트106(고층)/84m², 13/15층, 남향샷시포함 특올수리됨 이사협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "우성(에버그린우성) 6동매매5억아파트106(고층)/84m², 15/15층, 남향로얄동 로얄호 로얄뷰 전망굿 6동 착한가격 사이드아님",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "우성(에버그린우성) 2동매매5억 5,000아파트106(고층)/84m², 2/15층, 남향샷시포함  올수리됨  거실확장   남향  상록수역  도보가능  이사협의",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "우성(에버그린우성) 14동매매3억 2,000아파트73(저층)/59m², 4/5층, 남향샷시포함올수리  이사일협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:03:11.757Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체57(저층)㎡73(저층)㎡95(고층)㎡106(고층)㎡153(고층)㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:03:11.758Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1926_20250718_030316.png"
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:09:43.030958",
+    "complex_id": "4297"
+  },
+  "basic_info": {
+    "complex_id": "4297",
+    "source_url": "https://new.land.naver.com/complexes/4297",
+    "extracted_at": "2025-07-18T20:09:39.536125",
+    "url": "https://new.land.naver.com/complexes/4297?ms=36.11597,128.13455,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:09:37.101Z",
+    "complexId": "4297"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동부 101동매매7,300아파트70/59m², 고/15층, 동향샷시 교체앞.뒤베란다,화장실 등 부분수리된 집,조망최상,가겨절충",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.544Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동부 101동매매8,000아파트70/59m², 15/15층, 동향내부전체리모델링 베란다확장 안방붙박이장 보일러교체 집상태최고 꼭층 조용함",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.544Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동부 101동월세1,000/50아파트70/59m², 9/15층, 동향욕실교체 도배장판조명교체 깨끗 공실 방3개 양쪽베란다넓음 보증금월세조정가",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:09:39.545Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "232만동양무지개매매4천4천~4.5천면적57㎡57.21㎡ ~ 64.14㎡매매매물만 보기3개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "57㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "345만동부매매7.3천7.2천~8천월세50만50만면적70㎡70.05㎡ ~ 70.05㎡매매매물만 보기5개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "196만동양매매5.8천5.8천~6천면적98㎡98.82㎡ ~ 98.82㎡매매매물만 보기12개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "98㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "동양강변타운2차면적104.02㎡82.25㎡ ~ 104.02㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "104.02㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "441만발트하임매매1.2억1.15억~1.3억면적90㎡90.51㎡ ~ 90.51㎡매매매물만 보기19개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억1",
+      "area": "90㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "119만동양강변매매2.6천2.6천면적72㎡72.64㎡ ~ 72.64㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "152만가람매매3.5천3.5천면적76㎡76.74㎡ ~ 76.74㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:09:39.546Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4297_20250718_200942.png"
+  }
+}

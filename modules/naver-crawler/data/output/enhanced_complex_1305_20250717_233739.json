@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:37:39.395995",
+    "complex_id": "1305"
+  },
+  "basic_info": {
+    "complex_id": "1305",
+    "source_url": "https://new.land.naver.com/complexes/1305",
+    "extracted_at": "2025-07-17T23:37:35.938558",
+    "url": "https://new.land.naver.com/complexes/1305?ms=37.570419,126.847209,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:37:34.032Z",
+    "complexId": "1305"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 206동전세2억 4,000아파트49A/34m², 8/15층, 남동향융자없음 버팀목가능, 9월협의, 샷시 포함 내부 수리됨, 반려동물X",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 204동매매6억 4,500아파트56/39m², 11/15층, 남향샷시포함올수리 대단지아파트 cj 부지개발중 주전도가능",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 202동매매6억 5,000아파트56/39m², 12/15층, 남향올수리 협의입주 소유주의뢰 한강뷰 거주만족도 최고",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 202동매매6억 3,000아파트56/39m², 10/15층, 남서향즉시 입주 가능   복도 한강 조망",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 206동월세1,000/80아파트49A/34m², 15/15층, 남향8월 입주가능  샷시포함올수리",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 205동매매5억 2,000아파트50B/34m², 8/15층, 남향남향 투자가치 높음 한강조망권 확장형 부분수리 입주가능",
+      "price": "5억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 205동매매5억 5,000아파트50B/34m², 11/15층, 남동향내부 전체 올수리,강마루,입주 협의",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 205동매매5억 6,000아파트50B/34m², 7/15층, 남서향샷시포함올수리 빠른입주도 가능",
+      "price": "5억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 205동매매5억 1,000아파트50B/34m², 8/15층, 남서향베란다확장   cj부지개발호재  B타입",
+      "price": "5억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 204동전세3억 2,000아파트56/39m², 12/15층, 남동향샷시포함올수리,버팀목,보증보험가능,융자없음.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 210동전세4억아파트70B/49m², 10/15층, 남향샷시포함 최근 전체올수리,전면 훤히트임,에어컨,냉장고,세탁기 있음.",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 204동매매6억 4,500아파트56/39m², 11/15층, 남동향샷시 포함 전체 올수리, 입주 가능, 월세 안고 투자도 가능",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "가양2단지성지 204동전세2억 2,000아파트50B/34m², 1/15층, 남향역세권 확장. 정원뷰. 아주 관리잘된집. 가성비굿.",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인가양2단지성지 209동매매7억 4,000아파트70B/49m², 1/15층, 남동향샷시포함특올수리 전세안고 대단지아파트",
+      "price": "7억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "가양2단지성지 210동월세5,000/120아파트70A/49m², 14/15층, 남향9호선역세권 샷시포함올수리 입주협의 가능함",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "가양2단지성지 204동매매6억 1,000아파트56/39m², 7/15층, 남동향샷시포함 수리 ,산책로 근접, 주변 cj부지 개발 호재,입주,세안고도 가",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:37:35.950Z"
+    },
+    {
+      "index": 50,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인가양2단지성지 206동전세2억 4,000아파트49A/34m², 8/15층, 남동향융자없음 버팀목가능, 9월협의, 샷시 포함 내부 수리됨, 반려동물X우리집부동산 제공3단지공인중개사사무소확인매물 25.07.17.집주인가양2단지성지 204동매매6억 4,500아파트56/39m², 11/15층, 남향샷시포함올수리 대단지아파트 cj 부지개발중 주전도가능부동산뱅크 제공한아름부동산공인중개사사무소확인매물 25.07.16.집주인가양2단지성지 202동매매6억 5,000아파트56/39m², 12/15층, 남향올수리 협의입주 소유주의뢰 한강뷰 거주만",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:37:35.951Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1305_20250717_233739.png"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:08:00.375577",
+    "complex_id": "1559"
+  },
+  "basic_info": {
+    "complex_id": "1559",
+    "source_url": "https://new.land.naver.com/complexes/1559",
+    "extracted_at": "2025-07-18T01:07:56.215845",
+    "url": "https://new.land.naver.com/complexes/1559?ms=37.630317,126.825088,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:07:54.899Z",
+    "complexId": "1559"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 902동매매6억아파트105/84m², 8/16층, 남향올수리된집,라인좋은집.조용한동,정문쪽이여서 편리한동,구경오세요.",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.226Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 907동매매5억 3,000아파트105/84m², 2/16층, 남향주인거주중 깨끗.라인좋아요.서울교통편리함.협의입주.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 902동매매6억아파트105/84m², 7/16층, 남향화정초,중 인접,조용한동으로  샷시포함 특올수리했어요,입주협의,가능해요",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 912동매매5억 6,000아파트105/84m², 12/20층, 남향최근올수리된집,전망뷰,탁트인전망임,라인도좋아요.구경오세요.",
+      "price": "5억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 923동매매5억 7,000아파트105/84m², 4/17층, 남향화정초,중 인접동으로 내,외부 샷시포함 특올수리 되있어요,입주협의 가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 917동매매4억 7,500아파트90/70m², 12/12층, 동향올수리.앞뒤로트인뷰.층간소음없는 탑.대곡GTX이용,서울교통편리한동.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 908동매매4억 9,000아파트90/70m², 11/12층, 동향수리깨끗.로얄동.전망좋아요.서울교통편리함.",
+      "price": "4억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 902동매매5억 6,000아파트105/84m², 3/16층, 남향입구동,선호동,주인거주수리아주깨끗.생활편리한동.",
+      "price": "5억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 917동매매4억 7,000아파트90/70m², 2/12층, 동향입주일 약간 협의가능. 깨끗",
+      "price": "4억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 915동전세4억아파트105/84m², 17/20층, 남향예전올수리,전망좋은집,햇빛잘들고,중간라인집,구경오세요.",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 910동전세3억 7,000아파트105/84m², 9/16층, 남향9월중, 내부샷시된 수리, 일부수리해줌, 날짜협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 911동월세6,000/140아파트105/84m², 7/17층, 남향광역버스 이용편리 전망좋고 수리되어 깨끗해요, 융자없고 입주협의 조율가",
+      "price": null,
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 907동매매5억 3,500아파트105/84m², 1/16층, 남향전체샷시포함,올수리된집.중간동구경오세요.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인별빛9단지벽산,코오롱,한일,기산 923동매매6억아파트105/84m², 16/17층, 남향수리. 전망굿. 입주일 협의가능함.",
+      "price": "6억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:07:56.227Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1559_20250718_010800.png"
+  }
+}

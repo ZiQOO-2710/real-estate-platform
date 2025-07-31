@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:35:52.532858",
+    "complex_id": "1108"
+  },
+  "basic_info": {
+    "complex_id": "1108",
+    "source_url": "https://new.land.naver.com/complexes/1108",
+    "extracted_at": "2025-07-17T22:35:48.117754",
+    "url": "https://new.land.naver.com/complexes/1108?ms=37.65175,127.071366,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:35:45.384Z",
+    "complexId": "1108"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인양지대림 101동매매12억아파트142/114m², 10/23층, 남동향전체올수리,을지초,을지중,학원가",
+      "price": "12억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인양지대림 104동매매10억 4,000아파트108/84m², 13/16층, 남동향조망권 확보 을지학군 배정 아파트  선호동 선호층 아파트 입니다",
+      "price": "10억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인양지대림 103동매매10억 5,000아파트108/84m², 5/19층, 남동향화장실 및 내부 수리된 아파트 조망권 확보한 아파트 입니다",
+      "price": "10억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인양지대림 105동매매9억 9,000아파트108/84m², 4/21층, 남향내부수리 되어 깨끗함. 남향으로 채광좋음, 을지초 학군",
+      "price": "9억 9",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인양지대림 101동매매12억아파트142/114m², 16/23층, 남동향집주인거주 내부수리 깨끗한집, 을지초 학군, 학원가, 산책로 인접",
+      "price": "12억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인양지대림 104동매매10억아파트108/84m², 6/16층, 남동향전세끼고 매매, 당현천 산책로 인접, 학원가 도보7분",
+      "price": "10억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인양지대림 103동전세6억 5,000아파트108/84m², 10/19층, 남동향출입편리한 앞동 밝은라인  화포함내부수리 을지초중상명중 배정",
+      "price": "6억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인양지대림 102동매매11억 2,000아파트142/114m², 12/23층, 남동향을지학군 내부 수리된 라인좋은 추천급매물이며 입주및 투자가능합니다",
+      "price": "11억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인양지대림 102동매매12억 2,000아파트142/114m², 4/23층, 남동향특올수리되어있는 깔끔한집,을지초,을지중,학원가",
+      "price": "12억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인양지대림 103동매매10억아파트108/84m², 중/19층, 남향을지초학군, 샷시포함특올수리, 채광조망 매우우수, 입주가능",
+      "price": "10억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인양지대림 101동전세7억 3,000아파트142/114m², 7/23층, 남동향내부수리, 입주협의가능한 을지초학군 매물입니다",
+      "price": "7억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인양지대림 102동매매11억 2,000아파트142/114m², 15/23층, 남동향전체올수리됨, 을지초,불암중,을지중 ,학원가,당현천산책로인접",
+      "price": "11억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:35:48.129Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1108_20250717_223552.png"
+  }
+}

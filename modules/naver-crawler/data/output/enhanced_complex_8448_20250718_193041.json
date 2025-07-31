@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:30:41.865277",
+    "complex_id": "8448"
+  },
+  "basic_info": {
+    "complex_id": "8448",
+    "source_url": "https://new.land.naver.com/complexes/8448",
+    "extracted_at": "2025-07-18T19:30:38.988453",
+    "url": "https://new.land.naver.com/complexes/8448?ms=37.335702,127.096588,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:30:36.462Z",
+    "complexId": "8448"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인수진마을4단지신명스카이뷰 503동매매8억 4,000아파트112/84m², 4/15층, 남향정상입주,남향,올확장,주인거주 깨끗,초중고학군,동천역역세권",
+      "price": "8억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.997Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "수진마을4단지신명스카이뷰 503동매매7억 5,000아파트112/84m², 1/15층, 남향정상입주,정남향,동천역세권,초중고 및 체육공원 인접",
+      "price": "7억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.997Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "수진마을4단지신명스카이뷰 501동매매8억 5,000아파트112/84m², 14/15층, 남향세안고매매,입주협의,남향,초중고학군,동천역역세권,기본형,수시수리 깨끗함",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.997Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "수진마을4단지신명스카이뷰 501동매매8억 5,000아파트112/84m², 고/15층, 남향전세안고,정남향,구조 좋은 아파트,초중고 인접,동천역 도보8분",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.997Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인수진마을4단지신명스카이뷰 503동매매8억 1,000아파트112/84m², 저/15층, 남향로얄동 로얄층, 공원뷰, 신분당선동천역세권",
+      "price": "8억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.997Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.998Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,172만동천마을동문굿모닝힐3차매매6.9억6.65억~10.2억전세-6억~6.2억면적105㎡105.59㎡ ~ 182.41㎡매매매물만 보기32개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억6",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.998Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,578만수진마을1단지써니벨리매매8.5억8.4억~9억월세1.5백1.5백면적109㎡109.6㎡ ~ 109.86㎡매매매물만 보기20개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,099만더샵동천이스트포레매매9.65억9.5억~14.5억전세6.5억6.4억~8.5억월세-1.65백~2.5백면적103㎡103.44㎡ ~ 142.19㎡매매매물만 보기167개 매물이 있습니다.전세매물만 보기128개 매물이 있습니다.월세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억9",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,283만한빛마을래미안이스트팰리스2단지매매12.5억10.35억~23억전세-6.6억~7.5억월세-2.4백~3.6백면적181㎡110.07㎡ ~ 253.75㎡매매매물만 보기108개 매물이 있습니다.전세매물만 보기17개 매물이 있습니다.월세매물만 보기11개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "181㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,444만동천역센트럴아이파크매매10.5억9.1억~11.5억면적142㎡129.87㎡ ~ 142.96㎡매매매물만 보기20개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "142㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,435만수진마을4단지신명스카이뷰매매8.25억7.5억~8.5억면적112㎡112.42㎡ ~ 112.42㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억7",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,075만수진마을3단지우미이노스빌매매8억6.7억~8억전세4.5억4.3억~4.8억면적86㎡84.35㎡ ~ 86.33㎡매매매물만 보기34개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억6",
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:30:38.999Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8448_20250718_193041.png"
+  }
+}

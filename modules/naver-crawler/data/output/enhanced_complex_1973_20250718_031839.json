@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:18:39.206136",
+    "complex_id": "1973"
+  },
+  "basic_info": {
+    "complex_id": "1973",
+    "source_url": "https://new.land.naver.com/complexes/1973",
+    "extracted_at": "2025-07-18T03:18:34.375684",
+    "url": "https://new.land.naver.com/complexes/1973?ms=37.40176,126.95474,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:18:33.298Z",
+    "complexId": "1973"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "수정 1동매매4억 5,000아파트80/62m², 고/5층, 남향운동장역 l 투자물 . 남향집 . 월판선 3번출구 5분 . 실투 3억2천",
+      "price": "4억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.391Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "관양타워면적192.9㎡192.9㎡ ~ 244.68㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "192.9㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,044만공작성일매매3.4억3.25억~8.2억전세2.1억2.1억면적55㎡55.01㎡ ~ 96.5㎡매매매물만 보기58개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억3",
+      "area": "55㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,446만코오롱동산타워(주상복합)매매3.5억3.5억~4.5억면적80㎡80.25㎡ ~ 91.06㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,875만현암매매3.8억3.7억~4.2억면적67㎡55.08㎡ ~ 72.69㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억3",
+      "area": "67㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,651만한가람삼성매매8.5억6.3억~8.85억전세4.9억4.8억~5억월세1.1백1백~1.6백면적106㎡83.77㎡ ~ 106.72㎡매매매물만 보기25개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:18:34.393Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1973_20250718_031839.png"
+  }
+}

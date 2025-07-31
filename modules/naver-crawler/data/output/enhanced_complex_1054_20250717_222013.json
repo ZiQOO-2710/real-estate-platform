@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:20:13.961213",
+    "complex_id": "1054"
+  },
+  "basic_info": {
+    "complex_id": "1054",
+    "source_url": "https://new.land.naver.com/complexes/1054",
+    "extracted_at": "2025-07-17T22:20:09.089462",
+    "url": "https://new.land.naver.com/complexes/1054?ms=37.482436,126.903309,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:20:06.833Z",
+    "complexId": "1054"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매8억 8,000재건축77/71m², 4/10층, 남서향최고입지의 재건축 투자매물 사업시행인가완료",
+      "price": "8억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미성 1동전세3억 3,000재건축98/91m², 고/10층, 남향올수리 남향 대출O보증보험O초역세권",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매7억 3,000재건축79/73m², 저/10층, 동향재건축 이주 약2년에서 3년이면 이주 완료합니다.  투자물건 좋아요",
+      "price": "7억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미성 2동매매8억 5,000재건축98/91m², 고/10층, 남향더블역세권 호재. 재건축 진행 사업시행인가",
+      "price": "8억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "미성 1동매매9억재건축101/93m², 1/10층, 북동향아파트 투자, 내년 1월 이주 예정",
+      "price": "9억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매8억 5,000재건축98/91m², 고/10층, 남향올수리, 주인직거주, 수납공간 풍부, 남향의 좋은집",
+      "price": "8억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매7억 5,000재건축77/71m², 중/10층, 남서향2호선 구로디지털역, 신안산선공사중 더블역세권, 재건축 갭투자 좋음",
+      "price": "7억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매7억 5,000재건축83/77m², 고/10층, 남향즉시입주가능, 투자가치 좋은 아파트,  채광좋은 로얄층",
+      "price": "7억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매7억 5,000재건축77/71m², 중/10층, 남향사업시행인가고시 완료, 투자용 직거주 모두가능한 집",
+      "price": "7억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매8억재건축98/91m², 6/10층, 남동향재건축예정.공동가능.전세안고매매.구로디지털단지역세권.위치좋음",
+      "price": "8억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인미성 1동매매10억 5,000재건축98/91m², 고/10층, 남서향임대or입주가능한 재건축 사업시행인가",
+      "price": "10억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "미성 2동매매7억 5,000재건축79/73m², 저/10층, 남향입주 가능 재건축 사업시행인가 승인이 됬어요 010 4537 7100",
+      "price": "7억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.101Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인미성 1동매매8억 8,000재건축77/71m², 4/10층, 남서향최고입지의 재건축 투자매물 사업시행인가완료매경부동산 제공행복한집공인중개사사무소확인매물 25.07.15.집주인미성 1동전세3억 3,000재건축98/91m², 고/10층, 남향올수리 남향 대출O보증보험O초역세권매경부동산 제공광명홈즈 공인중개사사무소확인매물 25.07.17.집주인미성 1동매매7억 3,000재건축79/73m², 저/10층, 동향재건축 이주 약2년에서 3년이면 이주 완료합니다.  투자물건 좋아요부동산포스 제공지성(단지앞)공인중개사사무소확인매물 25.07.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:20:09.102Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1054_20250717_222013.png"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:58:11.873726",
+    "complex_id": "1912"
+  },
+  "basic_info": {
+    "complex_id": "1912",
+    "source_url": "https://new.land.naver.com/complexes/1912",
+    "extracted_at": "2025-07-18T02:58:07.524750",
+    "url": "https://new.land.naver.com/complexes/1912?ms=37.35706,126.72307,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:58:05.133Z",
+    "complexId": "1912"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 111동매매2억 6,000아파트77C/59m², 10/10층, 남서향초중학교 인접.생활권편리.이사협의.조정가",
+      "price": "2억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 105동매매3억 3,000아파트104/84m², 8/10층, 남향급매, 햇살좋은 남향의 전망좋은집,욕실,씽크대교체등 부분수리로 깨끗",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 108동매매3억 3,000아파트104/84m², 5/10층, 남동향올수리,방1확장된 아주깨끗하고 전망좋은집,초중고 상업지 인접함.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 103동매매2억 4,500아파트80B/59m², 9/10층, 남서향방1확,씽크대교체,주인세대 집상태좋음",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 110동월세2,000/85아파트77C/59m², 8/10층, 남향로얄동으로 정남향,올수리조건,9월초부터하시,초중고와상권인접",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "주공1단지 112동매매3억 3,000아파트104/84m², 3/10층, 남동향앞이 트여 개방감 좋음. 서해초,중,고 인근. 상권인근으로 생활편의좋음.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 111동매매2억 5,000아파트77C/59m², 5/10층, 남서향조용한동,인테리어기간 줄수있는집.초중고 상업지인접함.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 115동매매2억 3,000아파트71/59m², 1/5층, 남서향기본집 초중교 중앙상가인접 식자재 오이도역차로5분",
+      "price": "2억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 108동매매3억 3,000아파트104/84m², 2/10층, 남동향학교와상권인접,중문등수리해서 깔끔,입주협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공1단지 117동매매2억 8,400아파트99/84m², 5/5층, 남향올수리된깨끗한집.  매우깨끗. 정남향. 볕좋은집. 초중고바로옆.",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 103동매매2억 4,500아파트80B/59m², 9/10층, 남향정남향,부분수리,초중고와상권인접,입주협의",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 110동매매2억 3,000아파트77C/59m², 2/10층, 남서향올수리 거실확장 세끼고매매",
+      "price": "2억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인주공1단지 115동매매2억 3,500아파트71/59m², 저/5층, 남서향일부수리 서해초,중,고 도보10분이내 가격조정가",
+      "price": "2억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공1단지 106동매매2억 5,500아파트77C/59m², 6/10층, 남서향거실,방1확장,중문,올수리된 전망좋고 아주깨끗한 집입니다.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    },
+    {
+      "index": 59,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인주공1단지 111동매매2억 6,000아파트77C/59m², 10/10층, 남서향초중학교 인접.생활권편리.이사협의.조정가매경부동산 제공금강탑공인중개사사무소확인매물 25.07.16.집주인주공1단지 105동매매3억 3,000아파트104/84m², 8/10층, 남향급매, 햇살좋은 남향의 전망좋은집,욕실,씽크대교체등 부분수리로 깨끗부동산써브 제공한일공인중개사사무소확인매물 25.07.15.집주인주공1단지 108동매매3억 3,000아파트104/84m², 5/10층, 남동향올수리,방1확장된 아주깨끗하고 전망좋은집,초중고 상업지 인접함.매경부",
+      "price": "2억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:58:07.538Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1912_20250718_025811.png"
+  }
+}

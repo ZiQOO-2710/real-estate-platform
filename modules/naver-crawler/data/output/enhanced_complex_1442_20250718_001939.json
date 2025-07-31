@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:19:39.239555",
+    "complex_id": "1442"
+  },
+  "basic_info": {
+    "complex_id": "1442",
+    "source_url": "https://new.land.naver.com/complexes/1442",
+    "extracted_at": "2025-07-18T00:19:35.179637",
+    "url": "https://new.land.naver.com/complexes/1442?ms=37.37678,126.967548,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:19:33.226Z",
+    "complexId": "1442"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 201동매매11억아파트122/101m², 4/15층, 남향올수된 남향집 입주일협의",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.187Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "샘쌍용 205동매매15억아파트205/175m², 15/16층, 남향전망좋고 귀한복층매매  대지지분많음 방7개화장실3개",
+      "price": "15억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 203동매매12억아파트158/132m², 고/18층, 남동향강력추천, 입주 또는 갭투자도 가능, 시원한 사이다 뷰",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 205동매매12억아파트158/132m², 고/16층, 남향샷시포함올수리 입주물",
+      "price": "12억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 202동매매13억아파트158/132m², 중/18층, 남동향샷시포함올수리된 입주물입니다",
+      "price": "13억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "샘쌍용 205동전세8억아파트205/175m², 15/16층, 남향샷시포함올수리 입주일협의 복층 방7개 화장실3개",
+      "price": "8억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 208동매매12억아파트158/132m², 18/18층, 남서향특올수리세안고매매",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 208동매매12억아파트158/132m², 고/18층, 남서향세안고,특수리되어 손볼곳 없어요.화이트톤의 센스있는 젋은 인테리어집 추천",
+      "price": "12억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 201동매매11억아파트122/101m², 4/15층, 남서향샤시포함 특올수리. 입주.",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인샘쌍용 201동매매11억아파트122/101m², 고/15층, 남향샷시포함올수리된 남향집  입주또는 세안고도가능",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "샘쌍용 205동매매17억아파트205/175m², 15/16층, 남서향복층. 올수리. 방7,화3. 수납공간많음",
+      "price": "17억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    },
+    {
+      "index": 108,
+      "selector": "[class*=\"item\"]",
+      "text": "샘쌍용 205동매매12억아파트158/132m², 고/16층, 남서향샷시포함올수리 입주협의 매경부동산 제공샘마을공인중개사사무소확인매물 25.06.19.",
+      "price": "12억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:19:35.188Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1442_20250718_001939.png"
+  }
+}

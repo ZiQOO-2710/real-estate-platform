@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:54:16.986816",
+    "complex_id": "1165"
+  },
+  "basic_info": {
+    "complex_id": "1165",
+    "source_url": "https://new.land.naver.com/complexes/1165",
+    "extracted_at": "2025-07-17T22:54:10.851302",
+    "url": "https://new.land.naver.com/complexes/1165?ms=37.59372,126.94676,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:54:09.786Z",
+    "complexId": "1165"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매5억 8,000아파트82A/59m², 5/18층, 남동향홍제역세권,평지에 있는 살기편리한아파트",
+      "price": "5억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매7억 5,000아파트118/85m², 중/18층, 남향평지 올수리된 아파트매매",
+      "price": "7억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매4억 2,500아파트51/37m², 저/18층, 남동향전세안고매매 .중층 .수리되어깨끗 .주차장넓은단지",
+      "price": "4억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매7억 1,000아파트118/85m², 저/18층, 남동향홍제역세권,내부샷시까지올수리,정상입주",
+      "price": "7억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매6억아파트84B/60m², 고/18층, 남동향입주가능 깔끔한 내부 방3 주차공간도 넉넉합니다.",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "태영으뜸 1동전세3억 2,000아파트65B/46m², 6/18층, 남동향내부상태깨끗, 평지,입주협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "태영으뜸 1동매매6억 3,000아파트91A/66m², 중/18층, 남동향홍제역세권,평지로 실거주추천,지하주차장엘베연결 주차공간여유",
+      "price": "6억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "태영으뜸 1동매매5억아파트65B/46m², 저/18층, 남동향주차공간최고,내부상태깨끗",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매5억 3,000아파트73A/52m², 저/18층, 남동향편리한입지,엘베에서 바로주차장연결",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인태영으뜸 1동매매4억 3,000아파트61A/44m², 저/18층, 남향홍제역세권,월세안고",
+      "price": "4억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.866Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "태영으뜸 1동매매4억 8,000아파트64C/46m², 중/18층, 남동향역세권,남향,깔끔,",
+      "price": "4억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.867Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체51㎡60㎡61A㎡63B㎡64A㎡64C㎡65B㎡67㎡73A㎡74B㎡75㎡82A㎡84B㎡89㎡91A㎡93B㎡95㎡118㎡122㎡",
+      "price": null,
+      "area": "51㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:54:10.867Z"
+    },
+    {
+      "index": 55,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인태영으뜸 1동매매5억 8,000아파트82A/59m², 5/18층, 남동향홍제역세권,평지에 있는 살기편리한아파트부동산뱅크 제공태영공인중개사사무소확인매물 25.07.14.집주인태영으뜸 1동매매7억 5,000아파트118/85m², 중/18층, 남향평지 올수리된 아파트매매알터 제공문화촌공인중개사확인매물 25.07.17.집주인태영으뜸 1동매매5억 8,000아파트82A/59m², 5/18층, 동향역세권 평지위치함부동산써브 제공부동산써브하나공인중개사확인매물 25.07.09.집주인태영으뜸 1동매매4억 2,500아파트51/37m², 저/18층",
+      "price": "5억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:54:10.867Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1165_20250717_225416.png"
+  }
+}

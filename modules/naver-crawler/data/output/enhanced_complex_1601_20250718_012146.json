@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:21:46.559511",
+    "complex_id": "1601"
+  },
+  "basic_info": {
+    "complex_id": "1601",
+    "source_url": "https://new.land.naver.com/complexes/1601",
+    "extracted_at": "2025-07-18T01:21:40.857089",
+    "url": "https://new.land.naver.com/complexes/1601?ms=37.4344,126.87715,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:21:38.048Z",
+    "complexId": "1601"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미도3차 1동매매5억 2,000아파트114/84m², 중/18층, 남동향전망좋고 수리해서 깨끗합니다.",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.870Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미도3차 1동매매3억 5,000아파트80/59m², 고/18층, 남동향탁트인 전망과 수리해서 깨끗하며 교통 및 편의시설 이용 편리합니다.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "미도3차 1동매매3억 5,500아파트80/59m², 7/18층, 남동향정상",
+      "price": "3억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미도3차 1동매매4억 9,500아파트114/84m², 3/18층, 남동향강추, 올수리, 햇빛잘드는 전망좋은 집, 주인거주",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "미도3차 1동전세2억 3,000아파트80/59m², 1/18층, 남향올수리,좋은가격,도배장판해드려요,실거주최상,강력추천",
+      "price": "2억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "미도3차 1동매매3억 6,000아파트80/59m², 6/18층, 남동향수리됨",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "미도3차 1동매매5억아파트114/84m², 3/18층, 남향",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "미도3차 1동매매5억 2,000아파트114/84m², 11/18층, 남동향확트인 전망 아파트로 입주가능",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인미도3차 1동매매5억 2,000아파트114/84m², 중/18층, 남동향전망좋고 수리해서 깨끗합니다.산업부동산 제공서울(단지내) 공인중개사사무소확인매물 25.07.15.집주인미도3차 1동매매3억 5,000아파트80/59m², 고/18층, 남동향탁트인 전망과 수리해서 깨끗하며 교통 및 편의시설 이용 편리합니다.산업부동산 제공서울(단지내) 공인중개사사무소확인매물 25.07.10.미도3차 1동매매3억 5,500아파트80/59m², 7/18층, 남동향정상매경부동산 제공미도공인중개사사무소확인매물 25.07.10.집주인미도3차 1동매매4",
+      "price": "5억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:40.871Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1601_20250718_012146.png"
+  }
+}

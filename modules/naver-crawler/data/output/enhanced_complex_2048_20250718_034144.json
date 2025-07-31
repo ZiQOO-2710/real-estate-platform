@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:41:44.846775",
+    "complex_id": "2048"
+  },
+  "basic_info": {
+    "complex_id": "2048",
+    "source_url": "https://new.land.naver.com/complexes/2048",
+    "extracted_at": "2025-07-18T03:41:40.484760",
+    "url": "https://new.land.naver.com/complexes/2048?ms=37.37836,126.953503,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:41:37.991Z",
+    "complexId": "2048"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.496Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,941만HHI브라운빌3차매매6.4억5.6억~7억면적109㎡102.96㎡ ~ 109.25㎡매매매물만 보기33개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억5",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,486만수성드림빌매매4억4억면적89㎡84.16㎡ ~ 89.54㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억4",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,717만평촌더힐즈매매8억8억~8.9억면적154㎡154.71㎡ ~ 158.59㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억8",
+      "area": "154㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,333만무궁화건영매매7.2억4.5억~8억전세4.2억4억~4.7억면적102㎡66.69㎡ ~ 102.44㎡매매매물만 보기67개 매물이 있습니다.전세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억4",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,792만푸른마을삼성매매5.8억4.4억~5.8억월세1.2백1.2백면적107㎡83.89㎡ ~ 107.12㎡매매매물만 보기30개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,820만평촌트루엘파크매매7.25억7.2억~9.8억전세4.4억4.4억면적85㎡85.1㎡ ~ 109.42㎡매매매물만 보기13개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억7",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,149만호계럭키매매6.5억5.8억~9.8억전세3.35억3억~4.5억월세-1.5백면적100㎡100.94㎡ ~ 148.81㎡매매매물만 보기74개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,764만흥화브라운빌매매5.55억5.4억~5.9억면적104㎡104.81㎡ ~ 104.81㎡매매매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "55억5",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,542만평촌더샵아이파크매매12억8.5억~17.2억전세-5억~9.5억월세2.5백40만~2.5백면적112㎡82.15㎡ ~ 142.79㎡매매매물만 보기195개 매물이 있습니다.전세매물만 보기15개 매물이 있습니다.월세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "12억8",
+      "area": "112㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,503만호계미원매매5.5억5억~5.6억면적121㎡121.96㎡ ~ 121.96㎡매매매물만 보기11개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "121㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,568만무궁화진흥매매8억4.7억~8억전세4.4억4.4억면적103㎡74.9㎡ ~ 103.74㎡매매매물만 보기26개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:41:40.497Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2048_20250718_034144.png"
+  }
+}

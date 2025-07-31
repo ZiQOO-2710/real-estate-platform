@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:41:58.312854",
+    "complex_id": "1511"
+  },
+  "basic_info": {
+    "complex_id": "1511",
+    "source_url": "https://new.land.naver.com/complexes/1511",
+    "extracted_at": "2025-07-18T00:41:54.824519",
+    "url": "https://new.land.naver.com/complexes/1511?ms=37.69028,126.77243,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:41:53.639Z",
+    "complexId": "1511"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동매매2억 1,000아파트98/71m², 4/6층, 남동향세안고,샷시포함 올수리, 일산역도보권, 초중교인접 편리한 생활권",
+      "price": "2억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미주7차 나동전세1억 8,000아파트113/80m², 6/6층, 남향올수리 상태깨끗 엘무 조정가",
+      "price": "1억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미주7차 나동매매2억아파트113/80m², 6/6층, 남향올수리 세안고",
+      "price": "2억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동매매2억 2,000아파트98/71m², 2/6층, 남동향2년전 올수리, 입주일 협의 가, 초중학교 도보5분,일산역 도보",
+      "price": "2억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동매매2억 2,000아파트98/71m², 4/6층, 남향샤시포함 올수리한집, 초 중학교 도보5분, 일산역 도보",
+      "price": "2억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동월세2,000/70아파트98/71m², 2/6층, 남동향샷시포함전체올수리",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인미주7차 나동매매2억 1,000아파트113/80m², 5/6층, 남향입주 또는 주인세안고,일산역도보권 생활편리,초중고교인접",
+      "price": "2억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인미주7차 나동매매2억 5,000아파트113/80m², 3/6층, 남향내외부샷시포함 올수리, 남향 채광굿  입주협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인미주7차 다동매매2억 5,000아파트120/84m², 5/6층, 남향세안고, 샷시포함완전특올수리, 일산역도보권, 조용하고 편의시설이용 편리",
+      "price": "2억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동월세5,000/40아파트98/71m², 6/6층, 남동향8월18이후, 일산역 도보권, 초중교 인접, 생활권 편리,조정가능",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인미주7차 가동매매1억 6,500아파트98/71m², 6/6층, 남향급매,  일산역도보 저렴한가격으로 내집마련하세요",
+      "price": "1억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:54.832Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1511_20250718_004158.png"
+  }
+}

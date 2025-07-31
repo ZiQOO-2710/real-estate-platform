@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:58:50.143323",
+    "complex_id": "1526"
+  },
+  "basic_info": {
+    "complex_id": "1526",
+    "source_url": "https://new.land.naver.com/complexes/1526",
+    "extracted_at": "2025-07-18T00:58:46.688120",
+    "url": "https://new.land.naver.com/complexes/1526?ms=37.66449,126.795337,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:58:44.163Z",
+    "complexId": "1526"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 102동매매4억아파트110/84m², 3/24층, 남향샷시포함 올수리 백마역 역세권  안정감있는층",
+      "price": "4억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 109동매매3억 5,000아파트87/59m², 1/16층, 동향전체올수리,조정가, 전망 굿,세안고",
+      "price": "3억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 107동전세3억 8,000아파트164/134m², 13/24층, 남향Y 50p, 도배, 장판, 싱크대, 화장실 등 싹 다 수리했어요 Y",
+      "price": "3억 8",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 103동매매3억 1,000아파트87/59m², 5/24층, 동향샷시포함 올수리. 중문.폴딩도어. 초중고인근. 백마역세권",
+      "price": "3억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 201동매매3억아파트89/59m², 13/17층, 남동향LDS조정가능,샷시빼고 올수리  깨끗하고  전망나와서 좋아요LDS",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 104동매매3억 9,000아파트110/84m², 9/19층, 남향Y 급 33p, 올수리, 남향, 관리 깨끗합니다. 조정가능 Y",
+      "price": "3억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 102동전세3억아파트110/84m², 3/24층, 남향백마역700m 도보이용 샷시포함올수리",
+      "price": "3억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 101동매매2억 1,000아파트55/37m², 1/13층, 동향수리깨끗. 초중고인근. 백마역세권",
+      "price": "2억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 202동매매3억 6,000아파트110N/84m², 7/17층, 동향LDS 조정가능 급매, 작은방1확장, 엘베지하주차장연결, 백마역세권",
+      "price": "3억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 103동매매3억 2,000아파트87/59m², 22/24층, 동향올수리 서해선개통 으로 큰수해받는 단지 입니다",
+      "price": "3억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 109동전세2억 2,000아파트87/59m², 7/16층, 동향LDS정가능,화장실,.싱크대 수리했음LDS",
+      "price": "2억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 109동매매2억 8,000아파트87/59m², 3/16층, 동향급매 조정가 샷시포함  전체올수리  백마역700m 역세권 입니다",
+      "price": "2억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 110동매매1억 8,000아파트55/37m², 1/10층, 동향LDS 조정가능,올수리,백마역과근거리, 월세안고,싱크수리됨",
+      "price": "1억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 202동월세5,000/120아파트110N/84m², 15/17층, 동향LDS 조정가능,주차장연결 샷시빼고 전체 올수리예정,수리후첫입주 굿",
+      "price": null,
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 201동매매3억아파트89/59m², 17/17층, 동향전세안고. 씽크대, 화장실 수리. 전망굿. 백마역세권",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 106동매매5억 8,000아파트164/134m², 3/24층, 남향깨끗. 주인거주. 초중고인근. 백마역세권",
+      "price": "5억 8",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 201동매매3억 2,000아파트89/59m², 6/17층, 동향시원한전망 지하주차장내부연결",
+      "price": "3억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 109동매매3억 3,000아파트87/59m², 7/16층, 동향수리깨끗. 붙밖이장. 초중고인근. 백마역세권",
+      "price": "3억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인성원1,2차 108동매매4억 7,000아파트110/84m², 13/24층, 남동향Y 특 최근 화이트 올리모델링, 거실 트인 뻥뷰, 폴딩도어, 예쁜집 Y",
+      "price": "4억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:58:46.699Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1526_20250718_005850.png"
+  }
+}

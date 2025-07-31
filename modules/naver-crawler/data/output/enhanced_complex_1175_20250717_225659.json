@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:56:59.387601",
+    "complex_id": "1175"
+  },
+  "basic_info": {
+    "complex_id": "1175",
+    "source_url": "https://new.land.naver.com/complexes/1175",
+    "extracted_at": "2025-07-17T22:56:54.494652",
+    "url": "https://new.land.naver.com/complexes/1175?ms=37.548718,127.050069,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:56:51.639Z",
+    "complexId": "1175"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 104동매매14억 8,000아파트108/84m², 11/19층, 남서향뚝섬역세권, 초중고인접, 확트인 전망",
+      "price": "14억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 105동매매15억아파트108/84m², 11/19층, 남향올수리된 남향 채광좋고 입주가능한 추천물건 인기동 역세권",
+      "price": "15억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 103동매매14억 5,000아파트108/84m², 9/18층, 남동향뚝섬역 도보5분  상태 깨끗 조망굿 입주협의",
+      "price": "14억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 105동매매15억아파트108/84m², 11/19층, 남동향뚝섬역5분  상태양호  전망굿 입주가능",
+      "price": "15억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 104동전세6억아파트108/84m², 고/19층, 남서향뚝섬역 역세권 아파트, 구조 좋음, 고층. 입주 협의",
+      "price": "6억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 105동매매15억아파트108/84m², 11/19층, 남서향뚝섬역앞. 32. 올수리.깨끗. 밝고환함. 입주가능. 로얄동. 위치최고",
+      "price": "15억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 104동매매14억 8,000아파트108/84m², 중/19층, 남서향입주협의 고층 채광 풍부 햇살 가득한 밝은집",
+      "price": "14억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "성수대우2차 104동매매14억 8,000아파트108/84m², 고/19층, 남향고층.추천.급매. 뚝섬역앞. 32 남향. 방거실베란다넓음. 입주가능.깨끗",
+      "price": "14억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인성수대우2차 104동전세6억아파트108/84m², 고/19층, 남향뚝섬역 귀한 전세 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:56:54.506Z"
+    },
+    {
+      "index": 43,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인성수대우2차 104동매매14억 8,000아파트108/84m², 11/19층, 남서향뚝섬역세권, 초중고인접, 확트인 전망산업부동산 제공주식회사박종일부동산중개법인확인매물 25.07.16.집주인성수대우2차 105동매매15억아파트108/84m², 11/19층, 남향올수리된 남향 채광좋고 입주가능한 추천물건 인기동 역세권아실 제공제일부동산공인중개사사무소확인매물 25.07.16.네이버에서 보기집주인성수대우2차 105동매매15억아파트108/84m², 11/19층, 남향뚝섬역앞. 로얄동.32. 화장실.싱크대수리.아주깨끗. 입주가능. 갭투가능",
+      "price": "14억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:56:54.507Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1175_20250717_225659.png"
+  }
+}

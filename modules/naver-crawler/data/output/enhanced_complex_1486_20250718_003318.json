@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:33:18.029400",
+    "complex_id": "1486"
+  },
+  "basic_info": {
+    "complex_id": "1486",
+    "source_url": "https://new.land.naver.com/complexes/1486",
+    "extracted_at": "2025-07-18T00:33:13.446154",
+    "url": "https://new.land.naver.com/complexes/1486?ms=37.65178,126.836104,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:33:11.493Z",
+    "complexId": "1486"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 505동매매3억 2,000아파트80/58m², 4/16층, 남향급매,햇볕잘드는 남향선호동,3호선원당역도보,입주협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 505동매매3억 2,000아파트80/58m², 7/16층, 남향햇살가득남향,트인전망으로 선호동,입주협의가,원당역 도보가능,",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 503동매매3억 3,500아파트80/58m², 12/16층, 남향성사동신원당5,외부샷시포함올수리,분배기교체,원당역출퇴근,원당혁신도시입주",
+      "price": "3억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 502동매매3억 3,000아파트80/58m², 3/16층, 남향수리되어 깨끗,입주가능,원당역도보가,유.초등근접,남향선호동",
+      "price": "3억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 505동매매3억 1,500아파트80/58m², 저/16층, 남향최근 샷시포함 특올수리,입주협의,남향선호동",
+      "price": "3억 1",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 503동매매2억 9,000아파트80/58m², 저/16층, 남향급매, 월세안고, 수리깨끗, 3호선원당역도보가,1층아님",
+      "price": "2억 9",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 501동매매4억 3,000아파트102/83m², 16/16층, 남향원당역 도보 7분 남향",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "신원당5단지대명 504동매매3억 3,000아파트80/58m², 3/16층, 남향일부수리됨,3호선원당역도보가,앞동선호동,빠른입주가",
+      "price": "3억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 504동매매3억 2,000아파트80/58m², 중/16층, 남향급매,남향 선호동,전망특,재건축컨설팅지원대상단지,입주협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 503동매매3억 2,700아파트80/58m², 14/16층, 남향일부수리됨, 로얄층,남향선호동,입주협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 501동매매5억아파트102/83m², 9/16층, 남향남향이며 적당한 층의 밝고 관리가 잘된 깜끔한 집.",
+      "price": "5억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 501동매매4억 3,000아파트102/83m², 고/16층, 남향급매,햇살맛집남향,주인거주,원당역도보,입주일협의,어울림누리공원인접",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인신원당5단지대명 501동매매5억아파트102/83m², 3/16층, 남향샷시포함올수리,주인거주,원당역도보,입주일조정가",
+      "price": "5억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:13.461Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1486_20250718_003317.png"
+  }
+}

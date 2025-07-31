@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:24:21.901699",
+    "complex_id": "1459"
+  },
+  "basic_info": {
+    "complex_id": "1459",
+    "source_url": "https://new.land.naver.com/complexes/1459",
+    "extracted_at": "2025-07-18T00:24:17.232747",
+    "url": "https://new.land.naver.com/complexes/1459?ms=37.38576,126.957849,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:24:14.835Z",
+    "complexId": "1459"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "목련7단지 701동전세10억 5,000아파트187/158m², 15/21층, 남동향",
+      "price": "10억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "목련7단지 701동매매19억아파트187/158m², 고/21층, 남동향",
+      "price": "19억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "목련7단지 703동월세5억/160아파트187/158m², 1/21층, 남동향8월말입주",
+      "price": "5억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "목련7단지 703동전세8억 5,000아파트187/158m², 1/21층, 남동향샷시포함 올수리",
+      "price": "8억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인목련7단지 709동매매15억 2,000아파트122/101m², 저/10층, 남동향확장특올수리 평촌학원가도보5분",
+      "price": "15억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "목련7단지 708동매매16억 8,000아파트155/133m², 저/15층, 남서향앞이탁트인전망좋은층   평촌학원가바로옆 인기학군",
+      "price": "16억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "목련7단지 702동매매17억 5,000아파트187/158m², 중/21층, 남동향전세끼고매매샷시포함올수리깨끗 인기학군    조용 전망좋음",
+      "price": "17억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "목련7단지 702동전세10억아파트187/158m², 고/21층, 남동향올수리,학원가근접,전망굿",
+      "price": "10억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "목련7단지 705동매매16억 8,000아파트155/133m², 고/15층, 남동향학원가에 근접한 우수학군 단지로 빛이 잘들고 밝은 집 입니다.",
+      "price": "16억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "목련7단지 706동전세9억아파트155/133m², 저/15층, 남동향전자계약가능 좋은층  동간거리길어요 아주깨끗합니다",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:24:17.238Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1459_20250718_002421.png"
+  }
+}

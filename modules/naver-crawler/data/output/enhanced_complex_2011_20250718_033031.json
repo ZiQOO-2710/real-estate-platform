@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:30:31.383788",
+    "complex_id": "2011"
+  },
+  "basic_info": {
+    "complex_id": "2011",
+    "source_url": "https://new.land.naver.com/complexes/2011",
+    "extracted_at": "2025-07-18T03:30:27.665350",
+    "url": "https://new.land.naver.com/complexes/2011?ms=37.3908,126.94033,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:30:24.767Z",
+    "complexId": "2011"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "분양중안양한양수자인리버뷰분양가5.07 ~ 5.23억5.07억~5.23억면적122.26㎡ ~ 122.79㎡122.26㎡ ~ 122.79㎡오피스텔 169세대민간분양122.26㎡ ~ 122.79㎡분양중2022.05.26",
+      "price": "23억5",
+      "area": "122.26㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,114만대동아매매2.05억1.71억~2.4억면적61㎡61.95㎡ ~ 64.89㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "05억1",
+      "area": "61㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,197만은하수(벽산)매매10.25억7억~11억전세-3.7억면적106㎡69.61㎡ ~ 106.2㎡매매매물만 보기21개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억7",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,367만안양광신프로그레스리버뷰매매5.8억5.1억~8.5억전세4.2억4억~4.4억월세1.35백1.35백면적81㎡70.53㎡ ~ 113.59㎡매매매물만 보기91개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,120만한스하임(도시형)매매1.47억1.45억~1.55억월세52만52만면적23㎡23.31㎡ ~ 23.31㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "47억1",
+      "area": "23㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,440만평촌대성유니드매매6.2억4.5억~6.5억면적84㎡65.36㎡ ~ 85.63㎡매매매물만 보기42개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억4",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,672만한양수자인평촌리버뷰매매5.9억5억~7.5억전세4.3억4.3억면적73㎡63.57㎡ ~ 84.03㎡매매매물만 보기59개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억5",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "갤럭시뷰(주상복합)면적62.5㎡62.5㎡ ~ 100.79㎡단지정보",
+      "price": null,
+      "area": "62.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,781만은하수(청구)매매9억6억~9.7억전세6.5억5.5억~6.5억면적107㎡76.87㎡ ~ 107.57㎡매매매물만 보기51개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억6",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,668만진성베가타운(주상복합)매매5.6억5.5억~5.7억면적111㎡111.99㎡ ~ 111.99㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억5",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,159만한마음2단지매매6.4억5억~8.8억월세-60만면적98㎡74.71㎡ ~ 129.69㎡매매매물만 보기56개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억5",
+      "area": "98㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,273만한마음1단지매매5.5억5억~6.6억전세-4.2억면적80㎡80.13㎡ ~ 107.22㎡매매매물만 보기36개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.679Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,653만대도매매3억3억면적60㎡60.82㎡ ~ 60.82㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "3억3",
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:30:27.680Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "리츠팰리스(도시형)월세56만56만~57만면적18㎡18.82㎡ ~ 18.82㎡월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "18㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:30:27.680Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2011_20250718_033031.png"
+  }
+}

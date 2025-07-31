@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:28:47.087859",
+    "complex_id": "1081"
+  },
+  "basic_info": {
+    "complex_id": "1081",
+    "source_url": "https://new.land.naver.com/complexes/1081",
+    "extracted_at": "2025-07-17T22:28:42.902985",
+    "url": "https://new.land.naver.com/complexes/1081?ms=37.524236,127.056715,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:28:40.726Z",
+    "complexId": "1081"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현장청담자이 105동전세16억아파트120C/90m², 30/35층, 동향로얄층, 한강뷰, 거실넓은 오픈형 구조, 입주협의",
+      "price": "16억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "현장청담자이 101동월세6억/200아파트71C/49m², 9/32층, 북동향보증금 조절 가능 정원뷰 한강뷰 하시 입주",
+      "price": "6억",
+      "area": null,
+      "floor": "32층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인청담자이 104동매매60억아파트120B/89m², 34/35층, 동향로얄층, 전실 파노라마 한강뷰, 인기구조, 입주협의",
+      "price": "60억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인청담자이 102동월세1억/450아파트70B/49m², 26/35층, 북동향입주협의 가능한 한강조망",
+      "price": "1억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인청담자이 104동전세17억 5,000아파트120C/90m², 2/35층, 동향로얄동 예쁜공원뷰,오픈형 인기구조,입주협의",
+      "price": "17억 5",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인청담자이 104동월세12억/180아파트120C/90m², 2/35층, 동향로얄동 예쁜공원뷰 깔끔한 귀한반월세",
+      "price": "12억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인청담자이 101동전세12억아파트70B/49m², 26/32층, 북향로얄층, 한강뷰, 구조 좋은 최고인기타입, 입주협의",
+      "price": "12억",
+      "area": null,
+      "floor": "32층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인청담자이 103동전세13억아파트70B/49m², 19/27층, 동향소유주직접의뢰 멋진한강뷰 2룸아파트 학군우수 교통편리 내부깨끗",
+      "price": "13억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인청담자이 102동월세5억/250아파트71A/49m², 33/35층, 북동향한강뷰  관리잘된세대  보증금 조절 가능 합니다",
+      "price": "5억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인청담자이 102동전세11억아파트71A/49m², 33/35층, 북동향한강뷰 인기구조 깨끗하게 관리가 잘 된세대",
+      "price": "11억",
+      "area": null,
+      "floor": "35층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인청담자이 101동월세4억/320아파트70B/49m², 26/32층, 북향로얄층, 한강뷰, 구조 좋은 최고인기타입, 입주협의",
+      "price": "4억",
+      "area": null,
+      "floor": "32층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:28:42.915Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체70B㎡71C㎡71A㎡71D㎡71E㎡110B㎡111A㎡119A㎡120B㎡120C㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:28:42.916Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1081_20250717_222846.png"
+  }
+}

@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:31:31.144237",
+    "complex_id": "1478"
+  },
+  "basic_info": {
+    "complex_id": "1478",
+    "source_url": "https://new.land.naver.com/complexes/1478",
+    "extracted_at": "2025-07-18T00:31:26.903133",
+    "url": "https://new.land.naver.com/complexes/1478?ms=37.389369,126.968697,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:31:25.276Z",
+    "complexId": "1478"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 506동매매7억 2,000아파트77/59m², 2/15층, 서향계단식구조 샤시포함특올수리 베란다.작은방확장 민백초",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.912Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 503동매매9억아파트106/84m², 2/18층, 남향샷시교체 작은방확장되고 깨끗합니다.",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 501동매매9억 5,000아파트106/84m², 저/15층, 남향입주.샤시포함특올수리.남향.민백초",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 504동매매10억아파트106/84m², 18/23층, 남향입주물, 민백초,정남향, 로얄동,확트인전망. 평촌역도보10분거리",
+      "price": "10억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 506동매매7억 7,000아파트77/59m², 저/15층, 서향23 입주 내부특올수리된 예쁜집 주방작은방확장 민백초 평촌중",
+      "price": "7억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 502동월세1억/170아파트106/84m², 저/18층, 남향32샷시포함 내부수리,빠른입주가능,민백초.평촌중",
+      "price": "1억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 503동매매9억아파트106/84m², 저/18층, 남향입주 협의, 샷시 교체, 내부 특올수리",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 508동매매7억 3,000아파트77/59m², 고/15층, 남향투자물 남향 탁틔인뷰 최근내부올수리 민백초 평촌중 우수학군",
+      "price": "7억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 505동매매9억 5,000아파트106/84m², 고/15층, 남동향입주물.냠향.채광통풍잘되고 밝은집.내부올수리.민백초",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 506동매매6억 8,000아파트77/59m², 1/15층, 남서향가격 절충가능,1년 전 주방 리모델링,주인거주로 잘 관리된 집",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 502동매매9억아파트106/84m², 1/18층, 남향32  입주 최근샤시교체 내부수리 볕잘드는밝은집",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인초원5단지LG 509동매매10억 3,000아파트106/84m², 중/15층, 남향최고급수리 올확장 입주가능",
+      "price": "10억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "초원5단지LG 505동월세1억/170아파트106/84m², 5/15층, 남향즉시입주.도배장판해줌.올수리 남향 민백초",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    },
+    {
+      "index": 46,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인초원5단지LG 506동매매7억 2,000아파트77/59m², 2/15층, 서향계단식구조 샤시포함특올수리 베란다.작은방확장 민백초매경부동산 제공학사공인중개사사무소확인매물 25.07.15.집주인초원5단지LG 503동매매9억아파트106/84m², 2/18층, 남향샷시교체 작은방확장되고 깨끗합니다.매경부동산 제공평촌이젠공인중개사사무소확인매물 25.07.11.집주인초원5단지LG 501동매매9억 5,000아파트106/84m², 저/15층, 남향입주.샤시포함특올수리.남향.민백초매경부동산 제공학사공인중개사사무소확인매물 25.07.17.집주인",
+      "price": "7억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:31:26.913Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1478_20250718_003130.png"
+  }
+}

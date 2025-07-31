@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:24:07.480744",
+    "complex_id": "1067"
+  },
+  "basic_info": {
+    "complex_id": "1067",
+    "source_url": "https://new.land.naver.com/complexes/1067",
+    "extracted_at": "2025-07-17T22:24:03.028967",
+    "url": "https://new.land.naver.com/complexes/1067?ms=37.501107,126.865319,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:24:00.865Z",
+    "complexId": "1067"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동아한신 102동매매9억아파트145/115m², 14/18층, 남향로얄동로얄층  깨끗 주인거주 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동아한신 104동매매6억 3,000아파트82A/59m², 15/22층, 남동향올수리된 로열 전망이 아주 좋음",
+      "price": "6억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동아한신 103동매매11억아파트165/131m², 7/23층, 남향 햇살좋은 남향 수리 깨끗 주인거주 입주협의",
+      "price": "11억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동아한신 103동매매9억 7,000아파트165/131m², 15/23층, 남향확장형 밝고 전망좋은 수리 깨끗 주인거주 입주협의",
+      "price": "9억 7",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "동아한신 104동매매6억 3,000아파트82A/59m², 3/22층, 동향깨끗 입주가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "동아한신 101동매매7억 7,000아파트106B/84m², 10/21층, 동향전망탁 트이고 거실이 넓어 좋음",
+      "price": "7억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인동아한신 101동전세5억아파트106A/84m², 13/21층, 남향폴딩도어 남향 올수리 방3 화2개 초중고 대학교까지 다 도보거리",
+      "price": "5억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동아한신 101동매매7억아파트106A/84m², 1/21층, 동향전세승계, 내부 수리되어 깔끔하며 1층이라 층간소음 걱정이 없습니다.",
+      "price": "7억",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인동아한신 101동매매7억 5,000아파트106A/84m², 21/21층, 동향전세승계,  교통편리, 막힘없는 전망, 인근에 편의시설 다양함",
+      "price": "7억 5",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인동아한신 104동매매6억아파트82A/59m², 4/22층, 동향전세승계이며  교통이 편리하며 구조 좋은 집입니다",
+      "price": "6억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인동아한신 104동매매6억 3,000아파트82A/59m², 3/22층, 남향세안고 매매 수리되어있어 내부 깨끗",
+      "price": "6억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:24:03.043Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체82A㎡82C㎡82B㎡106A㎡106B㎡145㎡165㎡",
+      "price": null,
+      "area": "145㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:24:03.044Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1067_20250717_222407.png"
+  }
+}

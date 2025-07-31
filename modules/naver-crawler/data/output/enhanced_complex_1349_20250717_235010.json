@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:50:10.489827",
+    "complex_id": "1349"
+  },
+  "basic_info": {
+    "complex_id": "1349",
+    "source_url": "https://new.land.naver.com/complexes/1349",
+    "extracted_at": "2025-07-17T23:50:06.303257",
+    "url": "https://new.land.naver.com/complexes/1349?ms=37.572137,126.843164,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:50:05.181Z",
+    "complexId": "1349"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 107동매매14억아파트158/134m², 13/15층, 남동향한강 ,근린공원 근접,대지 지분20P",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 105동매매19억 5,000아파트192/164m², 14/15층, 남서향수리상태에서 2년전 부분 올수리,샷시교체, 입주가,양천향교역,한강공원인접",
+      "price": "19억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 108동전세7억아파트158/134m², 7/15층, 남동향올수리,  월세도 가능 , 726 이후 가능",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 107동매매13억 8,000아파트158/134m², 2/15층, 남동향입주협의, 가격조정가능, 샷시교체, 최근 도배해서 깨끗한 집이에요",
+      "price": "13억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 107동매매14억아파트158/134m², 2/15층, 서향올수리한집  한강변아파트 9호선양천향교역이용 마곡인근 88진입용의함",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 109동전세7억아파트158/134m², 12/15층, 남향내부 올 수리,깨끗함,입주 협의",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 106동매매13억아파트122/101m², 8/15층, 서향샷시포함특올수리 시스템에어컨 마곡인근 cj부지개발중",
+      "price": "13억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "동신,대아 103동매매15억 5,000아파트158/134m², 4/15층, 남향올수리,정상",
+      "price": "15억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 109동전세7억아파트158/134m², 12/15층, 남서향양천향교역,한강산책로,입주협의,마곡지구인근,올림픽대로,강변북로",
+      "price": "7억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "동신,대아 107동매매14억 5,000아파트158/134m², 6/15층, 남동향지분20.05 확장수리 깨끗, 주변cj부지 개발호재,입주협의",
+      "price": "14억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인동신,대아 108동월세3억/160아파트158/134m², 7/15층, 남동향양천향교역역세권 올수리 판상형 주인거주관리깨끗 전세가능",
+      "price": "3억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:50:06.319Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "동신,대아 103동매매15억 5,000아파트158/134m², 14/15층, 남향9호선역세권 CJ부지개발호재 한강조망  빠른입주 가능함",
+      "price": "15억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:50:06.320Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1349_20250717_235010.png"
+  }
+}

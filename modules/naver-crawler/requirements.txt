@@ -11,3 +11,4 @@ fake-useragent==1.4.0
 httpx==0.25.2
 supabase==2.3.4
 postgrest==0.13.2
+aiohttp==3.12.14

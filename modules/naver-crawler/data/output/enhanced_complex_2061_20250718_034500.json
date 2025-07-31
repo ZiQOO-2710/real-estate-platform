@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:45:00.634746",
+    "complex_id": "2061"
+  },
+  "basic_info": {
+    "complex_id": "2061",
+    "source_url": "https://new.land.naver.com/complexes/2061",
+    "extracted_at": "2025-07-18T03:44:56.621811",
+    "url": "https://new.land.naver.com/complexes/2061?ms=37.315708,126.951371,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:44:54.944Z",
+    "complexId": "2061"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인우성6차 14동매매3억 4,000재건축49/35m², 2/5층, 남향재건축 진행중 현 세입자 거주중 26년2월",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인우성6차 14동매매3억 4,000재건축49/35m², 5/5층, 남향재건축 감평후 조합원분양신청 중",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "우성6차 12동매매3억 3,000재건축49/35m², 4/5층, 남향급매 의왕역세권 부곡다구역 재건축 추진중 호수뷰투자물",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인우성6차 10동매매2억 9,000재건축49/35m², 4/5층, 남향급매, 부곡다구역 재건축진행중, 입주물",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인우성6차 14동매매4억 7,000재건축49/35m², 4/5층, 남향입주물  기본  재건축진 단지임",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "우성6차 9동매매3억 6,000재건축58/42m², 3/5층, 남향급매 의왕역세권 부곡다구역 재건축 추진중 호수뷰투자물",
+      "price": "3억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "우성6차 9동전세1억 1,000재건축58/42m², 4/5층, 남향 의왕역세권 방3,주방겸거실,욕실1 융자무 정상입주",
+      "price": "1억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인우성6차 8동매매4억 9,500재건축75/57m², 3/5층, 남향재건축 진행중 입주물 사업시행인가 예정",
+      "price": "4억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "우성6차 10동매매2억 9,000재건축49/35m², 3/5층, 남향재건축 조합원 분양신청진행중 세입자 승계조건 매매입니다",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인우성6차 8동매매3억 3,000재건축49/35m², 3/5층, 남향세안고  깨끗함  재건축  단지임",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "우성6차 10동매매3억 5,000재건축49/35m², 1/5층, 남향의왕역세권 수리됨 상태양호 재건축추진중 투자물",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인우성6차 9동매매3억 6,000재건축58/42m², 1/5층, 남향재개발구역 부곡다구역 의왕역세권 거실확장 주인거주 빠른입주가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "우성6차 10동매매3억 5,000재건축49/35m², 5/5층, 남향급매 의왕역세권 부곡다구역 재건축 추진중 호수뷰투자물",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "우성6차 15동매매4억 5,000재건축61/45m², 2/5층, 남향급매 의왕역세권 부곡다구역 재건축 추진중 호수뷰투자물",
+      "price": "4억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "우성6차 8동매매3억 1,000재건축49/35m², 1/5층, 남향재건축조합원분양, 감정가214,500,000원, 세안고 매매",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:44:56.637Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2061_20250718_034500.png"
+  }
+}

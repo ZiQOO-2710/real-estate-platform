@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:57:51.516256",
+    "complex_id": "1911"
+  },
+  "basic_info": {
+    "complex_id": "1911",
+    "source_url": "https://new.land.naver.com/complexes/1911",
+    "extracted_at": "2025-07-18T02:57:46.631006",
+    "url": "https://new.land.naver.com/complexes/1911?ms=37.336262,126.750194,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:57:45.251Z",
+    "complexId": "1911"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인시화유천 903동매매2억 1,000아파트76A/59m², 4/5층, 남서향",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인시화유천 901동월세2,000/80아파트76A/59m², 4/5층, 남서향올수리되어 아주깨끗 애완견가능 식자재인접",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인시화유천 913동매매3억 2,000아파트107/84m², 8/10층, 남서향수리된집 전망굿 상권편리 이사는 빨리도 가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인시화유천 913동매매3억 8,000아파트107/84m², 10/10층, 남서향샷시까지 특올수리 되어 엄청 밝고 깨끗합니다. 이사협의.",
+      "price": "3억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인시화유천 905동전세2억 5,000아파트107/84m², 1/10층, 남동향샷시,확장,특올수리",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인시화유천 913동매매3억 7,000아파트107/84m², 5/10층, 남서향거실 방 확장 샤시등 전체 특올수리최근공사완료",
+      "price": "3억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인시화유천 903동매매2억 5,000아파트76A/59m², 3/5층, 남서향수리 꺄끗 채광 좋고 식자재 인접",
+      "price": "2억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인시화유천 915동매매2억 5,000아파트76B/59m², 10/10층, 남서향수리 초중교 롯데마트차로8분 식자재인접 정왕역차로8분",
+      "price": "2억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "시화유천 907동월세3,000/100아파트107/84m², 2/10층, 남동향올수리됨,거실확장,방확장,붙박이장 보증금조정가능",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "시화유천 908동매매3억 2,000아파트107/84m², 8/10층, 남향볕좋은집. 로얄동로얄층. 트인뷰. 이사협의. 안산가까워요",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "시화유천 909동매매3억 3,000아파트107/84m², 5/10층, 남서향최근 전체올수리 아주깨끗 협의 집상태 최상급",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "시화유천 903동전세1억 7,000아파트76A/59m², 4/5층, 남서향올수리했던집,깨끗함.",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "시화유천 907동매매3억 2,000아파트107/84m², 5/10층, 남서향올수리했던집.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "시화유천 902동매매2억 2,000아파트76A/59m², 1/5층, 남서향부분수리로 깨끗함.",
+      "price": "2억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "시화유천 907동매매3억 3,000아파트107/84m², 7/10층, 남서향부분수리로 깨끗함,조정가.",
+      "price": "3억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "시화유천 901동매매2억 4,000아파트76A/59m², 3/5층, 남서향예전올수리깨끗함.조정가.",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "시화유천 909동매매3억 1,000아파트107/84m², 3/10층, 남서향입주가능,저렴한급매물.조정가.",
+      "price": "3억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.646Z"
+    },
+    {
+      "index": 54,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인시화유천 903동매매2억 1,000아파트76A/59m², 4/5층, 남서향매경부동산 제공유천 공인중개사사무소확인매물 25.07.07.집주인시화유천 901동월세2,000/80아파트76A/59m², 4/5층, 남서향올수리되어 아주깨끗 애완견가능 식자재인접매경부동산 제공영남랜드 공인중개사사무소확인매물 25.07.09.집주인시화유천 913동매매3억 2,000아파트107/84m², 8/10층, 남서향수리된집 전망굿 상권편리 이사는 빨리도 가능아실 제공두산위브 공인중개사사무소확인매물 25.07.08.네이버에서 보기집주인시화유천 913동매",
+      "price": "2억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:57:46.647Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1911_20250718_025751.png"
+  }
+}

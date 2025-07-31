@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:29:24.432723",
+    "complex_id": "1625"
+  },
+  "basic_info": {
+    "complex_id": "1625",
+    "source_url": "https://new.land.naver.com/complexes/1625",
+    "extracted_at": "2025-07-18T01:29:20.190479",
+    "url": "https://new.land.naver.com/complexes/1625?ms=37.460945,126.883006,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:29:18.809Z",
+    "complexId": "1625"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1224동전세4억아파트94/76m², 12/15층, 남서향주인직접, 관리잘되고 깔끔한 집, 빠른입주 환영",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1224동전세4억아파트94/76m², 12/15층, 남향독산역도보 깔끔컨디션 3룸 전세",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1220동매매5억 3,000아파트59/44m², 2/15층, 남동향o착한비용o  너무 예쁜 특올수리,중문,확장,마루,샷 신혼부부들 강추",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "주공12단지 1213동전세4억아파트104/84m², 9/15층, 남동향로얄동으로 깨끗함 화장실2 계단식구조",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "주공12단지 1218동전세2억 2,000아파트59/44m², 11/15층, 남동향올수리되어 아주깨끗, 채광좋고 교통편리한 대단지",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "주공12단지 1224동매매8억 3,000아파트94/76m², 11/15층, 남향채광좋은 정남향 수리되어 깨끗함 계단식구조",
+      "price": "8억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.203Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "주공12단지 1222동매매8억 5,000아파트94/76m², 14/15층, 남향특올수리화이트톤.중문,폴딩도어 정상입주.계단식.독산역도보가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "주공12단지 1219동월세3,000/120아파트77/59m², 15/15층, 남동향올수리.8월중순정상.방3개.독산역도보가능",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공12단지 1219동매매6억 8,000아파트77/59m², 8/15층, 남동향올수리 정상 방3개.독산역도보간으.교통생활권편리함",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "주공12단지 1218동매매5억아파트59/44m², 15/15층, 남동향아주깨끗욕실샷시수리됨,정상.독산역도보가능.반계단식",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인주공12단지 1212동매매8억아파트94/76m², 1/15층, 남동향0올수리 되어있음0 하안동에서 선호단지0교통편리0인프라굿0",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공12단지 1222동전세4억아파트104/84m², 3/15층, 남향올수리 독산역도보이용 채광좋은남향",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공12단지 1219동전세2억 2,000아파트59/44m², 3/15층, 남동향올수리 독산역도보이용 생활권편리",
+      "price": "2억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공12단지 1219동매매4억 8,000아파트59/44m², 3/15층, 남동향올수리 독산역도보이용 공원학교인접",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "주공12단지 1222동월세1억/140아파트104/84m², 3/15층, 남향올수리 독산역도보이용 공원상업지구이용용이",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공12단지 1202동매매6억 5,000아파트80/58m², 7/15층, 남동향로얄동 호수이며 깨끗함 교통및 상가 진출용이",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:29:20.204Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1625_20250718_012924.png"
+  }
+}

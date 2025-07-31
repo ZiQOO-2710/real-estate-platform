@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:24:30.644703",
+    "complex_id": "161"
+  },
+  "basic_info": {
+    "complex_id": "161",
+    "source_url": "https://new.land.naver.com/complexes/161",
+    "extracted_at": "2025-07-18T01:24:26.449127",
+    "url": "https://new.land.naver.com/complexes/161?ms=37.460436,126.886348,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:24:25.171Z",
+    "complexId": "161"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동월세1억 5,000/35아파트58S/44m², 12/15층, 남향밝고 깨끗",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1403동매매3억 8,000아파트59N/44m², 3/15층, 남동향o 착한비용 o  샷시수리됨 입주일 협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동매매4억아파트58S/44m², 12/15층, 남향17 .  올수리 .  전망 굿.  채광 굿 . 입주가능 .",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1402동매매6억 3,000아파트94/76m², 11/15층, 남동향o 착한비용 o  깨끗하게 수리된 집, 즉시입주 가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1403동매매4억 2,000아파트59N/44m², 14/15층, 남동향빠른입주 확트인뷰 올수리 방2 조망권 주인거주",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "주공14단지 1401동매매4억아파트58S/44m², 14/15층, 남동향전체특올수리.정상.교통생활권편리함",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동매매3억 6,500아파트50/38m², 5/15층, 남향15 . 전체 올수리된 깔끔한 집.  해잘드는 남향으로 밝고 따뜻 .",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1405동매매4억 5,000아파트50/38m², 15/15층, 남향일부수리된 깔끔한 집으로 입주 가능합니다.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동월세3,000/80아파트50/38m², 2/15층, 남동향",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동매매3억 9,000아파트58S/44m², 12/15층, 남동향올수리,로얄동,로얄층,관리잘된집",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인주공14단지 1401동매매3억 9,000아파트58S/44m², 14/15층, 남향위치좋고 올수리된 투룸 아파트",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공14단지 1405동매매4억 2,000아파트58S/44m², 9/15층, 남동향올수리완료,조정가",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공14단지 1401동전세2억 3,000아파트50/38m², 7/15층, 남동향깨끗한집 정상 생활권편리",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공14단지 1404동매매4억아파트59N/44m², 9/15층, 남동향깨끗한집 세안고26년6월만기 N형",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공14단지 1401동매매3억 2,000아파트50/38m², 5/15층, 남동향빠른입주가능합니다  독산역세권 솔로 신혼부부모두 강추",
+      "price": "3억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공14단지 1401동전세1억 6,000아파트50/38m², 5/15층, 남동향하시 정상 기본시설입니다",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공14단지 1401동매매3억 6,000아파트50/38m², 7/15층, 남향25년9월만기,올수리",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:24:26.463Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_161_20250718_012430.png"
+  }
+}

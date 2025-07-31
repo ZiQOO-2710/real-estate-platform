@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:21:39.758930",
+    "complex_id": "1600"
+  },
+  "basic_info": {
+    "complex_id": "1600",
+    "source_url": "https://new.land.naver.com/complexes/1600",
+    "extracted_at": "2025-07-18T01:21:37.009177",
+    "url": "https://new.land.naver.com/complexes/1600?ms=37.436576,126.876791,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:21:35.964Z",
+    "complexId": "1600"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미도2차 101동매매3억 5,500아파트81B/59m², 2/15층, 남동향24 . 일부 수리된 깔끔한 집입니다.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.025Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미도2차 102동매매5억아파트115/84m², 11/15층, 남향올수리,방3화2,좋은가격,협의가능,투자및실거주최상,강력추천",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미도2차 102동매매4억 8,000아파트115/84m², 12/15층, 동향전망좋고 수리해서 깨끗하며 즉시입주 가능합니다.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미도2차 102동매매4억 8,000아파트115/84m², 7/15층, 남서향밝고 깨끗. 중문설치",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인미도2차 102동매매4억 8,000아파트115/84m², 7/15층, 동향주인거주, 전망 좋고 부분 인테리어 된 집, 입주협의가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인미도2차 102동매매5억아파트115/84m², 고/15층, 동향수리된집 탁트인전망 광명역세권인접 소하공원옆 초중고 도보거리",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인미도2차 101동매매3억 6,000아파트81A/59m², 중/15층, 동향입주0 로열층 거실확장 시야트임 수리되어 깨끗 주인거주 관리 잘되어있어요",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인미도2차 101동매매3억 5,500아파트81B/59m², 2/15층, 남동향24 . 일부 수리된 깔끔한 집입니다.매경부동산 제공리치공인중개사사무소확인매물 25.07.17.집주인미도2차 102동매매5억아파트115/84m², 11/15층, 남향올수리,방3화2,좋은가격,협의가능,투자및실거주최상,강력추천부동산써브 제공대지공인중개사사무소확인매물 25.07.16.집주인미도2차 102동매매4억 8,000아파트115/84m², 12/15층, 동향전망좋고 수리해서 깨끗하며 즉시입주 가능합니다.산업부동산 제공서울(단지내) 공인중개사사무소확인매물",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:37.026Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1600_20250718_012139.png"
+  }
+}

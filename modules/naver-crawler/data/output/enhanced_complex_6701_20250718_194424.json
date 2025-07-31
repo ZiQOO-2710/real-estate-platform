@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:44:24.065654",
+    "complex_id": "6701"
+  },
+  "basic_info": {
+    "complex_id": "6701",
+    "source_url": "https://new.land.naver.com/complexes/6701",
+    "extracted_at": "2025-07-18T19:44:19.587979",
+    "url": "https://new.land.naver.com/complexes/6701?ms=37.887835,127.742273,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:44:17.213Z",
+    "complexId": "6701"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동산 101동매매1억 2,500아파트69/69m², 7/10층, 남향2년전 외부샷시, 주방,베란다,화장실 등 올수리",
+      "price": "1억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.597Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "동산 102동매매1억 3,000아파트84/84m², 3/10층, 남향남향, 기본형, 입주협의",
+      "price": "1억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "동산 102동매매7,200아파트31/31m², 2/10층, 동향기본형.방1.거실겸 주방,욕실1.",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "동산 102동매매7,500아파트31/31m², 3/10층, 남향화장실 싱크대 교체",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "동산 101동매매1억 2,000아파트69/69m², 5/10층, 남향집 주인 거주로 관리 잘된집, 입주는 매수자님께 맞추어 드림",
+      "price": "1억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "동산 102동매매1억 5,000아파트84/84m², 5/10층, 남향샷시,싱크대교체 주인거주로 집상태 깔끔",
+      "price": "1억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동산 102동매매7,500아파트31/31m², 10/10층, 남동향후평동 동산아파트 102동 10층 방1화1 거실 베란다 샷시포함 리모델링",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "동산 101동매매1억 1,000아파트69/69m², 3/10층, 남향욕실수리 전등교체등 내부 부분수리됨 주인거주로 입주협의",
+      "price": "1억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동산 102동매매7,200아파트31/31m², 5/10층, 동향집상태 깨끗함.옵션있음.전세계약승계",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "동산 102동매매7,500아파트31/31m², 10/10층, 남향원룸형 아파트 인근 한림대 지식센터 입지조건좋음",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "동산 102동매매7,000아파트31/31m², 7/10층, 동향동산 102동 7층 올리모델링된 분리형원룸 풀옵션",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "동산 102동매매1억 5,000아파트84/84m², 9/10층, 남향샷시 화장실 수리완료",
+      "price": "1억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "동산 102동매매1억 4,000아파트84/84m², 5/10층, 남동향25년 3월 보일러 교체, 샷시 교체 완료, 협의 후 빠른 입주 가능",
+      "price": "1억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "동산 102동매매6,500아파트31/31m², 1/10층, 동향전세안고매매. 투자추천. 어르신살기좋은1층",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:44:19.598Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6701_20250718_194423.png"
+  }
+}

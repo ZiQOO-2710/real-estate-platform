@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:34:07.658877",
+    "complex_id": "25"
+  },
+  "basic_info": {
+    "complex_id": "25",
+    "source_url": "https://new.land.naver.com/complexes/25",
+    "extracted_at": "2025-07-21T12:34:03.373934",
+    "url": "https://new.land.naver.com/complexes/25?ms=37.579657,126.811993,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:34:00.647Z",
+    "complexId": "25"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동성 107동매매8억아파트94/76m², 10/13층, 동향탁트인뷰굿  샷시포함올수리  거실확장  아주깔끔  입주협의",
+      "price": "8억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동성 109동매매8억 5,000아파트104/84m², 12/13층, 동향역세권대단지  방화역3분  올수리  트인뷰  깔끔  입주협의",
+      "price": "8억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동성 103동매매7억 9,000아파트94/76m², 9/14층, 동향난방배관샷시포함전체특올수리  깔끔 입주협의 초중고인접 근린공원인접",
+      "price": "7억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동성 106동매매6억 9,000아파트79/64m², 13/14층, 남향전세안고 방화역3분  방3 화1  깨끗  트인전망굿 채광굿  공원인접",
+      "price": "6억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동성 102동매매7억 8,000아파트94/76m², 2/14층, 남향남향집으로 전체올수리되어 이쁜집입주날짜맞추어드림",
+      "price": "7억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인동성 102동매매8억 2,000아파트104/84m², 6/14층, 남향추천 급매, 환한 남향, 수리, 9월말입주 협의가",
+      "price": "8억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인동성 105동매매8억 1,000아파트104/84m², 2/14층, 남향남향  올수리  채광굿  깔끔  전세안고",
+      "price": "8억 1",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인동성 110동매매8억아파트104/84m², 4/13층, 남향추천 급매, 전망트인 남향 로얄라인, 2년전 올수리, 2월10일만기",
+      "price": "8억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동성 103동매매7억 3,000아파트94/76m², 11/14층, 동향초급매, 역세권, 수리 깨끗, 세안고",
+      "price": "7억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인동성 109동매매7억 9,000아파트104/84m², 6/13층, 동향급매, 전망좋음, 샤시교체 및 수리, 입주일 협의 조정가",
+      "price": "7억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인동성 103동전세5억 5,000아파트94/76m², 6/14층, 동향최근 샤시포함 전체 올수리, 융자없음, 11월28일입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:34:03.381Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_25_20250721_123407.png"
+  }
+}

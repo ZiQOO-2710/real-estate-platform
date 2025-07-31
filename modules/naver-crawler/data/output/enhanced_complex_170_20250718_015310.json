@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:53:10.621543",
+    "complex_id": "170"
+  },
+  "basic_info": {
+    "complex_id": "170",
+    "source_url": "https://new.land.naver.com/complexes/170",
+    "extracted_at": "2025-07-18T01:53:06.029140",
+    "url": "https://new.land.naver.com/complexes/170?ms=37.451012,126.897936,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:53:04.818Z",
+    "complexId": "170"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성지 1동월세5,000/150아파트108/79m², 4/13층, 남동향",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성지 2동전세3억 1,000아파트91/67m², 4/13층, 남동향",
+      "price": "3억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인성지 2동매매5억 6,500아파트91/67m², 1/13층, 남향재건축예정,1층,내부 깔끔,입주협의",
+      "price": "5억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "성지 2동매매6억 2,000아파트91/67m², 8/13층, 동향주인거주해 바로입주가능해요 올수리햇어요.",
+      "price": "6억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "성지 2동매매4억 5,000아파트75/55m², 2/13층, 동향저렴한 가격입니다 입주가능",
+      "price": "4억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "성지 1동월세5,000/150아파트108/79m², 4/13층, 남향도배 장판해줌홈플러스 근처 5분거리",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "성지 1동매매7억아파트108/79m², 3/13층, 남향올수리",
+      "price": "7억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "성지 1동매매6억 9,000아파트108/79m², 저/13층, 남향귀한매물 정남향 신안산선근접 입주일협의가능",
+      "price": "6억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인성지 2동매매6억아파트91/67m², 5/13층, 동향재건축진행중 주인거주",
+      "price": "6억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인성지 2동매매5억 8,000아파트91/67m², 7/13층, 동향거실확장 싱크대등 부분 수리",
+      "price": "5억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인성지 1동매매7억 3,000아파트108/79m², 5/13층, 남향급매, 올수리, 전세끼고 매매, 재건축추진, 가격조정가능",
+      "price": "7억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인성지 2동매매5억 8,000아파트91/67m², 7/13층, 남서향성지아파트세입자거주중이지만 협의로 입주가능합니다.방3개 넓은 거실,급매",
+      "price": "5억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "성지 1동매매7억 1,000아파트108/79m², 1/13층, 남향난방배관 교체",
+      "price": "7억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:53:06.042Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_170_20250718_015310.png"
+  }
+}

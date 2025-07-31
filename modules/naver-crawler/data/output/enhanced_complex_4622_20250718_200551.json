@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:05:51.824315",
+    "complex_id": "4622"
+  },
+  "basic_info": {
+    "complex_id": "4622",
+    "source_url": "https://new.land.naver.com/complexes/4622",
+    "extracted_at": "2025-07-18T20:05:46.838245",
+    "url": "https://new.land.naver.com/complexes/4622?ms=35.115006,129.108197,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:05:44.007Z",
+    "complexId": "4622"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 4동월세500/30아파트58/48m², 1/6층, 동향올수리 된 보븡금 저렴한 매물, 주차가능, 즉시입주 가능.",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:05:46.850Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 2동매매1억 2,000아파트73/63m², 6/6층, 동향급매. 재건축 추진중. 방3칸. 세안고 매매.",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.850Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 3동매매1억 9,000아파트73/63m², 2/6층, 동향임차인 거주중인 상태에서 매매 가능.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.850Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 4동매매1억 1,000아파트66/55m², 5/6층, 동향삿시 욕실등 수리됨 즉시입주 가능",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.850Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 3동전세8,500아파트73/63m², 중/6층, 동향수리됨,밝고 햇살좋은집,LH모든전세대출가능함.",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:05:46.850Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 4동매매1억 1,000아파트66/55m², 2/6층, 동향수리되어 세입자 안고 투자가능, 층수 좋은 매물.",
+      "price": "1억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 2동매매1억 4,500아파트73/63m², 4/6층, 남동향22  기본집    방3  욕실1",
+      "price": "1억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 2동월세500/35아파트73/63m², 6/6층, 동향넓은평수의 가격좋은월세,탁트인뷰,보증금.월세 조율가능함.",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 4동매매1억아파트66/55m², 고/6층, 동향올수리,전세안고,탁트인뷰,투자추천매물.",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 3동매매1억 2,000아파트73/63m², 고/6층, 동향급매,샷시교체,기본집,공실로 실입주가능함,가격좋음.",
+      "price": "1억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 2동매매1억 4,500아파트73/63m², 2/6층, 동향층수좋고 ,세입자 안고 투자가능 ,최저가의 착한 가격,",
+      "price": "1억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 3동매매1억 3,000아파트73/63m², 6/6층, 동향",
+      "price": "1억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "동방파크맨션 3동월세2,000/30아파트73/63m², 5/6층, 동향방3. 빠른 입주 가능. 깔끔한 집.",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 1동매매2억 2,000아파트78/68m², 3/6층, 동향",
+      "price": "2억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인동방파크맨션 4동매매1억 4,500아파트66/55m², 4/6층, 동향20 주인거주 관리잘된 집 샷시교체 부분수리됨",
+      "price": "1억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:05:46.851Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4622_20250718_200551.png"
+  }
+}

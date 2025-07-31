@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:14:05.446856",
+    "complex_id": "1772"
+  },
+  "basic_info": {
+    "complex_id": "1772",
+    "source_url": "https://new.land.naver.com/complexes/1772",
+    "extracted_at": "2025-07-18T02:14:02.671909",
+    "url": "https://new.land.naver.com/complexes/1772?ms=37.25443,127.024603,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:14:01.371Z",
+    "complexId": "1772"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한효 1동매매2억 9,000아파트91/71m², 9/10층, 남향높은세안고매매,투자용좋은집,샷시올수리,초등학교초인근,주거환경굿",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한효 3동매매2억 9,000아파트91/71m², 4/10층, 동향앞이트인집 햇살가득 관리잘되어 깨끗합니다",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한효 3동매매3억 1,000아파트91/71m², 9/10층, 남향남향.깔끔한집기본인테리어,화장실수리입주협의",
+      "price": "3억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "한효 1동매매4억 1,000아파트91/71m², 1/10층, 남향남향,주인거주,올수리된집,입주여유",
+      "price": "4억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "한효 1동매매2억 9,000아파트91/71m², 9/10층, 남서향올수리, 샷시포함, 가성비 좋은 전세안고 매물, 선행초 도보학군",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "한효 1동매매2억 8,500아파트91/71m², 4/10층, 동향급매 앞이트이고 좋아요 주인거주 입주협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "한효 3동매매3억아파트91/71m², 8/10층, 남향샷시교체. 깔끔한 남향집. 즉시입주가능합니다. 초품아",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한효 1동매매3억아파트91/71m², 7/10층, 남향올수리된집.주인거주로 관리잘됨.확트인조망.언제든집볼수있음.",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "한효 1동매매3억아파트91/71m², 1/10층, 동향선행초  샷시교체 부분수리 입주협의",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "한효 1동매매2억 9,000아파트91/71m², 고/10층, 남향세안고매매, 샤시교체,부분수리하여 아주깨끗하고 교통과 학군이 우수함",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "한효 1동매매3억아파트91/71m², 7/10층, 동향뻥뷰 주인거주로 관리잘됨 입주협의",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "한효 3동매매2억 8,500아파트91/71m², 4/10층, 남향싱크대,욕실,몰딩,베란다타일,현관올수리,입주협의,주인거주",
+      "price": "2억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "한효 3동매매3억아파트91/71m², 8/10층, 남동향샷시교체, 인기 있는 선행초 배정, 빠른입주",
+      "price": "3억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:14:02.686Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1772_20250718_021405.png"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:44:19.399352",
+    "complex_id": "1517"
+  },
+  "basic_info": {
+    "complex_id": "1517",
+    "source_url": "https://new.land.naver.com/complexes/1517",
+    "extracted_at": "2025-07-18T00:44:14.712310",
+    "url": "https://new.land.naver.com/complexes/1517?ms=37.696592,126.766531,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:44:11.850Z",
+    "complexId": "1517"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동매매3억 8,000아파트105/84m², 12/18층, 남향최근에 특별하게 예쁘게 수리햇어요  최고역세권  조정해드려요",
+      "price": "3억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동매매3억 8,000아파트105/84m², 13/18층, 남향내부샤시및수리되어있습니다.남향,로얄동,입주협의가능합니다",
+      "price": "3억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 501동매매2억 9,000아파트86B/68m², 8/17층, 남향세안고 갭7천 주인올수리 선호동 탄현역세권 예쁜집이예요",
+      "price": "2억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동매매3억 4,000아파트105/84m², 18/18층, 남향",
+      "price": "3억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동매매3억 3,000아파트105/84m², 3/18층, 남향조용한동 주인거주 느낌좋은집 정원뷰  조정해드요  입주날짜협의가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동전세2억 9,000아파트105/84m², 5/18층, 남향초역세권 깨끗하게 수리된 밝은집",
+      "price": "2억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 504동매매3억 7,500아파트105/84m², 18/18층, 남향내부샷시포 전체확장 2년전 특 올수리  층가소음걱정무  조정가능해요",
+      "price": "3억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 501동매매3억아파트86B/68m², 6/17층, 남향탄현역 역세권 내부 올수리  깨끗하고 전망 굿",
+      "price": "3억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 504동전세2억 8,000아파트105/84m², 2/18층, 남향귀한전세 올수리 주방확장  입주협의 남향집으로 높은2층 탄현역세권",
+      "price": "2억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 501동매매2억 7,500아파트86A/68m², 2/17층, 남향내부올수리로 바로입주가능합니다.입주협의,로얄동,높고환한2층입니다",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 505동매매4억아파트105/84m², 15/18층, 남향세안고전망굿 올수리 상태굿 초중고인접",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 504동매매3억 6,000아파트105/84m², 13/18층, 남향내부샤시올수리된 주인분수리집입니다.입주협의가능한 탄현역세권입니다.",
+      "price": "3억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 503동매매2억 7,500아파트86B/68m², 12/17층, 남향내부올수리 소액 갭3500투자  조정해드려요 신혼부부거주 무척깨끗해요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 503동전세2억 4,000아파트86B/68m², 16/17층, 남향거실확장  융자없는 수리된 좋은집  입주날짜협의해드려요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인탄현5단지건영 502동매매2억 7,500아파트86B/68m², 9/17층, 남향내부수리된 남향로얄층입니다.탄현역세권,상탄초학군입니다.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:44:14.727Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1517_20250718_004419.png"
+  }
+}

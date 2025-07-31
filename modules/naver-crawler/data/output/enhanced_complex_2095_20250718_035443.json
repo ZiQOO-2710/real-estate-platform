@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:54:43.434643",
+    "complex_id": "2095"
+  },
+  "basic_info": {
+    "complex_id": "2095",
+    "source_url": "https://new.land.naver.com/complexes/2095",
+    "extracted_at": "2025-07-18T03:54:38.531151",
+    "url": "https://new.land.naver.com/complexes/2095?ms=37.729697,127.057733,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:54:36.287Z",
+    "complexId": "2095"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 106동매매4억 3,500아파트116(삼익)/92m², 4/19층, 남향샷시포함 올수리, 조명, 남향, 막히지 않음.주변생활권 편리 추천",
+      "price": "4억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 106동매매3억 7,000아파트116(삼익)/92m², 1/19층, 남향씽크대, 화장실2개 교체됨. 교통,학군좋아요. 아이키우기좋아요.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 101동매매4억 3,000아파트123(한일)/101m², 10/19층, 남향수리상태깨끗합니다 세안고매매가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 102동매매4억 5,000아파트126(한일)/101m², 17/20층, 남향방4화2 거실 방확장 올수리 아주좋습니다. 추천매물",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 101동매매4억 4,000아파트123(한일)/101m², 6/19층, 남향",
+      "price": "4억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 102동매매4억아파트126(한일)/101m², 2/20층, 남향방4,샷시포함올수리,남향,교통,생활권편리",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 105동매매4억아파트116(삼익)/92m², 16/20층, 남향화장실 수리, 싱크대교체 등 수리된 집",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 105동매매4억 1,000아파트116(삼익)/92m², 중/20층, 남향씽크대교체. 부분수리. 교통, 학군좋아요. 편의시서좋아요.중랑천공원인접",
+      "price": "4억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 102동매매4억 4,000아파트126(한일)/101m², 16/20층, 남향올수리",
+      "price": "4억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인삼익한일 104동매매4억 3,000아파트138(삼익)/112m², 5/19층, 남향",
+      "price": "4억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체116(삼익)㎡123(한일)㎡126(한일)㎡138(삼익)㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:54:38.539Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2095_20250718_035443.png"
+  }
+}

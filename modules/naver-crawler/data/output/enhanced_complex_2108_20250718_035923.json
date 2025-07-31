@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:59:23.314089",
+    "complex_id": "2108"
+  },
+  "basic_info": {
+    "complex_id": "2108",
+    "source_url": "https://new.land.naver.com/complexes/2108",
+    "extracted_at": "2025-07-18T03:59:18.567585",
+    "url": "https://new.land.naver.com/complexes/2108?ms=37.739756,127.058218,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:59:16.984Z",
+    "complexId": "2108"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인추동 103동전세1억 5,000아파트72A/49m², 13/15층, 남향정남향.내부올수리해드려요.날짜조율가능.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:59:19.075Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인추동 102동매매1억 8,000아파트72A/49m², 15/15층, 남서향세안고27년2월 올수리 탑층",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인추동 102동매매1억 5,900아파트72A/49m², 1/15층, 남서향세안고매매.2년전 내부올수리된집.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인추동 102동매매1억 7,000아파트72A/49m², 10/15층, 남서향올수리되서 깨끗해요, 교통편리, 초중교근접",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인추동 101동매매1억 6,000아파트72A/49m², 15/15층, 남동향급매, 올수리되서 깨끗해요, 공시가1억이하, 교통편리, 초중교근접",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인추동 103동월세5,000/40아파트72A/49m², 13/15층, 남향정남향.입주협의.올수리해드려요.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인추동 102동매매1억 6,900아파트72A/49m², 4/15층, 남서향의정부역과 안가는데없는광역대버스 학군 굿.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "추동 103동매매1억 5,400아파트72A/49m², 1/15층, 남향정남향.기준시가1억이하.2027.5월만기",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인추동 102동매매1억 6,900아파트72A/49m², 4/15층, 남동향오래전 수리",
+      "price": "1억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.077Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "추동 101동전세1억 5,000아파트72A/49m², 8/15층, 남동향내부올수리.내부부분샤시.전망좋아요.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:59:19.078Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "추동 101동매매1억 7,200아파트72A/49m², 3/15층, 남동향올수리,주인거주",
+      "price": "1억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:59:19.079Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "추동 102동월세5,000/40아파트72A/49m², 9/15층, 남동향내부올수리됨.전망좋은라인.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:59:19.079Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "추동 102동전세1억 4,000아파트72A/49m², 5/15층, 남동향",
+      "price": "1억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:59:19.079Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "추동 101동월세1,000/55아파트72A/49m², 3/15층, 남동향예전수리,도배해줌",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:59:19.079Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2108_20250718_035922.png"
+  }
+}

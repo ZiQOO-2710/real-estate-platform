@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:38:31.575746",
+    "complex_id": "1114"
+  },
+  "basic_info": {
+    "complex_id": "1114",
+    "source_url": "https://new.land.naver.com/complexes/1114",
+    "extracted_at": "2025-07-17T22:38:27.509096",
+    "url": "https://new.land.naver.com/complexes/1114?ms=37.645194,127.083557,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:38:25.183Z",
+    "complexId": "1114"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대6차 101동매매10억 5,000아파트150/122m², 6/19층, 남향올확장 내부전체올수리특.정상입주.불암도서관",
+      "price": "10억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대6차 103동전세3억 6,000아파트85/59m², 4/19층, 남서향올수리 하시  불암도서관 일조량풍부",
+      "price": "3억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대6차 103동매매5억 5,000아파트85/59m², 11/19층, 남서향로얄층 올수리 교육환경우수 불암도서관 주차편리 세안고",
+      "price": "5억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대6차 103동매매4억 9,000아파트85/59m², 1/19층, 남서향특올수리 정상 남서향 시원한전망",
+      "price": "4억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대6차 104동매매6억 9,000아파트110/84m², 1/19층, 남향수리 정상 남향 불암도서관",
+      "price": "6억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대6차 104동매매7억 5,000아파트110/84m², 11/19층, 남향로얄층, 급매, 주인거주, 날짜협의가능, 깨끗,학군우수, 주차양호",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현대6차 102동매매8억 3,000아파트110/84m², 8/17층, 남향특올수리 정상 남향 불암도서관",
+      "price": "8억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대6차 104동전세4억 7,000아파트110/84m², 5/19층, 남향수리요구사항 전부수리해주는조건의전세입니다",
+      "price": "4억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인현대6차 104동전세5억아파트110/84m², 14/19층, 남향확장수리 남향집 교육환경우수 주차편리한아파트 주인거주 입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인현대6차 103동매매5억 3,000아파트85/59m², 5/19층, 남서향전자계약,일부수리 세안고급매,조용하고,교육환경우수,주차편리",
+      "price": "5억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인현대6차 101동매매11억아파트150/122m², 18/19층, 남향세안고매매.올수리.전망특.불암도서관",
+      "price": "11억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인현대6차 105동전세5억아파트110/84m², 중/15층, 동향올수리.전망굿.탁트인뷰.불암도서관.교육환경우수.중학교배정 굿",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대6차 104동매매8억 5,000아파트110/84m², 17/19층, 남동향수리깨끗 주인거주로입주가능 전망굿 불암도서관이용편리",
+      "price": "8억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:38:27.522Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인현대6차 104동전세4억 8,000아파트110/84m², 9/19층, 남서향매우깨끗하고 전망 굿, 하시 입주 가능, 학군우수",
+      "price": "4억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:38:27.523Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1114_20250717_223831.png"
+  }
+}

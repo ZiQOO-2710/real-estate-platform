@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:02:45.723029",
+    "complex_id": "1923"
+  },
+  "basic_info": {
+    "complex_id": "1923",
+    "source_url": "https://new.land.naver.com/complexes/1923",
+    "extracted_at": "2025-07-18T03:02:41.882668",
+    "url": "https://new.land.naver.com/complexes/1923?ms=37.377413,127.130221,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:02:39.777Z",
+    "complexId": "1923"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 412동매매24억아파트155A/129m², 8/16층, 남동향47.입주특급정보바로확인클릭3년전올수리확장샷시",
+      "price": "24억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.892Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "현대 405동전세3억 6,000아파트60/49m², 3/5층, 남서향샷시포함전체수리, 정상입주가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.892Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대 413동전세7억아파트111A/84m², 14/29층, 남서향33 특올수리.샷시포함 . 로얄동 전망굿  분당초  서현중",
+      "price": "7억",
+      "area": null,
+      "floor": "29층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "현대 408동매매21억아파트155B/129m², 10/16층, 남동향47 샷시포함특올수리 시스템에어컨 전세안고 분당초 서현중",
+      "price": "21억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "현대 404동전세3억 6,000아파트60/49m², 3/5층, 남서향18타입 전체수리 융무 입주협의 전망",
+      "price": "3억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대 407동매매14억 3,000아파트71/59m², 3/5층, 남서향예전올수리.정상입주",
+      "price": "14억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "현대 427동월세4억/120아파트111A/84m², 30/30층, 남서향33 완벽수리후첫입주 입주일협의 전망굿 분당초서현중",
+      "price": "4억",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "현대 410동전세8억 8,000아파트155A/129m², 5/16층, 남동향47   도배 칠  안방화장실 부분수리해줌  입주협의  분당초 서현중",
+      "price": "8억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "현대 409동전세9억아파트230/193m², 6/16층, 남서향샷시포함확장 특올수리 .융무 .",
+      "price": "9억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "현대 427동전세6억 5,000아파트110B/84m², 18/30층, 남서향33타입 샷시포함완벽 특올수리 폴딩도어만25.1128",
+      "price": "6억 5",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "현대 422동매매28억아파트225/189m², 9/16층, 남서향68  샷시포함 특올수리 전망굿 세11억안고",
+      "price": "28억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "현대 428동매매20억아파트110B/84m², 19/30층, 남동향샷시포함특올수리,정상입주",
+      "price": "20억",
+      "area": null,
+      "floor": "30층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대 406동전세5억 4,000아파트71/59m², 2/5층, 남동향21.추천매물.샷시포함특올수리.방3.학군우수.교통편리",
+      "price": "5억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체60㎡71㎡110B㎡111A㎡129㎡155A㎡155B㎡195㎡207B㎡208A㎡209C㎡221㎡225㎡230㎡255㎡260A㎡260B㎡",
+      "price": null,
+      "area": "60㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    },
+    {
+      "index": 81,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인현대 412동매매24억아파트155A/129m², 8/16층, 남동향47.입주특급정보바로확인클릭3년전올수리확장샷시텐컴즈 제공제일공인중개사사무소확인매물 25.07.15.집주인현대 412동매매24억아파트155A/129m², 8/16층, 남동향샷시포함 특올수리,거실 확장,선도지구,로얄동,분당초앞,중앙공원매경부동산 제공내집부동산중개확인매물 25.07.14.현대 405동전세3억 6,000아파트60/49m², 3/5층, 남서향샷시포함전체수리, 정상입주가능매경부동산 제공중앙공인중개사 사무소확인매물 25.07.17.현대 413동전세7억아파트1",
+      "price": "24억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:02:41.893Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1923_20250718_030245.png"
+  }
+}

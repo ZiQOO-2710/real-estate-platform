@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:29:14.816076",
+    "complex_id": "4772"
+  },
+  "basic_info": {
+    "complex_id": "4772",
+    "source_url": "https://new.land.naver.com/complexes/4772",
+    "extracted_at": "2025-07-18T20:29:10.785092",
+    "url": "https://new.land.naver.com/complexes/4772?ms=34.754751,127.723279,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:29:09.363Z",
+    "complexId": "4772"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 6동매매1억 3,500아파트105/84m², 9/12층, 남향리모델링 세대 협의입주 남향 산뷰 개방감 좋음",
+      "price": "1억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 2동매매1억 4,800아파트105/84m², 1/14층, 남향올리모델링 아이들키우시기에아주 좋은1층 입주시기조율가능",
+      "price": "1억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 1동매매1억 1,500아파트97/78m², 14/14층, 남향현공실 빠른입주 가능 탑층 층간소음 걱정NO 외부샷시교체된세대",
+      "price": "1억 1",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "광무럭키 2동월세1,000/50아파트105/84m², 5/14층, 남향즉시입주 가능",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 5동매매1억 5,000아파트105/84m², 11/12층, 남향고층 산뷰하늘뷰 최상 일조량우수,즉시입주가능, 내부깔끔, 가격조정",
+      "price": "1억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 5동매매1억 5,000아파트105/84m², 11/12층, 남서향고층 마운틴 뷰, 깔끔한 매물, 넓은 평수, 입주 시기 협의 가능",
+      "price": "1억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "광무럭키 6동매매1억 4,000아파트105/84m², 2/12층, 남향샷시포함 올 리모델링",
+      "price": "1억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인광무럭키 2동매매1억 3,500아파트105/84m², 13/14층, 남향샷시교체되어있고 리모델링 하실분께 추천드림",
+      "price": "1억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "광무럭키 6동매매1억 3,900아파트105/84m², 4/12층, 남향따뜻한 정남향, 앞산뷰, 기본시설, 리모델링 해서 새집처럼 쓰실분",
+      "price": "1억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.797Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.798Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "연등태창맨션면적110.99㎡74.04㎡ ~ 110.99㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "110.99㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:29:10.798Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "438만삼송매매9.8천9.8천면적74㎡74.25㎡ ~ 74.25㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.798Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "441만광무럭키매매1.4억1.15억~1.5억월세50만50만면적105㎡97.84㎡ ~ 105.64㎡매매매물만 보기8개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억1",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:29:10.798Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_4772_20250718_202914.png"
+  }
+}

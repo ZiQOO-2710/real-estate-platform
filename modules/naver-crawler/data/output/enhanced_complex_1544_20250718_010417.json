@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:04:17.602163",
+    "complex_id": "1544"
+  },
+  "basic_info": {
+    "complex_id": "1544",
+    "source_url": "https://new.land.naver.com/complexes/1544",
+    "extracted_at": "2025-07-18T01:04:11.969294",
+    "url": "https://new.land.naver.com/complexes/1544?ms=37.6148,126.83141,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:04:09.144Z",
+    "complexId": "1544"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 802동매매6억 3,000아파트119/101m², 9/15층, 남향옛날수리,주인거주 ,날짜협의 입주가 ,약간 조정가,정남향,협의가",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 803동매매6억 7,000아파트158/134m², 8/15층, 남향특올수리 빠른입주가능 행신역 이용 편리합니다",
+      "price": "6억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 803동전세5억 4,000아파트158/134m², 13/15층, 남향행신역4분 에어컨3대 샷시교체등올수리 깨끗하고 정남향  인프라 굳",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 801동매매6억 2,000아파트119/101m², 7/15층, 동향채광굿, 전망굿 수리되어 정상입주가능",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 803동매매6억 5,000아파트158/134m², 13/15층, 남향25.4입주,남향,햇빛쨍쨍,전망좋음.조정가능",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "무원8단지신안 803동매매6억 4,500아파트158/134m², 4/15층, 남향",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 801동매매6억아파트138/118m², 2/15층, 남향샷시포함특올수리,주인거주 최상급 컨디션",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 802동매매6억 3,000아파트119/101m², 12/15층, 남향남향 올수리 샷시포함 입주가능 행신역세권",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.983Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인무원8단지신안 803동전세4억 5,000아파트158/134m², 5/15층, 남향착한전세 해잘드는 밝은집 올수리상태깨끗 선점하세요",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:04:11.984Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "무원8단지신안 802동매매6억 2,000아파트119/101m², 7/15층, 동향행신역 도보이용가,주인거주, 깨끗, 부분 수리됨,다양한 인프라,",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.984Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "무원8단지신안 802동전세4억 9,000아파트119/101m², 8/15층, 동향행신역 도보 이용가,올수리해줌,전망굿,다양한 인프라",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:04:11.984Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "무원8단지신안 801동매매6억 4,500아파트158/134m², 12/15층, 남향외부샷시포함 올수리,주인거주,상태굿",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:04:11.984Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1544_20250718_010417.png"
+  }
+}

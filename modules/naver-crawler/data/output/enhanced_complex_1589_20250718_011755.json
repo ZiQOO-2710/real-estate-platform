@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:17:55.833664",
+    "complex_id": "1589"
+  },
+  "basic_info": {
+    "complex_id": "1589",
+    "source_url": "https://new.land.naver.com/complexes/1589",
+    "extracted_at": "2025-07-18T01:17:51.455079",
+    "url": "https://new.land.naver.com/complexes/1589?ms=37.435153,126.992849,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:17:48.549Z",
+    "complexId": "1589"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.468Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억424만주공10단지매매35억34.5억~38.5억면적111㎡111.89㎡ ~ 132.28㎡매매매물만 보기30개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억424",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.468Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1억1,851만주공9단지매매19억19억~27억면적53㎡53.61㎡ ~ 88.43㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억1",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.468Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "9,286만주공8단지매매25억24억~27억면적89㎡89.45㎡ ~ 101.93㎡매매매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "25억24",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.468Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "6,369만래미안에코팰리스매매21억19억~35억전세-11억~13.7억면적109㎡83.72㎡ ~ 156.95㎡매매매물만 보기31개 매물이 있습니다.전세매물만 보기8개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "21억19",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:17:51.468Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1589_20250718_011755.png"
+  }
+}

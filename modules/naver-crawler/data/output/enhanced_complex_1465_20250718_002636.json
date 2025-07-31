@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:26:36.118735",
+    "complex_id": "1465"
+  },
+  "basic_info": {
+    "complex_id": "1465",
+    "source_url": "https://new.land.naver.com/complexes/1465",
+    "extracted_at": "2025-07-18T00:26:32.358319",
+    "url": "https://new.land.naver.com/complexes/1465?ms=37.400142,126.955888,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:26:30.610Z",
+    "complexId": "1465"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 203동전세5억아파트106/84m², 12/16층, 동향주인직접의뢰, 뻥뷰, 남향, 10월 입주협의, 4억30도 가능",
+      "price": "5억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 202동매매8억 5,000아파트106/84m², 17/25층, 동향시원한 조망  수리된 깨끗한 집  세안고  월판선 호재단지",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 208동매매6억 5,000아파트83/59m², 10/15층, 동향올수리 되어 있고 단지 정원 뷰 세안고 아늑하고 예뻐요 채광 굿",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 201동매매8억 5,000아파트106/84m², 3/25층, 남향시설깨끗한 입주매물입니다",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 208동매매6억 3,000아파트83/59m², 11/15층, 남서향추천 올수리 탁트인뷰 세안고매매 투자물",
+      "price": "6억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 202동전세4억 8,000아파트106/84m², 13/25층, 동향샷시포함특올수리, 거실확장",
+      "price": "4억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 210동월세5,000/160아파트106/84m², 1/16층, 남향수리되어 깨끗하며 공가 즉시입주가능함",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 208동매매6억 4,000아파트83/59m², 8/15층, 동향입주협의, 방3개, 화장실1개, 넓은 베란다, 반듯한 직사각형 거실 구조",
+      "price": "6억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 210동매매8억 2,000아파트106/84m², 고/16층, 남향l투자추천l전세안고l내부올수리l월판선 인근",
+      "price": "8억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 201동매매8억 8,500아파트106/84m², 중/25층, 남향남향.올수리. 입주협의",
+      "price": "8억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 208동매매6억 5,000아파트83/59m², 중/15층, 서향추천 전체샷시포함 올수리 세안고매매 탁트인뷰",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인한가람삼성 204동매매8억 6,000아파트106/84m², 고/15층, 남향l투자추천l전세안고l샷시포함특올수리l최고전망",
+      "price": "8억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:26:32.371Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1465_20250718_002635.png"
+  }
+}

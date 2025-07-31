@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:43:51.118362",
+    "complex_id": "1516"
+  },
+  "basic_info": {
+    "complex_id": "1516",
+    "source_url": "https://new.land.naver.com/complexes/1516",
+    "extracted_at": "2025-07-18T00:43:47.015690",
+    "url": "https://new.land.naver.com/complexes/1516?ms=37.695501,126.769882,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:43:44.746Z",
+    "complexId": "1516"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 404동매매2억 500아파트67/53m², 3/17층, 남향전체올수리  입주도 가능해요  조정해드려요 갭투자도가능",
+      "price": "2억 500",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 402동매매2억 7,000아파트86A/68m², 15/18층, 남향특올수리  입주협의  밝은남향",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 402동매매2억 5,900아파트86A/68m², 16/18층, 남향올수리 전망좋은 로얄동 입주협의 탄현역세권 초중인접",
+      "price": "2억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 403동매매2억 5,000아파트86B/68m², 3/16층, 남향급매 조정가 주인거주 깨끗 밝은남향",
+      "price": "2억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 405동매매2억 2,000아파트67/53m², 1/17층, 남향세안고, 올수리, 넓은구조, 밝은남향",
+      "price": "2억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 403동매매2억 5,000아파트86B/68m², 4/16층, 남향올수리   입주협의   밝은남향",
+      "price": "2억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 403동매매2억 6,000아파트86B/68m², 10/16층, 남향탄현역세권  올수리 아주깨끗 조용한 동",
+      "price": "2억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 401동매매2억 9,000아파트86B/68m², 14/17층, 남향공실 최근올수리 전망굳 밝은남향",
+      "price": "2억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 402동매매2억 2,000아파트67/53m², 4/18층, 남향탄현역 로얄동 내부샷시포함 올수리 깨끗",
+      "price": "2억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 405동매매2억 1,000아파트67/53m², 4/17층, 남향라인좋아요  주인거주 상태 좋아요 거실확장",
+      "price": "2억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 405동매매2억 1,000아파트67/53m², 12/17층, 남향거실확장수리입니다. 남향,전망환한집입니다.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 403동매매2억 3,500아파트86B/68m², 6/16층, 남향급매, 깨끗, 정상",
+      "price": "2억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 404동매매2억 3,000아파트67/53m², 15/17층, 남향탄현역   올수리 깨끗 전망굿  밝고 따뜻한 남향",
+      "price": "2억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 404동매매2억 2,000아파트67/53m², 13/17층, 남향올수리, 입주협의, 전망굳, 밝은남향",
+      "price": "2억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 401동매매2억 6,000아파트86A/68m², 5/17층, 남향세안고 매매. 투자자에게 적합해요. 수익률 좋은 투자 매물입니다.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 403동월세1억 2,000/70아파트86B/68m², 8/16층, 남향공실  LH.GH가능 화장실포함올수리 채광좋은남향",
+      "price": "1억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 401동매매2억 2,500아파트67/53m², 14/17층, 남향세안고 수리상태좋음 전망좋고 밝고 따뜻한 남향",
+      "price": "2억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인탄현4단지건영 404동매매2억 7,000아파트86A/68m², 3/17층, 남향A타입, 실입주 가, 화장실포함 올수리후 관리 잘 된 집입니다",
+      "price": "2억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:43:47.026Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1516_20250718_004350.png"
+  }
+}

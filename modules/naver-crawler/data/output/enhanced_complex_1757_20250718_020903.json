@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:09:03.187412",
+    "complex_id": "1757"
+  },
+  "basic_info": {
+    "complex_id": "1757",
+    "source_url": "https://new.land.naver.com/complexes/1757",
+    "extracted_at": "2025-07-18T02:08:58.024657",
+    "url": "https://new.land.naver.com/complexes/1757?ms=37.253901,127.022794,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:08:56.425Z",
+    "complexId": "1757"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "권선삼성 3동월세2,000/70아파트71/49m², 3/10층, 남향샷시.보일러교체. 깔끔한집.도배.바닥해드려요. 9월말입주협의",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "권선삼성 2동매매2억 7,000아파트71/49m², 6/10층, 남향11월입주 기본상태",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "권선삼성 4동매매2억 7,500아파트71/49m², 10/10층, 남향전세안고 투자 올수리 엄청깨끗  탑층 입니다",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "권선삼성 9동전세2억아파트71/49m², 중/8층, 남향융자없음, 조용한 동, 일부수리, 즉시이사가능, 이마트 터미널도",
+      "price": "2억",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "권선삼성 4동매매2억 7,000아파트71/49m², 2/10층, 남향26년 1월 입주,내부 수리,재건축추진중 투자 좋아요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "권선삼성 2동매매2억 7,000아파트71/49m², 1/10층, 남향정상입주 내부수리됨 안방 거실 샤시교체",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "권선삼성 2동매매2억 7,000아파트71/49m², 중/10층, 남향",
+      "price": "2억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "권선삼성 2동매매2억 9,000아파트71/49m², 9/10층, 남향내부수리깨끗 월세안고 매매",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "권선삼성 6동매매2억 9,000아파트71/49m², 9/10층, 남향전체샷시포함 올수리 엄청깨끗 동호수 좋아요 전세안고 투자 적극추천",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "권선삼성 8동매매2억 6,800아파트71/49m², 2/9층, 남향기본 . 입주나 투자 적극추천  수리기간드림",
+      "price": "2억 6",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "권선삼성 6동매매2억 9,300아파트71/49m², 5/10층, 남향샷시 포함 올수리 선호동 층 라인 좋아요 26년1월 입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "권선삼성 1동매매2억 8,000아파트71/49m², 5/8층, 남향정상입주  내부수리되어 깨끗 전세안고도 가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "8층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:08:58.036Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1757_20250718_020903.png"
+  }
+}

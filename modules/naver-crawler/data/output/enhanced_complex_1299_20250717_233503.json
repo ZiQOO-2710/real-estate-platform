@@ -1,0 +1,318 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:35:03.875333",
+    "complex_id": "1299"
+  },
+  "basic_info": {
+    "complex_id": "1299",
+    "source_url": "https://new.land.naver.com/complexes/1299",
+    "extracted_at": "2025-07-17T23:34:59.310439",
+    "url": "https://new.land.naver.com/complexes/1299?ms=37.52732,127.139752,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:34:58.180Z",
+    "complexId": "1299"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "그랜드면적119.04㎡102.01㎡ ~ 176.58㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "119.04㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,410만라움매매3.5억3.5억면적48㎡48.97㎡ ~ 48.97㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "48㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,034만둔촌신성미소지움2차매매13.3억12.5억~14억전세-5억면적109㎡84.42㎡ ~ 143.61㎡매매매물만 보기16개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억12",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,545만동아2차매매8.7억8.7억~9.8억면적113㎡113.59㎡ ~ 113.59㎡매매매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억8",
+      "area": "113㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,467만현대2차매매9.65억8억~9.9억전세4.5억4.3억~4.5억월세95만50만~1.4백면적92㎡79.77㎡ ~ 92.65㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기4개 매물이 있습니다.월세매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억8",
+      "area": "92㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "경방필면적93.46㎡93.27㎡ ~ 93.5㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "93.46㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "메이저면적103.24㎡60.12㎡ ~ 103.24㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "103.24㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,036만둔촌신동아(파밀리에)매매10.5억10억~13.2억월세-1.5백면적86㎡84.85㎡ ~ 129.25㎡매매매물만 보기24개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,984만집앤사비카(도시형)매매4.7억3.5억~4.9억전세-3.2억면적39㎡22.82㎡ ~ 39.72㎡매매매물만 보기6개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "39㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "동아3차(주상복합)면적101.53㎡101.53㎡ ~ 101.53㎡단지정보",
+      "price": null,
+      "area": "101.53㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,321만율전에버그린매매6.6억6.6억면적94㎡94.7㎡ ~ 94.7㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억6",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,982만태천해오름(427-74)매매9.2억9.2억면적102㎡102.1㎡ ~ 102.1㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억9",
+      "area": "102㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,425만둔촌역청구매매8.6억8.6억~10.5억월세1.2백1.2백면적83㎡83.96㎡ ~ 108.85㎡매매매물만 보기11개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억8",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,553만한솔애리즈2차매매9.5억9.3억~9.5억면적123㎡102.37㎡ ~ 123.85㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "123㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,707만둔촌역아치스톤매매9.5억9.5억~13억전세7억7억면적116㎡116.19㎡ ~ 116.28㎡매매매물만 보기8개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "116㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,967만둔촌광남캐스빌(631)매매12억10억~12.5억면적100㎡100.81㎡ ~ 100.81㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억10",
+      "area": "100㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,974만동일매매12억12억면적201㎡201.68㎡ ~ 201.68㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억12",
+      "area": "201㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,278만동아1차매매12억12억면적121㎡121.42㎡ ~ 121.42㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억12",
+      "area": "121㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "KNP로얄면적88.87㎡59.19㎡ ~ 97.53㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "88.87㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,684만둔촌암펠로스타워(주상복합)매매9.5억9.5억~11.6억면적117㎡117.65㎡ ~ 148.83㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억9",
+      "area": "117㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.326Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,857만둔촌신성미소지움매매10.15억10억~15.5억전세5.2억5.2억~6.8억월세1.2백1.2백면적87㎡87.26㎡ ~ 135.64㎡매매매물만 보기29개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "15억10",
+      "area": "87㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "성내아우라2면적95.72㎡92.41㎡ ~ 95.72㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "95.72㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 29,
+      "selector": "[class*=\"deal\"]",
+      "text": "태천해오름(412-1)면적98.52㎡72.23㎡ ~ 103.72㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "98.52㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 30,
+      "selector": "[class*=\"deal\"]",
+      "text": "광남면적95.2㎡84.75㎡ ~ 99.64㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "95.2㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,453만신이모닝빌매매6.9억6.9억~7억월세-1.5백면적93㎡88.15㎡ ~ 93.68㎡매매매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억6",
+      "area": "93㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 32,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,090만동아(94-16)매매6.45억5.3억~8.9억전세6.9억6.9억월세1.3백1.3백면적69㎡62.03㎡ ~ 69.93㎡매매매물만 보기19개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억5",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 34,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,522만둔촌현대4차매매11.4억7억~13.3억전세-6억~8.2억면적107㎡75.3㎡ ~ 145.44㎡매매매물만 보기25개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억7",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    },
+    {
+      "index": 36,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,627만파크프라자(주상복합)매매5.8억5.8억~10.5억면적73㎡73.8㎡ ~ 136.07㎡매매매물만 보기7개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "73㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:34:59.327Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 29,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1299_20250717_233503.png"
+  }
+}

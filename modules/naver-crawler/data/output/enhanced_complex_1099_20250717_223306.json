@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:33:06.114502",
+    "complex_id": "1099"
+  },
+  "basic_info": {
+    "complex_id": "1099",
+    "source_url": "https://new.land.naver.com/complexes/1099",
+    "extracted_at": "2025-07-17T22:33:00.822540",
+    "url": "https://new.land.naver.com/complexes/1099?ms=37.657281,127.071184,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:32:58.182Z",
+    "complexId": "1099"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 101동매매8억 6,000아파트148/114m², 7/25층, 남향탁트인 남향이며 상계초역세권으로 생활하기 좋은 아파트 입니다.",
+      "price": "8억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 101동매매8억 5,000아파트148/114m², 4/25층, 남향상계역5분거리 세안고매매 2억 갭투자가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 101동매매10억아파트148/114m², 중/25층, 남향",
+      "price": "10억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 102동매매7억 2,000아파트110/84m², 3/25층, 동향중계초 앞, 전체 수리 후 거주중, 상계역 도보이용도 좋아요",
+      "price": "7억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 101동매매8억 5,000아파트148/114m², 2/25층, 남향급매 상계역역세권 남향 방1개확장 날짜협의",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 103동매매6억 2,000아파트77/60m², 15/25층, 동향샷시포함특올수리, 전망굿, 상계역세권,남동향",
+      "price": "6억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "대동청솔 101동전세6억 2,000아파트148/114m², 21/25층, 남향상계역역세권 남향 전망좋은집",
+      "price": "6억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인대동청솔 101동매매9억아파트148/114m², 11/25층, 남향남향,수리 깨끗하며 중계초 및 상계역 도보이용하기 편리합니다.",
+      "price": "9억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "대동청솔 103동매매6억 2,000아파트77/60m², 21/25층, 동향주인거주로 깨끗, 전망 굿, 동향, 상계역 역세권",
+      "price": "6억 2",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:33:00.836Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1099_20250717_223305.png"
+  }
+}

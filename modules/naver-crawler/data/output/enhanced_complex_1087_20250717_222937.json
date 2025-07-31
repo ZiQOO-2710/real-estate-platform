@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:29:37.337077",
+    "complex_id": "1087"
+  },
+  "basic_info": {
+    "complex_id": "1087",
+    "source_url": "https://new.land.naver.com/complexes/1087",
+    "extracted_at": "2025-07-17T22:29:33.364410",
+    "url": "https://new.land.naver.com/complexes/1087?ms=37.628276,127.076824,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:29:31.253Z",
+    "complexId": "1087"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동신 106동매매6억 1,000아파트84/59m², 15/24층, 남서향확장.에어컨2대.수리하여깨끗함",
+      "price": "6억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.372Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동신 105동매매8억아파트109/84m², 13/24층, 서향주인거주, 올수리, 상태좋아요",
+      "price": "8억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동신 103동매매9억아파트142/114m², 2/18층, 남향부분수리, 주인거주, 정상입주",
+      "price": "9억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동신 106동매매5억 9,000아파트84/59m², 10/24층, 서향역세권.서울과기대앞, 아주깨끗, 공원환경 및 전망최고, 정상입주",
+      "price": "5억 9",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동신 103동매매9억 5,000아파트142/114m², 17/18층, 남향남향 로얄층 전세안고 매매대금협의",
+      "price": "9억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인동신 102동매매5억 8,000아파트84/59m², 19/19층, 서향특올수리  정상  조용한집입니다.",
+      "price": "5억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인동신 106동매매6억 1,000아파트84/59m², 20/24층, 서향공릉 철길 주변 ,주인거주, 올수리 깨끗, 입주협의",
+      "price": "6억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동신 106동매매5억 7,500아파트84/59m², 23/24층, 서향전망최고.전체올수리된집.26년4월말세안고매매.",
+      "price": "5억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인동신 105동매매7억 7,000아파트109/84m², 16/24층, 서향정상입주, 깨끗",
+      "price": "7억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인동신 103동매매9억 9,000아파트142/114m², 16/18층, 남향남향. 입주가능한 매물.  집 상태 깨끗.",
+      "price": "9억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "동신 101동전세4억 8,000아파트109/84m², 15/19층, 남동향올수리 후 첫 입주  빠른입주 가능",
+      "price": "4억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인동신 101동매매7억 6,000아파트109/84m², 9/19층, 남향일부수리됨 세끼고 매매합니다",
+      "price": "7억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "동신 101동전세4억 8,000아파트109/84m², 15/19층, 남향올수리후 첫 입주 공실 중문 키보관",
+      "price": "4억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인동신 101동매매7억 5,000아파트109/84m², 12/19층, 남향남향 철길공원옆 기본상태",
+      "price": "7억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인동신 106동매매6억 1,000아파트84/59m², 15/24층, 남서향확장.에어컨2대.수리하여깨끗함알터 제공해링턴플레이스공인중개사사무소확인매물 25.07.17.집주인동신 105동매매8억아파트109/84m², 13/24층, 서향주인거주, 올수리, 상태좋아요부동산써브 제공동신공인중개사사무소확인매물 25.07.16.집주인동신 103동매매9억아파트142/114m², 2/18층, 남향부분수리, 주인거주, 정상입주부동산써브 제공동신공인중개사사무소확인매물 25.07.16.집주인동신 106동매매5억 9,000아파트84/59m², 10/24",
+      "price": "6억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:29:33.373Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1087_20250717_222937.png"
+  }
+}

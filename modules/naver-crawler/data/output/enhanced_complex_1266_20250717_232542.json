@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:25:42.925808",
+    "complex_id": "1266"
+  },
+  "basic_info": {
+    "complex_id": "1266",
+    "source_url": "https://new.land.naver.com/complexes/1266",
+    "extracted_at": "2025-07-17T23:25:39.550160",
+    "url": "https://new.land.naver.com/complexes/1266?ms=37.502521,126.891859,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:25:38.435Z",
+    "complexId": "1266"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매6억아파트74/59m², 10/24층, 남서향수리되어 깨끗함. 신도림역도보8분 이사협의 주인거주",
+      "price": "6억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 7,000아파트105/84m², 16/24층, 남동향올수리되어 깨끗함.전면트인뷰 햇살가득한집 신도림역도보8분  입주협의",
+      "price": "7억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 5,000아파트100/84m², 7/24층, 남서향신도림역세권 채광좋은집  입주협의 부분수리됨",
+      "price": "7억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동전세5억아파트100/84m², 14/24층, 남서향구수리 상태양호함 주인세대",
+      "price": "5억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 8,000아파트105/84m², 9/24층, 남동향탁 트인 전망, 최근 샷시포함  특올수리. 입주 협의",
+      "price": "7억 8",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매6억 7,500아파트100/84m², 2/24층, 남서향최근 올수리되어 깨끗한 집 나무뷰라 예뻐요",
+      "price": "6억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매5억 7,000아파트74/59m², 16/24층, 북서향최근샷시포함,특올수리.예쁜집.신혼부부강추. 신도림역7분. 입주협의",
+      "price": "5억 7",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억아파트100/84m², 18/24층, 남서향신도림역세권 구수리 계단식 주인세대거주",
+      "price": "7억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매6억아파트74/59m², 11/24층, 남서향샤시까지 완벽 올수리 신도림역 도보 8분 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 9,000아파트105/84m², 17/24층, 남서향샷시포함 특 올수리됨 관리 잘되어 깨끗함.신도림역7분.세안고 .가격협의가",
+      "price": "7억 9",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 2,000아파트101/84m², 7/24층, 남서향샤시포함 올수리.이사협의 신도림역세권",
+      "price": "7억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인다솜금호 1동매매7억 5,000아파트100/84m², 19/24층, 남서향샤시포함 최근 올수리로 아주아주 깨끗하고 환한 집입니다.",
+      "price": "7억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.561Z"
+    },
+    {
+      "index": 40,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인다솜금호 1동매매6억아파트74/59m², 10/24층, 남서향수리되어 깨끗함. 신도림역도보8분 이사협의 주인거주매경부동산 제공대명신도림공인중개사사무소확인매물 25.07.16.집주인다솜금호 1동매매7억 7,000아파트105/84m², 16/24층, 남동향올수리되어 깨끗함.전면트인뷰 햇살가득한집 신도림역도보8분  입주협의매경부동산 제공대명신도림공인중개사사무소확인매물 25.07.16.집주인다솜금호 1동매매7억 5,000아파트100/84m², 7/24층, 남서향신도림역세권 채광좋은집  입주협의 부분수리됨매경부동산 제공제일공인중개사사무",
+      "price": "6억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:25:39.562Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1266_20250717_232542.png"
+  }
+}

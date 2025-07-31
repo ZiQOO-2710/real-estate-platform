@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:56:29.315892",
+    "complex_id": "1906"
+  },
+  "basic_info": {
+    "complex_id": "1906",
+    "source_url": "https://new.land.naver.com/complexes/1906",
+    "extracted_at": "2025-07-18T02:56:23.692196",
+    "url": "https://new.land.naver.com/complexes/1906?ms=37.356726,126.727415,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:56:22.067Z",
+    "complexId": "1906"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인영남5차 510동매매5억아파트163/134m², 1/5층, 남서향올수리된 구조좋은 1층 아이들키우기좋은 전실있는집",
+      "price": "5억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.702Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인영남5차 508동전세2억 4,000아파트98/78m², 2/10층, 남동향융자 없고 깨끗한집, 도배 장판 욕실 수리해줌",
+      "price": "2억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인영남5차 511동매매4억 7,000아파트163/134m², 1/5층, 남서향급매. 올수리. 밝고환한1층. 중간집. 협의조정가능. 구조짱",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인영남5차 502동매매3억 4,500아파트118/101m², 4/5층, 남서향최근 샷시까지 특올수리. 엄청 밝고 깨끗합니다. 이사협의.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인영남5차 509동매매3억 4,000아파트107/84m², 중/10층, 남서향올 수리해서 깨끗해요. 대형 상가 인접.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인영남5차 504동매매3억 5,000아파트107/84m², 4/10층, 남서향올수리, 엄청 밝고 깨끗합니다. 이사협의.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인영남5차 503동매매3억 4,000아파트118/101m², 4/5층, 남서향방2확장, 수리되어 엄청 깨끗합니다. 이사협의. 가격조정.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인영남5차 511동매매5억 2,000아파트163/134m², 3/5층, 남서향주인세대거주.매우깨끗.서해초중학교옆.대형평수",
+      "price": "5억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인영남5차 508동매매2억 9,000아파트98/78m², 2/10층, 남동향급매 빠른입주가능 구조좋은 영남아파트 추천합니다.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인영남5차 503동매매3억 2,000아파트118/101m², 5/5층, 남서향부분수리  초중고 상권인접",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인영남5차 503동매매3억 5,800아파트118/101m², 3/5층, 남서향방4개,올수리,방2개확장해서넓음,초중고와상권인접,절충가,입주협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "영남5차 504동월세3,000/110아파트107/84m², 고/10층, 남서향내부수리 잘된집 아주깨끗 배곧인접",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인영남5차 510동매매5억아파트163/134m², 1/5층, 남서향올수리된 구조좋은 1층 아이들키우기좋은 전실있는집부동산뱅크 제공신우공인중개사사무소확인매물 25.07.17.집주인영남5차 508동전세2억 4,000아파트98/78m², 2/10층, 남동향융자 없고 깨끗한집, 도배 장판 욕실 수리해줌알터 제공오이도공인중개사사무소확인매물 25.07.15.집주인영남5차 510동매매5억아파트163/134m², 1/5층, 남서향최근 특올수리하여 깨끗하고 밝아 현관에서부터 기분좋아지는집입니다 전실있어부동산써브 제공우정공인중개사사무소확인매물 2",
+      "price": "5억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:56:23.703Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1906_20250718_025629.png"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:01:34.820333",
+    "complex_id": "1191"
+  },
+  "basic_info": {
+    "complex_id": "1191",
+    "source_url": "https://new.land.naver.com/complexes/1191",
+    "extracted_at": "2025-07-17T23:01:31.484080",
+    "url": "https://new.land.naver.com/complexes/1191?ms=37.601544,127.036532,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:01:30.181Z",
+    "complexId": "1191"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인종암SK 102동매매11억아파트143/114m², 24/27층, 남향샤시포함올수리o올확장o정상입주o뻥뚫린시원한뷰o햇살좋은남향집o초중고학군우수",
+      "price": "11억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.494Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인종암SK 106동월세1억/135아파트81A/59m², 23/27층, 남향남향  수리하여  내부 깨끗   일신초 사대부중,고학군  즉시입주가능",
+      "price": "1억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:01:31.494Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인종암SK 105동월세1억/180아파트109/84m², 25/27층, 남동향트인전망  샷시 화장실포함올수리  일신초사대부중,고학군  입주정상",
+      "price": "1억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:01:31.494Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인종암SK 103동매매10억아파트143/114m², 5/27층, 남서향일부확장 내부깨끗  일신초  사대부중,고 동북선2027년개통 입주정상",
+      "price": "10억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인종암SK 103동매매10억 2,000아파트143/114m², 25/27층, 남서향종암동동북선 최수혜아파트 올수리 외부샷시교체 방3개붙박이장 입주일협의",
+      "price": "10억 2",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인종암SK 102동매매10억 5,000아파트143/114m², 20/27층, 남서향올수리하여 내부깨끗  일신초  사대부중,고 동북선2027년개통 입주정상",
+      "price": "10억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인종암SK 103동매매10억 2,000아파트143/114m², 25/27층, 동향특올수리 매물, 추천매물, 샷시까지 올수리된 집",
+      "price": "10억 2",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인종암SK 101동매매8억 5,000아파트109/84m², 저/27층, 남향월곡역7분도보o전세안고.2년전부분수리o햇살좋은남향o입출입편한동o평지",
+      "price": "8억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "종암SK 106동매매7억 2,000아파트81A/59m², 7/27층, 남서향GO 완전추천 거실넓은구조 샷시포함 전체올수리 탁트인 조망권 사대부중",
+      "price": "7억 2",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인종암SK 102동전세6억 5,000아파트143/114m², 1/27층, 남서향종암동동북선 최수혜아파트 오래전올수리 층간소음스트레스없는1층 입주일협의",
+      "price": "6억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인종암SK 103동매매9억 2,000아파트143/114m², 14/27층, 남동향학군이 좋으며 아이 키우기 좋은집",
+      "price": "9억 2",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "종암SK 106동매매6억 7,000아파트80B/59m², 2/27층, 남동향Go 조용하고 가격 저렴 상태최상 입주가능 동북선수혜단지 사대부중",
+      "price": "6억 7",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "종암SK 102동매매10억아파트143/114m², 27/27층, 남서향Go 전체 올수리 탁트인 뷰 사대부중 동북선 수혜단지 입주가능",
+      "price": "10억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "종암SK 101동월세1억/180아파트143/114m², 4/27층, 남향Go 상태최상 남향집 빠른입주가 단지 조망권 사대부중 생활권편리 역세권",
+      "price": "1억",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "종암SK 104동매매8억 5,000아파트109/84m², 2/27층, 남향Go 최근  완전 전체 올수리 남향집 조용하고 채광 좋음 사대부중 동북선",
+      "price": "8억 5",
+      "area": null,
+      "floor": "27층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:31.495Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1191_20250717_230134.png"
+  }
+}

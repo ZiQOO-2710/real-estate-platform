@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-21T12:31:09.215480",
+    "complex_id": "22"
+  },
+  "basic_info": {
+    "complex_id": "22",
+    "source_url": "https://new.land.naver.com/complexes/22",
+    "extracted_at": "2025-07-21T12:31:05.886562",
+    "url": "https://new.land.naver.com/complexes/22?ms=37.57455,126.817519,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-21T03:31:03.797Z",
+    "complexId": "22"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동매매5억 8,000아파트77/59m², 2/15층, 남향남향,샷시까지특,특올수리,거실확장,중문설치 마곡인근,5호선9호선이용",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.898Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동매매5억 8,000아파트77/59m², 4/15층, 남향특올수리.남향,샷시.확장.세안고",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동전세2억 8,000아파트52/39m², 9/15층, 남향남향, 샷시까지전체 특올수리,입주협의,마곡인근,5,9호선이용",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동월세3,000/160아파트77/59m², 6/15층, 남향올수리 풀옵션,깨끗 마곡지구 도보 출근 즉시 입주 신화역세권 공항철도",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 102동전세3억 3,000아파트65/49m², 13/15층, 남향올수리됨 입주협의 마곡인접아파트",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동매매4억 5,000아파트52/39m², 4/15층, 남향5.9호선 집상태깔끔 마곡인접 한강공원인접 교통편리 입주협의",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동매매4억 500아파트52/39m², 1/15층, 남향5호선9호선이용 복도샷시되어있음 아주깨끗 가격조정가능 입주협의",
+      "price": "4억 500",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동매매4억 5,000아파트52/39m², 6/15층, 남향세안고,올수리,마곡인접",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동매매5억 9,000아파트77/59m², 7/15층, 남향추천조정가 샷시제외올수리 주차양호 마곡인근 5호선9호선10분거리",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 102동매매5억 8,000아파트65/49m², 11/15층, 남향9호선5호선 더블역세권일부인테리어되어있고 남향에 밝은집",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동전세2억 6,000아파트52/39m², 9/15층, 남서향급전세,8월25일확정,융무,샷시포함 올수리,전세대출가능",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동매매4억 7,000아파트52/39m², 8/15층, 남서향입주가능,또는월세안고,주차양호,올림픽대로인근,투자추천,마곡5분,조정가능",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동매매3억 9,000아파트52/39m², 1/15층, 남향특올수리",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 102동매매5억 3,000아파트65/49m², 14/15층, 남향전세안고,27년3월입주가능,정남향,고층전망,부분수리,투자추천,마곡지구옆",
+      "price": "5억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 101동매매5억 7,000아파트77/59m², 15/15층, 남향전망틔인 남향,배관수리,입주가",
+      "price": "5억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 103동매매4억 8,000아파트52/39m², 15/15층, 남향마곡인근 올림픽대로진출입편리 님향 입주협의",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 102동매매5억 5,000아파트65/49m², 7/15층, 남서향샷시까지특올수리,트인전망,채광아주좋음,입주일협의,마곡지구인접,주차편리",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인장미(도시개발1단지) 102동매매5억 5,000아파트65/49m², 7/15층, 남향남향, 샷시까지특,특올수리,입주매물,마곡인근,5,9호선이용",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-21T03:31:05.899Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_22_20250721_123109.png"
+  }
+}

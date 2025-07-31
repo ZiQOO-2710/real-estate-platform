@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:09:27.016128",
+    "complex_id": "1214"
+  },
+  "basic_info": {
+    "complex_id": "1214",
+    "source_url": "https://new.land.naver.com/complexes/1214",
+    "extracted_at": "2025-07-17T23:09:22.974662",
+    "url": "https://new.land.naver.com/complexes/1214?ms=37.516325,126.884205,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:09:20.611Z",
+    "complexId": "1214"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 7,000아파트94/84m², 3/12층, 남향급매   입주가   남향  방3  화2",
+      "price": "7억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대3차 101동매매7억 9,000아파트94B/84m², 11/12층, 남향전망및채광최고좋아요 방3 화2  주인거주 언제든지입주가",
+      "price": "7억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대3차 101동매매7억 9,000아파트94B/84m², 고/12층, 남향부분수리 전망트인 남향로얄층 입주협의",
+      "price": "7억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 8,000아파트94/84m², 9/12층, 동향주인직매물 올수리 빠른 입주가능",
+      "price": "7억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 5,000아파트94A/84m², 1/12층, 남향남향 3억대갭투자 가능매물 일부수리되어 깨끗함",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매8억 2,000아파트94A/84m², 12/12층, 남향주인거주 로얄층 입주협의 가능 매물",
+      "price": "8억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대3차 101동매매8억아파트94C/84m², 4/12층, 동향세안고, 샷시포함 부분수리되어 깨끗",
+      "price": "8억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 3,000아파트94A/84m², 5/12층, 남향올확장, 남향, 세안고매매",
+      "price": "7억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인현대3차 101동매매8억아파트94B/84m², 1/12층, 동향입주가능, 올수리되었어요.",
+      "price": "8억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 9,000아파트94/84m², 고/12층, 동향부분수리  입주협의 도림천역10분",
+      "price": "7억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 7,000아파트94/84m², 저/12층, 남향깔끔한 남향으로 입주정상",
+      "price": "7억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인현대3차 101동매매9억 1,000아파트94B/84m², 7/12층, 남향특올수리 입주정상협의 남향 일조량 풍부 전망굿",
+      "price": "9억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인현대3차 102동매매7억 5,000아파트94A/84m², 1/12층, 동향세낀매매, 수리되어깔끔, 주변인프라 굿",
+      "price": "7억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:09:22.987Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1214_20250717_230926.png"
+  }
+}

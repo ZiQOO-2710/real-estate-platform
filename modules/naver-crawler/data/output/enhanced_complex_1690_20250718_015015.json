@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:50:15.910195",
+    "complex_id": "1690"
+  },
+  "basic_info": {
+    "complex_id": "1690",
+    "source_url": "https://new.land.naver.com/complexes/1690",
+    "extracted_at": "2025-07-18T01:50:12.894484",
+    "url": "https://new.land.naver.com/complexes/1690?ms=37.480543,126.80758,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:50:10.746Z",
+    "complexId": "1690"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인거산 2동매매4억 2,000재건축98/82m², 2/5층, 남향거산아파트 큰 평수 방3 화2",
+      "price": "4억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인거산 5동매매2억 6,800재건축67A/55m², 1/5층, 남향역곡역, 초중학교인근, 남향, 올수리",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인거산 1동전세1억 9,000재건축70B/57m², 3/5층, 남향주방,화장실,전등,베란다등수리깔끔함.역곡전철역세권.남향.주변편의시설양호.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인거산 5동매매2억 6,500재건축67A/55m², 4/5층, 남향역곡역 초 중학교인근, 이사협의, 일부수리했음, 남향",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인거산 6동매매3억 3,000재건축81/67m², 1/5층, 남향올수리된 재건축진행중세안고",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "거산 7동매매2억 9,000재건축67A/55m², 4/5층, 남향20.특올수리. 공실. 즉시입주. 남향. 방3화1. 상태좋아요",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인거산 5동매매2억 7,500재건축67A/55m², 5/5층, 남향올수리, 재건축 정비구역지정, 역곡역초 중학교인근, 이사협의",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "거산 1동매매2억 8,500재건축70B/57m², 5/5층, 남향특올수리, 이사협의, 재건축안전진단 통과",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "거산 7동전세1억 6,000재건축67A/55m², 5/5층, 남향LH가능,올수리되어깨끗해요,에어컨가스랜지붙박이장옵션있음.",
+      "price": "1억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:50:12.911Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1690_20250718_015015.png"
+  }
+}

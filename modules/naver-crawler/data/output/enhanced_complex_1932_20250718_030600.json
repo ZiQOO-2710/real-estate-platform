@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:06:00.648475",
+    "complex_id": "1932"
+  },
+  "basic_info": {
+    "complex_id": "1932",
+    "source_url": "https://new.land.naver.com/complexes/1932",
+    "extracted_at": "2025-07-18T03:05:55.593182",
+    "url": "https://new.land.naver.com/complexes/1932?ms=37.29216,126.850138,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:05:52.792Z",
+    "complexId": "1932"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "선경 102동매매5억 5,000아파트201/164m², 4/22층, 남향수리깨끗,수시입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "선경 102동전세3억 5,000아파트201/164m², 4/22층, 남향올수리깨끗",
+      "price": "3억 5",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "선경 109동매매2억 8,000아파트67/54m², 5/5층, 남향",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "선경 106동매매4억아파트106/84m², 14/14층, 동향확 트인전망 화이트의깔끔함 숲세권의 주변환경 바로 입주도 가능",
+      "price": "4억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "선경 111동전세2억 4,000아파트91/74m², 2/5층, 남향기본수리됨",
+      "price": "2억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "선경 103동매매4억 8,000아파트158/129m², 8/14층, 남향동호좋아요 빠른입주가 내부한번수리",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "선경 104동매매4억 8,000아파트158/129m², 12/14층, 남향씽크대수리  12월입주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "선경 105동매매4억 1,000아파트106/84m², 9/10층, 남향샷시까지  수리됨  바로입주가능하구요",
+      "price": "4억 1",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "선경 110동매매3억 3,000아파트91/74m², 2/5층, 남향산밑조용한집  약간 조정가",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "선경 103동매매4억 8,000아파트158/129m², 14/14층, 남향",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "선경 108동매매3억 2,000아파트91/74m², 4/5층, 동향입주가 깨끗",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "선경 111동매매3억 4,000아파트91/74m², 3/5층, 남향내부올수리 전면트임",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.606Z"
+    },
+    {
+      "index": 130,
+      "selector": "[class*=\"item\"]",
+      "text": "선경 103동매매4억 5,000아파트158/129m², 3/14층, 남향텐컴즈 제공선경부동산확인매물 25.07.14.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:05:55.607Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1932_20250718_030600.png"
+  }
+}

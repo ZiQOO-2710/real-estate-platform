@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:32:20.179536",
+    "complex_id": "1096"
+  },
+  "basic_info": {
+    "complex_id": "1096",
+    "source_url": "https://new.land.naver.com/complexes/1096",
+    "extracted_at": "2025-07-17T22:32:16.475992",
+    "url": "https://new.land.naver.com/complexes/1096?ms=37.521593,127.040774,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:32:15.274Z",
+    "complexId": "1096"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대2차 202동월세2억/300아파트97B/84m², 6/13층, 남향화이트톤 올수리.보증금조정가.로열동.로열층.채광전망굿.",
+      "price": "2억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대2차 201동매매22억아파트97A/84m², 2/13층, 남향실매물.재건축을 바라보는 투자성좋은 입지.",
+      "price": "22억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대2차 201동매매25억 3,000아파트97C/84m², 7/13층, 남향올 수리, 전망, 예쁘면서 시원 합니다.",
+      "price": "25억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대2차 202동월세5,000/310아파트97B/84m², 고/13층, 남향202동 고층, 전망 좋은 집",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "현대2차 201동단기임대500/400아파트97C/84m², 11/13층, 남향화이트톤 올수리.층간소음걱정없는 탑층",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대2차 202동매매23억 5,000아파트97B/84m², 저/13층, 남향실매물 선호동 올수리한 물건",
+      "price": "23억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대2차 202동전세8억 5,000아파트97B/84m², 4/13층, 남향확트인 예쁜 숲조망.화이트톤 올수리.대출가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "현대2차 201동월세5,000/295아파트97A/84m², 2/13층, 남향주인직접, 올수리된 집, 정남향, 언북초, 영동고 인접",
+      "price": null,
+      "area": null,
+      "floor": "13층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:32:16.489Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1096_20250717_223220.png"
+  }
+}

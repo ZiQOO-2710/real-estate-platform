@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:26:10.931701",
+    "complex_id": "1269"
+  },
+  "basic_info": {
+    "complex_id": "1269",
+    "source_url": "https://new.land.naver.com/complexes/1269",
+    "extracted_at": "2025-07-17T23:26:05.388436",
+    "url": "https://new.land.naver.com/complexes/1269?ms=37.500111,126.890452,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:26:03.967Z",
+    "complexId": "1269"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억 2,000아파트84/59m², 20/24층, 동향신혼강추 올수리 거리공원뷰 단지앞 초중고 도서관",
+      "price": "5억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.402Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "새솔금호(주상복합) 1동매매6억 1,000아파트120/84m², 22/24층, 북동향거리공원뷰로 방3개 초중고 바로 앞 아파트",
+      "price": "6억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억 3,000아파트84/59m², 고/24층, 동향1 2 호선 신도림역 도보이용가능 올수리 거리공원뷰",
+      "price": "5억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억아파트84/59m², 저/24층, 남향올수리 신혼추천 단지앞 초중고  도서관 보건소인접 지하주차  일상생활편리",
+      "price": "5억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억 1,000아파트84/59m², 6/24층, 남향추천 특올수리 신혼추천 베란다까지 확장인테리어 조명예쁜집 지하주차",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억 3,000아파트84/59m², 2/24층, 남동향전세안고매매 수리하여깨끗함",
+      "price": "5억 3",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매5억 1,000아파트84/59m², 6/24층, 동향특A올수리 신혼강추 입주일은 협의 지하주차장이용 교통편리한 단지",
+      "price": "5억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매6억 4,000아파트120/84m², 중/24층, 남향수리됨 컨디션좋아요  초중고바로앞 거리공원끼고  1,2,7호선인접",
+      "price": "6억 4",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인새솔금호(주상복합) 1동매매6억 2,000아파트120/84m², 9/24층, 남향남향 단지앞 초중고 도서관 계단식  인기아파트",
+      "price": "6억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "새솔금호(주상복합) 1동매매6억 1,000아파트120/84m², 고/24층, 동향추천 로얄층 거리공원방향 트인뷰  채광,통풍좋아요  지하주차 초중고바로앞",
+      "price": "6억 1",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:26:05.403Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1269_20250717_232610.png"
+  }
+}

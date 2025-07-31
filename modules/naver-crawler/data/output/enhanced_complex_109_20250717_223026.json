@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:30:26.272816",
+    "complex_id": "109"
+  },
+  "basic_info": {
+    "complex_id": "109",
+    "source_url": "https://new.land.naver.com/complexes/109",
+    "extracted_at": "2025-07-17T22:30:21.280332",
+    "url": "https://new.land.naver.com/complexes/109?ms=37.652627,127.072976,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:30:18.929Z",
+    "complexId": "109"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 301동매매8억아파트111/84m², 1/24층, 남향정상입주   싼물건입니다",
+      "price": "8억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 301동매매8억 8,000아파트111/84m², 7/24층, 남동향학군우수. 을지중.중계중학군.은행사거리 학원가 인접.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 302동전세3억 1,250아파트78B/59m², 2/14층, 남동향저렴한 전세,임사자 매물, 입주 협의, 학군우수",
+      "price": "3억 1",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 302동전세4억아파트78B/59m², 6/14층, 동향수리되어있는 깔끔한전세,원광초,을지,중계중,학원가",
+      "price": "4억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 302동월세3억/50아파트78B/59m², 6/14층, 동향수리되어있는 깔끔한전세,원광초,을지,중계중,학원가",
+      "price": "3억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 302동매매6억 2,000아파트78B/59m², 5/14층, 남향일조권좋고 조용한남향 입주매물 을지중계중도보5분 학원가인접",
+      "price": "6억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 301동매매8억아파트111/84m², 1/24층, 남동향주인거주로 깨끗하게 관리 잘 되어 있으며 주거환경 우수, 학원가 인접",
+      "price": "8억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "중계우성3차 302동매매6억 2,000아파트78B/59m², 4/14층, 남향전망및 채광좋은 남향라인 매물로 학원가인근 및  우수학군입니다",
+      "price": "6억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인중계우성3차 301동매매7억 2,000아파트78A/59m², 24/24층, 남동향계단식구조로 단독세대 사용, 전망굿, 채광굿, 우수학군 및 학원가 인접",
+      "price": "7억 2",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:30:21.293Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_109_20250717_223026.png"
+  }
+}

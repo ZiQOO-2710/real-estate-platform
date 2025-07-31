@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:24:16.075779",
+    "complex_id": "1992"
+  },
+  "basic_info": {
+    "complex_id": "1992",
+    "source_url": "https://new.land.naver.com/complexes/1992",
+    "extracted_at": "2025-07-18T03:24:12.428403",
+    "url": "https://new.land.naver.com/complexes/1992?ms=37.394087,126.949525,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:24:10.375Z",
+    "complexId": "1992"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 602동매매6억 1,000아파트71/49m², 16/20층, 남향추천 입주물 샷시포함특올수리 남향 방2개",
+      "price": "6억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.443Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 606동매매6억아파트71/49m², 9/20층, 남향샷시포함올수리,입주,범계역도보7분거리",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 605동매매2억 7,000아파트38/28m², 2/15층, 동향추천 입주물,투자물 모두 가능 샷시포함올수리 옵션다수",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 613동월세2,000/80아파트48/35m², 14/15층, 남향남향 샷시포함특올수리,풀옵션있음,하시입주가능",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 608동매매3억 5,500아파트48/35m², 15/15층, 남향8월입주, 샷시포함 올수리, 로얄동, 남향, 범계역 5분",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 503동매매4억 3,000아파트48/35m², 10/15층, 남향최근 특올수리 입주가능",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 606동매매5억 9,000아파트71/49m², 19/20층, 남향샤시포함 수리된 입주물.",
+      "price": "5억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 611동매매2억 8,500아파트38/28m², 5/15층, 동향최근샷시포함전체리모델링 하시입주",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 617동매매4억 6,000아파트58/42m², 5/15층, 서향샷시포함올수리, 전세안고투자물, 범계역가까운동",
+      "price": "4억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 607동매매3억 4,000아파트48/35m², 15/15층, 남향탑층,  공실, 수리기간드려요",
+      "price": "3억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 610동매매2억 9,000아파트38/28m², 14/15층, 동향샷시포함특올수리입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 616동전세2억 9,000아파트71/49m², 20/20층, 남향10월협의가능 샷시포함특올수리 로얄동층 전망굿 범계역가까운동",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 611동매매4억 7,000아파트58/42m², 11/15층, 동향샷시포함 특수리,입주물,2베이구조",
+      "price": "4억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 616동매매6억 1,000아파트71/49m², 15/20층, 남향샷시포함올수리.전세3억끼고매매해요",
+      "price": "6억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 601동매매4억아파트48/35m², 7/12층, 남향외부샷시및 올수리",
+      "price": "4억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 610동매매4억 9,000아파트58/42m², 6/15층, 동향입주물. 내부올수리, 범계역 도보10분",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 609동매매3억 6,000아파트48/35m², 12/15층, 남향급매,샷시포함특수리,범계역도보7분거리,편리한 생활권",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인은하수,샛별5,6단지 620동매매6억 2,000아파트70/57m², 4/5층, 남향범계역세권 계단식아파트 남향쾌적 입주물",
+      "price": "6억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:24:12.444Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1992_20250718_032415.png"
+  }
+}

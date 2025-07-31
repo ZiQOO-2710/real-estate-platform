@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:28:46.050653",
+    "complex_id": "1817"
+  },
+  "basic_info": {
+    "complex_id": "1817",
+    "source_url": "https://new.land.naver.com/complexes/1817",
+    "extracted_at": "2025-07-18T02:28:41.476482",
+    "url": "https://new.land.naver.com/complexes/1817?ms=37.371569,127.136987,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:28:40.230Z",
+    "complexId": "1817"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 615동매매12억 3,000아파트104A/84m², 12/21층, 남서향올수리,전망굳,정상",
+      "price": "12억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 610동매매10억 5,000아파트90A/70m², 10/25층, 남동향샷시포함특올수리,세안고",
+      "price": "10억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 614동매매11억 2,000아파트90A/70m², 18/19층, 남동향급매물 전체올수리 샤시까지 입주협의가능 가운데집 추천매물",
+      "price": "11억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 618동매매8억 8,000아파트73A/53m², 4/18층, 남동향모델하스급완벽특올수리,세안고가능,전망굳",
+      "price": "8억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 613동전세5억 5,000아파트90A/70m², 10/19층, 남동향28타입,샷시및욕실 새로해드림, 굿전망,융무",
+      "price": "5억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 613동매매10억 5,000아파트90A/70m², 18/19층, 남서향샷시포함특올수리 세안고 로얄동로얄층 매수를적극권장합니다.",
+      "price": "10억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 626동매매11억 7,000아파트90B/70m², 8/17층, 남동향주거주  방1개확장 전체올수리 서당초학군 로얄동 로얄층  조정가능",
+      "price": "11억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 616동매매8억 5,000아파트73A/53m², 8/10층, 남동향샷시교체 및 확장특올수리,  세안고",
+      "price": "8억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 608동매매13억 5,000아파트104B/84m², 10/20층, 남서향작은방 확장 샷시포함 올수리, 정상",
+      "price": "13억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 625동매매8억 8,000아파트73B/53m², 4/10층, 남동향 세안고 샤시포함올수리   단지초입 로얄동으로 편리함.",
+      "price": "8억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 618동전세4억아파트73A/53m², 18/18층, 남동향거실확장특올수리 조용한로얄동 주인특수리",
+      "price": "4억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 609동매매12억아파트90B/70m², 3/25층, 남동향샷시포함전체특올수리,세안고,전망",
+      "price": "12억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 612동전세6억 7,000아파트104A/84m², 13/20층, 남서향특올수리 정상 잔금전샷시교체및특올수리해줌",
+      "price": "6억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 605동전세5억 3,000아파트90B/70m², 14/18층, 남동향특올수리 전망 서당초학군 전세자금대출안됨",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 610동매매10억 5,000아파트90A/70m², 24/25층, 남동향로얄동 로얄층 올수리 세안고 매수를권장합니다.",
+      "price": "10억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 612동매매13억아파트104A/84m², 13/20층, 남서향전망굿, 올수리, 정상",
+      "price": "13억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 606동전세7억아파트104B/84m², 15/22층, 남서향33타입 수리 깨끗 도배,장판해줌 서당초학군 정문가까운로얄동 정상입주",
+      "price": "7억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "효자촌그린타운 608동매매12억 5,000아파트104B/84m², 11/20층, 남서향강력추천급매, 전망좋은 로얄동이며 입주하시라도 가능합니다.",
+      "price": "12억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.491Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체73A㎡73B㎡90A㎡90B㎡104A㎡104B㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:28:41.492Z"
+    },
+    {
+      "index": 63,
+      "selector": "[class*=\"item\"]",
+      "text": "효자촌그린타운 615동매매12억 3,000아파트104A/84m², 12/21층, 남서향올수리,전망굳,정상텐컴즈 제공경인공인중개사사무소확인매물 25.07.17.효자촌그린타운 610동매매10억 5,000아파트90A/70m², 10/25층, 남동향샷시포함특올수리,세안고텐컴즈 제공경인공인중개사사무소확인매물 25.07.17.효자촌그린타운 614동매매11억 2,000아파트90A/70m², 18/19층, 남동향급매물 전체올수리 샤시까지 입주협의가능 가운데집 추천매물부동산뱅크 제공미래타운공인중개사사무소확인매물 25.07.17.효자촌그린타운 618",
+      "price": "12억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:28:41.492Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1817_20250718_022845.png"
+  }
+}

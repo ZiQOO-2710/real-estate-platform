@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:48:54.117360",
+    "complex_id": "1343"
+  },
+  "basic_info": {
+    "complex_id": "1343",
+    "source_url": "https://new.land.naver.com/complexes/1343",
+    "extracted_at": "2025-07-17T23:48:51.392446",
+    "url": "https://new.land.naver.com/complexes/1343?ms=37.641959,127.011955,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:48:50.042Z",
+    "complexId": "1343"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인극동 4동매매5억 5,000아파트104/84m², 8/13층, 남향중간층의 남향,입주일 협의 됩니다.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인극동 4동매매5억 5,000아파트104/84m², 7/13층, 남향추천 정남향 샷시,베란다, 욕실 포함 수리, 아파트 매매",
+      "price": "5억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매8억아파트156/134m², 9/14층, 서향",
+      "price": "8억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인극동 5동매매5억 1,000아파트90/71m², 10/11층, 남향가오리역7분,남향 로얄층,주인거주,입주협의",
+      "price": "5억 1",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매7억 4,000아파트156/134m², 7/14층, 남동향인수초중교 앞 방4 화2",
+      "price": "7억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매6억 8,000아파트156/134m², 2/14층, 서향수리되어 상태 깔끔 전용넓은 4룸 안정감 있는 저층 입주추천",
+      "price": "6억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.407Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인극동 3동매매5억 5,000아파트104/84m², 저/10층, 남향저층이지만 햇빛 잘 들고 시원한집,부분수리 되었음.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매6억 8,000아파트156/134m², 저/14층, 서향올수리 앞 뒤 시원한 조망권 방4 욕2 48Py",
+      "price": "6억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매6억 9,000아파트156/134m², 12/14층, 남향전망 좋은 남향,급매입니다.",
+      "price": "6억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 5,000아파트104/84m², 8/13층, 남향앞동 없이 탁트인 뷰를 가진 멋진 집",
+      "price": "5억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인극동 1동매매7억 4,000아파트156/134m², 7/14층, 서향급매 앞발코니쪽 북한산뷰 사계절 볼수 있는 전망 좋은 집 입주강추",
+      "price": "7억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인극동 1동전세4억 8,000아파트156/134m², 12/14층, 남향로얄층의 저렴한 전세,깨끗합니다.",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인극동 3동월세1억 5,000/110아파트104/84m², 5/10층, 남향하시 입주 가능한 깨끗한 남향집.2억에80만원도 가능합니다.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인극동 4동매매5억 3,000아파트104/84m², 12/13층, 남향뒷베란다의 멋진 북한산 조망권,층간소음 걱정없는 집.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "극동 4동매매6억 6,000아파트104/84m², 2/13층, 남향4.19카페거리5분거리 가오리역이용",
+      "price": "6억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인극동 2동매매5억 8,000아파트104/84m², 3/13층, 남향극동아파트 앞동으로 막히지않은뷰 내부일부 수리됨",
+      "price": "5억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:48:51.408Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1343_20250717_234853.png"
+  }
+}

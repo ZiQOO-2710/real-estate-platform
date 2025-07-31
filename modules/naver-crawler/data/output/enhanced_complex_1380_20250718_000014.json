@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:00:14.856660",
+    "complex_id": "1380"
+  },
+  "basic_info": {
+    "complex_id": "1380",
+    "source_url": "https://new.land.naver.com/complexes/1380",
+    "extracted_at": "2025-07-18T00:00:09.054331",
+    "url": "https://new.land.naver.com/complexes/1380?ms=37.667831,126.756953,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:00:06.311Z",
+    "complexId": "1380"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문촌17단지신안 1708동매매11억아파트158/134m², 15/15층, 남서향12월입주가능 제일좋은로얄동 호수공원분수대조망",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.069Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1711동매매10억 5,000아파트158/134m², 12/15층, 남서향GTX수혜,호수공원조망,우수한학군,역세권아파트",
+      "price": "10억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.069Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1701동매매7억 8,000아파트125/101m², 17/18층, 남동향초급매,정상,밝고 깨끗한집,마음이 따뜻해 지는집",
+      "price": "7억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.069Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1706동매매10억 4,500아파트204/172m², 3/20층, 남서향",
+      "price": "10억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.069Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1711동매매9억 8,000아파트158/134m², 4/15층, 남서향입주가능 급매 주엽역 호수공원 도보5분 도서관. 한수초 바로앞 최고단지",
+      "price": "9억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1711동매매8억 9,000아파트158/134m², 2/15층, 남향급매,입주가능 올수리깨끗 아늑하고 채광좋아요",
+      "price": "8억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1705동매매9억 7,000아파트140/117m², 18/19층, 남향조용한로얄동 조망굿 남향 GTX권역 호수공원 주엽역이 단지옆에 전세안고",
+      "price": "9억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1706동월세2억/200아파트204/172m², 2/20층, 남서향샤시포함올수리,아늑한 전망,호수공원,교육환경등 주변인프라완벽",
+      "price": "2억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1706동매매11억 5,000아파트204/172m², 10/20층, 남서향샷시포함올수리,마음이 따뜻해지는집",
+      "price": "11억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1707동매매11억 5,000아파트204/172m², 12/20층, 남동향편의시설 및 교육환경좋아요가장좋은라인 전망아주 좋은집,정상,밝고편안한집",
+      "price": "11억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1711동전세5억 8,000아파트158/134m², 9/15층, 남향수리해주신데요 깨끗,정상조정가 ,남향,전망",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1701동매매7억 9,500아파트125/101m², 7/18층, 남동향GTX권역,호수공원, 역세권교육환경,주변상권완벽,",
+      "price": "7억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1710동매매9억 9,000아파트158/134m², 저/15층, 남서향샷시포함 올수리,호수공원,한수초,한수중,역세권",
+      "price": "9억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1702동매매9억 5,000아파트140/117m², 14/15층, 남서향최근 샷시까지 올수리 되어있어요.정상입주",
+      "price": "9억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1702동매매9억아파트140/117m², 중/15층, 남서향GTX도보가능, 조용한동,호수공원,역세권,교육환경등 일산최고입지",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1709동매매8억 9,000아파트125/101m², 저/18층, 남동향입주가능 최근 하이엔드급 올수리  조용한동  전망굿 주엽역  도보5분",
+      "price": "8억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "문촌17단지신안 1708동매매9억아파트158/134m², 1/15층, 남서향남향 올수리 상태 아주 좋아요 편안한집,세안고",
+      "price": "9억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    },
+    {
+      "index": 50,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인문촌17단지신안 1708동매매11억아파트158/134m², 15/15층, 남서향12월입주가능 제일좋은로얄동 호수공원분수대조망한경부동산 제공원시티허브공인중개사사무소확인매물 25.07.14.문촌17단지신안 1711동매매10억 5,000아파트158/134m², 12/15층, 남서향GTX수혜,호수공원조망,우수한학군,역세권아파트매경부동산 제공대신부동산공인중개사사무소확인매물 25.07.16.문촌17단지신안 1701동매매7억 8,000아파트125/101m², 17/18층, 남동향초급매,정상,밝고 깨끗한집,마음이 따뜻해 지는집매경부동산 제공",
+      "price": "11억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:00:09.070Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1380_20250718_000014.png"
+  }
+}

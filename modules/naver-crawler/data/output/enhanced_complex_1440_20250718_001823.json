@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:18:23.024827",
+    "complex_id": "1440"
+  },
+  "basic_info": {
+    "complex_id": "1440",
+    "source_url": "https://new.land.naver.com/complexes/1440",
+    "extracted_at": "2025-07-18T00:18:19.072303",
+    "url": "https://new.land.naver.com/complexes/1440?ms=37.49279,126.768137,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:18:16.510Z",
+    "complexId": "1440"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대(772-2) 1동매매1억 7,000아파트56/43m², 5/5층, 남향방2화1개 거실겸주방,수리되어 있어 깨끗,세안고 매매",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.086Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대(772-2) 1동매매1억 6,000아파트56/43m², 1/5층, 남향올수리 급매물, 실입주가능",
+      "price": "1억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.087Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "태영올림포스면적76.4㎡68.09㎡ ~ 76.4㎡단지정보",
+      "price": null,
+      "area": "76.4㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "936만형진매매1.5억1.35억~1.55억월세45만45만면적53㎡53.37㎡ ~ 53.37㎡매매매물만 보기5개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억1",
+      "area": "53㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,138만삼일우남매매2.1억1.85억~2.5억월세70만70만면적61㎡61.05㎡ ~ 75.14㎡매매매물만 보기6개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억1",
+      "area": "61㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "라비앙힐스면적71.04㎡42.36㎡ ~ 71.21㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "71.04㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,791만더스테이트(주상복합)매매5.2억5.2억~5.7억면적96㎡96.71㎡ ~ 150.45㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억5",
+      "area": "96㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "945만현대(772-2)매매1.6억1.5억~1.8억면적56㎡56.78㎡ ~ 56.78㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억1",
+      "area": "56㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "월드에스클래스(731-5)면적69.35㎡68.41㎡ ~ 95.71㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "69.35㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,085만팰리스카운티매매7억5.4억~12억전세4.7억3.8억~6.5억월세90만55만~1.8백면적111㎡80.84㎡ ~ 162.5㎡매매매물만 보기321개 매물이 있습니다.전세매물만 보기136개 매물이 있습니다.월세매물만 보기25개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억5",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,742만복사골건영매매3.9억2.7억~7억전세2.7억2.7억~3.7억면적74㎡52.12㎡ ~ 107.7㎡매매매물만 보기126개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억2",
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,191만범양매매2.45억2.45억면적68㎡68.04㎡ ~ 68.04㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억2",
+      "area": "68㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,892만로하스캐슬(주상복합)매매3.95억3.95억면적69㎡69.71㎡ ~ 69.71㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "95억3",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "그린아트빌(도시형)면적 - ㎡34.84㎡ ~ 44.59㎡단지정보",
+      "price": null,
+      "area": "34.84㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "라펠리스면적73.28㎡57.68㎡ ~ 73.28㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "73.28㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,435만태승훼미리매매4.6억4.6억면적106㎡106.07㎡ ~ 106.07㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억4",
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,688만베르우스매매4.8억4.8억면적94㎡94.33㎡ ~ 94.33㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,747만더파크힐매매3.7억3.4억~4억면적70㎡63.66㎡ ~ 70.76㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:18:19.089Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1440_20250718_001822.png"
+  }
+}

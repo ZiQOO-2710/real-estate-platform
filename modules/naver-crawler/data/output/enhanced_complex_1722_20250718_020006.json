@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:00:06.223467",
+    "complex_id": "1722"
+  },
+  "basic_info": {
+    "complex_id": "1722",
+    "source_url": "https://new.land.naver.com/complexes/1722",
+    "extracted_at": "2025-07-18T02:00:02.688912",
+    "url": "https://new.land.naver.com/complexes/1722?ms=37.491629,126.793566,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:00:00.994Z",
+    "complexId": "1722"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인우진 가동매매1억 7,000아파트62B/46m², 5/5층, 동향특올수리샤시포함 지분이가장큼  소사역 종합운동장역도보 트인조망  적극추천",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인우진 나동매매1억 5,500아파트62A/41m², 4/5층, 동향특올수리 가격조정 1호선7호선  서해선 도보 원미산뷰 적극추천",
+      "price": "1억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "우진 가동매매1억 7,000아파트57C/42m², 중/5층, 남향세안고 매매,수리된 깔끔란 아파트 ,남향,2룸,",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "우진 나동매매1억 5,500아파트62A/41m², 4/5층, 서향시티뷰가 좋고,인테리어 되어있는 집입니다\r\n입주가능합니다.주차좋음.",
+      "price": "1억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "우진 가동매매1억 7,000아파트57C/42m², 3/5층, 동향주차양호,원미산 조망,내부상태좋습니다.\r\n 날짜 협의해봅니다",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체55A㎡56D㎡56B㎡56E㎡57C㎡59㎡62B㎡62A㎡",
+      "price": null,
+      "area": "59㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 45,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인우진 가동매매1억 7,000아파트62B/46m², 5/5층, 동향특올수리샤시포함 지분이가장큼  소사역 종합운동장역도보 트인조망  적극추천부동산써브 제공(단지내)부동산행운공인중개사사무소확인매물 25.07.15.집주인우진 나동매매1억 5,500아파트62A/41m², 4/5층, 동향특올수리 가격조정 1호선7호선  서해선 도보 원미산뷰 적극추천부동산써브 제공(단지내)부동산행운공인중개사사무소확인매물 25.07.14.우진 가동매매1억 7,000아파트57C/42m², 중/5층, 남향세안고 매매,수리된 깔끔란 아파트 ,남향,2룸,부동산뱅크 ",
+      "price": "1억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.698Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "한화미리움면적75.08㎡72.15㎡ ~ 104.88㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "75.08㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "986만우진매매1.7억1.55억~1.7억면적57㎡57.62㎡ ~ 62.37㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억1",
+      "area": "57㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,889만아르테2차(주상복합)매매4.8억4.8억면적84㎡84.14㎡ ~ 84.14㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,399만스카이포인트매매3.3억2.75억~3.4억면적78㎡70.2㎡ ~ 78.75㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억2",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "메트로골드(주상복합)면적78.48㎡65.43㎡ ~ 103.89㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "78.48㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,756만한일코지세상매매3.4억3.4억~3.95억면적64㎡64.88㎡ ~ 72.25㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억3",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,741만포레스트매매4.37억4.37억면적83㎡83.89㎡ ~ 83.89㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "37억4",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,283만해맑은(주상복합)매매2.6억2.6억~3.2억면적67㎡67.33㎡ ~ 76.86㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억2",
+      "area": "67㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,607만원미풍림매매5.3억3.5억~8억월세1.05백80만~1.05백면적109㎡85.86㎡ ~ 141.68㎡매매매물만 보기83개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억3",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:00:02.699Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1722_20250718_020006.png"
+  }
+}

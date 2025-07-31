@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:59:27.439528",
+    "complex_id": "10124"
+  },
+  "basic_info": {
+    "complex_id": "10124",
+    "source_url": "https://new.land.naver.com/complexes/10124",
+    "extracted_at": "2025-07-18T20:59:23.989153",
+    "url": "https://new.land.naver.com/complexes/10124?ms=36.808533,127.112525,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:59:21.584Z",
+    "complexId": "10124"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 201동월세3,000/130아파트112/84m², 2/11층, 남향확장형 화이트올수리 생활편리동 즉시입주 이사협의",
+      "price": null,
+      "area": null,
+      "floor": "11층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 203동매매3억 1,000아파트96/74m², 9/11층, 남향거실 현관방 확장 바닥교체 거실화장실 등교체  일부리모델링 즉시입주가",
+      "price": "3억 1",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 301동매매3억 8,000아파트112/84m², 7/18층, 남향착한가격 방2확장 관리잘 된 깨끗한집  수리시간드림",
+      "price": "3억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 205동매매4억 2,000아파트112/84m², 11/12층, 남향",
+      "price": "4억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 203동전세2억 4,000아파트96/74m², 9/11층, 남향거실 방확장 화장실수리 등교체 바닥교체 깨끗 즉시입주",
+      "price": "2억 4",
+      "area": null,
+      "floor": "11층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 306동매매3억 5,500아파트96/74m², 8/12층, 남향풀확장 샷시포함 화이트풀리모델링 조용한라인 이사협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 207동매매4억 1,500아파트112/84m², 7/18층, 남향풀확장 화이트풀리모델링 중앙광장 지대높은동",
+      "price": "4억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 312동매매5억 9,000아파트141/110m², 12/18층, 남동향풀확장  최근 올교체  고급인테리어 봉서산뷰 좋아요",
+      "price": "5억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 310동전세3억아파트112/84m², 13/16층, 남서향올수리, 풀확장, 집상태깨끗, 도배새로, 반전세가능, 빠른입주",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 312동월세5,000/150아파트141/110m², 4/18층, 남향봉서산의 탁월한 뷰 조건부 수리가능",
+      "price": null,
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 310동월세3,000/135아파트112/84m², 13/16층, 남서향올수리, 풀확장, 집상태깨끗, 도배새로, 반전세가능, 빠른입주",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인동일하이빌 206동매매3억 9,000아파트112/84m², 7/18층, 남향관리상태 좋은집 남향 중간라인 초,중,고 근접",
+      "price": "3억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:59:24.000Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10124_20250718_205927.png"
+  }
+}

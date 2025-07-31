@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:39:57.344312",
+    "complex_id": "8515"
+  },
+  "basic_info": {
+    "complex_id": "8515",
+    "source_url": "https://new.land.naver.com/complexes/8515",
+    "extracted_at": "2025-07-18T19:39:53.743191",
+    "url": "https://new.land.naver.com/complexes/8515?ms=37.54503,126.72435,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:39:51.225Z",
+    "complexId": "8515"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼환1차 106동매매1억 7,500아파트70/57m², 6/6층, 남향구조좋음,양쪽 통베란다, 막힘없음",
+      "price": "1억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.754Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "삼환1차 103동매매2억 1,000아파트70/57m², 1/6층, 남향계산역세권  남향   계양산공원인근",
+      "price": "2억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼환1차 106동매매2억 1,000아파트70/57m², 4/6층, 남향계산역세권 남향  임대차승계가능",
+      "price": "2억 1",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼환1차 101동매매2억 7,000아파트87/73m², 3/6층, 남향",
+      "price": "2억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "삼환1차 102동매매2억 6,000아파트87/73m², 5/6층, 남향부분 수리로 비교적 깨끗. 주인거주 이사협의.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인삼환1차 106동매매2억 5,000아파트70/57m², 3/6층, 남향앞뒤베란다 확장, 부분수리로 상태좋아요, 이사날짜등 모든협의 가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼환1차 103동매매2억 6,000아파트79/65m², 6/6층, 남향샷시까지 수리형. 깨끗.  가격 조정 가능 합니다 .",
+      "price": "2억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼환1차 101동매매2억 8,000아파트87/73m², 2/6층, 남향계산역세권  남향  계양산공원인근",
+      "price": "2억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "삼환1차 103동월세3,000/60아파트79/65m², 2/6층, 남향계산역세권  남향  계양산공원인근",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    },
+    {
+      "index": 102,
+      "selector": "[class*=\"item\"]",
+      "text": "공인중개사협회매물삼환1차 101동매매2억 7,000아파트87/73m², 6/6층, 남향샷시포함 수리, 깨끗. 한국공인중개사협회 제공계양트루엘공인중개사무소등록일25.07.15.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:39:53.755Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_8515_20250718_193957.png"
+  }
+}

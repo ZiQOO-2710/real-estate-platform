@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:28:49.262894",
+    "complex_id": "10099"
+  },
+  "basic_info": {
+    "complex_id": "10099",
+    "source_url": "https://new.land.naver.com/complexes/10099",
+    "extracted_at": "2025-07-18T19:28:44.914409",
+    "url": "https://new.land.naver.com/complexes/10099?ms=35.160684,129.106632,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:28:41.919Z",
+    "complexId": "10099"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인광명 101동매매5억 2,000재건축83D/81m², 1/5층, 남향삼성래미안,전세안고매매,사업진행속도빠름,방3,화2",
+      "price": "5억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인광명 103동매매5억 4,000재건축82A/81m², 3/5층, 남향남향 광안3구역 입주협의가능",
+      "price": "5억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인광명 105동월세2,000/60재건축55B/54m², 고/5층, 남향깨끗하게 수리된 남향. 7월6일이후 입주가능.",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "광명 103동매매5억 5,000재건축82A/81m², 2/5층, 남향광안3구역. 시공사선정 . 이사협의. 가격조정 가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "광명 102동매매5억 5,000재건축82A/81m², 3/5층, 남향광안3구역. 래미안 선정.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인광명 101동매매5억 2,000재건축83C/81m², 고/5층, 남향광안3구역 삼성래미안선정,실입주가능,샤시교체함",
+      "price": "5억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "광명 103동매매6억재건축82B/81m², 중/5층, 남향광안3구역 래미안,사업시행인가전단계,실거주가능",
+      "price": "6억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "광명 102동매매5억 4,000재건축82A/81m², 저/5층, 동향",
+      "price": "5억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "광명 103동매매5억 5,000재건축110B/108m², 중/5층, 남향",
+      "price": "5억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체55B㎡55A㎡82A㎡82B㎡83C㎡83D㎡110B㎡110A㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T10:28:44.924Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10099_20250718_192849.png"
+  }
+}

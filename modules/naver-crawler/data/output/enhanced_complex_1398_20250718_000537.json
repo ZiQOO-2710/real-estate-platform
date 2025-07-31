@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:05:37.445546",
+    "complex_id": "1398"
+  },
+  "basic_info": {
+    "complex_id": "1398",
+    "source_url": "https://new.land.naver.com/complexes/1398",
+    "extracted_at": "2025-07-18T00:05:32.907222",
+    "url": "https://new.land.naver.com/complexes/1398?ms=37.492204,126.749172,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:05:30.470Z",
+    "complexId": "1398"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1811동전세3억아파트77A/59m², 5/16층, 동향강추,전체샷시포함특올수리,거실확장된 예쁜집,역세권,입주협의 가능합니다",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1809동매매4억아파트77A/59m², 4/15층, 남향23p, 남향, 세안고 매매   갭 1억3000 투자, 선도지구",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1811동매매2억 7,000아파트51/39m², 14/16층, 동향1기신도시 선도지구 핫플단지, 9000만원 세안고 가능 내부올수리",
+      "price": "2억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1811동월세1,000/70아파트51/39m², 11/16층, 동향역 인접 내부 깨끗한 집으로 월세 조정가능합니다",
+      "price": null,
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1814동매매3억 4,000아파트64/50m², 17/19층, 남향추천,탁트인 시원한전망, 밝고 환한 내부특올수리 예쁜집,세안고 투자가능",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1813동전세2억 4,000아파트64/50m², 14/15층, 남향융자무 내부올수리 신혼거주깨끗, 입주일은 약간협의가능해요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1809동매매3억 3,000아파트64/50m², 13/15층, 남향추천,지하철가까운 전면동으로 밝고 환해요,남향,선도지구선정",
+      "price": "3억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1816동매매4억 5,000아파트77A/59m², 7/15층, 남향전체샷시포함 화이트톤 특올수리 입주가능 밝고 환한 남향 집",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1809동전세2억 7,000아파트77A/59m², 4/15층, 남향추천,내부올수리,탁트인 밝고 환한집,버팀목전세 가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1815동매매3억 1,000아파트64/50m², 7/19층, 남향세안고 추천 매매, 투자1억1천만원가능  통합재건축 예비시행자선정단지",
+      "price": "3억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1809동매매5억아파트77A/59m², 13/15층, 남향내부특올수리,월세안고25년9월",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1809동매매4억 3,000아파트76B/59m², 8/15층, 남향1기신도시 선도지구확정됨,부분수리,입주협의27년2월",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1816동매매4억 2,000아파트77A/59m², 15/15층, 남향추천,전체 샷시포함  특올수리 ,시원한전망,세안고 또는 입주협의가능",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1813동매매3억 8,000아파트64/50m², 14/15층, 남향투자가능, 내부 화이트톤 올수리 반달마을A선도지구 확정 핫한단지",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인반달동아 1815동매매3억 4,000아파트64/50m², 19/19층, 남향추천,샷시포함 전체특올수리로 예쁜집,실입주, 투자 모두 좋습니다",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:05:32.921Z"
+    },
+    {
+      "index": 47,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인반달동아 1811동전세3억아파트77A/59m², 5/16층, 동향강추,전체샷시포함특올수리,거실확장된 예쁜집,역세권,입주협의 가능합니다매경부동산 제공부자공인중개사사무소확인매물 25.07.17.집주인반달동아 1809동매매4억아파트77A/59m², 4/15층, 남향23p, 남향, 세안고 매매   갭 1억3000 투자, 선도지구매경부동산 제공개미공인중개사사무소확인매물 25.07.17.집주인반달동아 1811동매매2억 7,000아파트51/39m², 14/16층, 동향1기신도시 선도지구 핫플단지, 9000만원 세안고 가능 내부올수리매경부동",
+      "price": "3억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:05:32.922Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1398_20250718_000537.png"
+  }
+}

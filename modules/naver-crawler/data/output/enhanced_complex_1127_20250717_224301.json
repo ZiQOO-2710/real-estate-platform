@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:43:01.922469",
+    "complex_id": "1127"
+  },
+  "basic_info": {
+    "complex_id": "1127",
+    "source_url": "https://new.land.naver.com/complexes/1127",
+    "extracted_at": "2025-07-17T22:42:57.503827",
+    "url": "https://new.land.naver.com/complexes/1127?ms=37.579976,127.035803,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:42:55.354Z",
+    "complexId": "1127"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억아파트110B/84m², 1/23층, 동향매매실거주가능  소유자거주중 방3화2",
+      "price": "8억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.514Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대 103동매매7억 5,000아파트85/59m², 중/23층, 동향제기역3분거리.내부깔끔함.입주가능",
+      "price": "7억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.515Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "현대 102동매매8억 5,000아파트118/90m², 저/25층, 남향실입주 또는 임대 맞춰서. 주인거주로 관리 잘 된 집. 수리되어 깨끗함.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.515Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "현대 101동매매8억 2,000아파트110B/84m², 저/23층, 동향가격절충됨 역세권으로 투자가치 좋고 지하철및버스노선3분이내근접,",
+      "price": "8억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.515Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대 103동매매7억 8,000아파트85/59m², 8/23층, 동향2022년도 내부리모델링 올수리 방3개 입주협의 주인거주",
+      "price": "7억 8",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.515Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매10억아파트118/90m², 16/23층, 동향로얄층 내부수리완료 주인거주",
+      "price": "10억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.515Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인현대 101동매매8억아파트110B/84m², 1/23층, 동향매매실거주가능  소유자거주중 방3화2매경부동산 제공현대공인중개사사무소확인매물 25.07.15.현대 101동매매8억아파트110B/84m², 1/23층, 동향내부수리해서깨끗함.입주가능매경부동산 제공부동산라인공인중개사사무소확인매물 25.07.15.집주인현대 103동매매7억 5,000아파트85/59m², 중/23층, 동향제기역3분거리.내부깔끔함.입주가능매경부동산 제공부동산라인공인중개사사무소확인매물 25.07.09.현대 102동매매8억 5,000아파트118/90m², 저/25",
+      "price": "8억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:42:57.516Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1127_20250717_224301.png"
+  }
+}

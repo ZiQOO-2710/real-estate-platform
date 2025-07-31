@@ -1,0 +1,58 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:51:59.288250",
+    "complex_id": "1156"
+  },
+  "basic_info": {
+    "complex_id": "1156",
+    "source_url": "https://new.land.naver.com/complexes/1156",
+    "extracted_at": "2025-07-17T22:51:54.983737",
+    "url": "https://new.land.naver.com/complexes/1156?ms=37.557962,127.146791,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:51:52.422Z",
+    "complexId": "1156"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인아남 5동전세5억 2,000아파트103/84m², 14/19층, 동향주인직접, 귀한전세 , 최고학군",
+      "price": "5억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:54.996Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인아남 4동매매12억 8,000아파트103/84m², 8/16층, 남서향특올수리, 거실확장, 입주가능, 최고학군",
+      "price": "12억 8",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:51:54.996Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인아남 5동전세5억 2,000아파트103/84m², 고/19층, 동향M 2 M.고덕동 전세 로얄층 확트인 뷰 장기거주환영 유명학군 컨디션 깔",
+      "price": "5억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:51:54.996Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 3,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1156_20250717_225159.png"
+  }
+}

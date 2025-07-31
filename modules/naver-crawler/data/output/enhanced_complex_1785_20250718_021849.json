@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:18:49.852918",
+    "complex_id": "1785"
+  },
+  "basic_info": {
+    "complex_id": "1785",
+    "source_url": "https://new.land.naver.com/complexes/1785",
+    "extracted_at": "2025-07-18T02:18:45.680996",
+    "url": "https://new.land.naver.com/complexes/1785?ms=37.269434,127.043464,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:18:42.705Z",
+    "complexId": "1785"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "삼성2차 7동매매4억 5,000아파트105A/84m², 8/13층, 남향샷시교체되어있고  씽크대 화장실등  주인거주로 집 상태 깨끗합니다.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "삼성2차 7동매매3억 9,500아파트105A/84m², 2/13층, 남향샷시,화장실등이 수리되어있으며 세안고 가격 조정 가능합니다.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "삼성2차 6동매매4억 6,000아파트105B/84m², 4/13층, 남향공원전망,샷시포함올수리,정상입주,관리잘되어깨끗함",
+      "price": "4억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "삼성2차 2동매매3억 9,000아파트93/74m², 10/13층, 남향최근 화장실 수리되어있으며 정상입주 가능합니다.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "삼성2차 5동전세3억 2,000아파트105B/84m², 1/13층, 남향도배,장판 씽크대교체,화장실수리,몰딩,LED,등교체,칠등 최신 올수리해줌",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "삼성2차 3동매매3억 2,000아파트76/54m², 9/13층, 남향샷시교체, 씽크대,화장실등 올수리되어있습니다.",
+      "price": "3억 2",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼성2차 2동매매4억아파트93/74m², 11/13층, 남향로얄층, 채광 굿, 내부 수리 완료, 입주 협의 가능",
+      "price": "4억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "삼성2차 6동매매4억 4,000아파트105B/84m², 10/13층, 남향샷시포함올수리,정상입주,전망굿",
+      "price": "4억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "삼성2차 7동전세3억 5,000아파트105A/84m², 10/13층, 남향리모델링 완전 깔끔 공원뷰",
+      "price": "3억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "삼성2차 2동매매4억아파트93/74m², 5/13층, 남향전망굿,채광굿,남향,샷시포함 올수리,아주깨끗,정상입주",
+      "price": "4억",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "삼성2차 7동매매4억 4,000아파트105A/84m², 4/13층, 남향전세안고27년3월,샷시포함전체올수리,전망굿",
+      "price": "4억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "삼성2차 1동매매3억 9,000아파트93/74m², 9/13층, 남향주인거주,샷시수리,깨끗,정상",
+      "price": "3억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "삼성2차 3동매매3억 1,500아파트76/54m², 6/13층, 남향투자추천,전세안고26년3월,샷시포함올수리",
+      "price": "3억 1",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.696Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "삼성2차 5동매매4억 4,000아파트105B/84m², 1/13층, 남향정상입주,샷시포함 오래전올수리지만 상태깨끗해요",
+      "price": "4억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.697Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "삼성2차 5동매매4억 3,000아파트105B/84m², 고/13층, 남향정상입주,전망굿,관리되어아주깨끗함.",
+      "price": "4억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:45.697Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1785_20250718_021849.png"
+  }
+}

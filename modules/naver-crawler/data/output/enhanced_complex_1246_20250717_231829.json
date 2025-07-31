@@ -1,0 +1,268 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:18:29.490726",
+    "complex_id": "1246"
+  },
+  "basic_info": {
+    "complex_id": "1246",
+    "source_url": "https://new.land.naver.com/complexes/1246",
+    "extracted_at": "2025-07-17T23:18:24.681069",
+    "url": "https://new.land.naver.com/complexes/1246?ms=37.577944,127.082688,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:18:22.661Z",
+    "complexId": "1246"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "어반휴9차(도시형)면적 - ㎡31.89㎡ ~ 64.13㎡단지정보",
+      "price": null,
+      "area": "31.89㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "금호오피스(주상복합)면적 - ㎡27.2㎡ ~ 147.81㎡단지정보",
+      "price": null,
+      "area": "27.2㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "가람모던하우스(도시형)면적38.81㎡38.3㎡ ~ 59.75㎡단지정보",
+      "price": null,
+      "area": "38.81㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "킴스타워(도시형)면적42.09㎡41.31㎡ ~ 45.39㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "42.09㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,368만면목두산4,5단지매매7.95억6.3억~9.5억전세-4.3억월세-1.3백~1.8백면적111㎡79.46㎡ ~ 164.22㎡매매매물만 보기149개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억6",
+      "area": "111㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,571만대원칸타빌매매7.7억6.2억~9억전세-3.7억~5억월세1백80만~1.3백면적99㎡71.31㎡ ~ 131.41㎡매매매물만 보기33개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,209만면목현대매매6.95억6.2억~7.5억전세4.8억4.8억~5.2억월세-1.5백면적104㎡89.6㎡ ~ 104.84㎡매매매물만 보기61개 매물이 있습니다.전세매물만 보기26개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억6",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "성진쉐르빌(도시형)면적32.88㎡30.62㎡ ~ 32.88㎡단지정보",
+      "price": null,
+      "area": "32.88㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "면목용마(354-12)면적83.9㎡77.39㎡ ~ 105.56㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "83.9㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,449만면목두산6단지매매6억6억~7.8억면적81㎡81.99㎡ ~ 116.95㎡매매매물만 보기17개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억6",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "KG타워(민간임대,도시형)월세1.4백1.4백면적30㎡30.92㎡ ~ 30.92㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "30㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,379만경남아너스빌매매7.7억6.9억~8.3억면적107㎡79.6㎡ ~ 107.11㎡매매매물만 보기29개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,519만면목삼호매매8억5.75억~8억전세4.5억4.5억월세-75만~1.7백면적105㎡78.63㎡ ~ 118.11㎡매매매물만 보기8개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,730만장안힐스테이트매매8.8억8.7억~14억전세-8.5억월세1.6백80만~2.8백면적78㎡78.61㎡ ~ 165.96㎡매매매물만 보기39개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억8",
+      "area": "78㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "매경더힐스(도시형)면적53.83㎡34.34㎡ ~ 53.83㎡단지정보",
+      "price": null,
+      "area": "53.83㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "강호면적66.78㎡48.98㎡ ~ 97.46㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "66.78㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "유진뜨레지움(주상복합)면적38.33㎡36.26㎡ ~ 57.11㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "38.33㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "리더스빌(616-32,도시형)면적33.08㎡29.03㎡ ~ 36.77㎡단지정보",
+      "price": null,
+      "area": "33.08㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "SM해그린면적98.46㎡93.96㎡ ~ 174.09㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "98.46㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,310만동진노블클래스(주상복합)매매6.5억6.5억면적93㎡93.13㎡ ~ 93.13㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "93㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,691만대한매매7억7억면적86㎡86.92㎡ ~ 86.92㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억7",
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,875만용마(354-8)매매4.65억4.65억면적82㎡82.11㎡ ~ 82.11㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "65억4",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,062만신우매매6.8억5.9억~7.5억전세4.5억4.5억~4.7억면적109㎡77.8㎡ ~ 109.94㎡매매매물만 보기30개 매물이 있습니다.전세매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억5",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:18:24.695Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 24,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1246_20250717_231829.png"
+  }
+}

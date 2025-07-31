@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:32:40.914647",
+    "complex_id": "10193"
+  },
+  "basic_info": {
+    "complex_id": "10193",
+    "source_url": "https://new.land.naver.com/complexes/10193",
+    "extracted_at": "2025-07-18T20:32:36.337040",
+    "url": "https://new.land.naver.com/complexes/10193?ms=37.429394,127.142069,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:32:34.479Z",
+    "complexId": "10193"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 3,000재건축40/40m², 2/6층, 남향신축 아파트 엘리프 36B 타입 전세",
+      "price": "3억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 3,000재건축59/59m², 6/6층, 남동향신축 전용36 방2개 거실 화징실1개  옵션",
+      "price": "3억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 5,000재건축55C/55m², 2/6층, 남향삼남재건축46A타입 첫입주 옵션가득 학세권  방2화2",
+      "price": "3억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세1억/120재건축55C/55m², 6/6층, 남향엘리프1단지 46B타입 첫입주 탁트인조망 방2 화2 조합원옵션모두쓰세요",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세4억재건축55C/55m², 4/6층, 남서향엘리프성남에듀,1단지,46B,4층,시에2,친환경설비",
+      "price": "4억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 7,000재건축55C/55m², 6/6층, 남동향중원구청 인근 신축 입주 아파트",
+      "price": "3억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 4,000재건축55C/55m², 중/6층, 남향신축아파트 로얄층, 풀옵션 46타입 전세.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 5,000재건축47/47m², 고/6층, 남향신축아파트 로얄층  풀옵션 46타입 전세.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세1억/100재건축55C/55m², 4/6층, 남서향엘리프 신축 입주개시",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세5,000/130재건축52B/52m², 3/6층, 남향엘리프 신축 46형 바로입주 가능",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 3,000재건축54A/54m², 2/6층, 남향엘리프 신축 46형 빠른입주 가능",
+      "price": "3억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 4,000재건축55C/55m², 5/6층, 남동향신축첫 입주 전용46 방2개 화장실2개 풀옵션",
+      "price": "3억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 3,500재건축47A/47m², 2/6층, 남향엘리프 신축 첫입주 46형",
+      "price": "3억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동매매4억 8,000재건축55C/55m², 중/6층, 남향신축첫입주 4개동 262세대 36A타입  풀옵션",
+      "price": "4억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세1억/100재건축51A/51m², 중/6층, 남향하대원동 엘리프하이디움 신축아파트 42타입 월세 1억에100",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세1억/120재건축49B/49m², 4/6층, 남향신축 전용46 방2개 화장실2개 옵션",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동월세1억/120재건축52B/52m², 4/6층, 남향",
+      "price": "1억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "하대원삼남 1동전세3억 5,000재건축54A/54m², 고/6층, 남향신축아파트, 풀옵션 46타입 전세.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.347Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체40㎡47A㎡47㎡49D㎡49B㎡49C㎡51A㎡52B㎡52C㎡54B㎡54A㎡55C㎡59㎡",
+      "price": null,
+      "area": "40㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-18T11:32:36.348Z"
+    },
+    {
+      "index": 87,
+      "selector": "[class*=\"item\"]",
+      "text": "하대원삼남 1동전세3억 4,000재건축55C/55m², 저/6층, 동향신축아파트 로얄층, 풀옵션 전세.부동산포스 제공뉴현대공인중개사사무소확인매물 25.07.10.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T11:32:36.348Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_10193_20250718_203240.png"
+  }
+}

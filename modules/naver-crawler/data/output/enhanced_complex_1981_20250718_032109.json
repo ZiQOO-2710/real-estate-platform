@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:21:09.315494",
+    "complex_id": "1981"
+  },
+  "basic_info": {
+    "complex_id": "1981",
+    "source_url": "https://new.land.naver.com/complexes/1981",
+    "extracted_at": "2025-07-18T03:21:06.426658",
+    "url": "https://new.land.naver.com/complexes/1981?ms=37.39901,126.9016,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:21:03.834Z",
+    "complexId": "1981"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인금호타운 105동매매3억 2,000아파트77/59m², 16/16층, 남향샤시포함올수리 햇볕가득하고 전망 공기좋은집 초중고인접 이사협의",
+      "price": "3억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.434Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인금호타운 106동매매3억 1,500아파트77/59m², 18/20층, 남동향상태양호 즉입주 채광 통풍좋아요",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인금호타운 106동매매3억 1,500아파트77/59m², 18/20층, 남향남향 내 외부 상태 깔끔 깨끗함 안양역 광명역10분거리 빠른이사가능",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인금호타운 105동매매3억 3,600아파트77/59m², 10/16층, 남향특올수리 샤시포함 확장 전망최고 입주협의 초중고인접",
+      "price": "3억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인금호타운 101동매매6억아파트142/127m², 18/20층, 남향",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인금호타운 106동매매3억아파트77/59m², 2/20층, 남동향사진,면적대비초저렴,박달스마트밸리,초,중,고학세권,서울,광명진입수월",
+      "price": "3억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인금호타운 106동매매3억 1,000아파트77/59m², 6/20층, 남향갭투자물,올수리 개발호재있는 곳,공기좋고 조용한 주택가,광명역가까움",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인금호타운 101동매매5억 6,000아파트142/127m², 저/20층, 남향이 매물은 귀하게 나온 물건입니다",
+      "price": "5억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인금호타운 106동매매3억 1,000아파트77/59m², 7/20층, 남향수리되어 상태 좋고 깨끗합니다.",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인금호타운 103동매매4억 5,000아파트99/84m², 고/19층, 서향수리 깨끗 조망권최고 입주협의 초중고인접",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인금호타운 105동매매3억 5,000아파트77/59m², 5/16층, 남동향올수리되어깨끗 주인거주 초중고근접",
+      "price": "3억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인금호타운 104동매매3억 9,000아파트99/84m², 저/10층, 남향거실확장,샷시,주인 거주하여 깨끗해요,초중고인접,공기좋고 살기좋아요.",
+      "price": "3억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "금호타운 101동매매6억아파트142/127m², 11/20층, 남향남향, 로얄층, 초중고인접 광명역,중대병원,코스트코,시립수영장등 이용편리",
+      "price": "6억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "금호타운 106동매매3억 1,500아파트77/59m², 3/20층, 남향최근샤시교체,내부 수리됨,남향",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "금호타운 104동매매3억 9,000아파트99/84m², 1/10층, 남향최근샤시 교체 ,내부좋아요, 어린이 있는댁 강추",
+      "price": "3억 9",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인금호타운 103동매매4억 2,000아파트99/84m², 14/19층, 남향급매 햇볕 가득하고 뷰가 참 좋은집 금액조정가 수리 깨끗함 초중고인접",
+      "price": "4억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:21:06.435Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1981_20250718_032109.png"
+  }
+}

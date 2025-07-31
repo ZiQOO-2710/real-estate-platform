@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:28:30.817423",
+    "complex_id": "147"
+  },
+  "basic_info": {
+    "complex_id": "147",
+    "source_url": "https://new.land.naver.com/complexes/147",
+    "extracted_at": "2025-07-18T00:28:26.701396",
+    "url": "https://new.land.naver.com/complexes/147?ms=37.492742,126.87724,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:28:24.805Z",
+    "complexId": "147"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "현대연예인 206동매매6억 5,000아파트93/74m², 15/15층, 동향0올수리 0구조좋은계단식 0초중고교인접해있고 0입주가능해요",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.713Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "현대연예인 206동전세3억 7,000아파트93/74m², 15/15층, 동향0구조좋은계단식 0올수리 0초중고교인접해있어요.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "현대연예인 203동매매6억 8,000아파트102/84m², 2/15층, 남향빠른입주가능 , 생활권 우수 , 초중고 근접 , 계단식구조",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "현대연예인 206동매매6억 8,000아파트102/84m², 7/15층, 남향상태양호 정남향 일조권좋음 임차인승계조건임",
+      "price": "6억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대연예인 203동매매5억아파트69/54m², 15/15층, 동향o 탁트인전망 o 깨끗한입주매매 o 주변생활권편리 o 재건축진행중 o",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "현대연예인 206동매매6억 2,000아파트93/74m², 7/15층, 동향재건축진행중  입주협의 전세승계조건",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "현대연예인 206동전세3억 7,000아파트93/74m², 15/15층, 남향올수리 , 입주협의 , 계단식구조 , 탁트인뷰",
+      "price": "3억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대연예인 206동매매6억 2,000아파트93/74m², 7/15층, 남향0구조좋은계단식  0초중고교인접해있고 0세끼어있어요.",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    },
+    {
+      "index": 46,
+      "selector": "[class*=\"item\"]",
+      "text": "현대연예인 206동매매6억 5,000아파트93/74m², 15/15층, 동향0올수리 0구조좋은계단식 0초중고교인접해있고 0입주가능해요매경부동산 제공대한공인중개사사무소확인매물 25.07.16.현대연예인 206동전세3억 7,000아파트93/74m², 15/15층, 동향0구조좋은계단식 0올수리 0초중고교인접해있어요.부동산114 제공대한공인중개사사무소확인매물 25.07.16.현대연예인 203동매매6억 8,000아파트102/84m², 2/15층, 남향빠른입주가능 , 생활권 우수 , 초중고 근접 , 계단식구조부동산써브 제공종합부동산공인중개사사",
+      "price": "6억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:28:26.714Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_147_20250718_002830.png"
+  }
+}

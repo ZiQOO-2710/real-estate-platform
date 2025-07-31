@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:22:35.111588",
+    "complex_id": "1451"
+  },
+  "basic_info": {
+    "complex_id": "1451",
+    "source_url": "https://new.land.naver.com/complexes/1451",
+    "extracted_at": "2025-07-18T00:22:31.187786",
+    "url": "https://new.land.naver.com/complexes/1451?ms=37.387811,126.969847,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:22:30.158Z",
+    "complexId": "1451"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 202동매매15억 7,000아파트155/132m², 13/15층, 남향최근특올수리,로얄층의 리모델링 잘되어있는 입주물",
+      "price": "15억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 202동매매15억아파트155/132m², 2/15층, 남향남향.샤포올수리.민백블럭선도지구.민백초.귀인중",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 202동전세8억아파트155/132m², 2/15층, 남향샷시포함올수리,채광우수,민백초귀인중학군",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 204동매매15억아파트155/132m², 11/15층, 남향민백블럭 선도지구 세안고 민백초 귀인중학군",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 204동매매15억 5,000아파트155/132m², 고/15층, 남향입주물, 샷시포함 최근 특올수리, 선도지구지정, 귀인중학군",
+      "price": "15억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 205동매매18억아파트184/158m², 고/18층, 남향완전특올수리,입주물,전망특,민백초귀인중평촌최우수학군지",
+      "price": "18억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 204동매매16억아파트155/132m², 12/15층, 남동향샷시포함 전체 올수리 된 매물로 입주 또는 세안고 가능합니다.",
+      "price": "16억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 204동매매15억아파트155/132m², 고/15층, 남동향샷시포함 특올수리 되어있는 개방감 좋은 입주매물입니다.",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 206동매매17억 5,000아파트184/158m², 저/25층, 남향입주물,민백초, 귀인중, 평촌학원가 도보가능,평촌인프라 완벽소화.",
+      "price": "17억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인꿈우성 205동월세5억/150아파트184/158m², 중/18층, 남향샷시포함올수리,대형평형의 귀한 반전세,민백초귀인중학군",
+      "price": "5억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:22:31.195Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1451_20250718_002234.png"
+  }
+}

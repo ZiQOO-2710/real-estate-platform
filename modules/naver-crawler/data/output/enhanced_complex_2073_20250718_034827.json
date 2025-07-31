@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:48:27.191094",
+    "complex_id": "2073"
+  },
+  "basic_info": {
+    "complex_id": "2073",
+    "source_url": "https://new.land.naver.com/complexes/2073",
+    "extracted_at": "2025-07-18T03:48:23.490660",
+    "url": "https://new.land.naver.com/complexes/2073?ms=37.356173,126.969625,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:48:21.241Z",
+    "complexId": "2073"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인백합 104동매매3억 3,000아파트70/49m², 1/17층, 남서향세안고 매매 부분수리되어 깨끗합니다",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인백합 103동월세5,000/120아파트107/84m², 19/19층, 남향즉시입주 협의 내부수리 깨끗 층간소음 걱정없는 탑층 뻥뷰",
+      "price": null,
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인백합 101동매매5억아파트107/84m², 16/19층, 남향올수리, 깨끗, 입주협의",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인백합 103동월세1억/90아파트107/84m², 19/19층, 남동향수리 깨끗 층간소음이 없는 탑층 주거환경이 쾌적합니다",
+      "price": "1억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인백합 104동매매3억 9,000아파트70/49m², 14/17층, 남서향샷시포함 전체 특올수리 인테리어 아주 좋아요",
+      "price": "3억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인백합 105동매매3억 6,500아파트70/49m², 13/16층, 남서향인동선 호재 및 주거환경이 쾌적",
+      "price": "3억 6",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인백합 101동매매5억아파트107/84m², 16/19층, 남동향수리샷시제외인동선 착공",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "백합 103동매매5억아파트107/84m², 19/19층, 북향하시입주",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "백합 102동매매4억 9,000아파트107/84m², 18/19층, 남향빠른입주가능한집  인동선오전역근처  채광좋은집",
+      "price": "4억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인백합 103동매매5억아파트107/84m², 고/19층, 남향입주물. 2년전 올수리된 깨끗한 집. 채광 좋아요.",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "백합 105동매매3억 4,000아파트70/49m², 16/16층, 남서향",
+      "price": "3억 4",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "백합 103동매매5억아파트107/84m², 19/19층, 남향깨끗하게 수리되어 있음. 입주정상",
+      "price": "5억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "백합 104동매매3억 5,000아파트70/49m², 9/17층, 남동향빠른입주가능.깨끗.주차용이.인동선라인",
+      "price": "3억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인백합 105동매매3억 7,500아파트70/49m², 12/16층, 남서향내부완전올수리 완전깨끗 날짜협의",
+      "price": "3억 7",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.506Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인백합 104동매매3억 3,000아파트70/49m², 1/17층, 남서향세안고 매매 부분수리되어 깨끗합니다매경부동산 제공백합공인중개사사무소확인매물 25.07.17.집주인백합 103동월세5,000/120아파트107/84m², 19/19층, 남향즉시입주 협의 내부수리 깨끗 층간소음 걱정없는 탑층 뻥뷰매경부동산 제공백합공인중개사사무소확인매물 25.07.11.집주인백합 101동매매5억아파트107/84m², 16/19층, 남향올수리, 깨끗, 입주협의매경부동산 제공신현대공인중개사사무소확인매물 25.07.11.집주인백합 103동월세1억/90",
+      "price": "3억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:48:23.507Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2073_20250718_034827.png"
+  }
+}

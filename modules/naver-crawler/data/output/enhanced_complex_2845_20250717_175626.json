@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T17:56:26.450849",
+    "complex_id": "2845"
+  },
+  "basic_info": {
+    "complex_id": "2845",
+    "source_url": "https://new.land.naver.com/complexes/2845",
+    "extracted_at": "2025-07-17T17:56:22.891333",
+    "url": "https://new.land.naver.com/complexes/2845?ms=37.726742,127.04983,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T08:56:20.808Z",
+    "complexId": "2845"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "신도5차 501동전세2억 8,000아파트108/84m², 10/19층, 남향회룡역세권.올수리",
+      "price": "2억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T08:56:22.900Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "신도5차 501동매매2억 9,000아파트85/59m², 6/19층, 동향공실",
+      "price": "2억 9",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.900Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "신도5차 501동매매2억 6,000아파트85/59m², 1/19층, 동향,수리되어있어요, 앞이 안답답하고 좋아요.",
+      "price": "2억 6",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.900Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "현대아트홈(347-6,도시형)면적 - ㎡60.23㎡ ~ 67.45㎡단지정보",
+      "price": null,
+      "area": "60.23㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,387만한신1차매매3.65억3.3억~4억월세-90만면적87㎡87.2㎡ ~ 103.78㎡매매매물만 보기2개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억3",
+      "area": "87㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,194만우남1차매매3.9억2.55억~4.2억전세2.8억2.8억면적108㎡87.92㎡ ~ 108.32㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억2",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,166만의정부장암푸르지오2단지매매4.12억3.85억~4.5억전세3.5억3.5억~3.55억면적117㎡117.89㎡ ~ 117.89㎡매매매물만 보기22개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "12억3",
+      "area": "117㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,246만드림팰리스(도시형)매매2.6억2.6억면적69㎡69.31㎡ ~ 69.31㎡매매매물만 보기1개 매물이 있습니다.단지정보",
+      "price": "6억2",
+      "area": "69㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,138만한주5차매매2.65억2.65억~4.4억면적77㎡77.23㎡ ~ 107.05㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억2",
+      "area": "77㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,211만쌍용매매3.7억2.6억~3.7억전세-2.5억면적101㎡82.69㎡ ~ 101.7㎡매매매물만 보기11개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억2",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,102만우남2차매매2.8억2.8억~3.55억면적84㎡84.6㎡ ~ 106.36㎡매매매물만 보기6개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억2",
+      "area": "84㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,240만한신2차매매3.9억3.8억~4.1억월세1.2백1.2백면적104㎡104.48㎡ ~ 104.48㎡매매매물만 보기11개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억3",
+      "area": "104㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,007만신도4차매매2.59억2.55억~3.6억면적85㎡85.74㎡ ~ 108.92㎡매매매물만 보기16개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "59억2",
+      "area": "85㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "911만신도2차매매2.26억2.15억~4억전세1.9억1.9억~2억월세80만80만면적82㎡82.03㎡ ~ 108.86㎡매매매물만 보기18개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "26억2",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "델프라임(도시형)면적 - ㎡66.86㎡ ~ 66.86㎡단지정보",
+      "price": null,
+      "area": "66.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,267만현대2차매매4.1억3억~4.9억전세2.85억2.7억~3억면적107㎡92.56㎡ ~ 107.67㎡매매매물만 보기101개 매물이 있습니다.전세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억3",
+      "area": "107㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,265만장암동아매매3.1억2.8억~6.1억전세-4억월세90만90만면적81㎡81.21㎡ ~ 164.34㎡매매매물만 보기107개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "1억2",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "아이디캐슬(도시형)면적 - ㎡62.97㎡ ~ 70.8㎡단지정보",
+      "price": null,
+      "area": "62.97㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "회룡타운(도시형)월세60만60만면적44㎡44.54㎡ ~ 44.54㎡월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "44㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T08:56:22.902Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2845_20250717_175626.png"
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:03:43.188614",
+    "complex_id": "1393"
+  },
+  "basic_info": {
+    "complex_id": "1393",
+    "source_url": "https://new.land.naver.com/complexes/1393",
+    "extracted_at": "2025-07-18T00:03:37.789952",
+    "url": "https://new.land.naver.com/complexes/1393?ms=37.49348,126.75243,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:03:35.598Z",
+    "complexId": "1393"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1826동매매4억 5,000아파트72/58m², 14/15층, 남향1기신도시선도지구확정,남향,내부올수리,세안고만기26년6월",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1832동전세3억 6,000아파트102/82m², 7/25층, 남향내부특올수리  8월중순 이사협의",
+      "price": "3억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1830동매매5억 8,000아파트102/82m², 2/25층, 남향선도지구 지정단지, 내부 수리 된 집, 입주협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1831동매매6억아파트102/82m², 22/25층, 남향추천,전체샷시포함 특올수리,정남향 로얄층,세안고 사두셨다가 입주하세요",
+      "price": "6억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1829동매매5억 6,000아파트102/82m², 10/18층, 동향조용하고 조망보장되는 샷시포함내부수리된 상태좋은 매물입니다.",
+      "price": "5억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1831동매매6억아파트102/82m², 22/25층, 동향1기신도시 선도지구 지정된 삼익아파트, 전체샷시포함수리된 투자자가능한매매",
+      "price": "6억",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1825동매매4억 3,000아파트72/58m², 4/15층, 동향입주 추천,내부수리되어 깨끗, 1기신도시 선도지구로 지정",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1831동전세3억 6,000아파트102/82m², 24/25층, 남향샷시제외 내부 수리,  조망권 양호합니다. 빠른입주 가능",
+      "price": "3억 6",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1826동매매4억 8,000아파트72/58m², 12/15층, 남향계단식,남향,내부올수리,빠른입주가능,주인거주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1827동매매6억아파트102/82m², 8/15층, 남향공원뷰. 샷시교체되어 깨끗한 남향집.  선도지구지정. 역세권. 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1827동매매6억아파트102/82m², 4/15층, 남향공원 보이는 동. 남향. 입주시 도배 장판 페인트함. 재건축선도지구단지",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1824동매매5억 6,000아파트102/82m², 1/18층, 남향외부샷시포함 올수리. 폴딩도어. 작은방확장. 강마루. 붙박이장.식기세척기",
+      "price": "5억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인반달삼익 1824동매매5억 5,500아파트102/82m², 18/18층, 남향전체 샷시교체 포함 올 인테리어 된 집입니다, 입주일협의, 선도지구지정",
+      "price": "5억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:03:37.801Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1393_20250718_000343.png"
+  }
+}

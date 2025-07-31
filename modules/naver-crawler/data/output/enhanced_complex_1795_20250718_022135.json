@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:21:35.818542",
+    "complex_id": "1795"
+  },
+  "basic_info": {
+    "complex_id": "1795",
+    "source_url": "https://new.land.naver.com/complexes/1795",
+    "extracted_at": "2025-07-18T02:21:32.039842",
+    "url": "https://new.land.naver.com/complexes/1795?ms=37.270593,127.056596,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:21:30.194Z",
+    "complexId": "1795"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 101동매매4억 7,000아파트70C/49m², 8/10층, 남동향샷시포함특올수리.거실확장.주인거주",
+      "price": "4억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 202동매매3억 5,000아파트61/44m², 9/10층, 남동향샷시포함올수리됨.전세안고.원천역공사중.재건축동의서80프로됨.",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 102동매매4억 7,000아파트70C/49m², 9/10층, 남향공실 중문 씽크대교체 신발장 화장실수리 즉시입주",
+      "price": "4억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 201동매매3억 4,000아파트61/44m², 5/10층, 남향월세안고 원천역공사중 26년6월만기",
+      "price": "3억 4",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 201동매매3억 5,000아파트61/44m², 8/10층, 남동향화장실.씽크수리됨.월세안고가능.원천역공사중",
+      "price": "3억 5",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 101동월세2,000/70아파트70C/49m², 4/10층, 남동향내부수리됨.정상입주",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 101동월세2,000/70아파트70C/49m², 4/10층, 남향깨끗함   일조권좋은집  교통편리  정상입주",
+      "price": null,
+      "area": null,
+      "floor": "10층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인성일(1199) 102동매매4억 7,000아파트70C/49m², 9/10층, 남동향M l 원천역 호재 l 광교생활권 가능 l 투자추천",
+      "price": "4억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "성일(1199) 203동매매4억 3,000아파트70C/49m², 3/10층, 남향내부부분수리 l 세끼고 l 초역세권 재건축 l 주민동의80프로달성",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "성일(1199) 203동매매4억 3,000아파트70C/49m², 5/10층, 남향초역세권 재건축추진중 l  전세끼고 l 주민동의 80프로초과",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "성일(1199) 101동매매4억 7,000아파트70C/49m², 8/10층, 남향외부샤시포함 특올리모델링 l 입주가능 l 아래매물소개 참조 l 사진참조",
+      "price": "4억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "성일(1199) 101동매매4억 6,000아파트70C/49m², 6/10층, 남향실입주되요,부분수리된집 ,남향으로 인기좋아요 .지하철공사시작",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "성일(1199) 102동매매4억 6,000아파트70C/49m², 10/10층, 남향내부올수리 l 아래매물소개참조 l  월세안고 l 주민동의80프로초과",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "성일(1199) 203동매매4억아파트70C/49m², 1/10층, 남향부분수리.정상입주",
+      "price": "4억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "성일(1199) 103동전세1억 8,000아파트70C/49m², 2/10층, 남향내부수리된깔끔한집 l 융자없는집 l 9월중순이후 l 전세대출.보증보험가능",
+      "price": "1억 8",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "성일(1199) 201동매매3억 6,000아파트61/44m², 7/10층, 남향수리되어 깨끗 전세안고",
+      "price": "3억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.053Z"
+    },
+    {
+      "index": 47,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인성일(1199) 101동매매4억 7,000아파트70C/49m², 8/10층, 남동향샷시포함특올수리.거실확장.주인거주부동산써브 제공성일공인중개사사무소확인매물 25.07.16.집주인성일(1199) 202동매매3억 5,000아파트61/44m², 9/10층, 남동향샷시포함올수리됨.전세안고.원천역공사중.재건축동의서80프로됨.부동산써브 제공성일공인중개사사무소확인매물 25.07.16.집주인성일(1199) 102동매매4억 7,000아파트70C/49m², 9/10층, 남향공실 중문 씽크대교체 신발장 화장실수리 즉시입주매경부동산 제공강남공인중개",
+      "price": "4억 7",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:32.054Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1795_20250718_022135.png"
+  }
+}

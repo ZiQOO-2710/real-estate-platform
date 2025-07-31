@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:29:48.830104",
+    "complex_id": "6306"
+  },
+  "basic_info": {
+    "complex_id": "6306",
+    "source_url": "https://new.land.naver.com/complexes/6306",
+    "extracted_at": "2025-07-18T19:29:45.296899",
+    "url": "https://new.land.naver.com/complexes/6306?ms=35.103204,129.00501,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:29:43.897Z",
+    "complexId": "6306"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인동아파크맨션 1동매매1억 4,000아파트102/84m², 4/12층, 남동향투자 매물, 1천만원에 구매 가능 , 2년 전 올 수리, 입주는 협의 능",
+      "price": "1억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인동아파크맨션 1동전세1억아파트102/84m², 저/12층, 남향전세 1억 방3화2입니다. 8월말 입주 협의가능 샤시 도배 장판 중문",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인동아파크맨션 1동전세1억아파트102/84m², 10/12층, 남향조용하고  살기좋은아파트  햇살좋음",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "동아파크맨션 1동매매1억 1,500아파트102/84m², 3/12층, 남동향공실, 즉시 입주 가능, 승학초 학세권, 마을버스",
+      "price": "1억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "동아파크맨션 1동매매1억 1,500아파트102/84m², 저/12층, 남향공실 즉시입주, 승학초등학교인접",
+      "price": "1억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "동아파크맨션 1동매매1억 1,000아파트102/84m², 2/12층, 남동향1가구 1주차가능, 도심권 가성비 최고 아파트",
+      "price": "1억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "동아파크맨션 1동전세1억아파트102/84m², 10/12층, 남동향전망.공기.햇빛짱인 조용한 아파트 매매도 가능",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인동아파크맨션 1동전세1억아파트102/84m², 고/12층, 남동향착한 전세매물,입주일 조절가능, LH가능해요,베란다有",
+      "price": "1억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "동아파크맨션 1동매매1억 6,000아파트102/84m², 고/12층, 남동향승학초등학교인접, 전망뷰 좋은 리모델링아파트",
+      "price": "1억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    },
+    {
+      "index": 38,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인동아파크맨션 1동매매1억 4,000아파트102/84m², 4/12층, 남동향투자 매물, 1천만원에 구매 가능 , 2년 전 올 수리, 입주는 협의 능부동산써브 제공으뜸부동산중개사무소확인매물 25.07.14.집주인동아파크맨션 1동전세1억아파트102/84m², 저/12층, 남향전세 1억 방3화2입니다. 8월말 입주 협의가능 샤시 도배 장판 중문부동산뱅크 제공블루공인중개사사무소확인매물 25.07.17.집주인동아파크맨션 1동전세1억아파트102/84m², 10/12층, 남향조용하고  살기좋은아파트  햇살좋음부동산뱅크 제공골드공인중개사사무",
+      "price": "1억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:29:45.305Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_6306_20250718_192948.png"
+  }
+}

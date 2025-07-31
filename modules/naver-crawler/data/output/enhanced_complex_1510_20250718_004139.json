@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:41:39.922414",
+    "complex_id": "1510"
+  },
+  "basic_info": {
+    "complex_id": "1510",
+    "source_url": "https://new.land.naver.com/complexes/1510",
+    "extracted_at": "2025-07-18T00:41:34.980104",
+    "url": "https://new.land.naver.com/complexes/1510?ms=37.689605,126.770377,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:41:32.287Z",
+    "complexId": "1510"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 3,000아파트112A/84m², 11/13층, 남향초급매. 조절가,남향, 기본상태깨끗.라인굿",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.989Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 4,500아파트112A/84m², 12/13층, 남향부분수리 주인거주  일산역도보 남향 채광좋아요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인미주8차 나동매매2억 500아파트81/59m², 6/13층, 남향긴 세 안고 2년전 샤시 포함 올수리  강마루시공 갭투자",
+      "price": "2억 500",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인미주8차 나동매매1억 9,500아파트81/59m², 8/13층, 서향외부샷시포함올수리 중문 깔끔  26.2월입주",
+      "price": "1억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인미주8차 1동매매1억 9,500아파트113B/79m², 3/5층, 남동향추천,일부수리 깨끗 관리비저렴 일산역도보",
+      "price": "1억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 4,500아파트112A/84m², 1/13층, 남향세안고,  올수리깨끗, 일산역도보권, 초중교인접, 생활권 권리",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 4,500아파트112A/84m², 1/13층, 남서향27.2월 만기 세안고, 샤시포함올수리 상태좋아요",
+      "price": "2억 4",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인미주8차 1동매매3억 1,000아파트226/159m², 5/5층, 남동향올수리 보조주방 넓은전실과 베란다 세안고",
+      "price": "3억 1",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인미주8차 나동매매1억 8,000아파트81/59m², 13/13층, 남서향세안고, 최근올수리, 중문, 보일러 배관교체, 일산역 도보권",
+      "price": "1억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 5,000아파트112A/84m², 7/13층, 남향올수리 채광굿 주인거주 개끗 일산역도보",
+      "price": "2억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인미주8차 가동매매2억 5,000아파트112A/84m², 6/13층, 남향화장실,주방 등 샤시제외 올수리함, 주인거주 잘 관리된집, 입주정상",
+      "price": "2억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인미주8차 나동매매1억 8,000아파트81/59m², 13/13층, 남향좋은 가격,기본형, 입주 또는 집주인월세안고도 가능해요",
+      "price": "1억 8",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체81㎡110㎡112A㎡113B㎡124㎡220㎡226㎡249㎡",
+      "price": null,
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    },
+    {
+      "index": 48,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인미주8차 가동매매2억 3,000아파트112A/84m², 11/13층, 남향초급매. 조절가,남향, 기본상태깨끗.라인굿매경부동산 제공홈타운공인중개사사무소확인매물 25.07.17.집주인미주8차 가동매매2억 4,500아파트112A/84m², 12/13층, 남향부분수리 주인거주  일산역도보 남향 채광좋아요매경부동산 제공이화부동산 공인중개사사무소확인매물 25.07.17.집주인미주8차 나동매매2억 500아파트81/59m², 6/13층, 남향긴 세 안고 2년전 샤시 포함 올수리  강마루시공 갭투자매경부동산 제공유일부동산공인중개사사무소확인매물",
+      "price": "2억 3",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:41:34.990Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1510_20250718_004139.png"
+  }
+}

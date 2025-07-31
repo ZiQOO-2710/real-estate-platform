@@ -1,0 +1,218 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:20:26.004082",
+    "complex_id": "1792"
+  },
+  "basic_info": {
+    "complex_id": "1792",
+    "source_url": "https://new.land.naver.com/complexes/1792",
+    "extracted_at": "2025-07-18T02:20:22.297424",
+    "url": "https://new.land.naver.com/complexes/1792?ms=37.267509,127.037219,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:20:20.246Z",
+    "complexId": "1792"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "주공5단지 517동매매9억 5,000재건축104/83m², 9/12층, 남동향84가형 신청,이주비 2억8천만원 승계,2천5백만원 환급 예정",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "주공5단지 522동매매10억재건축104/83m², 6/12층, 남향",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "주공5단지 507동매매9억재건축79/73m², 1/3층, 남향84가배정,이주비대출승계,추가분담금3800만원",
+      "price": "9억",
+      "area": null,
+      "floor": "3층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "주공5단지 519동매매8억 3,000재건축92/73m², 저/12층, 남동향84가형 신청, 이주비융자  안받았음.",
+      "price": "8억 3",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "주공5단지 520동매매10억 9,000재건축104/83m², 중/12층, 남동향",
+      "price": "10억 9",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "주공5단지 517동매매8억 5,000재건축92/73m², 고/12층, 남동향84가형 배정, 이주비승계가능.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "주공5단지 524동매매10억재건축92/73m², 고/12층, 남동향84가배정, 이주비대출 승계가능",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "주공5단지 505동매매9억 5,000재건축101A/83m², 4/12층, 남향이주비대출 2억7천5백만원 승계가능",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "주공5단지 505동매매9억 5,000재건축101A/83m², 저/12층, 남동향84가타입배정,이주비있음,조합원지위승계",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "주공5단지 501동매매10억재건축101B/83m², 1/12층, 남향84가신청,이주비이억팔천만원승계가능,추가분당금1928만원예정",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "주공5단지 505동매매9억 5,000재건축101A/83m², 4/12층, 남동향84가타입신청, 이주비대출 승계가능",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "주공5단지 521동매매9억재건축92/73m², 11/12층, 남향귀한 101가판상형,이주비 승계가능",
+      "price": "9억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "주공5단지 520동매매8억 4,000재건축92/73m², 중/12층, 남동향84가형 신청, 이주비없음",
+      "price": "8억 4",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "주공5단지 519동매매7억 6,000재건축104/83m², 저/12층, 남향",
+      "price": "7억 6",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "주공5단지 524동매매12억재건축104/83m², 11/12층, 남향단독보유 101가신청 이주비없음",
+      "price": "12억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.310Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체59A㎡59B㎡66㎡67㎡75㎡79㎡92㎡101A㎡101B㎡104㎡",
+      "price": null,
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:20:22.311Z"
+    },
+    {
+      "index": 70,
+      "selector": "[class*=\"item\"]",
+      "text": "주공5단지 517동매매9억 5,000재건축104/83m², 9/12층, 남동향84가형 신청,이주비 2억8천만원 승계,2천5백만원 환급 예정부동산114 제공뿌리(구)주공공인중개사사무소확인매물 25.07.17.주공5단지 522동매매10억재건축104/83m², 6/12층, 남향부동산렛츠 제공프라임합동공인중개사사무소확인매물 25.07.14.주공5단지 507동매매9억재건축79/73m², 1/3층, 남향84가배정,이주비대출승계,추가분담금3800만원부동산렛츠 제공매탄갤러리공인중개사사무소확인매물 25.07.10.주공5단지 519동매매8억 3,00",
+      "price": "9억 5",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.311Z"
+    },
+    {
+      "index": 108,
+      "selector": "[class*=\"item\"]",
+      "text": "주공5단지 522동매매10억재건축104/83m², 중/12층, 남동향부동산114 제공뿌리(구)주공공인중개사사무소확인매물 25.07.11.",
+      "price": "10억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.312Z"
+    },
+    {
+      "index": 112,
+      "selector": "[class*=\"item\"]",
+      "text": "주공5단지 517동매매9억재건축92/73m², 고/12층, 남향84가신청, 이주비 승계가능부동산114 제공뿌리(구)주공공인중개사사무소확인매물 25.07.11.",
+      "price": "9억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:20:22.312Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 19,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1792_20250718_022025.png"
+  }
+}

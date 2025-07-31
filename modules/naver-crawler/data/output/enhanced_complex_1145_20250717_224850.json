@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:48:50.430784",
+    "complex_id": "1145"
+  },
+  "basic_info": {
+    "complex_id": "1145",
+    "source_url": "https://new.land.naver.com/complexes/1145",
+    "extracted_at": "2025-07-17T22:48:44.960237",
+    "url": "https://new.land.naver.com/complexes/1145?ms=37.559896,127.150096,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:48:43.910Z",
+    "complexId": "1145"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "엘아트빌(도시형)면적 - ㎡40.08㎡ ~ 58.33㎡단지정보",
+      "price": null,
+      "area": "40.08㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,437만대우매매10.5억10.5억면적101㎡101.64㎡ ~ 101.64㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억10",
+      "area": "101㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "4,012만아남매매12.5억8억~12.9억전세5.2억5억~5.6억월세50만50만면적103㎡60.95㎡ ~ 103.1㎡매매매물만 보기35개 매물이 있습니다.전세매물만 보기48개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "정원(도시형)면적 - ㎡32.82㎡ ~ 54.17㎡단지정보",
+      "price": null,
+      "area": "32.82㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,510만고덕아이파크매매19억15.5억~30억전세-7.5억~14.5억월세-1.2백~2.4백면적114㎡85.07㎡ ~ 215.88㎡매매매물만 보기74개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.월세매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "19억15",
+      "area": "114㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "5,462만고덕래미안힐스테이트매매19억15.7억~48억전세9억7.3억~15억월세3.2백30만~3.2백면적115㎡82.55㎡ ~ 223.15㎡매매매물만 보기613개 매물이 있습니다.전세매물만 보기111개 매물이 있습니다.월세매물만 보기46개 매물이 있습니다.단지정보시세/실거래가단지투어VR",
+      "price": "19억15",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:48:44.975Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1145_20250717_224850.png"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:43:06.282249",
+    "complex_id": "1865"
+  },
+  "basic_info": {
+    "complex_id": "1865",
+    "source_url": "https://new.land.naver.com/complexes/1865",
+    "extracted_at": "2025-07-18T02:43:01.225352",
+    "url": "https://new.land.naver.com/complexes/1865?ms=37.4307,126.7962,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:42:59.428Z",
+    "complexId": "1865"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 8,000아파트78B/56m², 6/20층, 남향외부샷시포함올수리, 거실확장,붙박이장등옵션풍부",
+      "price": "2억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.239Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 4,000아파트78B/56m², 1/20층, 남향수리된예쁜1층, 내부샷시교체. 남향 채광.햇볕굿",
+      "price": "2억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.239Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 101동매매2억 3,000아파트78B/56m², 저/19층, 남향각방 붙박이장설치,중문,씽크대교체,은계지구생활권이용편리,학교가까움",
+      "price": "2억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.239Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 7,000아파트78A/54m², 저/20층, 남동향",
+      "price": "2억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.239Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 7,000아파트78A/54m², 3/20층, 남서향샷시 도배 장판등 내부올수리 입주협의",
+      "price": "2억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.239Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 5,000아파트78A/54m², 2/20층, 남향외부샷시포함. 올수리, 거실확장, 예쁜신혼집 추천",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매2억 5,000아파트78B/56m², 4/20층, 남향방2 거실확장 보일러교체 컨디션 좋아요.  해 잘 드는 남향, 세안고",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "은행마을녹원 102동매매3억 4,000아파트106/84m², 5/20층, 남향급매",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 101동매매3억 5,000아파트106/84m², 고/19층, 남서향탑층 트인뷰 주인거주 입주가능",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 101동매매3억 5,000아파트106/84m², 9/19층, 남향기본형,비확장,채광좋은 남향,이사협의해요",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 102동매매4억 1,000아파트106/84m², 11/20층, 남동향샷시포함 전체올수리 주인거주 입주협의",
+      "price": "4억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인은행마을녹원 101동매매2억 3,000아파트78B/56m², 2/19층, 남향각방붙박이장 중문 씽크대교체등 올수리함. 전세안고 .",
+      "price": "2억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:43:01.240Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1865_20250718_024306.png"
+  }
+}

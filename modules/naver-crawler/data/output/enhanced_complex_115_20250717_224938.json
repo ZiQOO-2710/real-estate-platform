@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:49:38.816780",
+    "complex_id": "115"
+  },
+  "basic_info": {
+    "complex_id": "115",
+    "source_url": "https://new.land.naver.com/complexes/115",
+    "extracted_at": "2025-07-17T22:49:34.261129",
+    "url": "https://new.land.naver.com/complexes/115?ms=37.494907,126.854986,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:49:32.714Z",
+    "complexId": "115"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼환 101동매매5억 3,000아파트85/59m², 2/21층, 동향개봉역 역세권 로얄동기본수리 깨끗 입주협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼환 103동매매6억 6,000아파트107/84m², 22/22층, 남향개봉역 초역세권 정남향 수리잘된집 입주는 협의가능",
+      "price": "6억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼환 107동매매7억 3,000아파트140/114m², 3/25층, 남향샤시교체포함 올수리하여 매우 깨끗 입주협의",
+      "price": "7억 3",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼환 105동매매5억 7,500아파트85/59m², 11/25층, 남향역세권 햇살가득 샷시포함 수리잘된확트인 정남향집",
+      "price": "5억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼환 105동매매5억 8,000아파트85/59m², 3/25층, 동향역세권 고급인테리어  3년전 샷시포함 특올수리 입주협의",
+      "price": "5억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼환 106동매매8억 1,000아파트140/114m², 13/25층, 남향개봉역 역세권 8개월전 특올수리 샷시포함 고급자제사용 입주협의",
+      "price": "8억 1",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인삼환 105동매매5억 7,000아파트85/59m², 10/25층, 남향개봉역 역세권 전망좋은 확트인 정남향집 수리된집 입주협의",
+      "price": "5억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼환 101동전세3억 3,000아파트85/59m², 20/21층, 동향개봉역 역세권 햇살가득 확트인전망 귀한물건 입주협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼환 102동매매6억 3,000아파트107/84m², 1/22층, 남향개봉역 역세권 급매 아이들키우기 좋은집 초중고 도보가능학군 입주협의",
+      "price": "6억 3",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인삼환 103동매매7억 2,000아파트107/84m², 7/22층, 남향\t개봉역 정남향 햇살가득 샷시포함 특올수리 입주협의",
+      "price": "7억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼환 101동매매5억 6,000아파트85/59m², 20/21층, 동향역세권,탁트인전망,입주협의",
+      "price": "5억 6",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼환 107동매매7억 5,000아파트140/114m², 4/25층, 남향정남향,탁트인전망,교통편리,입주협의",
+      "price": "7억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인삼환 107동매매6억 8,000아파트107/84m², 15/25층, 남향역세권,화장실,도배등,수리가된전망좋은 정남향,세안고",
+      "price": "6억 8",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인삼환 101동매매5억 3,000아파트85/59m², 2/21층, 동향개봉역 역세권 로얄동기본수리 깨끗 입주협의부동산뱅크 제공삼환공인중개사사무소확인매물 25.07.17.집주인삼환 103동매매6억 6,000아파트107/84m², 22/22층, 남향개봉역 초역세권 정남향 수리잘된집 입주는 협의가능한경부동산 제공삼환공인중개사확인매물 25.07.17.집주인삼환 103동매매6억 6,000아파트107/84m², 22/22층, 남향개봉역 역세권   남향  전망 굿  층간소음걱정없는  최상층매경부동산 제공부동산뉴스공인중개사사무소확인매물 25.",
+      "price": "5억 3",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:49:34.271Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_115_20250717_224938.png"
+  }
+}

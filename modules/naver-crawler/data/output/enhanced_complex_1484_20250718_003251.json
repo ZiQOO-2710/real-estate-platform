@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:32:51.508882",
+    "complex_id": "1484"
+  },
+  "basic_info": {
+    "complex_id": "1484",
+    "source_url": "https://new.land.naver.com/complexes/1484",
+    "extracted_at": "2025-07-18T00:32:46.501426",
+    "url": "https://new.land.naver.com/complexes/1484?ms=37.68651,126.86694,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:32:43.844Z",
+    "complexId": "1484"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신성 105동매매4억아파트108/84m², 13/20층, 남향전망굿, 교통편리",
+      "price": "4억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "신성 103동전세2억 5,000아파트108/84m², 9/20층, 남동향곡릉천조망, 수리예정. 입주협의",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "신성 101동매매2억 7,000아파트80/59m², 4/20층, 남동향단지 앞 정원같은 곡릉천 조망권.깨끗함. 즉시입주 가능",
+      "price": "2억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신성 104동매매3억 9,500아파트108/84m², 11/15층, 동향샷시포함 특 올수리 신축급  컨디션 최고 입주협의 가격조정여지 있음",
+      "price": "3억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "신성 102동매매2억 5,000아파트80/59m², 2/15층, 동향공릉천변,삼송역이용, 관산동 초입",
+      "price": "2억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "신성 101동전세2억 1,000아파트80/59m², 6/20층, 남동향단지앞 버스 승강장있어 대중교통 이용 편리하고 탁 트인 뷰가 장점임.",
+      "price": "2억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "신성 103동전세2억 5,000아파트108/84m², 1/20층, 남동향대중교통이용 편한 단지이며 막힘없이 예쁜 뷰가 돋보이는 귀한 전세임.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:32:46.515Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,322만더퍼스트프라임(주상복합)매매3.2억3억~4.7억면적80㎡80.9㎡ ~ 154.36㎡매매매물만 보기45개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "2억3",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "867만새서울매매1.6억1.5억~2.5억전세1억9천~1.2억월세40만25만~60만면적61㎡58.1㎡ ~ 74.77㎡매매매물만 보기21개 매물이 있습니다.전세매물만 보기10개 매물이 있습니다.월세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억1",
+      "area": "61㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,217만신성매매3.97억2.5억~4억전세2.5억2.1억~2.5억면적108㎡80.34㎡ ~ 108.57㎡매매매물만 보기5개 매물이 있습니다.전세매물만 보기3개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "97억2",
+      "area": "108㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "844만준성매매2.4억2.4억면적94㎡94㎡ ~ 94㎡매매매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "4억2",
+      "area": "94㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "725만허스매매1.42억1.4억~1.45억월세-35만면적65㎡53.35㎡ ~ 69.55㎡매매매물만 보기3개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "42억1",
+      "area": "65㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,061만한승미메이드(주상복합)매매3.5억3.1억~3.8억면적109㎡109.29㎡ ~ 115.29㎡매매매물만 보기14개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:32:46.517Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1484_20250718_003251.png"
+  }
+}

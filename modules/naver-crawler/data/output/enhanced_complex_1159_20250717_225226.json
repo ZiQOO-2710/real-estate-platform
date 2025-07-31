@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:52:26.890525",
+    "complex_id": "1159"
+  },
+  "basic_info": {
+    "complex_id": "1159",
+    "source_url": "https://new.land.naver.com/complexes/1159",
+    "extracted_at": "2025-07-17T22:52:22.975007",
+    "url": "https://new.land.naver.com/complexes/1159?ms=37.592953,126.94944,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:52:21.429Z",
+    "complexId": "1159"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 104동매매6억 5,000아파트85/59m², 7/17층, 북서향주인거주로 내부깨끗.착한 가격. 넉넉한 주차장.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.985Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 101동매매6억 6,000아파트85/59m², 9/20층, 동향입구동으로 편리하며 앞뒤트여 산 전망 굿",
+      "price": "6억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 104동매매7억 6,000아파트109/84m², 5/17층, 남향올수리샷시포함.햇살좋은 남향. 전세포함.2026년1월 만기",
+      "price": "7억 6",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 101동매매6억 5,000아파트85/59m², 4/20층, 남향저층이지만 채광좋은 남향. 전세포함.",
+      "price": "6억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 103동전세5억아파트109/84m², 4/20층, 남향내부 올수리 된 깔끔 전세 빠른 입주 가능 햇살좋고",
+      "price": "5억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 102동매매8억아파트109/84m², 9/20층, 남서향내부수리로 깨끗.주인거주.홍제역세권아파트",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 103동매매8억 2,000아파트109/84m², 7/20층, 남향주인거주 입주협의 남향",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 101동매매6억 6,000아파트85/59m², 3/20층, 남향저층이나 채광 전망 좋은집.입구동이며 주인 거주입니다",
+      "price": "6억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 104동매매6억 3,000아파트85/59m², 11/17층, 북서향내부수리로 상태양호함,전세안고매매.조용한동 인왕산숲세권",
+      "price": "6억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 103동전세5억 5,000아파트109/84m², 2/20층, 남향남향 올수리 샷쉬포함 폴딩도어설치안방.작은방붙박이장설치.아이키우기적합",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 102동매매8억 2,000아파트109/84m², 20/20층, 남향특 올수리,남향 인왕산,백련산 조망",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 103동전세5억 5,000아파트109/84m², 20/20층, 남향조망권 일조권 최고.컨디션굿. 층간소음없는 탑층. 주인직접거주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 103동전세5억 5,000아파트109/84m², 16/20층, 남향탁트인 남향 일조권굿 내부인테리어",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인문화촌현대 101동매매6억 3,000아파트85/59m², 1/20층, 남향상가인접인구동.올수리샷시제외. 2층같은1층. 남향입니다",
+      "price": "6억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.986Z"
+    },
+    {
+      "index": 41,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인문화촌현대 104동매매6억 5,000아파트85/59m², 7/17층, 북서향주인거주로 내부깨끗.착한 가격. 넉넉한 주차장.알터 제공부동산뉴스공인중개사사무소확인매물 25.07.17.집주인문화촌현대 101동매매6억 6,000아파트85/59m², 9/20층, 동향입구동으로 편리하며 앞뒤트여 산 전망 굿알터 제공인왕공인중개사사무소확인매물 25.07.17.집주인문화촌현대 104동매매7억 6,000아파트109/84m², 5/17층, 남향올수리샷시포함.햇살좋은 남향. 전세포함.2026년1월 만기알터 제공부동산뉴스공인중개사사무소확인매물 25",
+      "price": "6억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:52:22.987Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1159_20250717_225226.png"
+  }
+}

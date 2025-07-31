@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:33:31.404565",
+    "complex_id": "1831"
+  },
+  "basic_info": {
+    "complex_id": "1831",
+    "source_url": "https://new.land.naver.com/complexes/1831",
+    "extracted_at": "2025-07-18T02:33:28.080890",
+    "url": "https://new.land.naver.com/complexes/1831?ms=37.30031,126.96445,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:33:26.955Z",
+    "complexId": "1831"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매3억 7,000아파트109/84m², 11/20층, 남향남향,전망,후망 뻥뷰,성균관대역 도보7분,추천매물,입주협의.",
+      "price": "3억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매3억 8,500아파트109/84m², 14/20층, 남향급매 입주가능 성대역 역세권 정남향  확트인조망 수리되어 깨끗 추천매물",
+      "price": "3억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매4억 5,000아파트109/84m², 1/20층, 남향성균관대역 역세권 주인거주 입주가능 남향 내부 올수리되어 깨끗 추천매물",
+      "price": "4억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매3억 5,000아파트109/84m², 2/20층, 남향급매,남향으로채광풍부,주인거주로이사협의,성대역세권",
+      "price": "3억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매3억 1,000아파트81/59m², 6/20층, 동향급매 입주가능 로얄층 성대역역세권 일부수리되어 깨끗 교통편리 개발호재",
+      "price": "3억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매3억 4,000아파트81/59m², 10/20층, 동향거실확장,내부수리깨끗,전망트여서 쾌적하고 좋아요.",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "화남 101동매매2억 9,500아파트81/59m², 중/20층, 동향급매 최저가 로얄층 성대역역세권 확트인조망 일부수리 전세안고 투자용추천",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인화남 101동매매4억 3,500아파트109/84m², 3/20층, 남향추천,싱크대,화장실교체,남향,입주가능,공원조망",
+      "price": "4억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인화남 101동전세2억 9,000아파트109/84m², 14/20층, 남향급전세 성대역 역세권 남향 로얄층 확트인조망 일부수리되어 깨끗 빠른입주",
+      "price": "2억 9",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:33:28.093Z"
+    },
+    {
+      "index": 105,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인화남 101동매매4억 1,000아파트109/84m², 6/20층, 남향정남향 입주가능 성균관대역 역세권 확트인 조망 수리되어 깨끗 추천매물부동산써브 제공율전공인중개사사무소확인매물 25.06.28.",
+      "price": "4억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:33:28.094Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1831_20250718_023331.png"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:45:21.840126",
+    "complex_id": "3967"
+  },
+  "basic_info": {
+    "complex_id": "3967",
+    "source_url": "https://new.land.naver.com/complexes/3967",
+    "extracted_at": "2025-07-18T19:45:19.463157",
+    "url": "https://new.land.naver.com/complexes/3967?ms=37.345314,126.782837,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:45:17.373Z",
+    "complexId": "3967"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인아주4차 402동매매1억 5,500아파트84/59m², 16/18층, 서향급매, 8월2일이후 협의 가능",
+      "price": "1억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인아주4차 402동매매1억 9,000아파트84/59m², 고/18층, 서향전체 인테리어 했어요.",
+      "price": "1억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인아주4차 401동매매2억 5,000아파트116/84m², 고/17층, 서향넓은평수, 저렴한매물,빠른이사 가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인아주4차 401동매매2억 4,500아파트116/84m², 1/17층, 서향공실 비확장 실거주가능 급매",
+      "price": "2억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "아주4차 402동매매1억 7,500아파트84/59m², 12/18층, 남서향입주협의, 로얄층, 전체 올수리",
+      "price": "1억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인아주4차 402동매매1억 5,500아파트84/59m², 17/18층, 서향탁트인 뷰, 전세 세입자 안고, 집 상태 깨끗",
+      "price": "1억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인아주4차 402동매매1억 5,000아파트84/59m², 1/18층, 서향급매 전체 올수리,입주만 하세요",
+      "price": "1억 5",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인아주4차 402동매매1억 8,000아파트84/59m², 4/18층, 서향거모공공택지구의 인프라를 누릴 수 있는 아파트",
+      "price": "1억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인아주4차 401동매매2억 4,500아파트116/84m², 저/17층, 남향빠른입주가능합니다.",
+      "price": "2억 4",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:45:19.473Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3967_20250718_194521.png"
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:55:53.038586",
+    "complex_id": "1368"
+  },
+  "basic_info": {
+    "complex_id": "1368",
+    "source_url": "https://new.land.naver.com/complexes/1368",
+    "extracted_at": "2025-07-17T23:55:49.677170",
+    "url": "https://new.land.naver.com/complexes/1368?ms=37.66649,126.76313,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:55:46.940Z",
+    "complexId": "1368"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강선15단지보성 1504동매매5억 4,000아파트88/70m², 16/23층, 남서향남향으로호수공원전망 샷시포함 올수리특",
+      "price": "5억 4",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인강선15단지보성 1502동매매6억 3,000아파트106/84m², 8/17층, 남향주엽역세권, 호수공원인접, 수리깨끗, 인테리어 기간 확보 가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인강선15단지보성 1501동매매5억 9,000아파트106/84m², 3/15층, 남서향급매, 주인거주 입주 협의,주엽역세권",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1505동매매4억 2,000아파트75/59m², 10/15층, 남동향계단식, 주엽역5분, 작은방확장, 교통편리, 생활인프라풍부",
+      "price": "4억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1509동매매4억 8,000아파트88/70m², 5/23층, 남서향급매매 남향 정상입주 생활편의시설최상 샤시포함올수리",
+      "price": "4억 8",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1503동매매5억 9,000아파트106/84m², 2/14층, 남동향내외샤시포함주인특올수리 쾌적 전망좋음 편의시설최상 초급매 언제든지입주",
+      "price": "5억 9",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인강선15단지보성 1508동매매6억아파트88/70m², 15/15층, 남동향올확장,풀인테리어,전체샷시교체,주인거주,보일러분배기 교체",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1506동매매4억 5,000아파트75/59m², 8/15층, 남동향주엽역세권, 입주매물, 작은방 확장, 방3개 계단식, 호수공원 인접",
+      "price": "4억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1504동전세3억 2,000아파트88/70m², 저/23층, 남서향샤시포함 특올수리 중앙정원의 녹지뷰 호수공원 주엽역  아이 키우기 좋음",
+      "price": "3억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1508동매매5억아파트88/70m², 중/15층, 남동향27. 샤시포함올수리, 입주협의,호수공원 도보 5분거리",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1507동매매4억 2,000아파트75/59m², 고/12층, 남서향전망특,거실확장,호수공원,주엽역도보이용",
+      "price": "4억 2",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1505동매매4억 1,000아파트75/59m², 고/15층, 남동향올수리된 전망좋은 집 좋은가격 네고가능 호수공원 버스정류장 5분",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1501동매매6억 1,500아파트106/84m², 고/15층, 남향남향 주인올수리샤시포함 전망 편의시설최상 위치굿 정상입주",
+      "price": "6억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1506동전세2억 8,000아파트75/59m², 중/15층, 남동향 샷시포함올수리 호수공원 주엽역 도보 주변편의시설다수 주거환경좋아요",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "강선15단지보성 1506동매매4억 4,000아파트75/59m², 중/15층, 남동향 샷시포함올수리 호수공원 주엽역 도보 주변편의시설다수 주거환경좋아요",
+      "price": "4억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:55:49.688Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1368_20250717_235552.png"
+  }
+}

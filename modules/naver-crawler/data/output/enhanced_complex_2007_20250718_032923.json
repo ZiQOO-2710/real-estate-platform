@@ -1,0 +1,78 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:29:23.701440",
+    "complex_id": "2007"
+  },
+  "basic_info": {
+    "complex_id": "2007",
+    "source_url": "https://new.land.naver.com/complexes/2007",
+    "extracted_at": "2025-07-18T03:29:19.390291",
+    "url": "https://new.land.naver.com/complexes/2007?ms=37.41427,126.91768,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:29:17.613Z",
+    "complexId": "2007"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인세림 다동매매3억 8,000아파트76/70m², 5/5층, 남동향",
+      "price": "3억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:29:19.403Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인세림 다동매매3억 7,000아파트76/70m², 1/5층, 남동향특올수리,지분많은 5층 아파트",
+      "price": "3억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:29:19.403Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인세림 가동매매2억 6,000아파트68B/62m², 5/5층, 남동향",
+      "price": "2억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:29:19.403Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "세림 가동매매2억 7,000아파트68A/62m², 4/5층, 남향투자와 거주 가능.교통접근성 우수.24시간마트 근접.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:29:19.403Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "세림 다동매매3억 8,000아파트76/70m², 4/5층, 남동향대지지분 큼.예술공원인접교통편리.24시간 대형마트 앞",
+      "price": "3억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:29:19.404Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 5,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2007_20250718_032923.png"
+  }
+}

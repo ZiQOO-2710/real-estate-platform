@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:51:59.272650",
+    "complex_id": "1354"
+  },
+  "basic_info": {
+    "complex_id": "1354",
+    "source_url": "https://new.land.naver.com/complexes/1354",
+    "extracted_at": "2025-07-17T23:51:55.878460",
+    "url": "https://new.land.naver.com/complexes/1354?ms=37.35581,127.10731,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:51:53.145Z",
+    "complexId": "1354"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인청솔한라 308동매매16억아파트104/84m², 16/16층, 남향32 최신특올수리 샷시포함 정남향 늘푸른초중학군 미금역세권 통합재건축추진",
+      "price": "16억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "청솔한라 305동매매13억아파트89/69m², 2/22층, 남향27 정상입주 방확장 샷시포함특올수리 정원전망 늘푸른학군",
+      "price": "13억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "청솔한라 304동월세5,000/220아파트78/58m², 7/14층, 동향24타입 샷시포함올수리된집 늘푸른학군 입주일협의가",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "청솔한라 303동월세5,000/220아파트89/69m², 3/14층, 남향남향 빠른입주가능 로열동 화포수리 융무",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "청솔한라 309동전세6억아파트78/58m², 2/18층, 동향최근전체 호텔급특올수리.주인거주.9월하순.계단식.미금역도보8분",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "청솔한라 302동단기임대230/230아파트78/58m², 7/14층, 동향최근특수리 단기 1개월 바로 집볼수 있어요. 즉시입주",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "청솔한라 306동단기임대200/200아파트104/84m², 1/15층, 남향32 단기임대 8월까지 사용가능",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": null,
+      "extracted_at": "2025-07-17T14:51:55.891Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1354_20250717_235159.png"
+  }
+}

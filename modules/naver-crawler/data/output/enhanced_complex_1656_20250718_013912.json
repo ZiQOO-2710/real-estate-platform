@@ -1,0 +1,198 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:39:12.608970",
+    "complex_id": "1656"
+  },
+  "basic_info": {
+    "complex_id": "1656",
+    "source_url": "https://new.land.naver.com/complexes/1656",
+    "extracted_at": "2025-07-18T01:39:08.820806",
+    "url": "https://new.land.naver.com/complexes/1656?ms=37.607412,127.132058,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:39:06.794Z",
+    "complexId": "1656"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 202동매매5억 1,000아파트79/59m², 18/23층, 남서향키보관 로얄층 언제나 집구경가능해요 기본 해잘드는남서향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 202동매매5억 2,000아파트79/59m², 6/23층, 동향급매  화장실 씽크대수리 확장 완전깨끗",
+      "price": "5억 2",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 204동매매5억 8,000아파트107/84m², 5/23층, 남서향추천급매 씽크대교체 화장실2개부분수리 깔끔해요 해잘드는남서향",
+      "price": "5억 8",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "아름마을LG 202동매매5억 3,000아파트79/59m², 10/23층, 남서향샷시포함올수리 8호선 도보권",
+      "price": "5억 3",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "아름마을LG 202동매매5억 1,000아파트79/59m², 4/23층, 서향정상,일부수리,화장실,씽크대2년",
+      "price": "5억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "아름마을LG 203동매매6억 1,000아파트107/84m², 17/23층, 남향남향 특올수리샷시포함 방1확장 붙박이장 중문 깨끗 이사협의",
+      "price": "6억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 202동매매5억 1,000아파트79/59m², 8/23층, 남서향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 204동매매6억아파트107/84m², 6/23층, 남서향남서향 채광좋구 수리깨끗 입주협의 8호선도보 10분거리",
+      "price": "6억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 201동매매7억아파트149/121m², 5/23층, 남향씽크대 도배 칠등 부분수리함 남향 입주일협의가능해요",
+      "price": "7억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 203동매매6억 1,000아파트107/84m², 고/23층, 남향특올수리, 중문,외부샷시교체",
+      "price": "6억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 201동매매6억 8,000아파트149/121m², 1/23층, 남향추천매물 씽크대 신발장 도배함 입주일협의 남향",
+      "price": "6억 8",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인아름마을LG 203동매매5억 9,000아파트107/84m², 4/23층, 남향최근올수리화장실2개 씽크대 마루시공 문짝교체 도배 전등수리함 남향",
+      "price": "5억 9",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "아름마을LG 201동매매7억아파트149/121m², 8/23층, 남향급매 기본형 이사협의",
+      "price": "7억",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "아름마을LG 204동매매6억 1,000아파트107/84m², 22/23층, 남서향하시입주,특올수리,기본형,중문,붙박이장,전망",
+      "price": "6억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "아름마을LG 202동매매4억 9,000아파트79/59m², 10/23층, 북동향급매 해 잘들고 깨끗함 부분 수리 리모델링 세안고 투자가능",
+      "price": "4억 9",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "아름마을LG 201동매매7억 7,000아파트149/121m², 15/23층, 남향입주,기본형,올수리(샷시빼고),남향,키보관,조절가",
+      "price": "7억 7",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.834Z"
+    },
+    {
+      "index": 42,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인아름마을LG 202동매매5억 1,000아파트79/59m², 18/23층, 남서향키보관 로얄층 언제나 집구경가능해요 기본 해잘드는남서향텐컴즈 제공한빛공인중개사사무소확인매물 25.07.16.집주인아름마을LG 202동매매5억 2,000아파트79/59m², 6/23층, 동향급매  화장실 씽크대수리 확장 완전깨끗부동산써브 제공동양드림부동산공인중개사확인매물 25.07.15.집주인아름마을LG 204동매매5억 8,000아파트107/84m², 5/23층, 남서향추천급매 씽크대교체 화장실2개부분수리 깔끔해요 해잘드는남서향텐컴즈 제공한빛공인중개사",
+      "price": "5억 1",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:39:08.835Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 17,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1656_20250718_013912.png"
+  }
+}

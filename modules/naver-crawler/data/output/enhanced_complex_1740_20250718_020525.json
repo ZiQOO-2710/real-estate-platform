@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:05:25.822573",
+    "complex_id": "1740"
+  },
+  "basic_info": {
+    "complex_id": "1740",
+    "source_url": "https://new.land.naver.com/complexes/1740",
+    "extracted_at": "2025-07-18T02:05:22.159122",
+    "url": "https://new.land.naver.com/complexes/1740?ms=37.457058,127.16001,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:05:19.311Z",
+    "complexId": "1740"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인통보 1동매매3억 8,500아파트76A/69m², 2/6층, 남서향역세권, 평지, 입주가능 협의",
+      "price": "3억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.172Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "통보 1동전세1억 7,000아파트66/58m², 5/6층, 서향넓고 밝은집 일부수리됨",
+      "price": "1억 7",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:05:22.172Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "통보 1동매매2억 9,500아파트66/58m², 4/6층, 서향구조좋은집 올수리됨 입주협의",
+      "price": "2억 9",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.172Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "통보 1동매매3억 2,000아파트66/58m², 2/6층, 남서향역세권 구조좋고 밝고 넓은 올수리된집 입주가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.172Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "통보 1동매매3억아파트66/58m², 고/6층, 남서향역세권 밝고넓은집 입주,세부사항 협의가능",
+      "price": "3억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.172Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.174Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,675만통보매매3.85억2.95억~3.85억전세-1.7억면적76㎡66.36㎡ ~ 76.86㎡매매매물만 보기6개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "85억2",
+      "area": "76㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.174Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,245만두산위브매매5.5억5.4억~6.2억면적81㎡81.62㎡ ~ 81.62㎡매매매물만 보기15개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "81㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.174Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,172만우성에비뉴매매6.9억5.7억~6.9억면적105㎡83.16㎡ ~ 105.81㎡매매매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억5",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.174Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,089만양우내안애매매6.95억5.5억~6.95억면적110㎡80.93㎡ ~ 110.92㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "95억5",
+      "area": "110㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:05:22.174Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1740_20250718_020525.png"
+  }
+}

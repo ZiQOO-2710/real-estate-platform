@@ -1,0 +1,328 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:16:14.450915",
+    "complex_id": "1041"
+  },
+  "basic_info": {
+    "complex_id": "1041",
+    "source_url": "https://new.land.naver.com/complexes/1041",
+    "extracted_at": "2025-07-17T22:16:09.201188",
+    "url": "https://new.land.naver.com/complexes/1041?ms=37.481344,126.93867,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:16:06.858Z",
+    "complexId": "1041"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무학 101동매매6억아파트83/59m², 고/10층, 남서향역세권의 나홀로 아파트로 깔끔하여서 가격대비 가성비가 좋은 아파트입니다",
+      "price": "6억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.212Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무학 101동매매6억아파트83/59m², 중/10층, 남향샷시포함 특올수리 뷰최고 2호선봉천역 5분이내초역세권 입주협의",
+      "price": "6억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.212Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "무학 101동매매7억아파트115A/81m², 중/10층, 남동향역세권의 나홀로 아파트로 깔끔하여서 가격대비 가성비가 좋은 아파트입니다",
+      "price": "7억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.212Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "무학 101동매매5억아파트83/59m², 2/10층, 남향재래시장과 장군봉 체육공원이 지근에 위치하여, 쾌적하고 편리함",
+      "price": "5억",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.213Z"
+    },
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "대원면적106㎡104.2㎡ ~ 119.29㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "106㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "대경면적85.93㎡59.86㎡ ~ 85.93㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "85.93㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "태양(주상복합)면적76.06㎡76.06㎡ ~ 76.06㎡단지정보",
+      "price": null,
+      "area": "76.06㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "신화골든타워(주상복합)면적16.22㎡15.12㎡ ~ 35.03㎡단지정보",
+      "price": null,
+      "area": "16.22㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,260만신안매매4.37억4.1억~5억월세75만60만~90만면적64㎡64.46㎡ ~ 64.46㎡매매매물만 보기10개 매물이 있습니다.월세매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "37억4",
+      "area": "64㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,967만서울대입구아이원매매9억9억~12억전세-6.5억~6.8억면적75㎡75.05㎡ ~ 132.8㎡매매매물만 보기25개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억9",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,893만관악중앙하이츠포레매매7억6억~7.5억면적80㎡59.8㎡ ~ 80.14㎡매매매물만 보기27개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "80㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "라온팰리스면적40.5㎡31.57㎡ ~ 68.86㎡단지정보",
+      "price": null,
+      "area": "40.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "대안그린면적94.77㎡81.12㎡ ~ 131.5㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "94.77㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "은천로제리움(도시형)월세80만72만~1백면적27㎡27.12㎡ ~ 64.25㎡월세매물만 보기11개 매물이 있습니다.단지정보시세/실거래가",
+      "price": null,
+      "area": "27㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 13,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,157만건영4차매매6.85억6.5억~7.5억면적105㎡105.68㎡ ~ 105.68㎡매매매물만 보기18개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "85억6",
+      "area": "105㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,390만무학매매6억4.8억~7억면적83㎡83.61㎡ ~ 115.39㎡매매매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "6억4",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,267만청룡금강아미움매매8.5억8.29억~15억월세-90만면적86㎡86.9㎡ ~ 106.42㎡매매매물만 보기25개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억8",
+      "area": "86㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "청록아트빌Ⅰ(주상복합)면적 - ㎡118.4㎡ ~ 123.55㎡단지정보",
+      "price": null,
+      "area": "118.4㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "트라움(주상복합)면적 - ㎡39.85㎡ ~ 85.58㎡단지정보",
+      "price": null,
+      "area": "39.85㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "청록아트빌2(주상복합)면적 - ㎡119.7㎡ ~ 125.95㎡단지정보",
+      "price": null,
+      "area": "119.7㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "YK서울대(주상복합)면적17.04㎡14.8㎡ ~ 36.92㎡단지정보",
+      "price": null,
+      "area": "17.04㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "신림하이츠면적113.14㎡99.31㎡ ~ 125.21㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "113.14㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "이레타워(주상복합)면적31.45㎡31.45㎡ ~ 35.93㎡단지정보",
+      "price": null,
+      "area": "31.45㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "3,139만늘푸른매매8.45억8.2억~8.5억면적89㎡89.11㎡ ~ 89.45㎡매매매물만 보기4개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "45억8",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "YK타워(도시형)면적19.5㎡14.55㎡ ~ 19.5㎡단지정보",
+      "price": null,
+      "area": "19.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "은천아이비테라스(도시형)면적27.74㎡24.02㎡ ~ 44.63㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "27.74㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "수팰리스FT(도시형)면적52.07㎡32.32㎡ ~ 59.45㎡단지정보",
+      "price": null,
+      "area": "52.07㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,676만봉천두솔매매3.65억3.65억면적72㎡72.6㎡ ~ 72.6㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "65억3",
+      "area": "72㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,838만성우매매8.5억6.5억~11억면적99㎡73.13㎡ ~ 140.14㎡매매매물만 보기19개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억6",
+      "area": "99㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:16:09.215Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 30,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1041_20250717_221614.png"
+  }
+}

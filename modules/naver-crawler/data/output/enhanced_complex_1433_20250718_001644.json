@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:16:44.492067",
+    "complex_id": "1433"
+  },
+  "basic_info": {
+    "complex_id": "1433",
+    "source_url": "https://new.land.naver.com/complexes/1433",
+    "extracted_at": "2025-07-18T00:16:41.521527",
+    "url": "https://new.land.naver.com/complexes/1433?ms=37.507135,126.768139,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:16:38.946Z",
+    "complexId": "1433"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 524동매매3억 5,800아파트53/37m², 2/15층, 남향올수리, 세안고",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 528동매매5억 8,500아파트85/59m², 15/20층, 남향세안고 초역세권 학세권 생활인프라완비 1기신도시재건축호재 투자최고",
+      "price": "5억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 527동매매4억 7,000아파트70B/49m², 3/20층, 남향세안고 내부올수리 초역세권 학세권 생활인프라완비 1기신도시재건축호재투자굿",
+      "price": "4억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 523동매매4억 8,000아파트68A/49m², 9/15층, 남향정상 협의입주 주인거주",
+      "price": "4억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 525동매매5억 5,500아파트70B/49m², 20/20층, 남향1. 샤시포함특올수리 전망좋음  로얄동  재건축선도지구추진중 . 정상입주",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 523동전세2억 8,000아파트68A/49m², 7/15층, 남향화장실포함올수리0남향0시청역6분거리0추천합니다0이사협의",
+      "price": "2억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 526동전세1억 6,500아파트57/39m², 2/20층, 동향급전세,기본상태,도배장판새로해줌,9월중순이사협의,역세권",
+      "price": "1억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 526동월세1억/30아파트57/39m², 2/20층, 동향도배장판예정,인근전철역,현백,이마트,융무",
+      "price": "1억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 526동매매3억 7,000아파트57/39m², 17/20층, 동향o샤시포힘특올수리 o입주협의가능 o너무예쁜집 내집마련으로 강력추천",
+      "price": "3억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 526동매매3억 8,000아파트57/39m², 3/20층, 동향샤시포함특올수리o 재건축 추진단지로투자가치 굿 o산책로옆조용한동",
+      "price": "3억 8",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 524동매매3억 8,000아파트53/37m², 8/15층, 남향2년전샤시포함올수리  o채광좋은 남향 o재건축 추진단지",
+      "price": "3억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 524동매매3억 6,500아파트53/37m², 3/15층, 남향정상 올수리 초역세권 학세권 생활인프라완비 1기신도시재건축 투자최고",
+      "price": "3억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 526동매매3억 4,000아파트57/39m², 20/20층, 동향전체 샷시 포함 특올수리,세안고 투자,재건축 추진중",
+      "price": "3억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 524동월세2,000/80아파트53/37m², 8/15층, 남향공실 귀한풀옵션아파트세 에 냉 쿡 식탁구비 화이트특올수리 7호선역",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인은하마을주공1단지 529동매매4억 9,000아파트68A/49m², 14/15층, 남향내외부샷시포함특올수리,세안고,상태굿",
+      "price": "4억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:16:41.533Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1433_20250718_001644.png"
+  }
+}

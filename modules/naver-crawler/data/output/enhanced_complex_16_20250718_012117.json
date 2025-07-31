@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:21:17.611394",
+    "complex_id": "16"
+  },
+  "basic_info": {
+    "complex_id": "16",
+    "source_url": "https://new.land.naver.com/complexes/16",
+    "extracted_at": "2025-07-18T01:21:12.864727",
+    "url": "https://new.land.naver.com/complexes/16?ms=37.555973,126.855252,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:21:10.956Z",
+    "complexId": "16"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억 1,000아파트109A/84m², 6/17층, 남동향가양 급행역 도보, 정남향 올수리. 실거주인프라 모두 완벽",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억 1,000아파트109A/84m², 6/17층, 남서향9월중순에서 말사이 입주가능하고 올수리가 되어있습니다",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대 101동전세5억 1,000아파트109A/84m², 6/17층, 남서향",
+      "price": "5억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인현대 101동전세5억 1,000아파트109A/84m², 6/17층, 남서향남향 샷시까지 수리되어 집상태 아주꺠끗 저렴한금액 주변인프라좋아요",
+      "price": "5억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억 1,000아파트109A/84m², 중/17층, 남향",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억 1,000아파트109A/84m², 중/17층, 남서향9호선급행역이용,샷시까지특올수리,주변홈플러스",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매7억 7,000아파트109A/84m², 17/17층, 남향6,가양역 정상입주 올수리 남향 고층 내부깔끔 홈플러스5분 뷰최고",
+      "price": "7억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "현대 101동전세4억 9,000아파트109A/84m², 9/17층, 남동향가양역세권 상태깨끗 전망트임 홈플러스 영화관 인접",
+      "price": "4억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인현대 101동매매8억 1,000아파트109A/84m², 15/17층, 남서향9호선가양역, 올수리, 입주협의",
+      "price": "8억 1",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:21:12.876Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_16_20250718_012117.png"
+  }
+}

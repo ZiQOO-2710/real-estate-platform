@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T20:56:00.458978",
+    "complex_id": "5481"
+  },
+  "basic_info": {
+    "complex_id": "5481",
+    "source_url": "https://new.land.naver.com/complexes/5481",
+    "extracted_at": "2025-07-18T20:55:55.963139",
+    "url": "https://new.land.naver.com/complexes/5481?ms=35.139254,126.877291,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T11:55:53.353Z",
+    "complexId": "5481"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 103동매매1억 5,000아파트78/60m², 6/14층, 남향남향,내부양호,염주초교 인접,조정가",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.980Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 104동매매1억 4,500아파트71/53m², 9/14층, 남향남향,방2,내부양호,염주초교 인접,조정가",
+      "price": "1억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 101동매매1억 6,000아파트78/60m², 3/14층, 남향내부올리모델링샷시포함, 남향, 방2, 가운데라인,관리잘됨",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 103동매매1억 6,000아파트78/60m², 4/14층, 남향동간간격 넓어서 개방감 좋음  공실  수리필요  조정가능",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 102동매매1억 6,000아파트78/60m², 2/14층, 남향몇년전내부올리모델링,방3개,즉시입주,생활권편리,롯데마트,염주체육관이용편리",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 102동매매1억 5,000아파트78/60m², 1/14층, 남향내부아주깨끗, 남향, 방3개,구조좋음 가운데라인, 교통학군매우 좋음",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 104동매매1억 3,300아파트71/53m², 13/14층, 남향급매,  남향, 일조좋음, 전망양호, 생활권편리,즉시입주가",
+      "price": "1억 3",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 103동매매1억 5,500아파트78/60m², 2/14층, 남향남향,내부일부수리,내부깨끗,전세1억안고가,조정가",
+      "price": "1억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 103동매매1억 6,500아파트78/60m², 1/14층, 남향반전세안고매매,베란다확장,샷시,싱크대,보일러,중문 등 내부리모델링",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 102동매매1억 6,500아파트78/60m², 13/14층, 남향내부리모델링,주변신축대단지아파트,롯데아울렛,염주체육관등입지좋음,교통편리",
+      "price": "1억 6",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "현대(859-1) 101동월세1,000/60아파트78/60m², 5/14층, 남향각방구조교통좋음가운데라인내부올리모델링샷시포함.에2대월드컵롯데마트초교",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인현대(859-1) 101동매매1억 8,700아파트78/60m², 5/14층, 남향새시포함 올리모델링  염주초인접 생활권편리 협의후 빠른입주가능",
+      "price": "1억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "현대(859-1) 103동월세700/50아파트78/60m², 12/14층, 남향남향,가운데라인,내부올리모델링,앞베란다,중문샤시교체",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-18T11:55:55.981Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_5481_20250718_205600.png"
+  }
+}

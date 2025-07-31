@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:39:23.885236",
+    "complex_id": "1851"
+  },
+  "basic_info": {
+    "complex_id": "1851",
+    "source_url": "https://new.land.naver.com/complexes/1851",
+    "extracted_at": "2025-07-18T02:39:20.385737",
+    "url": "https://new.land.naver.com/complexes/1851?ms=37.4451,126.79461,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:39:18.298Z",
+    "complexId": "1851"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인서강2차 103동매매4억 3,000아파트107/84m², 10/16층, 남동향전망좋은 로얄층 입주협의  내부 수리 한번 한집",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.391Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인서강2차 103동전세3억 5,000아파트107/84m², 10/16층, 남동향막힘없는 공원전망 욕실과 씽크대수리,도배해드림",
+      "price": "3억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인서강2차 104동매매3억 3,000아파트76/59m², 12/18층, 남서향역세권,슬세권,전망좋고 수리되어 깨끗함,입주협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인서강2차 102동매매3억 2,500아파트76/59m², 5/19층, 남향남향,  햇빛짱, 중간라인, 관리잘한집, 대야역10분거리",
+      "price": "3억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인서강2차 102동매매3억 2,500아파트76/59m², 5/19층, 남서향한번내부수리한집,융자무,안전한집,이사는 협의조정가능,집주인관리",
+      "price": "3억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인서강2차 103동매매4억 3,000아파트107/84m², 13/16층, 남동향최근에 화장실2개수리함,작은방확장,전망좋은 ,공원뷰 중간라인",
+      "price": "4억 3",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인서강2차 101동매매3억 1,000아파트76/59m², 2/19층, 남동향역세권,공원,대중교통 이용편리,햇살좋은 2층입니다",
+      "price": "3억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인서강2차 103동월세2억/50아파트107/84m², 16/16층, 남동향특올수리 올확장  입주협의 가능, 탁트인뷰",
+      "price": "2억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인서강2차 101동매매3억 3,000아파트76/59m², 13/19층, 남동향관리잘된집,주인거주,작은방확장,입주협의",
+      "price": "3억 3",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인서강2차 101동매매3억 4,000아파트76/59m², 10/19층, 남동향지하철,상업지,공원 이용 편리,작은방확장,욕실수리,주인거주",
+      "price": "3억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인서강2차 101동매매3억 5,000아파트76/59m², 15/19층, 남동향대야역, 롯데마트, 공원인접",
+      "price": "3억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인서강2차 101동전세2억 7,000아파트76/59m², 2/19층, 남동향전체적으로 수리됨, 10월중순이후 협의입니다.",
+      "price": "2억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인서강2차 102동매매1억 4,500아파트44/31m², 19/19층, 남서향남향,소음없는탑층,일조권우수합니다.",
+      "price": "1억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:39:20.392Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1851_20250718_023923.png"
+  }
+}

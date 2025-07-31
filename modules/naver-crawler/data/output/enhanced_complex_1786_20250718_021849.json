@@ -1,0 +1,178 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:18:49.690023",
+    "complex_id": "1786"
+  },
+  "basic_info": {
+    "complex_id": "1786",
+    "source_url": "https://new.land.naver.com/complexes/1786",
+    "extracted_at": "2025-07-18T02:18:44.890936",
+    "url": "https://new.land.naver.com/complexes/1786?ms=37.2662,127.050292,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:18:43.743Z",
+    "complexId": "1786"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 10동매매4억 7,000아파트82/59m², 5/5층, 남향급매,내부 올수리되어 집상태 아주깨끗,집보기쉬워요",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인매탄삼성3차 10동매매4억 7,000아파트82/59m², 5/5층, 남서향급매 내부 부분 리모델링 된 깨끗한 집",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 6동매매4억 7,000아파트82/59m², 2/5층, 남향32년차 저층 지분 약18. 전세안고 매매, 귀한2층입니다.",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 6동매매4억 5,000아파트82/59m², 5/5층, 남향32년차저층, 재건축정비계획입안동의서 제출중. 부분수리",
+      "price": "4억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 10동전세2억아파트82/59m², 4/5층, 남향샷시 해 드림 9월15일 입주",
+      "price": "2억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 9동전세2억아파트82/59m², 3/5층, 남향중문포함 올수리이후 첫입주. 전세자금대출가능",
+      "price": "2억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 5동월세2,000/80아파트82/59m², 2/5층, 남향일부수리깔끔  남향좋은층  추천",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 10동매매5억 2,000아파트82/59m², 2/5층, 남향정상입주. 욕실등 내부샷시 부분수리. 주인거주 깨끗관리",
+      "price": "5억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.900Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 2동매매4억 7,000아파트82/59m², 1/5층, 남향일부수리깔끔  입주가능  추천",
+      "price": "4억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 10동월세2,000/65아파트82/59m², 3/5층, 남향빠른입주 가능 수리됨 초중고 도보5분 광교호수공원 산책로",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인매탄삼성3차 8동매매5억아파트82/59m², 2/5층, 남향샷시포함 올수리 실거주 투자 추천 손볼것 없이 수리 하였어요",
+      "price": "5억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 6동월세1억/45아파트82/59m², 4/5층, 남향빠른입주 가능 수리됨 보증금 조정가능 초중고 도보5부",
+      "price": "1억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 2동매매4억 6,500아파트82/59m², 5/5층, 남향내부올수리된집,주인세대로 집상태 정말 깨끗",
+      "price": "4억 6",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 9동월세2,000/80아파트82/59m², 1/5층, 남향내부올수리됨. 7월10일이후 이사. 귀한1층입니다",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "매탄삼성3차 4동월세2,000/80아파트82/59m², 5/5층, 남향최근 특 올수리 중문 붙박이 미닫이 완전 올수리됨 9월중순 이후",
+      "price": null,
+      "area": null,
+      "floor": "5층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:18:44.901Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 15,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1786_20250718_021849.png"
+  }
+}

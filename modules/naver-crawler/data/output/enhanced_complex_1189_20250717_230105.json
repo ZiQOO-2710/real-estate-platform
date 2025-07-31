@@ -1,0 +1,128 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:01:05.062655",
+    "complex_id": "1189"
+  },
+  "basic_info": {
+    "complex_id": "1189",
+    "source_url": "https://new.land.naver.com/complexes/1189",
+    "extracted_at": "2025-07-17T23:01:01.276293",
+    "url": "https://new.land.naver.com/complexes/1189?ms=37.619594,127.002113,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:00:58.648Z",
+    "complexId": "1189"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 3동매매5억 3,000아파트107/84m², 6/18층, 동향주인거주로 관리잘됨,거실 확장형,숲세권 아파트, 입주 협의",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 2동전세3억 2,000아파트83/59m², 13/17층, 남향트인 전망과 채광좋은 집 기본형 현재 근저당 없고 즉시입주 가능",
+      "price": "3억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 3동매매7억 1,000아파트141/114m², 18/18층, 남향3년전 올수리 된 집으로 가격 절충가능한 추천 매물입니다",
+      "price": "7억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 2동매매4억아파트83/59m², 9/17층, 남향남향, 수리되어 내부 깔끔, 주인거주로 관리잘됨, 입주 협의",
+      "price": "4억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 3동매매4억 1,000아파트83/59m², 5/18층, 동향기본형 일부수리된집입니다",
+      "price": "4억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 3동매매5억 6,000아파트107/84m², 8/18층, 동향내부 올수리된 청정지역. 정류장3분",
+      "price": "5억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 2동매매4억아파트83/59m², 7/17층, 남향남향의 탁트인 전망이 좋구요 내부수리된 집입니다.",
+      "price": "4억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 2동월세2억 2,000/35아파트83/59m², 13/17층, 남향트인 전망과 채광좋은 집 기본형 현재 근저당 없고 즉시 입주 가능",
+      "price": "2억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인정릉중앙하이츠 2동매매4억 2,000아파트83/59m², 중/17층, 남향특 리모델링 아파트 매매",
+      "price": "4억 2",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.285Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인정릉중앙하이츠 3동매매5억 3,000아파트107/84m², 6/18층, 동향주인거주로 관리잘됨,거실 확장형,숲세권 아파트, 입주 협의선방 제공행운(02-916-7776)부동산공인중개사사무소확인매물 25.07.17.집주인정릉중앙하이츠 2동전세3억 2,000아파트83/59m², 13/17층, 남향트인 전망과 채광좋은 집 기본형 현재 근저당 없고 즉시입주 가능부동산뱅크 제공아이원(풍림단지내)공인중개사사무소확인매물 25.07.17.집주인정릉중앙하이츠 3동매매7억 1,000아파트141/114m², 18/18층, 남향3년전 올수리 된 집",
+      "price": "5억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:01:01.286Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 10,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1189_20250717_230104.png"
+  }
+}

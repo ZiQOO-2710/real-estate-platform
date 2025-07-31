@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:33:20.970744",
+    "complex_id": "202"
+  },
+  "basic_info": {
+    "complex_id": "202",
+    "source_url": "https://new.land.naver.com/complexes/202",
+    "extracted_at": "2025-07-18T03:33:16.820832",
+    "url": "https://new.land.naver.com/complexes/202?ms=37.646913,127.059041,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:33:15.671Z",
+    "complexId": "202"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 113동매매6억 7,000재건축78B/71m², 2/5층, 남향입주협의 전체올수리.방3개. 급매물 재건축단지",
+      "price": "6억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.834Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 117동매매4억 3,000재건축59/41m², 15/15층, 남향17p 입주협의 전체특올수리 남향 전망이 최고",
+      "price": "4억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 101동전세1억 8,000재건축46/32m², 8/12층, 남향입주협의 올수리 남향 중계역세권",
+      "price": "1억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 101동매매4억재건축46/32m², 8/12층, 남향13, 중계역도보5분, 재건축확정, 배관교체, 채광굿, 쾌적합니다",
+      "price": "4억",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 116동월세3,000/95재건축68/49m², 4/15층, 남향입주협의 전체특올수리 남향",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 106동매매5억 4,000재건축80A/58m², 1/15층, 남향24, 로얄동,  안전진단통과, 입주가능합니다",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 124동매매5억 4,000재건축76C/59m², 2/15층, 동향급매, 특올수리, 중계역세권, 배관교체단지, 공원인접, 입주가능",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 123동매매5억 4,000재건축76C/59m², 15/15층, 서향올수리,  트인전망, 배관교체완료, 공원, 초품아, 입주가능",
+      "price": "5억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 116동전세1억 8,000재건축59/41m², 10/15층, 동향특올수리, 비형인기구조, 배관교체,중계역도보5분, 주거환경쾌적합니다",
+      "price": "1억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 117동매매4억재건축59/41m², 15/15층, 동향급매물. 전세안고 매매. 중계역 도보 10분.",
+      "price": "4억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 103동매매3억 7,000재건축46/32m², 8/12층, 남향13. 올수리. 빠른입주가능. 중계역5분거리.재건축확정단지",
+      "price": "3억 7",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 118동매매5억 5,000재건축80A/58m², 2/15층, 남향올수리, 남향,중계역세권, 배관교체단지, 공원인접, 입주가능",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인상계주공1단지 117동매매4억 1,000재건축59/41m², 6/15층, 남향입주협의 급매물 남향 재건축단지",
+      "price": "4억 1",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체46㎡59㎡67㎡68㎡76B㎡76C㎡76A㎡78B㎡80A㎡83㎡92B㎡95A㎡",
+      "price": null,
+      "area": "46㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T18:33:16.835Z"
+    },
+    {
+      "index": 71,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인상계주공1단지 113동매매6억 7,000재건축78B/71m², 2/5층, 남향입주협의 전체올수리.방3개. 급매물 재건축단지매경부동산 제공플러스공인중개사사무소확인매물 25.07.17.집주인상계주공1단지 117동매매4억 3,000재건축59/41m², 15/15층, 남향17p 입주협의 전체특올수리 남향 전망이 최고매경부동산 제공플러스공인중개사사무소확인매물 25.07.17.집주인상계주공1단지 101동전세1억 8,000재건축46/32m², 8/12층, 남향입주협의 올수리 남향 중계역세권매경부동산 제공플러스공인중개사사무소확인매물 25.0",
+      "price": "6억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.836Z"
+    },
+    {
+      "index": 149,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인상계주공1단지 123동매매5억 5,000재건축76C/59m², 11/15층, 서향올수리, 트인전망,배관교체단지, 초중인접, 정상입주가능매경부동산 제공우리공인중개사사무소확인매물 25.07.16.",
+      "price": "5억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:33:16.836Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_202_20250718_033320.png"
+  }
+}

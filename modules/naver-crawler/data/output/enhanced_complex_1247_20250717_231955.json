@@ -1,0 +1,118 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:19:55.383885",
+    "complex_id": "1247"
+  },
+  "basic_info": {
+    "complex_id": "1247",
+    "source_url": "https://new.land.naver.com/complexes/1247",
+    "extracted_at": "2025-07-17T23:19:49.418162",
+    "url": "https://new.land.naver.com/complexes/1247?ms=37.57472,127.079433,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:19:47.474Z",
+    "complexId": "1247"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 101동매매6억 9,000아파트110/84m², 21/22층, 동향고층이라조망권최고,입주정상.",
+      "price": "6억 9",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 103동전세3억 8,000아파트77A/59m², 6/22층, 동향내부 올수리 신혼집 추천합니다",
+      "price": "3억 8",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 103동매매6억 2,000아파트77A/59m², 12/22층, 동향입주협의",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 101동매매7억아파트110/84m², 16/22층, 동향가격저렴 내부 깨끗하고 중랑천 용마산 환상적인 조망권",
+      "price": "7억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 102동매매8억 4,000아파트144/111m², 6/25층, 동향계단식구조 내부 깨끗하고 입주일은 협의",
+      "price": "8억 4",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 103동매매6억 2,000아파트77A/59m², 10/22층, 동향가격저렴 내부 깨끗",
+      "price": "6억 2",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.430Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 101동매매7억아파트110/84m², 11/22층, 동향",
+      "price": "7억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.431Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인면목삼익 102동매매8억 7,000아파트144/111m², 중/25층, 동향입주정상",
+      "price": "8억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.431Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "면목삼익 102동매매8억 7,000아파트144/111m², 3/25층, 남동향중랑천 올리모델링 쾌적한 실내인테리어 넓은 포룸 화2 3개동단지 학세권",
+      "price": "8억 7",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:19:49.431Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 9,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1247_20250717_231955.png"
+  }
+}

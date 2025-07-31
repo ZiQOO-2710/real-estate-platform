@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:41:38.762023",
+    "complex_id": "1663"
+  },
+  "basic_info": {
+    "complex_id": "1663",
+    "source_url": "https://new.land.naver.com/complexes/1663",
+    "extracted_at": "2025-07-18T01:41:34.207819",
+    "url": "https://new.land.naver.com/complexes/1663?ms=37.372298,127.128158,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:41:32.190Z",
+    "complexId": "1663"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "샛별우방 310동전세8억 3,000아파트159/133m², 6/20층, 남동향48p, 올수리, 수내중학군, 10월입주",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:41:34.221Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "샛별우방 313동월세1억/300아파트159/133m², 6/15층, 남동향48p 수내중학군, 샷시포함 관리잘된집,하시입주",
+      "price": "1억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T16:41:34.221Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "샛별우방 306동매매15억아파트104/84m², 1/15층, 남동향32p, 최근확장특올수리,선도지구예비사업시행자선정완료,수내중학군",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.221Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "샛별우방 311동매매14억 8,000아파트104/84m², 2/15층, 남동향32p, 정비구역예비사업자선정, 짧은전세26.2만기, 수내중학군",
+      "price": "14억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "샛별우방 307동매매14억아파트90/72m², 2/15층, 남서향특수리,정상",
+      "price": "14억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "샛별우방 310동전세8억 5,000아파트125/101m², 11/20층, 남동향확장,특올수리,10월말",
+      "price": "8억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "샛별우방 312동매매11억아파트77/57m², 16/18층, 남서향23p, 최근 샷시포함특올수리, 로얄동, 세안고26년6월",
+      "price": "11억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "샛별우방 302동매매14억아파트90/72m², 9/19층, 남동향올수리,정상",
+      "price": "14억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "샛별우방 310동매매19억 5,000아파트159/133m², 6/20층, 남동향정상입주,조용한동",
+      "price": "19억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "샛별우방 307동매매13억 5,000아파트90/72m², 저/15층, 남서향27p,  선도지구지정, 샷시포함올수리, 수내중학군",
+      "price": "13억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "샛별우방 309동매매18억아파트125/101m², 16/20층, 남동향38p,  중앙공원전망, 수내중학군, 주인거주, 로얄동",
+      "price": "18억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "샛별우방 310동매매18억 6,000아파트159/133m², 2/20층, 남동향산책로전망, 수리잘된집, 선도지구지정, 수내중학군, 세안고",
+      "price": "18억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:41:34.222Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1663_20250718_014138.png"
+  }
+}

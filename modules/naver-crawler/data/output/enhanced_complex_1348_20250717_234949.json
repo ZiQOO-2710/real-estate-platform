@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:49:49.142553",
+    "complex_id": "1348"
+  },
+  "basic_info": {
+    "complex_id": "1348",
+    "source_url": "https://new.land.naver.com/complexes/1348",
+    "extracted_at": "2025-07-17T23:49:46.125542",
+    "url": "https://new.land.naver.com/complexes/1348?ms=37.558777,126.863756,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:49:43.401Z",
+    "complexId": "1348"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동월세3,000/105아파트52/39m², 13/15층, 남동향입주9월11일확정,완벽특올수리, 에어컨,인덕션 옵션, 신혼부부추천",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 912동매매8억아파트64/49m², 11/15층, 남서향샷시포함특올수리,3억7000만원세안고,9호선증미역도보3분,한강공원도보5분",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 907동월세4,000/100아파트64/49m², 10/15층, 남향8월22일입주 남향 지역난방 지하철9호선 증미역 하나로마트",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 907동매매5억 9,000아파트52/39m², 8/15층, 남향입주가능 남향 지역난방 지하철9호선 증미역 한강공원 하나로마트",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동매매5억 9,000아파트52/39m², 9/15층, 남동향9호선증미역3분 ,조용한동,한강공원도보5분",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동월세3,000/90아파트52/39m², 9/15층, 남동향내부수리됩집,9호선증 증미역3분 ,9월12일경이사예정임.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 907동월세3,500/90아파트52/39m², 13/15층, 남서향매우깨끗,복도에서한강조망굿,9호선증미역3분 ,7월중순경입주",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 909동매매6억 2,000아파트52/39m², 9/15층, 남서향즉시입주 수리됨,조용한동,9호선증미역3분 ,한강도보5분",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동매매6억아파트52/39m², 4/15층, 남동향전세안고매매, 예비안전진단통과, 증미역초역세권",
+      "price": "6억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 907동월세3,000/80아파트52/39m², 8/15층, 남서향내부수리된집,복도에서한강조망굿,9월2일이사예정임.",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동월세4,000/80아파트52/39m², 7/15층, 남동향샷시포함올수리,즉시입주가능,9호선 증미역3분",
+      "price": null,
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 909동매매7억 8,000아파트64/49m², 13/15층, 남서향샷시교체포함 전체올수리 입주가능합니다",
+      "price": "7억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 909동매매7억 7,000아파트64/49m², 10/15층, 남향남향,샷시포함올수리,로얄동고층,9호선초역세권,한강근접",
+      "price": "7억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 909동매매7억 6,000아파트64/49m², 14/15층, 남서향샷시포함수리된집,9호선증미역3분 ,조용한동,한강공원도보5분",
+      "price": "7억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 907동매매5억 9,000아파트52/39m², 8/15층, 남서향구입 절호의 찬스 복도에서 한강조망 가격절충",
+      "price": "5억 9",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 910동매매6억 2,000아파트52/39m², 8/15층, 남동향입주가능, 최근 샷시포함 특올수리, 9호선 증미 역세권",
+      "price": "6억 2",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인가양9단지 912동매매5억 8,500아파트52/39m², 15/15층, 남향9월말 입주가능, 층간소음 없는 층, 채광밝은남향, 증미 역세권",
+      "price": "5억 8",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:49:46.139Z"
+    },
+    {
+      "index": 44,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인가양9단지 910동월세3,000/105아파트52/39m², 13/15층, 남동향입주9월11일확정,완벽특올수리, 에어컨,인덕션 옵션, 신혼부부추천매경부동산 제공남산공인중개사사무소확인매물 25.07.17.집주인가양9단지 912동매매8억아파트64/49m², 11/15층, 남서향샷시포함특올수리,3억7000만원세안고,9호선증미역도보3분,한강공원도보5분매경부동산 제공남산공인중개사사무소확인매물 25.07.17.집주인가양9단지 907동월세4,000/100아파트64/49m², 10/15층, 남향8월22일입주 남향 지역난방 지하철9호선 증미역 ",
+      "price": "8억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:49:46.140Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1348_20250717_234948.png"
+  }
+}

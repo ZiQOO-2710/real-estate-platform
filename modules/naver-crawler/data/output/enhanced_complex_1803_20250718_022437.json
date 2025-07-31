@@ -1,0 +1,228 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:24:37.640982",
+    "complex_id": "1803"
+  },
+  "basic_info": {
+    "complex_id": "1803",
+    "source_url": "https://new.land.naver.com/complexes/1803",
+    "extracted_at": "2025-07-18T02:24:32.579911",
+    "url": "https://new.land.naver.com/complexes/1803?ms=37.249373,127.0635,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:24:30.895Z",
+    "complexId": "1803"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 926동매매7억아파트109B1/84m², 15/18층, 남서향입주협의,로얄동,공원뷰굿,조용한동,망포역가까움",
+      "price": "7억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 931동매매6억 2,000아파트109B2/84m², 5/16층, 남서향입주일협의,3베이전실있는 남향의 밝은집,올확장수리됨",
+      "price": "6억 2",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 923동매매6억 1,000아파트108A1/84m², 13/18층, 남서향입주또는 주인세안고가능,로얄동,방1확장,내부수리됨.",
+      "price": "6억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 932동매매6억 1,500아파트107A2/84m², 3/18층, 남동향입주협의,최근내부올수리,초중가까운동,영통역세",
+      "price": "6억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 932동매매6억아파트107A2/84m², 8/18층, 남동향입주협의,라인굿,수리됨,조용한동",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 921동매매6억아파트108A1/84m², 7/16층, 남서향세안고,수리됨,영동초태장중 근거리",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 935동매매6억 3,000아파트109B2/84m², 15/18층, 남서향 세안고 수리됨 역세권 학군좋은 로얄동 로얄층 갭투자",
+      "price": "6억 3",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 923동매매5억 9,000아파트108A1/84m², 5/18층, 남서향화장실 최근 수리, 학세권, 역세권, 공세권, 삼성전자 도보가능",
+      "price": "5억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 934동매매6억 4,000아파트109B2/84m², 14/18층, 남동향입주일협의,3베이전실구조,로얄동,앞뒤탁트인 조망권,방확장",
+      "price": "6억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 926동매매6억 8,000아파트109B1/84m², 13/18층, 남서향세안고,로얄동,라인굿,공원앞 망포역세권",
+      "price": "6억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.600Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 924동매매6억 1,000아파트108A1/84m², 18/18층, 남서향정상입주협의, 올확장,수리완료,샤시포함, 전망,채광좋은아파트",
+      "price": "6억 1",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 924동월세5,000/120아파트108A1/84m², 3/18층, 남서향입주일협의.씽교체.일부수리됨.융자없음",
+      "price": null,
+      "area": null,
+      "floor": "18층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 923동매매6억아파트108A1/84m², 6/18층, 남서향협의입주.월세안고가능.방거실확장.욕실등 예전수리됨",
+      "price": "6억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 936동매매6억아파트107A2/84m², 4/16층, 남동향입주일협의.내부올수리됨.현관중문설치됨",
+      "price": "6억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 924동매매5억 7,000아파트108A1/84m², 3/18층, 남서향입주일협의.기본형.잔금전 공사기간협조가능",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 924동매매5억 7,000아파트108A1/84m², 2/18층, 남서향전세안고.방1확장.내부일부수리.상태양호",
+      "price": "5억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 934동매매5억 6,000아파트109B2/84m², 1/18층, 남동향입주일협의.방2확장.거실확장.내부일부수리됨",
+      "price": "5억 6",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "집주인삼성,태영 934동매매6억 4,000아파트109B2/84m², 18/18층, 남동향26년1월.협의입주.방2확장.욕실등내부수리됨.전실있는 3베이구조.상태깨끗",
+      "price": "6억 4",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.601Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체107A2㎡108A1㎡109B1㎡109B2㎡",
+      "price": null,
+      "area": "2㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:24:32.602Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인삼성,태영 926동매매7억아파트109B1/84m², 15/18층, 남서향입주협의,로얄동,공원뷰굿,조용한동,망포역가까움매경부동산 제공삼성공인중개사사무소확인매물 25.07.17.집주인삼성,태영 931동매매6억 2,000아파트109B2/84m², 5/16층, 남서향입주일협의,3베이전실있는 남향의 밝은집,올확장수리됨매경부동산 제공삼성공인중개사사무소확인매물 25.07.17.집주인삼성,태영 923동매매6억 1,000아파트108A1/84m², 13/18층, 남서향입주또는 주인세안고가능,로얄동,방1확장,내부수리됨.매경부동산 제공삼성공인중개사",
+      "price": "7억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:32.602Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 20,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1803_20250718_022437.png"
+  }
+}

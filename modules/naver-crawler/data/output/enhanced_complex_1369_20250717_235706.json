@@ -1,0 +1,168 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:57:06.706141",
+    "complex_id": "1369"
+  },
+  "basic_info": {
+    "complex_id": "1369",
+    "source_url": "https://new.land.naver.com/complexes/1369",
+    "extracted_at": "2025-07-17T23:57:03.458799",
+    "url": "https://new.land.naver.com/complexes/1369?ms=37.671011,126.763803,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:57:01.452Z",
+    "complexId": "1369"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 704동매매4억 8,000아파트87/71m², 11/14층, 남서향주엽역초역세권  올수리된저렴한급매",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 708동매매7억아파트104/84m², 4/18층, 남동향내외샷시포함올수리폴딩도어,탁트여전망굿,주엽역세권,아파트대단지밀집",
+      "price": "7억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 711동매매5억아파트87/71m², 7/15층, 남동향주엽역세권 강선초 입주가능한남향집",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 701동매매4억 8,000아파트74/58m², 14/14층, 남서향샤시포함 올수리 굿 주엽역 초역세권  전세안고 투자하실분",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 704동월세3,000/120아파트87/71m², 2/14층, 남서향27.화장실포함 올수리. 남향. 주엽역3분.강선초교품아.강추",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 710동매매5억 500아파트87/71m², 13/14층, 남서향11월입주.전망좋은 주엽역세권,강선초품아.예쁜수리해서 오세요",
+      "price": "5억 500",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 704동월세3,000/120아파트87/71m², 2/14층, 남서향27, 보증금월세조정가  주엽역 5분거리  초역세권   강선초등학교 소재",
+      "price": null,
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인강선7단지삼환,유원 711동매매5억아파트87/71m², 7/15층, 남동향내부올수리 깨끗 최근 화장실전체리모델링 강선초학군",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 704동전세3억 2,000아파트87/71m², 2/14층, 남서향27.화장실포함 올수리.전세대출가능.주엽역3분초역세권.강선초교품아.강추",
+      "price": "3억 2",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 710동매매5억아파트87/71m², 5/14층, 남서향27, 급매, 주엽역 초역세권,  신혼부부 적합,  2년전 올수리함",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 708동전세4억 9,000아파트104/84m², 4/18층, 남동향32. 내외부샤시포함특올수리, 입주협의,강선초품아,초역세권",
+      "price": "4억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 712동매매4억 1,000아파트74/58m², 1/12층, 남서향23,급매,내외샷시포함 확장특올수리,중문,주엽역3분,강선초품아",
+      "price": "4억 1",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 704동매매4억 8,000아파트87/71m², 11/14층, 남서향27.급매.화장실포함 올수리특. 남향. 가운데라인.주엽역3분.강선초교품아",
+      "price": "4억 8",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "강선7단지삼환,유원 706동매매5억아파트87/71m², 8/15층, 남서향27 급매, 주엽역3분, 내부샤시 포함 주인 올수리, 초품아, 전망굿.",
+      "price": "5억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:57:03.474Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 14,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1369_20250717_235706.png"
+  }
+}

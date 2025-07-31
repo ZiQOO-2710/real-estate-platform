@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:25:01.534393",
+    "complex_id": "1804"
+  },
+  "basic_info": {
+    "complex_id": "1804",
+    "source_url": "https://new.land.naver.com/complexes/1804",
+    "extracted_at": "2025-07-18T02:24:57.410566",
+    "url": "https://new.land.naver.com/complexes/1804?ms=37.257527,127.075968,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:24:55.213Z",
+    "complexId": "1804"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인영통에듀파크 335동매매9억아파트109(벽산)/84m², 16/20층, 남동향샷시포함 올확장 올수리 해잘들고 살기 좋아요.",
+      "price": "9억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인영통에듀파크 333동매매8억 7,000아파트109(벽산)/84m², 12/20층, 남서향샷시포함 올수리, 올확장",
+      "price": "8억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인영통에듀파크 327동매매8억 1,000아파트109(삼익)/84m², 중/20층, 남동향학세권 기본집 교통편리 학군좋은 단지 조용한동 입주협의",
+      "price": "8억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "영통에듀파크 327동매매8억 1,000아파트109(삼익)/84m², 7/20층, 남동향조용한 동. 기본집.  교통편리하고 학군좋은 단지. 입주협의 가능합니다.",
+      "price": "8억 1",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "영통에듀파크 333동매매7억 3,000아파트109(벽산)/84m², 1/20층, 남서향전체내부 올수리,안정적인전망, 층간소음걱정없는 집",
+      "price": "7억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "영통에듀파크 335동매매8억 2,500아파트109(벽산)/84m², 15/20층, 남서향방2개확장,내부 예전올수리,전망좋은 깨끗한집",
+      "price": "8억 2",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "영통에듀파크 323동매매8억 5,000아파트109(삼익)/84m², 14/20층, 남동향전세끼고.  중문설치. 방2확장. 씽크대, 화장실2 수리 되어 있습니다.",
+      "price": "8억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "영통에듀파크 324동매매8억아파트109(삼익)/84m², 7/20층, 남서향세안고,방확장, 예전 올수리, 조용한동으로 추천매물",
+      "price": "8억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "영통에듀파크 334동전세5억 5,000아파트109(벽산)/84m², 4/20층, 남동향방2개확장,외부샤시포함 전체올수리해드림,10월말이후",
+      "price": "5억 5",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "영통에듀파크 324동매매9억아파트109(삼익)/84m², 6/20층, 남서향내외부샤시포함 전체 특올수리,학교 가까운동으로 선호동임",
+      "price": "9억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "영통에듀파크 336동매매8억 3,000아파트109(벽산)/84m², 9/20층, 남동향세안고,방2개확장,전망좋은 깨끗한집,",
+      "price": "8억 3",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "영통에듀파크 336동매매6억 4,000아파트96(벽산)/73m², 1/20층, 남동향방2개확장, 안정적인전망, 층간소음 걱정없는 집",
+      "price": "6억 4",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "영통에듀파크 322동매매8억 9,000아파트109(삼익)/84m², 16/17층, 남서향내외부 샷시포함 올수리된집 방 거실확장  전망굿 학군좋아요",
+      "price": "8억 9",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "영통에듀파크 325동매매7억아파트96(삼익)/73m², 13/20층, 남동향영덕초 중학교옆 조용하고 주인거주로 깨끗한집 입주협의가",
+      "price": "7억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "영통에듀파크 335동매매8억 7,000아파트109(벽산)/84m², 12/20층, 남서향샤시포함 전체특올수리,26년1월초이사가능,라인굿",
+      "price": "8억 7",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "영통에듀파크 336동월세6,000/210아파트96(벽산)/73m², 11/20층, 남동향9월초입주 전망굿 전체샷시포함 내부올수리 깨끗",
+      "price": null,
+      "area": null,
+      "floor": "20층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "영통에듀파크 324동매매8억 6,000아파트109(삼익)/84m², 17/20층, 남서향세안고,방2개확장, 예전내부올수리, 조용한 로열동입니다",
+      "price": "8억 6",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:24:57.425Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체96(벽산)㎡96(삼익)㎡109(벽산)㎡109(삼익)㎡",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:24:57.426Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1804_20250718_022501.png"
+  }
+}

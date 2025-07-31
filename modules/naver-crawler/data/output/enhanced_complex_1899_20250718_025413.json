@@ -1,0 +1,138 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:54:13.422501",
+    "complex_id": "1899"
+  },
+  "basic_info": {
+    "complex_id": "1899",
+    "source_url": "https://new.land.naver.com/complexes/1899",
+    "extracted_at": "2025-07-18T02:54:09.419624",
+    "url": "https://new.land.naver.com/complexes/1899?ms=37.349933,126.729245,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:54:07.670Z",
+    "complexId": "1899"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인세종3차 306동매매2억 7,500아파트100/85m², 5/5층, 남동향올수리,붙박이장, 이사날자협의가능,학교주민센터근처",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인세종3차 305동매매4억 6,500아파트149/124m², 5/10층, 남동향외부샷시포함 전체특올수리,거실 방3모두확장하여 넓고 쾌적한 밝고환한집",
+      "price": "4억 6",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "세종3차 309동매매3억 2,000아파트100/85m², 3/5층, 남서향예전수리 깨끗 정왕고3분거리 쾌적한아파트",
+      "price": "3억 2",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "세종3차 304동매매4억 3,000아파트149/124m², 5/10층, 남동향부분수리 방4  서촌초,정왕고근접 생활 교통편리합니다",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "세종3차 301동매매4억 3,000아파트149/124m², 5/10층, 남서향",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "세종3차 308동매매3억 3,000아파트100/85m², 3/5층, 남서향정왕고3분거리 올수리 깨끗 조정가능합니다 빠른입주",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "세종3차 308동매매2억 7,000아파트100/85m², 5/5층, 남서향급매 빠른입주가능 서촌초,정왕고3분거리",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "세종3차 301동매매4억 3,500아파트149/124m², 6/10층, 남서향전망확트임 초,고교근접 교통 생활 용이합니다  넓은구조의 방4",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "세종3차 308동매매2억 9,000아파트100/85m², 4/5층, 남서향집깨끗, 조정가능, 협의이사",
+      "price": "2억 9",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "세종3차 304동매매4억 2,500아파트149/124m², 2/10층, 남동향초,고교 앞  깨끗함",
+      "price": "4억 2",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "세종3차 305동매매4억 3,000아파트149/124m², 10/10층, 남동향예전올수리 전망뷰최상 서촌초 정왕고3분거리 교통편리합니다",
+      "price": "4억 3",
+      "area": null,
+      "floor": "10층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:54:09.432Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 11,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1899_20250718_025413.png"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:07:12.265229",
+    "complex_id": "1209"
+  },
+  "basic_info": {
+    "complex_id": "1209",
+    "source_url": "https://new.land.naver.com/complexes/1209",
+    "extracted_at": "2025-07-17T23:07:09.388214",
+    "url": "https://new.land.naver.com/complexes/1209?ms=37.530729,126.902037,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:07:07.435Z",
+    "complexId": "1209"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인당산효성1차 106동전세8억 5,000아파트158/134m², 8/15층, 남향48P 주인직접의뢰  남 향 . 깨 끗  . 빠 른 입 주 가 능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:09.401Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인당산효성1차 105동매매18억 5,000아파트158/134m², 13/24층, 남동향주인직접의뢰  수리깨끗  당산역세권 앞뒤탁트인전망  입주협의",
+      "price": "18억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:07:09.401Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인당산효성1차 105동전세10억아파트158/134m², 13/24층, 남동향주인직접의뢰  수리깨끗  당산역세권 탁트인전망   입주협의",
+      "price": "10억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:09.401Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인당산효성1차 103동월세3억 5,000/100아파트80/59m², 5/15층, 남동향주인직접의뢰,  컨디션굿  융무    당산더블역세권",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:07:09.401Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인당산효성1차 105동전세9억아파트158/134m², 2/24층, 남동향주인직접의뢰 올수리 필로티2층 층간소음걱정없는집 입주협의",
+      "price": "9억",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:09.401Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "당산효성1차 105동전세10억 5,000아파트158/134m², 13/24층, 남향수리깨끗  관리잘된단지  학군좋고  2.9호선역세권   입주협의",
+      "price": "10억 5",
+      "area": null,
+      "floor": "24층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:09.402Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "당산효성1차 101동전세7억 8,000아파트105/84m², 14/18층, 남향수리깨끗  관리잘된단지  학군좋고  2.9호선역세권   입주협의",
+      "price": "7억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:07:09.402Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 7,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1209_20250717_230712.png"
+  }
+}

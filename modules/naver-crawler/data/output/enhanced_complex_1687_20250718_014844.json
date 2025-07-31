@@ -1,0 +1,208 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:48:44.998964",
+    "complex_id": "1687"
+  },
+  "basic_info": {
+    "complex_id": "1687",
+    "source_url": "https://new.land.naver.com/complexes/1687",
+    "extracted_at": "2025-07-18T01:48:39.648228",
+    "url": "https://new.land.naver.com/complexes/1687?ms=37.370527,127.141072,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:48:37.947Z",
+    "complexId": "1687"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인장안타운건영2차 104동매매8억 9,000아파트90/70m², 1/13층, 남서향",
+      "price": "8억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인장안타운건영2차 120동전세5억 9,000아파트108/85m², 13/13층, 남동향33.도배.장판.해드림.층간소음.없는탑층.안쪽동.장기거주.가능",
+      "price": "5억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인장안타운건영2차 124동전세7억아파트192B/162m², 2/16층, 남동향58. 급  방5욕2 즉시입주가 싱크교체  최근샷시포함올수리깨끗  정상",
+      "price": "7억",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 126동매매13억 4,000아파트157A/131m², 3/15층, 남동향48p방4화2, 확장포함오래전 올수리, 정상입주",
+      "price": "13억 4",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 123동매매12억아파트157A/131m², 1/19층, 남서향48p방4화2 하자없고 지대가 높은 1층, 하시입주 가, 채광굿",
+      "price": "12억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 116동전세4억 7,000아파트90/70m², 1/13층, 남동향방3,내부샷시포함 올수리  양영중선택학군 하시입주가능",
+      "price": "4억 7",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 107동매매9억 5,000아파트90/70m², 3/13층, 남서향계단식방3화1.샤시포함특올수리.월세안고.26년10월.",
+      "price": "9억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 107동매매9억 5,000아파트90/70m², 11/13층, 남서향방3화1.주인거주.정상 혹은 주전세안고.전망,채광굿",
+      "price": "9억 5",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 109동전세7억아파트192B/162m², 9/20층, 남동향정상 입주협의가능 특올수리 반전세가능",
+      "price": "7억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 114동매매14억 5,000아파트159/131m², 13/19층, 남동향샷시포함확장특올수리,각방 에어콘,정상,전망",
+      "price": "14억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 101동매매9억 5,000아파트90/70m², 13/14층, 남서향27타입계단식.주인거주로 관리잘 된 집.전망굿.로얄동.",
+      "price": "9억 5",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 110동매매13억 5,000아파트157A/131m², 9/15층, 남동향샷시포함확장올수리.하시.전망",
+      "price": "13억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 122동매매13억 5,000아파트157A/131m², 8/19층, 남향전망.정남향",
+      "price": "13억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 110동매매13억아파트157A/131m², 7/15층, 남동향올수리.전망.정상입주",
+      "price": "13억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "장안타운건영2차 113동매매13억 5,000아파트157A/131m², 6/19층, 남서향올수리,정상,전망굿",
+      "price": "13억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.660Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체68㎡86㎡90㎡108㎡124㎡157A㎡159㎡192B㎡",
+      "price": null,
+      "area": "68㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T16:48:39.661Z"
+    },
+    {
+      "index": 70,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인장안타운건영2차 104동매매8억 9,000아파트90/70m², 1/13층, 남서향텐컴즈 제공e-편한공인중개사사무소확인매물 25.07.17.집주인장안타운건영2차 120동전세5억 9,000아파트108/85m², 13/13층, 남동향33.도배.장판.해드림.층간소음.없는탑층.안쪽동.장기거주.가능텐컴즈 제공원공인중개사사무소확인매물 25.07.15.집주인장안타운건영2차 124동전세7억아파트192B/162m², 2/16층, 남동향58. 급  방5욕2 즉시입주가 싱크교체  최근샷시포함올수리깨끗  정상매경부동산 제공오늘공인중개사사무소확인매물 ",
+      "price": "8억 9",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.661Z"
+    },
+    {
+      "index": 132,
+      "selector": "[class*=\"item\"]",
+      "text": "장안타운건영2차 122동매매13억아파트157A/131m², 11/19층, 남향정상입주.전망.정남향 매경부동산 제공한솔공인중개사사무소확인매물 25.07.17.",
+      "price": "13억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:48:39.662Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 18,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1687_20250718_014844.png"
+  }
+}

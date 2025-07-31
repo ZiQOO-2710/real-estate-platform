@@ -1,0 +1,158 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:15:13.296243",
+    "complex_id": "1235"
+  },
+  "basic_info": {
+    "complex_id": "1235",
+    "source_url": "https://new.land.naver.com/complexes/1235",
+    "extracted_at": "2025-07-17T23:15:08.272759",
+    "url": "https://new.land.naver.com/complexes/1235?ms=37.575245,126.960297,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:15:06.605Z",
+    "complexId": "1235"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인무악현대 111동매매13억 5,000아파트109/84m², 21/23층, 남서향수리되어 깨끗, 독립문공원과안산조망 아주좋음. 전철역 3분이내 입구동",
+      "price": "13억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인무악현대 103동전세8억 5,000아파트141/114m², 4/17층, 남서향올수리됨.융자무.반전세 가능",
+      "price": "8억 5",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인무악현대 105동매매15억아파트141/114m², 4/20층, 남향로얄동 남향집, 즉시입주가능",
+      "price": "15억",
+      "area": null,
+      "floor": "20층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인무악현대 103동전세8억아파트141/114m², 14/17층, 남서향주인거주로  관리가 잘된집  수리된집 교통 교육환경  최적인 아파트임",
+      "price": "8억",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인무악현대 101동매매10억 6,000아파트84/60m², 7/13층, 남동향특올수리,세끼고,남산타워보이는 확 트인뷰,독립문초연결",
+      "price": "10억 6",
+      "area": null,
+      "floor": "13층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인무악현대 102동매매14억아파트109/84m², 3/14층, 남서향독립문역5분 채광좋은남향 화이트톤 특올수리 초 중고 10분이내 명품단지",
+      "price": "14억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인무악현대 112동매매10억 4,000아파트84/60m², 1/14층, 남서향샷시포함 올수리되어 깨끗. 전철역 3분이내 입구로얄동.",
+      "price": "10억 4",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인무악현대 102동매매14억아파트109/84m², 3/14층, 남서향확장특올수리됨독립문역5분거리마을버스이용하기 편하고 조용한 동입니다",
+      "price": "14억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인무악현대 102동월세5억/80아파트109/84m², 11/14층, 남동향주인거주로 깨끗. 앞뒤 조망 좋아요.",
+      "price": "5억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인무악현대 102동매매14억아파트109/84m², 3/14층, 남동향확장 특올수리됨,독립문역 가깝고 조용한 동으로 생활하기 편해요.",
+      "price": "14억",
+      "area": null,
+      "floor": "14층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인무악현대 106동전세8억아파트141/114m², 16/19층, 남서향 주인거주 매물. 로얄동 로얄층",
+      "price": "8억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인무악현대 104동매매15억 8,000아파트141/114m², 10/17층, 남동향남동향 밝고 화이트톤 고급인테리어 채광 교육 교통 생활편의 입지최고",
+      "price": "15억 8",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    },
+    {
+      "index": 51,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인무악현대 111동매매13억 5,000아파트109/84m², 21/23층, 남서향수리되어 깨끗, 독립문공원과안산조망 아주좋음. 전철역 3분이내 입구동부동산뱅크 제공부동산뱅크공인중개사사무소확인매물 25.07.17.집주인무악현대 103동전세8억 5,000아파트141/114m², 4/17층, 남서향올수리됨.융자무.반전세 가능매경부동산 제공우리(720-8945)공인중개사사무소확인매물 25.07.17.집주인무악현대 105동매매15억아파트141/114m², 4/20층, 남향로얄동 남향집, 즉시입주가능매경부동산 제공경희궁 감동공인중개사사무소",
+      "price": "13억 5",
+      "area": null,
+      "floor": "23층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:15:08.281Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 13,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1235_20250717_231513.png"
+  }
+}

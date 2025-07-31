@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T22:18:25.067618",
+    "complex_id": "1048"
+  },
+  "basic_info": {
+    "complex_id": "1048",
+    "source_url": "https://new.land.naver.com/complexes/1048",
+    "extracted_at": "2025-07-17T22:18:19.999483",
+    "url": "https://new.land.naver.com/complexes/1048?ms=37.485423,126.959587,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T13:18:18.992Z",
+    "complexId": "1048"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인관악우성 105동매매8억 8,000아파트106/84m², 27/29층, 동향급매 내부깨끗 기본형 채광.전망 좋음 초.중 인접 10월 입주협의",
+      "price": "8억 8",
+      "area": null,
+      "floor": "29층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인관악우성 102동전세6억 3,000아파트143/114m², 8/29층, 동향도배, 장판, 샷시 해주는 조건, 교통, 시장 접근성 좋은 로얄동",
+      "price": "6억 3",
+      "area": null,
+      "floor": "29층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인관악우성 102동매매10억아파트143/114m², 8/29층, 동향특리모델링 예정, 교통, 시장 접근성 좋은 로얄동",
+      "price": "10억",
+      "area": null,
+      "floor": "29층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인관악우성 104동전세5억 3,000아파트106/84m², 12/28층, 동향대출가능 8월입주가 씽크대,욕실 최근수리  도배,장판,신발장 수리예정",
+      "price": "5억 3",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "관악우성 104동전세5억아파트106/84m², 12/28층, 남향32.공동환영.동향.싱크대 욕실교체.도배 장판 LED교체해줌.전망굿",
+      "price": "5억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인관악우성 103동매매9억 5,000아파트143/114m², 저/26층, 동향43 소유주 의뢰 내부상태 양호 로얄동 빠른입주 가격 협의 공동가능",
+      "price": "9억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "관악우성 104동전세5억아파트106/84m², 7/28층, 동향32 동향 싱크대 욕실수리됨 도배 장판  수리예정 탁트인전망 협의입주",
+      "price": "5억",
+      "area": null,
+      "floor": "28층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "관악우성 103동매매9억 5,000아파트143/114m², 8/26층, 동향트인전망 올수리 내부깨끗 전세안고 매매 25년9월 갱신권 사용하신다고함.",
+      "price": "9억 5",
+      "area": null,
+      "floor": "26층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T13:18:20.013Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1048_20250717_221824.png"
+  }
+}

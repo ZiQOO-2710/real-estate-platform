@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:21:35.138950",
+    "complex_id": "1794"
+  },
+  "basic_info": {
+    "complex_id": "1794",
+    "source_url": "https://new.land.naver.com/complexes/1794",
+    "extracted_at": "2025-07-18T02:21:30.434420",
+    "url": "https://new.land.naver.com/complexes/1794?ms=37.267417,127.051494,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:21:29.254Z",
+    "complexId": "1794"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "한국2차 104동매매5억 6,000아파트85/72m², 5/6층, 남향세안고투자or여유있는입주,내부올수리한집욕실,싱크대,신발장,전등,도,장",
+      "price": "5억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.444Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "한국2차 108동매매5억 8,000아파트85/72m², 1/6층, 남향매도인 거주중, 싱크대 등 부분 수리됨, 귀한 1층, 재건축 투자 추천",
+      "price": "5억 8",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.444Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "한국2차 112동전세2억 5,000아파트85/72m², 6/6층, 남향샷시포함올수리  입주여유  협의가능",
+      "price": "2억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:21:30.444Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "한국2차 105동월세3,000/110아파트85/72m², 6/6층, 남향샷시 포함 최근 특올수리, 확장,7월말 입주협의",
+      "price": null,
+      "area": null,
+      "floor": "6층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:21:30.444Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "한국2차 107동매매5억 3,000아파트85/72m², 6/6층, 남향23000만원 전세안고.  내부 수리되서 깨끗한집",
+      "price": "5억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.444Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "한국2차 101동매매5억 6,000아파트85/72m², 6/6층, 남향주인거주로 관리 잘된집.",
+      "price": "5억 6",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "한국2차 106동매매5억 3,000아파트85/72m², 5/6층, 남서향기본집, 주인거주",
+      "price": "5억 3",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "한국2차 110동매매6억아파트85/72m², 5/6층, 남향외부샷시포함 특올수리된 집,집상태 최고",
+      "price": "6억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "한국2차 110동매매6억아파트85/72m², 4/6층, 남향방1확장. 내외부 샷시수리된집",
+      "price": "6억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "한국2차 113동매매5억 2,000아파트85/72m², 6/6층, 남향",
+      "price": "5억 2",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "한국2차 112동매매6억아파트85/72m², 4/6층, 남향주인전세안고. 부분수리되서 깨끗",
+      "price": "6억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "한국2차 117동매매5억 9,000아파트85/72m², 4/6층, 남향세안고, 샷시포함 올수리, 깨끗",
+      "price": "5억 9",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "한국2차 108동매매6억아파트85/72m², 2/6층, 남향샷시까지 수리되서 깨끗한집",
+      "price": "6억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 17,
+      "selector": ".item_link",
+      "text": "한국2차 110동매매6억아파트85/72m², 3/6층, 남향올수리샷시포함,세안고",
+      "price": "6억",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "한국2차 111동매매5억 5,000아파트85/72m², 6/6층, 남향내외부샷시수리,주인거주로 관리 잘된집",
+      "price": "5억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:21:30.445Z"
+    },
+    {
+      "index": 92,
+      "selector": "[class*=\"item\"]",
+      "text": "한국2차 112동전세2억 5,000아파트85/72m², 6/6층, 남서향샷시 포함 올수리, 입주협의, 깨끗해요부동산렛츠 제공한국1번지공인중개사사무소확인매물 25.07.07.",
+      "price": "2억 5",
+      "area": null,
+      "floor": "6층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:21:30.446Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1794_20250718_022134.png"
+  }
+}

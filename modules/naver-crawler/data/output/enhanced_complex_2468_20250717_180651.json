@@ -1,0 +1,68 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T18:06:51.058811",
+    "complex_id": "2468"
+  },
+  "basic_info": {
+    "complex_id": "2468",
+    "source_url": "https://new.land.naver.com/complexes/2468",
+    "extracted_at": "2025-07-17T18:06:46.956290",
+    "url": "https://new.land.naver.com/complexes/2468?ms=37.441239,126.673812,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T09:06:45.917Z",
+    "complexId": "2468"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신동아6차 40동매매2억 3,000아파트84/73m², 2/15층, 남향정남향.해잘드는 2층.기본.깨끗하고 좋아요.겨울쯤 입주협의",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:06:47.006Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신동아6차 38동매매3억 5,000아파트138/127m², 9/15층, 남향남향.기본.깨끗하게 관리잘 된 집.입주4월 협의",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:06:47.006Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인신동아6차 40동매매2억 6,000아파트84/73m², 13/15층, 남향샷시 올수리 조용한단지 이사협의",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:06:47.007Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인신동아6차 38동매매3억 5,000아파트138/127m², 11/15층, 남향막힘없는 문학산 예쁜조망.예전수리해서 깔끔합니다.입주정상",
+      "price": "3억 5",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T09:06:47.007Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 4,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2468_20250717_180650.png"
+  }
+}

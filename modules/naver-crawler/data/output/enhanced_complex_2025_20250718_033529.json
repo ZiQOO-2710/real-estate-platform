@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T03:35:29.975650",
+    "complex_id": "2025"
+  },
+  "basic_info": {
+    "complex_id": "2025",
+    "source_url": "https://new.land.naver.com/complexes/2025",
+    "extracted_at": "2025-07-18T03:35:25.644706",
+    "url": "https://new.land.naver.com/complexes/2025?ms=37.39353,126.91532,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T18:35:24.129Z",
+    "complexId": "2025"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인흥화 101동매매4억아파트109/76m², 7/19층, 남서향급매 특올리모델링 학군좋고 월판선 안양역인접 날짜 맞춰드려요",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.658Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인흥화 101동매매4억 5,000아파트121/84m², 11/19층, 남서향방3, 화2, 화장실 주방수리, 산뷰, 입주협의",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "흥화 101동매매3억 1,000아파트86/59m², 4/19층, 남향귀한 남향 매물 저렴한 금액",
+      "price": "3억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 11,
+      "selector": ".item_link",
+      "text": "집주인흥화 101동매매4억 5,000아파트109/76m², 11/19층, 남향입주물입니다.",
+      "price": "4억 5",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인흥화 101동매매4억아파트109/76m², 7/19층, 북향올수리됬어요. 보시면  마음에 꼭 드실집이에요",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "흥화 101동매매3억아파트86/59m², 10/19층, 동향로얄층 주인거주 상태양호함  입주일 자유로움",
+      "price": "3억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 18,
+      "selector": ".item_link",
+      "text": "흥화 101동매매4억 1,000아파트109/76m², 6/19층, 남서향씽크대 욕실 수리 깨끗",
+      "price": "4억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "흥화 101동매매4억아파트109/76m², 중/19층, 북향방3 욕실2개 올수리",
+      "price": "4억",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T18:35:25.659Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_2025_20250718_033529.png"
+  }
+}

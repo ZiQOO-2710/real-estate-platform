@@ -1,0 +1,308 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:34:53.772081",
+    "complex_id": "1838"
+  },
+  "basic_info": {
+    "complex_id": "1838",
+    "source_url": "https://new.land.naver.com/complexes/1838",
+    "extracted_at": "2025-07-18T02:34:49.375578",
+    "url": "https://new.land.naver.com/complexes/1838?ms=37.26843,127.02119,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:34:48.320Z",
+    "complexId": "1838"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "매교퍼스트빌면적 - ㎡92.65㎡ ~ 101.75㎡단지정보",
+      "price": null,
+      "area": "92.65㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "타워팰리스2차(주상복합)면적81.35㎡81.35㎡ ~ 83.6㎡단지정보",
+      "price": null,
+      "area": "81.35㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "다림2차면적83.86㎡65.72㎡ ~ 83.86㎡단지정보",
+      "price": null,
+      "area": "83.86㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 6,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,195만다원팰리스매매3억3억면적83㎡83.54㎡ ~ 83.54㎡매매매물만 보기2개 매물이 있습니다.단지정보",
+      "price": "3억3",
+      "area": "83㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "인계베스트빌면적76.09㎡76.09㎡ ~ 76.09㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "76.09㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "삼성캐슬(주상복합)면적74㎡60.85㎡ ~ 83.85㎡단지정보",
+      "price": null,
+      "area": "74㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 9,
+      "selector": "[class*=\"deal\"]",
+      "text": "건승하우스(도시형)면적38.75㎡32.69㎡ ~ 38.75㎡단지정보",
+      "price": null,
+      "area": "38.75㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 10,
+      "selector": "[class*=\"deal\"]",
+      "text": "아이제이빌(주상복합)면적98.75㎡96.65㎡ ~ 98.75㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "98.75㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 11,
+      "selector": "[class*=\"deal\"]",
+      "text": "더블유타워(도시형)면적 - ㎡37.5㎡ ~ 42.81㎡단지정보",
+      "price": null,
+      "area": "37.5㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 12,
+      "selector": "[class*=\"deal\"]",
+      "text": "다림면적62.98㎡62.98㎡ ~ 83.59㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "62.98㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 14,
+      "selector": "[class*=\"deal\"]",
+      "text": "매교타워(도시형)면적96.07㎡96.07㎡ ~ 98.21㎡단지정보",
+      "price": null,
+      "area": "96.07㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 15,
+      "selector": "[class*=\"deal\"]",
+      "text": "JUPITER86(도시형)면적40.66㎡25.65㎡ ~ 42.03㎡단지정보",
+      "price": null,
+      "area": "40.66㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 16,
+      "selector": "[class*=\"deal\"]",
+      "text": "현대콤비타운(주상복합)면적153.21㎡153.21㎡ ~ 153.21㎡단지정보시세/실거래가",
+      "price": null,
+      "area": "153.21㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 17,
+      "selector": "[class*=\"deal\"]",
+      "text": "드림캐슬(도시형)면적30.09㎡30.09㎡ ~ 65.12㎡단지정보",
+      "price": null,
+      "area": "30.09㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 18,
+      "selector": "[class*=\"deal\"]",
+      "text": "퀸즈플레이스(도시형)월세80만80만면적31㎡31.44㎡ ~ 31.44㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "31㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 19,
+      "selector": "[class*=\"deal\"]",
+      "text": "에스빌(도시형)면적 - ㎡23.23㎡ ~ 51.82㎡단지정보",
+      "price": null,
+      "area": "23.23㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 20,
+      "selector": "[class*=\"deal\"]",
+      "text": "리치캐슬(주상복합)면적 - ㎡83.18㎡ ~ 92.8㎡단지정보",
+      "price": null,
+      "area": "83.18㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 21,
+      "selector": "[class*=\"deal\"]",
+      "text": "해피팰리스(주상복합)면적 - ㎡79.91㎡ ~ 84.55㎡단지정보",
+      "price": null,
+      "area": "79.91㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 22,
+      "selector": "[class*=\"deal\"]",
+      "text": "우림파크빌(주상복합)면적80.67㎡80.67㎡ ~ 84.89㎡단지정보",
+      "price": null,
+      "area": "80.67㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.383Z"
+    },
+    {
+      "index": 23,
+      "selector": "[class*=\"deal\"]",
+      "text": "어반밸리(도시형)월세63만63만면적38㎡38.88㎡ ~ 38.88㎡월세매물만 보기1개 매물이 있습니다.단지정보",
+      "price": null,
+      "area": "38㎡",
+      "floor": null,
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 24,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,244만문화맨션매매3.35억3.3억~3.6억전세2.1억2.1억면적89㎡89.26㎡ ~ 99.17㎡매매매물만 보기9개 매물이 있습니다.전세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "35억3",
+      "area": "89㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 25,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,719만만강(주상복합)매매3.9억3.8억~4.2억면적75㎡75.34㎡ ~ 75.34㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "9억3",
+      "area": "75㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 26,
+      "selector": "[class*=\"deal\"]",
+      "text": "화랑에코빌(도시형)면적55.79㎡54.55㎡ ~ 58.92㎡단지정보",
+      "price": null,
+      "area": "55.79㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 27,
+      "selector": "[class*=\"deal\"]",
+      "text": "센트럴하우스(도시형)면적 - ㎡35.57㎡ ~ 46.82㎡단지정보",
+      "price": null,
+      "area": "35.57㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 28,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,377만블루오션(주상복합)매매2.75억2.75억~3억면적66㎡66.98㎡ ~ 67.04㎡매매매물만 보기2개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "75억2",
+      "area": "66㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 30,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,788만매교역푸르지오SK뷰매매9.7억6.85억~13억전세5.4억2.81억~7.3억월세2백16만~2.3백면적115㎡54.65㎡ ~ 149.85㎡매매매물만 보기906개 매물이 있습니다.전세매물만 보기108개 매물이 있습니다.월세매물만 보기37개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억6",
+      "area": "115㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,668만인계파밀리에매매5.5억4.6억~7억전세3.9억3억~4.5억월세-1백면적109㎡81.69㎡ ~ 144.4㎡매매매물만 보기86개 매물이 있습니다.전세매물만 보기8개 매물이 있습니다.월세매물만 보기1개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억4",
+      "area": "109㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:34:49.384Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 28,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1838_20250718_023453.png"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:33:06.287703",
+    "complex_id": "1485"
+  },
+  "basic_info": {
+    "complex_id": "1485",
+    "source_url": "https://new.land.naver.com/complexes/1485",
+    "extracted_at": "2025-07-18T00:33:01.820679",
+    "url": "https://new.land.naver.com/complexes/1485?ms=37.65479,126.84296,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:32:59.209Z",
+    "complexId": "1485"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "개나리 나동매매2억 8,000아파트58/42m², 4/5층, 남동향원당7구역,원당역1분,투자매물,대지지분9.5,조정가능",
+      "price": "2억 8",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.834Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "개나리 가동매매3억 4,000아파트64B/48m², 1/5층, 동향재개발추진구역원당7구역물건수리깨끗원당역도보1분투자물건추천",
+      "price": "3억 4",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "개나리 다동매매3억 3,000아파트64A/47m², 3/5층, 남향원당7구역. 재개발 추진 중. 주인 거주",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "개나리 가동매매3억 3,000아파트64B/48m², 2/5층, 남동향원당7구역, 재개발추진 중.전세 1억3천끼고 실투금 2억으로 갭투자 추천",
+      "price": "3억 3",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "개나리 나동매매2억 7,900아파트58/42m², 고/5층, 남동향전철초역세권,원당7구역대단지재개발추진중,세기고 또는 입주",
+      "price": "2억 7",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "개나리 가동매매3억아파트64B/48m², 4/5층, 남동향원당6,7구역재개발 추진중,3호선역세권,투자시 상승",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "개나리 다동전세1억 5,500아파트61/45m², 3/5층, 남향도배새로, 원당역 바로앞, 역세권귀한전세",
+      "price": "1억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "개나리 다동매매3억아파트64A/47m², 5/5층, 남향재개발 추진 중7구역  전세1억안고 갭투자",
+      "price": "3억",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:33:01.835Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1485_20250718_003306.png"
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T02:15:54.820877",
+    "complex_id": "1777"
+  },
+  "basic_info": {
+    "complex_id": "1777",
+    "source_url": "https://new.land.naver.com/complexes/1777",
+    "extracted_at": "2025-07-18T02:15:51.087996",
+    "url": "https://new.land.naver.com/complexes/1777?ms=37.376179,127.137642,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T17:15:49.098Z",
+    "complexId": "1777"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인효자촌임광 306동매매10억 5,000아파트70/59m², 5/5층, 남동향거실확장 올수리 빠른입주가능 깔끔히관리된집 신혼강추",
+      "price": "10억 5",
+      "area": null,
+      "floor": "5층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "효자촌임광 313동매매15억 5,000아파트151/129m², 12/16층, 남동향47 급매 올수리 전세안고5.2억 방4 단지양영중",
+      "price": "15억 5",
+      "area": null,
+      "floor": "16층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "효자촌임광 301동매매14억 7,000아파트103/84m², 5/17층, 남동향",
+      "price": "14억 7",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "효자촌임광 310동전세6억 7,000아파트132/111m², 1/15층, 남서향40,샤시포함전체특올수리, 정상입주, 서당초.양영중학군입니다.",
+      "price": "6억 7",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "효자촌임광 312동전세7억 8,000아파트122/101m², 4/12층, 남서향확장특올수리 교통편리 서당초 양영중학군 입주협의가능",
+      "price": "7억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "효자촌임광 302동매매17억아파트194/165m², 2/22층, 남서향수리깨끗 정상 방5개 서당초 양영중학군",
+      "price": "17억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "효자촌임광 301동전세6억 3,000아파트103/84m², 3/17층, 남동향확장특올수리 교통편리 서당초 양영중학군 입주협의가능",
+      "price": "6억 3",
+      "area": null,
+      "floor": "17층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "효자촌임광 302동매매17억 6,000아파트194/165m², 14/22층, 남서향 올수리 정상",
+      "price": "17억 6",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인효자촌임광 302동매매18억아파트194/165m², 중/22층, 남서향밝고 전망좋은 로얄동입니다.학군이 좋은 지역,",
+      "price": "18억",
+      "area": null,
+      "floor": "22층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "효자촌임광 312동전세7억 8,000아파트122/101m², 4/12층, 남동향37 확장특올수리 도배해드림 추천매물입니다",
+      "price": "7억 8",
+      "area": null,
+      "floor": "12층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "효자촌임광 310동매매15억아파트132/111m², 5/15층, 남서향방4개 짧은세안고 최근샤시,씽크대교체  26년2월입주가능",
+      "price": "15억",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T17:15:51.101Z"
+    },
+    {
+      "index": 31,
+      "selector": "[class*=\"item\"]",
+      "text": "전체면적㎡평전체70㎡103㎡122㎡132㎡151㎡194㎡201㎡",
+      "price": null,
+      "area": "70㎡",
+      "floor": null,
+      "deal_type": null,
+      "extracted_at": "2025-07-17T17:15:51.102Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 12,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1777_20250718_021554.png"
+  }
+}

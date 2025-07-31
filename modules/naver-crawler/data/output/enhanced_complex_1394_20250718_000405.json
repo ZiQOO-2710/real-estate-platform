@@ -1,0 +1,188 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T00:04:05.735447",
+    "complex_id": "1394"
+  },
+  "basic_info": {
+    "complex_id": "1394",
+    "source_url": "https://new.land.naver.com/complexes/1394",
+    "extracted_at": "2025-07-18T00:04:02.433285",
+    "url": "https://new.land.naver.com/complexes/1394?ms=37.490594,126.750364,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T15:04:00.663Z",
+    "complexId": "1394"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1843동매매2억 7,000아파트55/41m², 17/18층, 남향17. 정남향.  내부올수리.  햇빛 좋아 환하고 아늑한 집. 세안고",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1843동매매3억아파트55/41m², 5/18층, 남향송내 초역세권 대단지 조용한 동 남향 수리된 집으로 투자가능합니다",
+      "price": "3억",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1836동매매5억 1,000아파트104/84m², 1/19층, 남향내부올수리,주인거주,입주협의가능",
+      "price": "5억 1",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1840동매매2억 2,000아파트41/29m², 17/18층, 남서향확출,내부부분수리씽크대,도배,장판,베란다,세안고26년12월",
+      "price": "2억 2",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 4,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1842동매매2억 6,000아파트55/41m², 8/15층, 동향초역세권,내부부분수리,세안고만기26년2월",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1837동매매4억 8,000아파트78B/59m², 10/19층, 남향",
+      "price": "4억 8",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1841동매매2억 7,000아파트55/41m², 10/18층, 남향17. 정남향. 샤시제외 올수리. 동층라인 좋아 겨울에 밝고 환해요",
+      "price": "2억 7",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 7,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1842동매매2억 3,000아파트55/41m², 1/15층, 동향역 가까운 집으로 입주 협의 가능하며 투자도 가능한 집입니다",
+      "price": "2억 3",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1843동매매2억 9,500아파트55/41m², 13/18층, 남향17. 월세안고. 내부올수리. 동층라인 최상. 월세 받을분 추천해요.",
+      "price": "2억 9",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1840동매매1억 8,500아파트41/29m², 3/18층, 남서향역세권 학세권 채광 좋은집",
+      "price": "1억 8",
+      "area": null,
+      "floor": "18층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 10,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1835동매매5억 5,000아파트104/84m², 17/25층, 남향강추,로얄동,초역세권,시원한전망,풍부한햇살,입주협의가능한집",
+      "price": "5억 5",
+      "area": null,
+      "floor": "25층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 12,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1837동매매4억 2,000아파트78B/59m², 3/19층, 남향초역세권,서촌공원뷰,거실샷시포함 내부특올수리  예쁜집,세안고 투자",
+      "price": "4억 2",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 14,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1839동매매4억 4,000아파트77A/59m², 3/19층, 남향즉시입주,올수리샷시포함,중문,최근화장실수리",
+      "price": "4억 4",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 15,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1833동월세7,000/130아파트104/84m², 1/19층, 남향현재샷시포함 올수리시공중, 화단이 넓어좋으며 어린이 또는 노약자가정추천",
+      "price": null,
+      "area": null,
+      "floor": "19층",
+      "deal_type": "월세",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 16,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1833동매매5억 7,000아파트104/84m², 15/19층, 남향추천, 전체샷시포함 화장실까지 A급 특올수리에 관리까지 잘된집",
+      "price": "5억 7",
+      "area": null,
+      "floor": "19층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인반달극동 1842동매매2억 6,000아파트55/41m², 4/15층, 동향17. 외부샤시포함전체특올수리, 초역세, 수도권용이. 세안고",
+      "price": "2억 6",
+      "area": null,
+      "floor": "15층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T15:04:02.444Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 16,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1394_20250718_000405.png"
+  }
+}

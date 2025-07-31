@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-17T23:42:50.281684",
+    "complex_id": "1321"
+  },
+  "basic_info": {
+    "complex_id": "1321",
+    "source_url": "https://new.land.naver.com/complexes/1321",
+    "extracted_at": "2025-07-17T23:42:45.333240",
+    "url": "https://new.land.naver.com/complexes/1321?ms=37.482796,127.051051,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T14:42:43.093Z",
+    "complexId": "1321"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인현대2차 210동전세9억아파트106A/84m², 5/9층, 남동향32 전세 남향 주인거주 특올수리 전망최고",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인현대2차 210동전세9억아파트106A/84m², 5/9층, 남동향32,공동환영,주인직접,특올수리,튜인뷰,구룡초.중,양재천,자연친화적",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 2,
+      "selector": ".item_link",
+      "text": "집주인현대2차 211동전세11억아파트195/165m², 1/9층, 남향일부 수리 지원 I 양재천 전용출입문 I 넓은구조 59p",
+      "price": "11억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인현대2차 211동전세11억아파트195/165m², 1/9층, 남동향층간소음걱정뚝 도배,칠해줌 오래거주가능 양재천이코앞",
+      "price": "11억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "현대2차 210동전세9억아파트106A/84m², 5/9층, 남서향32  특올수리,귀한전세,양재천변, 전망최고,즉시입주가능",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 6,
+      "selector": ".item_link",
+      "text": "현대2차 210동매매32억 5,000아파트106A/84m², 7/9층, 남서향32매매 재건축추진중 지분18.5p 양재천공원숲세권",
+      "price": "32억 5",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "현대2차 210동전세9억아파트106A/84m², 4/9층, 남서향계단식 I 거실확장 인테리어 I 양재천 특권 I 구룡초 전학 전화주세요",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.348Z"
+    },
+    {
+      "index": 53,
+      "selector": "[class*=\"item\"]",
+      "text": "집주인현대2차 210동전세9억아파트106A/84m², 5/9층, 남동향32 전세 남향 주인거주 특올수리 전망최고매경부동산 제공현대공인중개사사무소확인매물 25.07.17.집주인현대2차 210동전세9억아파트106A/84m², 5/9층, 남동향32,공동환영,주인직접,특올수리,튜인뷰,구룡초.중,양재천,자연친화적부동산뱅크 제공(단지내)윤공인중개사사무소확인매물 25.07.17.집주인현대2차 211동전세11억아파트195/165m², 1/9층, 남향일부 수리 지원 I 양재천 전용출입문 I 넓은구조 59p매경부동산 제공경남공인중개사사무소확인매물 2",
+      "price": "9억",
+      "area": null,
+      "floor": "9층",
+      "deal_type": "전세",
+      "extracted_at": "2025-07-17T14:42:45.349Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1321_20250717_234250.png"
+  }
+}

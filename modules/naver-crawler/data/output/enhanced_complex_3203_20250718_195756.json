@@ -1,0 +1,108 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T19:57:56.394088",
+    "complex_id": "3203"
+  },
+  "basic_info": {
+    "complex_id": "3203",
+    "source_url": "https://new.land.naver.com/complexes/3203",
+    "extracted_at": "2025-07-18T19:57:52.107014",
+    "url": "https://new.land.naver.com/complexes/3203?ms=37.50368,126.88582,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-18T10:57:50.405Z",
+    "complexId": "3203"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 2,000아파트79A/59m², 3/21층, 남동향급매물 특올수리 채광우수 빠른입주가 미래초 더블역세권",
+      "price": "6억 2",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 1,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 4,000아파트79A/59m², 4/21층, 남동향5년전 샷시포함 올수리, 전세안고, 신도림 구로역세권",
+      "price": "6억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 3,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 4,000아파트79A/59m², 18/21층, 남향기본 ,입주협의",
+      "price": "6억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 5,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 2,000아파트79A/59m², 3/21층, 남향급매매,즉시입주가능",
+      "price": "6억 2",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 8,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 4,000아파트79A/59m², 18/21층, 남동향급매.기본집 조망.채광좋아요  빠른입주가능  신도림역구로역 도보이용",
+      "price": "6억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 9,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매7억 8,000아파트111/84m², 9/21층, 남동향급매 입주협의 수리되서 집상태 좋아요",
+      "price": "7억 8",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 13,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매7억 7,000아파트111/84m², 고/21층, 남동향",
+      "price": "7억 7",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    },
+    {
+      "index": 19,
+      "selector": ".item_link",
+      "text": "집주인신도림일신건영 101동매매6억 4,000아파트79A/59m², 4/21층, 남향샷시포함올수리,전세안고갭투자,구로역세권,백화점,마트,은행,생활권최상",
+      "price": "6억 4",
+      "area": null,
+      "floor": "21층",
+      "deal_type": "매매",
+      "extracted_at": "2025-07-18T10:57:52.116Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 8,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_3203_20250718_195756.png"
+  }
+}

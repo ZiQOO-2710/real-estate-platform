@@ -1,0 +1,88 @@
+{
+  "crawler_info": {
+    "version": "2.0 Enhanced",
+    "crawl_method": "stealth_mode",
+    "crawled_at": "2025-07-18T01:32:20.931883",
+    "complex_id": "1634"
+  },
+  "basic_info": {
+    "complex_id": "1634",
+    "source_url": "https://new.land.naver.com/complexes/1634",
+    "extracted_at": "2025-07-18T01:32:15.213128",
+    "url": "https://new.land.naver.com/complexes/1634?ms=37.457721,126.882251,17&a=APT:ABYG:JGC:PRE&e=RETAIL",
+    "title": "네이버페이 부동산",
+    "timestamp": "2025-07-17T16:32:13.574Z",
+    "complexId": "1634"
+  },
+  "current_listings": [
+    {
+      "index": 0,
+      "selector": "[class*=\"deal\"]",
+      "text": "거래방식거래방식전체매매전세월세단기임대중복선택이 가능합니다.전체",
+      "price": null,
+      "area": null,
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    },
+    {
+      "index": 3,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,338만주공8단지매매5.8억4.15억~8.5억전세3억2.1억~4.3억월세1백20만~1.1백면적82㎡63.64㎡ ~ 105.49㎡매매매물만 보기102개 매물이 있습니다.전세매물만 보기34개 매물이 있습니다.월세매물만 보기9개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "8억4",
+      "area": "82㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    },
+    {
+      "index": 4,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,352만주공6단지매매3.7억3.4억~6억전세1.7억1.7억~2.5억월세65만58만~95만면적52㎡52.55㎡ ~ 71㎡매매매물만 보기56개 매물이 있습니다.전세매물만 보기21개 매물이 있습니다.월세매물만 보기10개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "7억3",
+      "area": "52㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    },
+    {
+      "index": 5,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,664만동양1차매매7.5억5억~7.6억전세5.4억5.4억면적149㎡85.91㎡ ~ 149.89㎡매매매물만 보기44개 매물이 있습니다.전세매물만 보기5개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억5",
+      "area": "149㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    },
+    {
+      "index": 7,
+      "selector": "[class*=\"deal\"]",
+      "text": "2,314만주공14단지매매3.5억3.1억~7.9억전세2.3억1.5억~2.4억월세80만30만~85만면적50㎡50.4㎡ ~ 104.45㎡매매매물만 보기128개 매물이 있습니다.전세매물만 보기23개 매물이 있습니다.월세매물만 보기26개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "5억3",
+      "area": "50㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    },
+    {
+      "index": 8,
+      "selector": "[class*=\"deal\"]",
+      "text": "1,701만각산매매5.3억4.8억~5.5억면적103㎡103.09㎡ ~ 103.09㎡매매매물만 보기13개 매물이 있습니다.단지정보시세/실거래가",
+      "price": "3억4",
+      "area": "103㎡",
+      "floor": null,
+      "deal_type": "매매",
+      "extracted_at": "2025-07-17T16:32:15.229Z"
+    }
+  ],
+  "transaction_history": [],
+  "statistics": {
+    "total_listings": 6,
+    "total_transactions": 0,
+    "data_quality": "enhanced"
+  },
+  "files": {
+    "screenshot": "data/output/enhanced_screenshot_1634_20250718_013220.png"
+  }
+}
