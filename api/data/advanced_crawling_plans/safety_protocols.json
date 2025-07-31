@@ -1,0 +1,41 @@
+{
+  "detection_prevention": {
+    "ip_rotation": {
+      "interval": 50,
+      "method": "automatic",
+      "fallback_vpn": "secondary"
+    },
+    "request_patterns": {
+      "random_delays": [
+        2000,
+        3000,
+        4000,
+        5000
+      ],
+      "user_agents": [
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36",
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36"
+      ],
+      "headers_variation": true
+    },
+    "rate_limiting": {
+      "max_concurrent": 4,
+      "requests_per_minute": 25,
+      "burst_protection": true
+    }
+  },
+  "emergency_procedures": {
+    "detection_response": {
+      "immediate_stop": true,
+      "vpn_switch": true,
+      "cooldown_period": "30 minutes",
+      "retry_strategy": "exponential_backoff"
+    },
+    "monitoring": {
+      "success_rate_threshold": 0.9,
+      "error_rate_alert": 0.1,
+      "performance_tracking": true
+    }
+  }
+}
