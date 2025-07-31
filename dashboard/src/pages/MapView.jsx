@@ -29,13 +29,31 @@ import { LocationOn, Home, AttachMoney, Refresh, Map as MapIcon, Close, Trending
 // API 훅 및 유틸리티
 import { 
   useMolitCoordinates,
-  useIntegratedComplexDetails
+  useIntegratedComplexDetails,
+  useSupabaseMapMarkers,
+  apiRequest
 } from '../utils/api'
 import { useQueryClient } from 'react-query'
 
 // 컴포넌트
 import RegionTreeSelect from '../components/RegionTreeSelect'
 import { getRegionCoords } from '../data/regions'
+
+// 강남역 중심 좌표 및 반경 설정
+const GANGNAM_CENTER = {
+  lat: 37.4979,
+  lng: 127.0276
+}
+const RADIUS_KM = 3 // 3km 반경
+
+// 3km 반경을 위도/경도 범위로 계산 (대략적)
+const DEGREE_PER_KM = 0.009 // 1km ≈ 0.009도
+const BOUNDS = {
+  north: GANGNAM_CENTER.lat + (RADIUS_KM * DEGREE_PER_KM),
+  south: GANGNAM_CENTER.lat - (RADIUS_KM * DEGREE_PER_KM),
+  east: GANGNAM_CENTER.lng + (RADIUS_KM * DEGREE_PER_KM),
+  west: GANGNAM_CENTER.lng - (RADIUS_KM * DEGREE_PER_KM)
+}
 
 const MapView = () => {
   const queryClient = useQueryClient()
@@ -49,8 +67,9 @@ const MapView = () => {
   const [regionDialogOpen, setRegionDialogOpen] = useState(false)
   const [selectedTab, setSelectedTab] = useState(0)
   const [householdFilter, setHouseholdFilter] = useState('all')
-  const [currentZoomLevel, setCurrentZoomLevel] = useState(8)
+  const [currentZoomLevel, setCurrentZoomLevel] = useState(4) // 강남역 중심 확대
   const [openInfoWindow, setOpenInfoWindow] = useState(null)
+  const [mapBounds, setMapBounds] = useState(null) // 지도 현재 보이는 영역
   
   // 지역별 데이터 필터링을 위한 API 호출 파라미터
   const coordinateParams = {
@@ -58,7 +77,24 @@ const MapView = () => {
     limit: 100
   }
   
-  // MOLIT 좌표 데이터 사용
+  // Supabase PostGIS 데이터 사용 (React Query 훅) - 강남역 3km 반경 제한
+  const supabaseParams = {
+    limit: 100,
+    zoom_level: currentZoomLevel,
+    bounds: JSON.stringify(BOUNDS), // 강남역 3km 반경 경계
+    ...(selectedRegion && { region: selectedRegion })
+  }
+  
+  const { 
+    data: supabaseResponse, 
+    isLoading: supabaseLoading, 
+    isError: supabaseError,
+    refetch: refetchSupabaseData
+  } = useSupabaseMapMarkers(supabaseParams)
+  
+  const supabaseData = supabaseResponse?.data || []
+
+  // MOLIT 좌표 데이터 (백업용)
   const { 
     data: molitCoordinatesData, 
     isLoading: coordinatesLoading, 
@@ -75,11 +111,62 @@ const MapView = () => {
     enabled: !!selectedComplex?.complexId
   })
 
-  // 좌표 데이터 파싱
-  const coordinateData = React.useMemo(() => {
-    if (!molitCoordinatesData?.data) return []
+  // 강남역 3km 반경 계산 함수
+  const isWithinGangnamRadius = (lat, lng) => {
+    // 하버사인 공식으로 정확한 거리 계산
+    const R = 6371 // 지구 반지름 (km)
+    const dLat = (lat - GANGNAM_CENTER.lat) * Math.PI / 180
+    const dLng = (lng - GANGNAM_CENTER.lng) * Math.PI / 180
+    const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+              Math.cos(GANGNAM_CENTER.lat * Math.PI / 180) * Math.cos(lat * Math.PI / 180) *
+              Math.sin(dLng/2) * Math.sin(dLng/2)
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a))
+    const distance = R * c
+    return distance <= RADIUS_KM
+  }
+
+  // 지도 bounds 업데이트 함수
+  const updateMapBounds = (mapInstance) => {
+    if (!mapInstance || !window.kakao) return
     
-    return molitCoordinatesData.data.map((item, index) => {
+    try {
+      const bounds = mapInstance.getBounds()
+      const sw = bounds.getSouthWest() // 남서쪽 좌표
+      const ne = bounds.getNorthEast() // 북동쪽 좌표
+      
+      const newBounds = {
+        south: sw.getLat(),
+        west: sw.getLng(),
+        north: ne.getLat(),
+        east: ne.getLng()
+      }
+      
+      setMapBounds(newBounds)
+      console.log('🗺️ 지도 bounds 업데이트:', newBounds)
+    } catch (error) {
+      console.error('❌ 지도 bounds 업데이트 실패:', error)
+    }
+  }
+
+  // 좌표가 현재 지도 영역 내에 있는지 확인
+  const isWithinMapBounds = (lat, lng) => {
+    if (!mapBounds) return true // bounds가 없으면 모든 데이터 표시
+    
+    return lat >= mapBounds.south && 
+           lat <= mapBounds.north && 
+           lng >= mapBounds.west && 
+           lng <= mapBounds.east
+  }
+
+  // 좌표 데이터 파싱 (Supabase 우선, MOLIT 백업) - 강남역 3km 반경 필터링
+  const coordinateData = React.useMemo(() => {
+    const primaryData = supabaseData.length > 0 ? supabaseData : (molitCoordinatesData?.data || [])
+    if (!primaryData.length) return []
+    
+    console.log('📊 데이터 소스:', supabaseData.length > 0 ? 'Supabase PostGIS' : 'MOLIT SQLite')
+    console.log('🔍 원본 데이터:', primaryData.length, '개')
+    
+    const processedData = primaryData.map((item, index) => {
       // 좌표 파싱
       let coordinates = null
       if (item.latitude && item.longitude) {
@@ -90,46 +177,73 @@ const MapView = () => {
       }
       
       return {
-        id: item.id || `molit-${index}`,
-        apartment_name: item.apartment_name || '단지명 없음',
-        region_name: item.region_name || item.sido_name || '지역정보없음',
+        id: item.id || `supabase-${index}`,
+        apartment_name: item.name || item.apartment_name || '단지명 없음',
+        region_name: item.region_name || item.sido || '지역정보없음',
         legal_dong: item.legal_dong || item.dong || '',
         coordinates,
         deal_type: item.deal_type || '매매',
-        deal_amount: item.deal_amount || 0,
+        deal_amount: item.avg_deal_amount || item.deal_amount || item.avg_price || 0,
         area: item.area || item.area_exclusive || 0,
         floor: item.floor || '',
-        deal_date: item.deal_date || '',
-        completion_year: item.completion_year || null,
+        deal_date: item.last_deal_date || item.deal_date || item.latest_transaction_date || '',
+        completion_year: item.completion_year || item.construction_year || null,
         total_households: item.total_households || null,
         total_buildings: item.total_buildings || null,
-        source: 'molit'
+        transaction_count: item.transaction_count || 0,
+        source: supabaseData.length > 0 ? 'supabase' : 'molit'
       }
-    }).filter(item => item.coordinates && 
-                     item.coordinates.lat && 
-                     item.coordinates.lng &&
-                     item.coordinates.lat >= 33.0 && 
-                     item.coordinates.lat <= 39.0 &&
-                     item.coordinates.lng >= 124.0 && 
-                     item.coordinates.lng <= 132.0)
-  }, [molitCoordinatesData])
+    }).filter(item => {
+      // 기본 좌표 유효성 검사
+      if (!item.coordinates || !item.coordinates.lat || !item.coordinates.lng) return false
+      
+      // 한국 내 좌표 범위 검사
+      if (item.coordinates.lat < 33.0 || item.coordinates.lat > 39.0 ||
+          item.coordinates.lng < 124.0 || item.coordinates.lng > 132.0) return false
+      
+      // 강남역 3km 반경 내 검사
+      return isWithinGangnamRadius(item.coordinates.lat, item.coordinates.lng)
+    })
+    
+    console.log('🎯 강남역 3km 반경 필터링 완료:', processedData.length, '개 단지')
+    return processedData
+  }, [supabaseData, molitCoordinatesData])
+
+  // 지도에서 현재 보이는 영역 내의 단지만 필터링
+  const visibleCoordinateData = React.useMemo(() => {
+    if (!coordinateData || !mapBounds) return coordinateData
+    
+    const visibleData = coordinateData.filter(item => {
+      if (!item.coordinates) return false
+      return isWithinMapBounds(item.coordinates.lat, item.coordinates.lng)
+    })
+    
+    console.log('👀 지도 보이는 영역 필터링:', coordinateData.length, '→', visibleData.length, '개 단지')
+    return visibleData
+  }, [coordinateData, mapBounds])
 
   // 카카오맵 초기화
   useEffect(() => {
-    if (!window.kakao || !window.kakao.maps) {
-      setMapError('카카오맵 스크립트를 로드할 수 없습니다.')
-      setMapLoading(false)
-      return
-    }
+    // 카카오맵 API 로딩 대기
+    const initializeMap = () => {
+      if (!window.kakao || !window.kakao.maps) {
+        console.log('카카오맵 API 대기 중...')
+        setTimeout(initializeMap, 100)
+        return
+      }
 
-    window.kakao.maps.load(() => {
       try {
         const container = mapRef.current
-        if (!container) return
+        if (!container) {
+          console.log('지도 컨테이너를 찾을 수 없습니다.')
+          return
+        }
 
+        console.log('✅ 카카오맵 초기화 시작')
+        
         const options = {
-          center: new window.kakao.maps.LatLng(37.5665, 126.9780), // 서울시청
-          level: 8,
+          center: new window.kakao.maps.LatLng(GANGNAM_CENTER.lat, GANGNAM_CENTER.lng), // 강남역
+          level: 4, // 더 확대된 레벨로 설정 (3km 반경 적절한 확대)
           mapTypeId: window.kakao.maps.MapTypeId.ROADMAP
         }
 
@@ -137,18 +251,51 @@ const MapView = () => {
         setMap(mapInstance)
         setMapLoading(false)
 
+        console.log('✅ 카카오맵 초기화 완료')
+
+        // 초기 bounds 설정
+        updateMapBounds(mapInstance)
+
         // 줌 레벨 변경 이벤트
         window.kakao.maps.event.addListener(mapInstance, 'zoom_changed', () => {
           const level = mapInstance.getLevel()
           setCurrentZoomLevel(level)
+          updateMapBounds(mapInstance) // bounds 업데이트
+        })
+
+        // 지도 중심 이동 이벤트
+        window.kakao.maps.event.addListener(mapInstance, 'center_changed', () => {
+          updateMapBounds(mapInstance) // bounds 업데이트
+        })
+
+        // 지도 드래그 종료 이벤트
+        window.kakao.maps.event.addListener(mapInstance, 'dragend', () => {
+          updateMapBounds(mapInstance) // bounds 업데이트
         })
 
       } catch (error) {
-        console.error('카카오맵 초기화 실패:', error)
+        console.error('❌ 카카오맵 초기화 실패:', error)
         setMapError(`카카오맵 초기화 실패: ${error.message}`)
         setMapLoading(false)
       }
-    })
+    }
+
+    // 초기화 함수 호출
+    initializeMap()
+
+    // cleanup 함수 (컴포넌트 언마운트 시 이벤트 리스너 제거)
+    return () => {
+      if (map && window.kakao && window.kakao.maps && window.kakao.maps.event) {
+        try {
+          window.kakao.maps.event.removeListener(map, 'zoom_changed')
+          window.kakao.maps.event.removeListener(map, 'center_changed')
+          window.kakao.maps.event.removeListener(map, 'dragend')
+          console.log('🧹 카카오맵 이벤트 리스너 정리 완료')
+        } catch (error) {
+          console.warn('⚠️ 이벤트 리스너 정리 중 오류:', error)
+        }
+      }
+    }
   }, [])
 
   // 마커 생성
@@ -161,7 +308,7 @@ const MapView = () => {
 
     const newMarkers = []
 
-    coordinateData.slice(0, 50).forEach((complexData, index) => {
+    coordinateData.slice(0, 100).forEach((complexData, index) => { // 강남역 3km 반경이므로 더 많은 마커 표시
       try {
         if (!complexData.coordinates || !complexData.coordinates.lat || !complexData.coordinates.lng) {
           return
@@ -273,34 +420,39 @@ const MapView = () => {
         }
       }
     } else if (map && !regionName && window.kakao) {
-      const moveLatLon = new window.kakao.maps.LatLng(37.5665, 126.9780)
+      const moveLatLon = new window.kakao.maps.LatLng(GANGNAM_CENTER.lat, GANGNAM_CENTER.lng)
       map.setCenter(moveLatLon)
-      map.setLevel(8)
+      map.setLevel(4) // 강남역 중심 적절한 레벨
     }
   }
 
-  // 지도 새로고침
+  // 지도 새로고침 - 강남역 중심으로 초기화
   const handleMapRefresh = () => {
     if (map && window.kakao) {
-      const moveLatLon = new window.kakao.maps.LatLng(37.4979, 127.0276) // 강남역
+      const moveLatLon = new window.kakao.maps.LatLng(GANGNAM_CENTER.lat, GANGNAM_CENTER.lng)
       map.setCenter(moveLatLon)
-      map.setLevel(4)
+      map.setLevel(4) // 강남역 중심 확대 레벨
       setSelectedRegion('')
       setSelectedComplex(null)
+      console.log('🎯 지도 초기화: 강남역 중심 3km 반경')
     }
   }
 
   const hasNoData = selectedRegion && coordinateData && coordinateData.length === 0
+  const hasNoVisibleData = mapBounds && visibleCoordinateData && visibleCoordinateData.length === 0
 
   return (
     <Box sx={{ flexGrow: 1 }}>
       {/* 헤더 */}
       <Box sx={{ mb: 3 }}>
         <Typography variant="h4" component="h1" gutterBottom>
-          🗺️ 지도 보기
+          🗺️ 지도 보기 - 강남역 중심
         </Typography>
         <Typography variant="body1" color="text.secondary">
-          단지별 위치와 매물 정보를 지도에서 확인하세요
+          강남역 기준 반경 3km 내 아파트단지 정보를 확인하세요
+        </Typography>
+        <Typography variant="body2" color="success.main" sx={{ mt: 1 }}>
+          📍 최적화된 로딩: 강남역 ({GANGNAM_CENTER.lat.toFixed(4)}, {GANGNAM_CENTER.lng.toFixed(4)}) 반경 {RADIUS_KM}km
         </Typography>
       </Box>
 
@@ -315,22 +467,25 @@ const MapView = () => {
               <Button
                 variant="contained"
                 size="small"
-                title="MOLIT 국토부 실거래 데이터"
+                title={supabaseData.length > 0 ? "Supabase PostGIS 실거래 데이터" : "MOLIT 국토부 실거래 데이터"}
                 style={{ 
-                  backgroundColor: '#ff5722',
-                  borderColor: '#ff5722',
+                  backgroundColor: supabaseData.length > 0 ? '#2e7d32' : '#ff5722',
+                  borderColor: supabaseData.length > 0 ? '#2e7d32' : '#ff5722',
                   color: 'white'
                 }}
               >
-                MOLIT 국토부 ({coordinateData?.length || 0})
-                {coordinatesLoading && (
+                {supabaseData.length > 0 ? 'Supabase PostGIS' : 'MOLIT'} ({coordinateData?.length || 0})
+                <sup style={{ color: '#a5d6a7', fontSize: '10px' }}>
+                  {supabaseData.length > 0 ? '🚀' : '📊'}
+                </sup>
+                {(supabaseLoading || coordinatesLoading) && (
                   <CircularProgress size={12} style={{ marginLeft: '4px', color: 'white' }} />
                 )}
               </Button>
               <Button
                 variant="text"
                 size="small"
-                onClick={refetchCoordinates}
+                onClick={() => supabaseData.length > 0 ? refetchSupabaseData() : refetchCoordinates()}
                 style={{ fontSize: '10px', minWidth: '40px' }}
               >
                 새로고침
@@ -392,6 +547,18 @@ const MapView = () => {
           </Typography>
           <Typography variant="body2" sx={{ mt: 1 }}>
             다른 지역을 선택하거나 전체 보기로 변경해보세요.
+          </Typography>
+        </Alert>
+      )}
+
+      {/* 지도 보이는 영역에 데이터 없음 안내 */}
+      {!hasNoData && hasNoVisibleData && (
+        <Alert severity="warning" sx={{ mb: 2 }}>
+          <Typography variant="body1">
+            현재 지도에서 <strong>보이는 영역</strong>에는 아파트단지가 없습니다.
+          </Typography>
+          <Typography variant="body2" sx={{ mt: 1 }}>
+            지도를 이동하거나 줌아웃하여 다른 지역을 확인해보세요.
           </Typography>
         </Alert>
       )}
@@ -506,15 +673,22 @@ const MapView = () => {
               {/* 지역별 통계 */}
               <Box sx={{ mb: 2 }}>
                 <Typography variant="h6" gutterBottom>
-                  📊 {selectedRegion || '전체'} 지역 현황
+                  📊 강남역 3km 반경 {selectedRegion ? `(${selectedRegion})` : ''} 현황
                 </Typography>
                 <Stack direction="row" spacing={1} flexWrap="wrap" sx={{ mb: 2 }}>
                   <Chip 
                     icon={<Home />} 
-                    label={`단지 ${coordinateData?.length || 0}개`}
+                    label={`전체 ${coordinateData?.length || 0}개`}
                     size="small" 
                     color="primary" 
                     variant="outlined"
+                  />
+                  <Chip 
+                    icon={<LocationOn />} 
+                    label={`보이는 영역 ${visibleCoordinateData?.length || 0}개`}
+                    size="small" 
+                    color="secondary" 
+                    variant="filled"
                   />
                   <Chip 
                     icon={<AttachMoney />} 
@@ -536,14 +710,14 @@ const MapView = () => {
               {!selectedComplex && (
                 <Box sx={{ flexGrow: 1, overflow: 'hidden', display: 'flex', flexDirection: 'column' }}>
                   <Typography variant="h6" gutterBottom sx={{ display: 'flex', alignItems: 'center', gap: 1 }}>
-                    🏢 아파트단지 목록
-                    <Chip label={coordinateData?.length || 0} size="small" color="primary" />
+                    👀 지도 보이는 단지 목록
+                    <Chip label={visibleCoordinateData?.length || 0} size="small" color="secondary" />
                   </Typography>
                   
                   <Box sx={{ flexGrow: 1, overflow: 'auto', pr: 1 }}>
-                    {coordinateData?.length > 0 ? (
+                    {visibleCoordinateData?.length > 0 ? (
                       <Stack spacing={1}>
-                        {coordinateData.slice(0, 20).map((complex, index) => (
+                        {visibleCoordinateData.slice(0, 20).map((complex, index) => (
                           <Card 
                             key={`${complex.id || complex.apartment_name || 'unknown'}-${index}`} 
                             variant="outlined" 
@@ -628,10 +802,10 @@ const MapView = () => {
                           </Card>
                         ))}
                         
-                        {coordinateData.length > 20 && (
+                        {visibleCoordinateData.length > 20 && (
                           <Box sx={{ textAlign: 'center', py: 1 }}>
                             <Typography variant="caption" color="text.secondary">
-                              상위 20개 단지만 표시됨 (전체 {coordinateData.length}개)
+                              상위 20개 단지만 표시됨 (보이는 영역 {visibleCoordinateData.length}개)
                             </Typography>
                           </Box>
                         )}

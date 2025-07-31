@@ -471,6 +471,56 @@ export const useMolitCoordinatesSummary = () => {
   })
 }
 
+// Supabase PostGIS API 함수들
+export const fetchSupabaseMapMarkers = async (params = {}) => {
+  console.log('🚀 Supabase 지도 마커 API 호출:', params)
+  
+  const { data } = await api.get('/supabase-map/markers', { params })
+  
+  console.log('📍 Supabase 마커 응답:', {
+    status: 'success',
+    dataCount: data?.data?.length || 0,
+    hasData: !!data?.data,
+    firstItem: data?.data?.[0] || null,
+    apiResponseTime: data?.meta?.execution_time_ms || 'unknown'
+  })
+  
+  return data
+}
+
+export const fetchSupabaseMapStats = async (params = {}) => {
+  const { data } = await api.get('/supabase-map/stats', { params })
+  return data
+}
+
+export const fetchSupabaseComplexTransactions = async (name, params = {}) => {
+  const { data } = await api.get(`/supabase-map/complex/${encodeURIComponent(name)}/transactions`, { params })
+  return data
+}
+
+// Supabase React Query 훅들
+export const useSupabaseMapMarkers = (params = {}) => {
+  return useQuery(['supabaseMapMarkers', params], () => fetchSupabaseMapMarkers(params), {
+    keepPreviousData: true,
+    retry: 2,
+    staleTime: 2 * 60 * 1000, // 2분간 fresh
+  })
+}
+
+export const useSupabaseMapStats = (params = {}) => {
+  return useQuery(['supabaseMapStats', params], () => fetchSupabaseMapStats(params), {
+    retry: 2,
+    staleTime: 5 * 60 * 1000, // 5분간 fresh
+  })
+}
+
+export const useSupabaseComplexTransactions = (name, params = {}) => {
+  return useQuery(['supabaseComplexTransactions', name, params], () => fetchSupabaseComplexTransactions(name, params), {
+    enabled: !!name,
+    retry: 2,
+  })
+}
+
 // apiRequest 객체 추가 (새로운 훅에서 사용)
 export const apiRequest = {
   get: (url, config = {}) => api.get(url, config),
