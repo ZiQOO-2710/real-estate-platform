@@ -2,200 +2,164 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
-## Development Commands
-
-### Environment Setup
-```bash
-# Install all dependencies for monorepo
-npm run install:all
-
-# Start development servers (frontend + backend)
-npm run dev
-
-# Start individual services
-npm run dev:backend    # Backend only (port 4000)
-npm run dev:frontend   # Frontend only (port 3000)
-```
-
-### Building and Testing
-```bash
-# Build entire platform
-npm run build
-
-# Type checking across all packages
-npm run type-check
-
-# Run all tests
-npm test
-
-# Run tests for specific packages
-npm run test:backend
-npm run test:frontend
-```
-
-### Code Quality
-```bash
-# Lint and format all code
-npm run lint
-npm run format
-
-# Individual package linting
-npm run lint:backend
-npm run lint:frontend
-```
-
-### Data Crawling Operations
-```bash
-# Start crawling processes
-npm run crawl:start
-
-# Stop crawling processes  
-npm run crawl:stop
-
-# Manual crawling scripts (Python)
-python start_crawler_safe.py          # Safe crawler with VPN support
-python nationwide_dong_crawler.py     # Nationwide regional crawler
-python ultimate_crawler.py            # Ultimate crawler with 100% save efficiency
-```
-
-### Database Operations
-```bash
-# Database management
-npm run db:migrate     # Run migrations
-npm run db:seed        # Seed with initial data
-npm run db:reset       # Reset database
-npm run backup:db      # Backup database
-```
-
-### Docker Operations
-```bash
-npm run docker:build  # Build containers
-npm run docker:up     # Start containers
-npm run docker:down   # Stop containers
-```
-
 ## Architecture Overview
 
-### High-Level System Architecture
-This is a **real estate market analysis platform** consisting of multiple data collection and analysis systems:
+This is a real estate platform built with a multi-module architecture consisting of:
 
-1. **Web Platform** (React + Node.js): Interactive map-based dashboard for real estate developers
-2. **Data Collection System** (Python): Multi-source crawling infrastructure for real estate data
-3. **Database Layer** (SQLite + PostgreSQL): Handles both raw crawled data and processed analytics
+1. **Data Collection Layer** (`modules/naver-crawler/`): Python-based web scraping system using Playwright
+2. **API Layer** (`api/`): Node.js/Express REST API server  
+3. **Frontend Layer** (`dashboard/`): React/Vite-based web dashboard
+4. **Database**: Multiple SQLite databases with unified integration system
 
-### Key Data Flow
-```
-External APIs � Python Crawlers � Raw Databases � Processing � Web Platform � Analytics Dashboard
-```
+The system processes real estate data from web scraping, stores it across multiple databases, and provides unified APIs for frontend consumption. The core data flow is: Web Scraping → SQLite → REST API → React Dashboard.
 
-### Database Architecture
-The system uses a **multi-database approach**:
+## Database Architecture
 
-**Local SQLite Databases:**
-- `molit_complete_data.db`: Government real estate transaction data (977K+ records)
-- `real_estate_crawling_backup.db`: Latest Naver real estate complex information (875 complexes)
-- `real_estate_crawling_complete_20250725_111816.db`: Backup snapshot
+- **Primary Databases**: Multiple SQLite databases with specific purposes
+  - `modules/naver-crawler/data/naver_real_estate.db`: Main apartment complex and listing data (1,440 complexes)
+  - `api/data/master_integrated_real_estate.db`: Unified master database
+  - `molit_complete_data.db`: 977,388 MOLIT transaction records with coordinate mapping
+- **API Database Connection**: Located in `api/src/config/database.js` with multi-database support
+- **Unified Integration**: `DataIntegrationService.js` handles multi-database coordination with intelligent matching
+- **High-Performance APIs**: Specialized MOLIT routes achieving 7-17ms response times
 
-**Supabase Cloud Databases:**
-- **Project 1 (heatmxifhwxppprdzaqf)**: 
-  - `apartment_complexes`: 1,139 complexes with detailed metadata
-  - `apartment_transactions`: 70,500 transaction records
-- **Project 2 (dbwcpgdpjeiezwgbijcj)**:
-  - `apt_master_info`: 46,539 apartment complexes with government codes
+## Key Components
 
-**PostgreSQL**: Main application database for web platform
+### Data Crawler (`modules/naver-crawler/`)
+- **Enhanced Crawler**: `core/enhanced_naver_crawler.py` - Main stealth-mode crawler with anti-detection
+- **Duplicate Detection**: `core/duplicate_detector.py` - Intelligent deduplication system (80-90% removal rate)
+- **Full Scale Processing**: `core/full_scale_crawler.py` - Batch processing for large-scale data collection
+- **Output**: JSON files stored in `data/output/` with pattern `enhanced_complex_{id}_{timestamp}.json`
 
-### Crawler System Architecture
-The crawling system is designed for **large-scale, resilient data collection**:
+### API Server (`api/`)
+- Express.js server with rate limiting, CORS, compression
+- **Multi-Database Routes**: 
+  - `/api/naver/*` - Naver crawled data (1,440 complexes)
+  - `/api/molit/*` - MOLIT transaction data (977k records)
+  - `/api/molit-ultra-fast/*` - Optimized MOLIT coordinate data (7-17ms responses)
+  - `/api/integrated/*` - Unified database queries
+- **Database Integration**: Custom SQLite connection manager in `Database` class
+- **Korean Text Search**: FTS5 virtual tables with URL encoding support
 
-- **VPN Integration**: Automatic IP rotation using NordVPN for anti-detection
-- **Multi-Regional Crawling**: Supports nationwide data collection with regional partitioning
-- **Database Management**: `UltimateDatabaseManager` provides 100% save efficiency with retry logic
-- **Stealth Technology**: Enhanced browser fingerprinting protection
+### Frontend Dashboard (`dashboard/`)
+- React 18 with Material-UI components and Vite build system
+- **Key Features**: Complex/listing search, Kakao Maps visualization, region tree selection
+- **Multi-Database Support**: Dynamic switching between Naver, MOLIT, and integrated data sources
+- **API Integration**: React Query for data fetching with extended timeouts for large datasets
+- **State Management**: React hooks and context
 
-### Frontend Architecture (React + TypeScript)
-- **State Management**: Redux Toolkit for global state
-- **Mapping**: Leaflet.js/Kakao Maps for interactive visualizations
-- **UI Framework**: Material-UI v5 with custom theming
-- **Data Visualization**: Chart.js and Recharts for analytics
+## Common Development Commands
 
-### Backend Architecture (Node.js + Express)
-- **API Layer**: RESTful APIs with TypeScript
-- **Database Integration**: SQLite3 for data persistence
-- **Middleware Stack**: CORS, helmet, rate limiting, validation
-- **Real-time Features**: WebSocket support for live data updates
-
-## Critical Development Considerations
-
-### Crawler Development
-When working with the crawler modules:
-- Always use `start_crawler_safe.py` for production crawling to ensure proper encoding and error handling
-- The `nationwide_dong_crawler.py` supports incremental regional expansion (currently 875 complexes collected, last run: 2025-07-25)
-- VPN functionality requires NordVPN configuration in `modules/naver-crawler/utils/vpn_manager.py`
-- Database connections use pooling and retry mechanisms through `UltimateDatabaseManager`
-
-### Critical Data Integration Issue
-The platform currently has **data fragmentation across 5 sources** causing API connectivity issues:
-- **Total Data**: 1,047,888+ transaction records, 48,553+ apartment complexes
-- **Integration Required**: Address standardization and deduplication needed for unified API endpoints
-- **Priority**: Resolve data consolidation before expanding crawling operations
-
-### Data Processing Pipeline
-The system follows a **staged data processing approach**:
-1. Raw data collection into separate databases
-2. Data validation and deduplication
-3. Integration into unified analytics database
-4. Real-time serving through web APIs
-
-### Monorepo Structure
-This is a **workspace-based monorepo** with:
-- Root package.json handles orchestration
-- Backend and frontend are independent npm workspaces
-- Shared tooling configuration (ESLint, Prettier, TypeScript)
-- Docker composition for full-stack deployment
-
-### Performance and Scalability
-- **Database Optimization**: WAL mode, connection pooling, transaction queuing
-- **Crawler Rate Limiting**: Built-in delays and VPN rotation to prevent blocking
-- **Frontend Performance**: Code splitting, lazy loading, memoization patterns
-- **Caching Strategy**: Redis integration planned for API response caching
-
-### Data Sources Integration
-The platform integrates multiple Korean real estate data sources:
-- **MOLIT (m�P��)**: Official transaction records
-- **Naver Real Estate**: Property listings and complex information
-- **Regional APIs**: Municipality-specific data sources
-
-Each data source has dedicated crawler modules with specific anti-detection strategies and data parsing logic.
-
-## Environment Configuration
-
-### Required Environment Variables
-- `NODE_ENV`: development/production
-- `DATABASE_URL`: PostgreSQL connection string
-- `REDIS_URL`: Redis connection string (for caching)
-- `NAVER_API_KEY`: Naver Maps API key
-- `KAKAO_API_KEY`: Kakao Maps API key
-- `SUPABASE_URL`: Supabase project URL
-- `SUPABASE_ANON_KEY`: Supabase anonymous key
-
-### Development Dependencies
-- Node.js 18+ and npm 8+
-- Python 3.8+ for crawler modules
-- PostgreSQL 14+ with PostGIS extension
-- Redis 7.0 for caching layer
-- Docker and Docker Compose for containerization
-
-## Deployment and Operations
-
-### Staging Deployment
+### Full Development Environment
 ```bash
-npm run deploy:staging
+# Root level commands (from package.json)
+npm run dev                    # Start both API and dashboard concurrently
+npm run dev:api               # Start API server only (port 4000)
+npm run dev:dashboard         # Start dashboard only (port 3000) 
+npm run install:all           # Install dependencies for all modules
+npm run build                 # Build all components
+npm run test                  # Run all tests
+npm run lint                  # Lint all code
 ```
 
-### Production Deployment
+### API Server (`api/`)
 ```bash
-npm run deploy:production
+cd api
+npm start              # Start production server
+npm run dev           # Start development server with nodemon
+npm run lint          # Run ESLint
+npm test              # Run Jest tests
 ```
 
-The platform is designed for containerized deployment with separate services for web application and crawler infrastructure.
+### Dashboard Frontend (`dashboard/`)
+```bash
+cd dashboard
+npm run dev           # Start development server (Vite)
+npm run build         # Build for production
+npm run preview       # Preview production build
+npm run lint          # Run ESLint
+npm test              # Run Vitest
+```
+
+### Data Crawler
+```bash
+cd modules/naver-crawler
+pip install -r requirements.txt
+playwright install chromium
+# Run individual crawler
+python -c "import asyncio; from core.enhanced_naver_crawler import crawl_enhanced_single; asyncio.run(crawl_enhanced_single('https://new.land.naver.com/complexes/2592'))"
+```
+
+## Multi-Database System
+
+The platform integrates multiple data sources with intelligent coordination:
+- **Naver Data**: 1,440 apartment complexes with detailed listing information
+- **MOLIT Data**: 977,388 real estate transaction records with precise coordinate mapping
+- **Integration Layer**: `DataIntegrationService.js` provides automated coordinate matching and data unification using multi-stage matching (coordinates → addresses → name similarity)
+- **Performance Optimization**: Ultra-fast APIs with specialized indexes and caching
+
+## Data Integration Architecture
+
+The `DataIntegrationService.js` implements sophisticated data unification:
+- **Multi-stage Matching**: Coordinates (1.0 confidence) → Jibun Address (0.9) → Road Address (0.85) → Name Similarity (0.8+)
+- **Coordinate Validation**: Korean geography bounds (33-39°N, 124-132°E) with 11m threshold
+- **String Similarity**: Jaro-Winkler algorithm for complex name matching
+- **Data Quality Gates**: Automated validation for duplicates, orphaned records, and price anomalies
+
+## Search Implementation
+
+The platform implements comprehensive Korean text search:
+- **URL Encoding**: Korean characters must be URL-encoded for API requests
+- **Database Optimization**: FTS5 virtual tables and compound indexes for performance
+- **Multi-field Search**: Searches across complex names, descriptions, and IDs
+- **Region Tree**: Hierarchical region selection with nationwide coverage
+- **Cross-Database Search**: Unified search across Naver and MOLIT datasets
+
+## Map Integration
+
+- **Kakao Maps API**: Integration with coordinate display and interaction
+- **Multi-Source Markers**: Support for Naver, MOLIT, and integrated data sources with source-specific styling
+- **Performance**: Viewport-based loading with 50 marker limit for optimal rendering
+- **Coordinate Validation**: Strict validation for Korean geography bounds
+- **Interactive Features**: Map markers with detailed info windows and complex selection
+
+## Development Environment Requirements
+
+- **Node.js**: >= 18.0.0
+- **Python**: >= 3.11 for crawler modules
+- **Browsers**: Chromium for Playwright (auto-installed)
+- **Memory**: 8GB+ recommended for crawler operations and large dataset processing
+- **Disk**: 2GB+ for data storage (multiple databases)
+
+## Important Implementation Details
+
+- **Korean Text Handling**: All Korean text in URLs must be properly encoded using encodeURIComponent
+- **Database Connection**: Custom `Database` class in `api/src/config/database.js` handles multiple SQLite connections
+- **Rate Limiting**: API has built-in rate limiting (100 requests per 15 minutes)
+- **Stealth Crawling**: Crawler implements human-like behavior patterns to avoid detection
+- **Error Recovery**: Built-in retry mechanisms and automatic backup systems
+- **Performance**: MOLIT coordinate APIs achieve 7-17ms response times through optimized queries
+- **Data Integration**: Automatic coordinate matching between Naver and MOLIT datasets with confidence scoring
+
+## Testing and Quality
+
+- **API Tests**: Jest with Supertest for API endpoint testing
+- **Frontend Tests**: Vitest for React component testing
+- **Linting**: ESLint configuration for both frontend and backend
+- **Pre-commit Hooks**: Automated linting and formatting with Husky and lint-staged
+
+## File Structure Patterns
+
+- **Crawler Output**: `enhanced_complex_{complex_id}_{timestamp}.json`
+- **Database Files**: Located in `modules/naver-crawler/data/` and `api/data/`
+- **API Routes**: RESTful naming in `api/src/routes/` with specialized MOLIT performance routes
+- **React Components**: PascalCase in `dashboard/src/components/` and `dashboard/src/pages/`
+
+## Data Sources and Scale
+
+Current data scale and performance:
+- **Naver Complexes**: 1,440 apartment complexes with listing data
+- **MOLIT Transactions**: 977,388 real estate transaction records with coordinate mapping
+- **Integrated Database**: Unified coordinate and complex information with intelligent matching
+- **Performance**: Sub-20ms API response times for coordinate data with specialized caching
+- **Coverage**: Nationwide apartment complex data with regional filtering and hierarchical search
