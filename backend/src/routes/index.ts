@@ -4,7 +4,7 @@ import jsonApiRoutes from './json-api';
 
 const router: Router = Router();
 
-// JSON 기반 API 라우트 (PostgreSQL 대안)
+// JSON 기반 API 라우트 (46,807개 통합 단지 데이터)
 router.use('/json-api', jsonApiRoutes);
 
 // 레거시 API 라우트 (SQLite 기반)
@@ -18,7 +18,7 @@ router.get('/health', (req, res) => {
     timestamp: new Date().toISOString(),
     uptime: process.uptime(),
     routes: [
-      '/api/v1/json-api - JSON 기반 부동산 API (PostgreSQL 대안)',
+      '/api/v1/json-api - JSON 기반 부동산 API (46,807개 통합 단지)',
       '/api/v1/apartments - 레거시 SQLite API'
     ]
   });
