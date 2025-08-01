@@ -45,7 +45,8 @@
       "mcp__ide__executeCode",
       "Bash(echo:*)",
       "Bash(git checkout:*)",
-      "Bash(claude mcp:*)"
+      "Bash(claude mcp:*)",
+      "Bash(git pull:*)"
     ],
     "deny": []
   }
