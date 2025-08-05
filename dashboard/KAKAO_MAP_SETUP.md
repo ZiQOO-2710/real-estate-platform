@@ -33,7 +33,7 @@
 VITE_KAKAO_MAP_API_KEY=your_javascript_key_here
 
 # 기타 설정
-VITE_API_BASE_URL=http://localhost:4000
+VITE_API_BASE_URL=http://localhost:3001
 VITE_APP_ENV=development
 ```
 
