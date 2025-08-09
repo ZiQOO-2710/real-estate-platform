@@ -224,13 +224,21 @@ const MapView = () => {
 
   // 카카오맵 초기화
   useEffect(() => {
-    // 카카오맵 API 로딩 대기
     const initializeMap = () => {
-      if (!window.kakao || !window.kakao.maps) {
-        console.log('카카오맵 API 대기 중...')
-        setTimeout(initializeMap, 100)
+      if (!window.kakao) {
+        console.error('❌ 카카오맵 API 스크립트가 로드되지 않았습니다.')
+        setError('카카오맵을 불러올 수 없습니다. 페이지를 새로고침해주세요.')
         return
       }
+
+      // autoload=false이므로 수동으로 로드
+      window.kakao.maps.load(() => {
+        console.log('✅ 카카오맵 API 로드 완료')
+        loadMap()
+      })
+    }
+
+    const loadMap = () => {
 
       try {
         const container = mapRef.current
@@ -275,7 +283,7 @@ const MapView = () => {
 
       } catch (error) {
         console.error('❌ 카카오맵 초기화 실패:', error)
-        setMapError(`카카오맵 초기화 실패: ${error.message}`)
+        setError(`카카오맵 초기화 실패: ${error.message}`)
         setMapLoading(false)
       }
     }

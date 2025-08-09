@@ -7,7 +7,7 @@ const rateLimit = require('express-rate-limit');
 require('dotenv').config();
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3003;
 
 // Environment validation
 const NODE_ENV = process.env.NODE_ENV || 'development';
@@ -119,6 +119,7 @@ const molitMapRoutes = require('./routes/molit-map');
 const supabaseMapRoutes = require('./routes/supabase-map');
 const realEstateTransactionsRoutes = require('./routes/real-estate-transactions');
 const coordinatesMapRoutes = require('./routes/coordinates-map');
+const jsonApiRoutes = require('./routes/json-api');
 
 app.use('/api/complexes', complexesRoutes);
 app.use('/api/listings', listingsRoutes);
@@ -139,6 +140,7 @@ app.use('/api/molit-map', molitMapRoutes);
 app.use('/api/supabase-map', supabaseMapRoutes);
 app.use('/api/real-estate-transactions', realEstateTransactionsRoutes);
 app.use('/api/coordinates-map', coordinatesMapRoutes);
+app.use('/api/json-complexes', jsonApiRoutes);
 
 // 루트 경로
 app.get('/', (req, res) => {

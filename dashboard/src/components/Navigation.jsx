@@ -140,12 +140,12 @@ const Navigation = () => {
           
           <Box sx={{ display: 'flex', flexDirection: 'column', gap: 1 }}>
             <Box sx={{ display: 'flex', justifyContent: 'space-between' }}>
-              <Typography variant="body2">단지 수</Typography>
-              <Typography variant="body2" fontWeight="bold">1,430</Typography>
+              <Typography variant="body2">통합 단지</Typography>
+              <Typography variant="body2" fontWeight="bold" color="#64b5f6">46,807</Typography>
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'space-between' }}>
-              <Typography variant="body2">매물 수</Typography>
-              <Typography variant="body2" fontWeight="bold">40K+</Typography>
+              <Typography variant="body2">데이터 소스</Typography>
+              <Typography variant="body2" fontWeight="bold">4개</Typography>
             </Box>
             <Box sx={{ display: 'flex', justifyContent: 'space-between' }}>
               <Typography variant="body2">거래 기록</Typography>

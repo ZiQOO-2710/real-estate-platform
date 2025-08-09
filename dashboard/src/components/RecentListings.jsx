@@ -98,25 +98,26 @@ const RecentListings = () => {
                 </Box>
               }
               secondary={
-                <Box>
-                  <Typography variant="body2" color="text.secondary">
+                <>
+                  <span style={{ color: '#666' }}>
                     📍 {listing.region || '서울시'}
-                  </Typography>
-                  <Box sx={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', mt: 0.5 }}>
-                    <Typography variant="body2" fontWeight="bold" color="primary.main">
+                  </span>
+                  <br />
+                  <span style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', marginTop: '4px' }}>
+                    <span style={{ fontWeight: 'bold', color: '#1976d2' }}>
                       {listing.price || listing.price_numeric ? 
                         `${listing.price || (listing.price_numeric / 10000).toFixed(1)}억` : 
                         '가격 정보 없음'
                       }
-                    </Typography>
-                    <Typography variant="caption" color="text.secondary">
+                    </span>
+                    <span style={{ fontSize: '0.75rem', color: '#999' }}>
                       {listing.created_at ? 
                         new Date(listing.created_at).toLocaleDateString() : 
                         '날짜 정보 없음'
                       }
-                    </Typography>
-                  </Box>
-                </Box>
+                    </span>
+                  </span>
+                </>
               }
             />
           </ListItem>

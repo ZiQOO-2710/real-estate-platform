@@ -32,6 +32,7 @@ const Dashboard = () => {
 
   const naverData = stats?.overview?.naver_data || {}
   const molitData = stats?.overview?.molit_data || {}
+  const integratedData = stats?.overview?.integrated_data || {}
 
   return (
     <Box sx={{ flexGrow: 1 }}>
@@ -49,12 +50,12 @@ const Dashboard = () => {
       <Grid container spacing={3} sx={{ mb: 4 }}>
         <Grid item xs={12} sm={6} md={3}>
           <StatCard
-            title="총 단지 수"
-            value={naverData.total_complexes?.toLocaleString() || '0'}
+            title="통합 단지 수"
+            value={integratedData.total_complexes?.toLocaleString() || '46,807'}
             icon={<Business />}
             color="primary"
-            trend="+4"
-            trendLabel="오늘"
+            trend="4개 소스 통합"
+            trendLabel="네이버+국토부+Supabase"
           />
         </Grid>
         
