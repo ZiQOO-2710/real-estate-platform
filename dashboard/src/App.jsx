@@ -5,8 +5,6 @@ import { Home } from '@mui/icons-material'
 
 // 컴포넌트 lazy loading으로 성능 최적화
 const Dashboard = React.lazy(() => import('./pages/Dashboard'))
-const ComplexList = React.lazy(() => import('./pages/ComplexList'))
-const ListingList = React.lazy(() => import('./pages/ListingList'))
 const MapView = React.lazy(() => import('./pages/MapView'))
 const Navigation = React.lazy(() => import('./components/Navigation'))
 const AdminApp = React.lazy(() => import('./AdminApp'))
@@ -113,8 +111,6 @@ const App = memo(() => {
           <Suspense fallback={<LoadingSpinner />}>
             <Routes>
               <Route path="/" element={<Dashboard />} />
-              <Route path="/complexes" element={<ComplexList />} />
-              <Route path="/listings" element={<ListingList />} />
               <Route path="/map" element={<MapView />} />
               <Route path="/admin/*" element={<AdminApp />} />
             </Routes>

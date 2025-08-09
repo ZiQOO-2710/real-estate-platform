@@ -14,7 +14,6 @@ import {
 } from '@mui/material'
 import {
   Dashboard as DashboardIcon,
-  Business as BusinessIcon,
   Home as HomeIcon,
   Map as MapIcon,
   Analytics as AnalyticsIcon,
@@ -26,8 +25,6 @@ const drawerWidth = 240
 
 const menuItems = [
   { text: '대시보드', icon: <DashboardIcon />, path: '/' },
-  { text: '단지 목록', icon: <BusinessIcon />, path: '/complexes' },
-  { text: '매물 목록', icon: <HomeIcon />, path: '/listings' },
   { text: '지도 보기', icon: <MapIcon />, path: '/map' },
   { text: '관리자 모드', icon: <AdminPanelSettings />, path: '/admin', isAdmin: true },
   { text: '통계 분석', icon: <AnalyticsIcon />, path: '/analytics' },
